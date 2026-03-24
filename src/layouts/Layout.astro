@@ -1,4 +1,8 @@
 ---
+import TopBar from '../components/TopBar.astro';
+import Navigation from '../components/Navigation.astro';
+import Footer from '../components/Footer.astro';
+
 interface Props {
   title: string;
 }
@@ -7,7 +11,7 @@ const { title } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="tr">
   <head>
     <meta charset="UTF-8" />
     <meta name="description" content="Alper Mumcu'nun kişisel web sitesi" />
@@ -17,23 +21,33 @@ const { title } = Astro.props;
     <title>{title}</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   </head>
   <body>
-    <slot />
+    <TopBar />
+    <Navigation />
+    <main class="page-content">
+      <slot />
+    </main>
+    <Footer />
   </body>
 </html>
+
 <style is:global>
   :root {
-    --accent: 136, 58, 234;
-    --accent-light: 224, 204, 250;
-    --accent-dark: 49, 10, 101;
+    --bg-main: 222 47% 11%;
+    --bg-card: 222 47% 15%;
+    --accent: 250 84% 64%;
+    --accent-light: 250 84% 85%;
     --accent-gradient: linear-gradient(
-      45deg,
-      rgb(var(--accent)),
-      rgb(var(--accent-light)) 30%,
-      white 60%
+      135deg,
+      hsl(var(--accent)),
+      hsl(var(--accent-light))
     );
+    --text-main: 210 40% 98%;
+    --text-muted: 215 20% 65%;
+    --glass: rgba(30, 41, 59, 0.7);
+    --glass-border: rgba(255, 255, 255, 0.08);
   }
   * {
     box-sizing: border-box;
@@ -42,23 +56,45 @@ const { title } = Astro.props;
   }
   html {
     font-family: 'Inter', system-ui, sans-serif;
-    background: #0f172a;
-    color: #f8fafc;
+    background: hsl(var(--bg-main));
+    color: hsl(var(--text-main));
+    scroll-behavior: smooth;
   }
   body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+    overflow-x: hidden;
   }
-  code {
-    font-family:
-      Menlo,
-      Monaco,
-      Lucida Console,
-      Libertation Mono,
-      DejaVu Sans Mono,
-      Bitstream Vera Sans Mono,
-      Courier New,
-      monospace;
+  h1, h2, h3, h4, .font-outfit {
+    font-family: 'Outfit', sans-serif;
+  }
+  .page-content {
+    flex: 1;
+  }
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+  }
+  .glass {
+    background: var(--glass);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--glass-border);
+  }
+  .text-gradient {
+    background: var(--accent-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  section {
+    padding: 5rem 0;
+  }
+  @media (max-width: 768px) {
+    section {
+      padding: 3rem 0;
+    }
   }
 </style>

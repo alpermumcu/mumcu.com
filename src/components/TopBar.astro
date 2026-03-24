@@ -1,0 +1,80 @@
+---
+---
+
+<div class="top-bar">
+	<div class="top-bar-container">
+		<div class="contact-info">
+			<a href="tel:+905333246898"><span>📞</span> +90 533 324 6898</a>
+			<a href="mailto:randevu@mumcu.com"><span>✉️</span> randevu@mumcu.com</a>
+		</div>
+		<div class="social-icons">
+			<a href="https://www.facebook.com/pg/mumcucom/about/" target="_blank" rel="noopener">Facebook</a>
+			<a href="https://www.instagram.com/dr.alpermumcu/?hl=tr" target="_blank" rel="noopener">Instagram</a>
+			<a href="/online-randevu" class="btn-randevu">Randevu Al</a>
+		</div>
+	</div>
+</div>
+
+<style>
+	.top-bar {
+		background: hsl(var(--bg-main) / 0.8);
+		backdrop-filter: blur(8px);
+		border-bottom: 1px solid var(--glass-border);
+		font-size: 0.8rem;
+		padding: 0.5rem 1rem;
+		color: hsl(var(--text-muted));
+	}
+	.top-bar-container {
+		max-width: 1200px;
+		margin: 0 auto;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+	.contact-info {
+		display: flex;
+		gap: 1.5rem;
+	}
+	.contact-info a {
+		color: hsl(var(--text-muted));
+		text-decoration: none;
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		transition: color 0.2s;
+	}
+	.contact-info a:hover {
+		color: hsl(var(--text-main));
+	}
+	.social-icons {
+		display: flex;
+		gap: 1.5rem;
+		align-items: center;
+	}
+	.social-icons a {
+		color: hsl(var(--text-muted));
+		text-decoration: none;
+		transition: color 0.2s;
+	}
+	.social-icons a:hover {
+		color: hsl(var(--text-main));
+	}
+	.btn-randevu {
+		background: var(--accent-gradient);
+		color: white !important;
+		padding: 0.35rem 1rem;
+		border-radius: 8px;
+		font-weight: 600;
+		box-shadow: 0 4px 12px hsl(var(--accent) / 0.3);
+	}
+	.btn-randevu:hover {
+		transform: translateY(-1px);
+		box-shadow: 0 6px 15px hsl(var(--accent) / 0.4);
+	}
+
+	@media (max-width: 768px) {
+		.contact-info {
+			display: none;
+		}
+	}
+</style>

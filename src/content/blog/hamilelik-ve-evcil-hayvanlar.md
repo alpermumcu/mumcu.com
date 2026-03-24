@@ -1,0 +1,29 @@
+---
+title: Hamilelik ve evcil hayvanlar
+pubDate: '2014-03-17T23:27:45'
+slug: hamilelik-ve-evcil-hayvanlar
+category:
+  - Makaleler
+tags: []
+status: publish
+originalUrl: https://www.mumcu.com/hamilelik-ve-evcil-hayvanlar/
+---
+
+Modern toplumlarda olduğu gibi ülkemizde de evcil havyan besleme alışkanlığı giderek yaygınlık kazanmakta. Pek çok insan evinde kedi, köpek, kuş gibi hayvanlarla beraber yaşamakta. Bu durum evdeki bireylerin sağlığı açısından herhangi bir kaygı yaratmamakla birlikte bireylerden bir hamile kaldığında ya da hamile kalmayı planladığında bu sevimli dostlarımız kadının ve bebeğin sağlığı açısından ciddi endişelere neden olabilmekte.
+
+Evde beslediğiniz evcil hayvanınız eğer düzenli veteriner kontrolünden geçiyorsa, belirli hastalıklara karşı düzenli olarak ilaçlarını alıyor ve aşılanıyorsa sizin ve bebeğiniz için tehlike oluşturması uzak bir olasılıktır. Ancak tehlikeyi en aza indirmek yine sizin elinizdedir. Alacağınız bazı basit önlemler sizi ve bebeğinizi koruyacaktır.
+
+**Kedi:** Eğer evinizde bir kedi besliyorsanız bu minik dostunuzun sizin için yaratacağı en büyük risk toksoplazmozis adı verilen hastalıktır. Bir parazit enfeksiyonu olan toksoplazmozis düşüklere neden olabileceği gibi bebeğin beyninde de bazı hasarlara yol açabilir. Kediler toksoplazmozis için taşıyıcı vektör görevi görürler. Kendileri hasta olmadan parazitin kendi vücutlarında üremesini sağlarlar. Üreyen parazitler kedinin dışkısı ile atılır ve bu dışkı ile temas eden insanlara bulaşır. Genelde ticari mamalar ile beslenen ve dışarısı ile temas etmeyen kedilerde toksoplazmosiz olmaz. Ancak kediniz bu paraziti çiğ et, ya da çiğ süt yoluyla da alabilir.  
+Toksoplazmosis parazitini bulaştıran tek etken kediler değildir. Çiğ et ya da uygun şekilde yıkanmamış çiğ sebze ve meyveler özellikle salata yoluyla da toksoplazmosize yakalanabilisiniz. Kedi tırmalaması da çoğu zaman sorun yaratmamakla birlikte cildin bütünlüğü bozulduğundan enfeksiyonlara karşı duyarlı hale gelir. Kedi tırmaladığında mutlaka zaman kaybetmeden tırmalanan yer sabun ile yıkanmalıdır.
+
+Eğer hamileyseniz ve evde bir kediniz varsa aşılarının mutlaka tamam olmasına dikkat edin. Kedinizin dışkısını yaptığı kumu günde 2 defa değiştirin ve değiştiriken mutlaka eldiven kullanın. Kedinizin kumunu değiştirdikten sonra mutlaka ellerinizi yıkayın. İdeal olan kedinizin kumunu sizin değil başka bir bireyin değiştirmesidir.
+
+**Köpek:** Köpeklerden insana gelebilecek en büyük risk kuduzdur. Sadece hamileler değil tüm bireyler bu ölümcül hastalığa karşı önlem almalı tanımadıkları köpekler ile temas etmekten kaçınmalıdır. Ayrıca köpeklerden insanlara kist hidatik ve diğer bazı parazit enfeksiyonları bulaşabilir. Hamilelik bu durumlar açısından fazladan bir risk oluşturmaz. Ortaya çıkan bu enfeksiyonlar da bebeğiniz açısından ciddi bir risk artışına neden olmaz.
+
+**Kuşlar:** Kuşlar evlerde beslenmek üzere en fazla tercih edilen hayvanlardır. Teorik olarak kuşlardan insanlara bazı hastalıkların bulaşması mümkün olmakla birlikte pratikte pek rastlanılan bir durum değildir. Kuşlardan insanlara en fazla bulaşma olasılığı olan hastalık Psittakozis’tir.Hemen hemen her kuş türü klamidya psittaci adı verilen bir mikroorganizmanın neden olduğu bu hastalığın taşıyıcısı olabilmekle birlikte en sık papağanlardan bulaşır. Bugüne kadar hamilelikte görülen psittakozis enfeksiyonu sayısı son derece azdır. Genelde grip benzeri bulgular verir. Son dönemlerde hasta ya da ölü bir kuşla temas öyküsü olan bir hastada zaatürre bulguları saptandığında psittakozisten şüphelenilmelidir. Psittakozisin gebelikteki etkileri konusunda elde yeterli veri yoktur ancak kafesin temizlenmesi sırasında eldiven kullanılması, ve temizlik sonrası ellerin mutlaka yıkanması yeterlidir. Hamilelik evinizdeki kuşu başka bir yere göndermenizi gerektirmez.
+
+**Kemirgenler:** Son zamanlarda hamster ya da benzeri kemirgenlerin evde beslenmesi giderek popülarite kazanan bir alışkanlıktır. Genelde zararsız olan bu hayvanlar özellikle hamile kadınlar açısından risk taşırlar. Bu riskin adı Lenfositik Koriyomenenjit virüsüdür (LCMV) ve gelişmekte olan bebeği olumsuz yönde etkileyebilir. Erişkin bir insan bu virüsle karşılaştığında ya hiçbir belirti görülmez ya da hafif grip benzeri belirtiler ortaya çıkabilir. Ancak asıl tehlike bebek açısındandır. LCMV ile enfekte olan bebekte en sık görülen bulgu görme bozukluklarıdır. Bunun yanı sıra serabral palsi, zeka geriliği ve sara benzeri nöbetler gibi sinir sistemini etkileyen bozukluklar olabilir. İlk kez 1933 yılında fark edilen bu virüsü insanlar enfekte kemirgen ile tames ederek ya da enfekte hayvanın bulunduğu ortamdaki havayı soluyarak alabilirler. Bu nedenle hamile olan kadınların evlerinden ve bulundukarı ortamlardan bu tür kemirgenleri uzaklaştırmaları uygun olur.
+
+**Sürüngenler:** Son zamanlarda bazı çevrelerde popülarite kazanan bir başka alışkanlık da iguana gibi sürüngenlerin evcil hayvan olarak beslenmesidir. Tüm sürüngenlerde olduğu gibi minyatür dinazorlara benzeyen iguanaların da barsak sistemi içinde salmonella adı verilen bir bakteri normalde bulunur.Salmonella genelde ishal, bulantı, kusma ve halsizlik gibi belirtilerle kendini gösteren ve çoğu zaman basit önlemler ile tedavi edilebilen besin zehirlenmelerine neden olur. Yaşlılar, bağışıklık sistemi sorunu olanlar, 5 yaşından küçük çocuklar ve hamile kadınlar ise salmonella enfeksiyonu açısından yüksek risk grubunu oluşturular. Salmonella enfeksiyonu hamile kadınlarda ciddi enfeksiyonlara ve düşüklere neden olabilir. Hamile kadınların iguana ve benzeri sürüngenler ile temas etmemesi uygun olur.
+
+Tüm bunların yanısıra her türlü hayvan ve bunların tüyü insanlarda alerjik yakınmalara neden olabilir.

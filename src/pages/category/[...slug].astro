@@ -1,0 +1,125 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Sidebar from '../../components/Sidebar.astro';
+import { getCollection } from 'astro:content';
+import { categories } from '../../data/categories';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('blog');
+	
+	const paths = [
+		...categories.map((cat) => ({
+			params: { slug: cat.slug },
+			props: { categoryName: cat.name },
+		})),
+		{ params: { slug: 'hamilelik/hafta-hafta-gebelik' }, props: { categoryName: 'Hafta Hafta Gebelik' } },
+		{ params: { slug: 'hamilelik/hamilelik-haberleri' }, props: { categoryName: 'Haberler | Hamilelik' } },
+		{ params: { slug: 'infertilite/tup-bebek-haber' }, props: { categoryName: 'Tüp Bebek Haber' } },
+	];
+
+	return paths;
+}
+
+const { slug } = Astro.params;
+const { categoryName } = Astro.props;
+
+const categoryPosts = (await getCollection('blog'))
+	.filter((post) => post.data.category?.includes(categoryName))
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<Layout title={categoryName}>
+	<div class="content-wrapper container">
+    <main class="category-content">
+      <header class="category-header">
+        <h1 class="text-gradient">{categoryName}</h1>
+        <p class="subtitle">"{categoryName}" kategorisindeki tüm yazılar.</p>
+      </header>
+
+      <div class="posts-grid">
+        {categoryPosts.map((post) => (
+          <a href={`/blog/${post.slug}/`} class="post-card glass">
+            <div class="post-card-content">
+              <h3>{post.data.title} &rarr;</h3>
+              <time datetime={post.data.pubDate.toISOString()}>
+                {post.data.pubDate.toLocaleDateString('tr-TR', {
+                  year: 'numeric',
+                  month: 'long',
+                  day: 'numeric',
+                })}
+              </time>
+            </div>
+          </a>
+        ))}
+      </div>
+    </main>
+
+    <Sidebar />
+  </div>
+</Layout>
+
+<style>
+  .content-wrapper {
+    margin: 8rem auto 4rem;
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    gap: 4rem;
+  }
+	.category-header {
+		margin-bottom: 4rem;
+	}
+	h1 {
+		font-size: 3.5rem;
+		margin-bottom: 1rem;
+	}
+	.subtitle {
+		color: hsl(var(--text-muted));
+		font-size: 1.2rem;
+	}
+	.posts-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+		gap: 2rem;
+	}
+	.post-card {
+		padding: 2rem;
+		text-decoration: none;
+		transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+		border-radius: 24px;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	}
+	.post-card:hover {
+		transform: translateY(-5px);
+		background: hsl(var(--accent) / 0.1);
+		border-color: hsl(var(--accent) / 0.3);
+		box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2);
+	}
+	.post-card h3 {
+		color: hsl(var(--text-main));
+		font-size: 1.4rem;
+		margin-bottom: 1.5rem;
+		line-height: 1.4;
+		font-family: 'Outfit', sans-serif;
+	}
+	time {
+		color: hsl(var(--accent-light));
+		font-size: 0.9rem;
+		font-weight: 600;
+		text-transform: uppercase;
+	}
+
+  @media (max-width: 1024px) {
+    .content-wrapper {
+      grid-template-columns: 1fr;
+      margin-top: 6rem;
+    }
+  }
+	@media (max-width: 768px) {
+		h1 {
+			font-size: 2.5rem;
+		}
+	}
+</style>
+

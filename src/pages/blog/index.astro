@@ -1,0 +1,62 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Card from '../../components/Card.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+
+<Layout title="Blog | Alper Mumcu">
+	<main>
+		<h1 class="text-gradient">Blog</h1>
+		<p class="description">Tüm yazılar ve paylaşımlar.</p>
+		<ul role="list" class="link-card-grid">
+			{posts.map((post) => (
+				<Card
+					href={`/blog/${post.slug}/`}
+					title={post.data.title}
+					body={post.data.pubDate.toLocaleDateString('tr-TR', {
+						year: 'numeric',
+						month: 'long',
+						day: 'numeric',
+					})}
+				/>
+			))}
+		</ul>
+	</main>
+</Layout>
+
+<style>
+	main {
+		margin: auto;
+		padding: 3rem 1rem;
+		width: 800px;
+		max-width: calc(100% - 2rem);
+		color: white;
+		line-height: 1.6;
+	}
+	h1 {
+		font-size: 3rem;
+		font-weight: 800;
+		margin-bottom: 0.5em;
+	}
+	.text-gradient {
+		background-image: var(--accent-gradient);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		background-size: 400%;
+		background-position: 0%;
+	}
+	.description {
+		margin-bottom: 2rem;
+		color: #94a3b8;
+	}
+	.link-card-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
+		gap: 2rem;
+		padding: 0;
+	}
+</style>

@@ -1,0 +1,108 @@
+---
+const today = new Date();
+---
+
+<footer class="footer">
+	<div class="footer-container">
+		<div class="footer-grid">
+			<div class="footer-section">
+				<h3>İletişim</h3>
+				<p>Lotus Nişantaşı, Halaskargazi Cd. No:38-66</p>
+				<p>Kat: 5 Daire: 93, 34371 Şişli/İstanbul</p>
+				<p class="phone">Tel: 0(212) 219 12 02</p>
+				<p class="phone">Gsm: +90 533 324 6898</p>
+				<p class="email">E-posta: <a href="mailto:randevu@mumcu.com">randevu@mumcu.com</a></p>
+			</div>
+			
+			<div class="footer-section">
+				<h3>Çalışma Saatleri</h3>
+				<ul class="hours">
+					<li><span>Pazartesi – Cuma:</span> <span>10:00 – 18:30</span></li>
+					<li><span>Cumartesi:</span> <span>10:00 – 14:00</span></li>
+					<li><span>Pazar:</span> <span>Kapalı</span></li>
+				</ul>
+			</div>
+			
+			<div class="footer-section">
+				<h3>Sosyal Medya</h3>
+				<div class="social-links">
+					<a href="https://www.facebook.com/pg/mumcucom/about/" target="_blank" rel="noopener">Facebook</a>
+					<a href="https://tr.linkedin.com/in/alpermumcu" target="_blank" rel="noopener">LinkedIn</a>
+					<a href="https://www.instagram.com/dr.alpermumcu/?hl=tr" target="_blank" rel="noopener">Instagram</a>
+				</div>
+			</div>
+		</div>
+		
+		<div class="footer-bottom">
+			<p>&copy; {today.getFullYear()} Dr. Alper Mumcu. Tüm hakları saklıdır.</p>
+		</div>
+	</div>
+</footer>
+
+<style>
+	.footer {
+		background: #0f172a;
+		border-top: 1px solid rgba(255, 255, 255, 0.1);
+		padding: 4rem 1rem 2rem;
+		margin-top: auto;
+		color: #94a3b8;
+	}
+	.footer-container {
+		max-width: 1200px;
+		margin: 0 auto;
+	}
+	.footer-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+		gap: 3rem;
+		margin-bottom: 3rem;
+	}
+	h3 {
+		color: white;
+		font-size: 1.2rem;
+		margin-bottom: 1.5rem;
+		font-weight: 700;
+	}
+	p {
+		margin-bottom: 0.5rem;
+		font-size: 0.95rem;
+		line-height: 1.6;
+	}
+	.phone {
+		color: #cbd5e1;
+		font-weight: 500;
+	}
+	.email a {
+		color: #883aea;
+		text-decoration: none;
+	}
+	.hours {
+		list-style: none;
+		padding: 0;
+	}
+	.hours li {
+		display: flex;
+		justify-content: space-between;
+		margin-bottom: 0.5rem;
+		font-size: 0.95rem;
+	}
+	.social-links {
+		display: flex;
+		flex-direction: column;
+		gap: 0.75rem;
+	}
+	.social-links a {
+		color: #94a3b8;
+		text-decoration: none;
+		transition: color 0.2s;
+	}
+	.social-links a:hover {
+		color: white;
+	}
+	.footer-bottom {
+		border-top: 1px solid rgba(255, 255, 255, 0.05);
+		padding-top: 2rem;
+		text-align: center;
+		font-size: 0.85rem;
+	}
+</style>
