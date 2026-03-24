@@ -41,47 +41,52 @@ const currentPath = Astro.url.pathname;
 	.sidebar {
 		display: flex;
 		flex-direction: column;
-		gap: 2.5rem;
+		gap: 2rem;
 	}
 	.widget {
-		background: rgba(30, 41, 59, 0.5);
-		border: 1px solid rgba(255, 255, 255, 0.05);
-		border-radius: 12px;
-		padding: 1.5rem;
+		background: white;
+		border: 1px solid var(--glass-border);
+		border-radius: 20px;
+		padding: 2rem;
+		box-shadow: var(--shadow-sm);
 	}
 	h3 {
-		color: white;
-		font-size: 1.1rem;
-		margin-bottom: 1.25rem;
-		font-weight: 700;
+		color: hsl(var(--text-main));
+		font-size: 1.15rem;
+		margin-bottom: 1.5rem;
+		font-weight: 800;
+		font-family: 'Outfit', sans-serif;
 		position: relative;
-		padding-bottom: 0.75rem;
+		padding-bottom: 1rem;
+		border-bottom: 2px solid hsl(var(--accent) / 0.1);
 	}
 	h3::after {
 		content: '';
 		position: absolute;
-		bottom: 0;
+		bottom: -2px;
 		left: 0;
 		width: 40px;
 		height: 2px;
-		background: linear-gradient(90deg, #883aea, #da62c4);
+		background: var(--accent-gradient);
 	}
 	ul {
 		list-style: none;
 		padding: 0;
 		display: flex;
 		flex-direction: column;
-		gap: 0.75rem;
+		gap: 0.85rem;
 	}
 	li a {
-		color: #94a3b8;
+		color: hsl(var(--text-muted));
 		text-decoration: none;
-		font-size: 0.9rem;
-		transition: color 0.2s;
-		line-height: 1.4;
+		font-size: 0.95rem;
+		transition: all 0.2s;
+		line-height: 1.5;
 		display: block;
+		font-weight: 500;
 	}
 	li a:hover, li a.active {
-		color: white;
+		color: hsl(var(--accent));
+		transform: translateX(5px);
 	}
 </style>

@@ -13,13 +13,13 @@
     left: 2rem;
     width: 65px;
     height: 65px;
-    background-color: #25d366;
+    background-color: hsl(var(--whatsapp));
     color: white;
     border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
-    box-shadow: 0 10px 25px rgba(37, 211, 102, 0.4);
+    box-shadow: 0 10px 25px hsl(var(--whatsapp) / 0.4);
     z-index: 1000;
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     cursor: pointer;
@@ -36,19 +36,19 @@
     left: 0;
     width: 250px;
     background: white;
-    color: #1a1a1a;
-    padding: 1rem 1.25rem;
-    border-radius: 16px;
-    font-size: 0.85rem;
-    font-weight: 600;
-    line-height: 1.4;
-    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+    color: hsl(var(--text-main));
+    padding: 1.1rem 1.4rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 700;
+    line-height: 1.5;
+    box-shadow: var(--shadow-md);
     opacity: 0;
     visibility: hidden;
     transform: translateY(10px);
     transition: all 0.3s ease;
     pointer-events: none;
-    border: 1px solid rgba(0, 0, 0, 0.05);
+    border: 1px solid var(--glass-border);
   }
 
   .whatsapp-tooltip::after {
