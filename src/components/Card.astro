@@ -25,19 +25,20 @@ const { href, title, body } = Astro.props;
 		display: flex;
 		padding: 1px;
 		background: var(--glass-border);
-		border-radius: 16px;
-		transition: transform 0.3s ease, box-shadow 0.3s ease;
+		border-radius: 20px;
+		transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 		overflow: hidden;
+		box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.05), 0 2px 4px -2px rgb(0 0 0 / 0.05);
 	}
 	.link-card > a {
 		width: 100%;
 		text-decoration: none;
 		line-height: 1.4;
-		padding: 2rem;
-		border-radius: 15px;
+		padding: 2.5rem;
+		border-radius: 19px;
 		color: hsl(var(--text-main));
 		background: hsl(var(--bg-card));
-		transition: background 0.3s ease;
+		transition: all 0.3s ease;
 	}
 	h2 {
 		margin: 0;
@@ -47,22 +48,24 @@ const { href, title, body } = Astro.props;
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
+		font-weight: 700;
 	}
 	p {
 		margin-top: 1rem;
 		margin-bottom: 0;
 		color: hsl(var(--text-muted));
-		font-size: 1rem;
+		font-size: 1.05rem;
+		line-height: 1.6;
 	}
 	.link-card:hover {
-		transform: translateY(-5px);
-		box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
+		transform: translateY(-8px);
+		box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
 		background: var(--accent-gradient);
 	}
 	.link-card:hover a {
-		background: hsl(var(--bg-card) / 0.8);
+		background: hsl(var(--bg-card) / 0.95);
 	}
 	.link-card:hover h2 {
-		color: hsl(var(--accent-light));
+		color: hsl(var(--accent));
 	}
 </style>
