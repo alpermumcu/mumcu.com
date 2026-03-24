@@ -6,12 +6,11 @@ const today = new Date();
 	<div class="footer-container">
 		<div class="footer-grid">
 			<div class="footer-section">
-				<h3>İletişim</h3>
-				<p>Lotus Nişantaşı, Halaskargazi Cd. No:38-66</p>
-				<p>Kat: 5 Daire: 93, 34371 Şişli/İstanbul</p>
-				<p class="phone">Tel: 0(212) 219 12 02</p>
-				<p class="phone">Gsm: +90 533 324 6898</p>
-				<p class="email">E-posta: <a href="mailto:randevu@mumcu.com">randevu@mumcu.com</a></p>
+				<h3>İletişim Bilgileri</h3>
+				<p class="address">Lotus Nişantaşı, Halaskargazi Cd. No:38-66<br/>Kat: 5 Daire: 93, 34371 Şişli/İstanbul</p>
+				<p class="phone"><strong>Tel:</strong> <a href="tel:02122191202">0(212) 219 12 02</a></p>
+				<p class="phone"><strong>Gsm:</strong> <a href="tel:05333246898">0(533) 324 68 98</a></p>
+				<p class="email"><strong>E-posta:</strong> <a href="mailto:randevu@mumcu.com">randevu@mumcu.com</a></p>
 			</div>
 			
 			<div class="footer-section">
@@ -19,33 +18,34 @@ const today = new Date();
 				<ul class="hours">
 					<li><span>Pazartesi – Cuma:</span> <span>10:00 – 18:30</span></li>
 					<li><span>Cumartesi:</span> <span>10:00 – 14:00</span></li>
-					<li><span>Pazar:</span> <span>Kapalı</span></li>
+					<li><span>Pazar / Resmi Tatiller:</span> <span>Kapalı</span></li>
 				</ul>
 			</div>
 			
 			<div class="footer-section">
-				<h3>Sosyal Medya</h3>
-				<div class="social-links">
-					<a href="https://www.facebook.com/pg/mumcucom/about/" target="_blank" rel="noopener">Facebook</a>
-					<a href="https://tr.linkedin.com/in/alpermumcu" target="_blank" rel="noopener">LinkedIn</a>
-					<a href="https://www.instagram.com/dr.alpermumcu/?hl=tr" target="_blank" rel="noopener">Instagram</a>
+				<h3>Hızlı Bağlantılar</h3>
+				<div class="footer-links">
+					<a href="/dr-alper-mumcu">Dr. Alper Mumcu</a>
+					<a href="/online-randevu">Online Randevu</a>
+					<a href="/kvkk">KVKK Onam Formu</a>
+					<a href="/blog">Sağlık Kütüphanesi</a>
 				</div>
 			</div>
 		</div>
 		
 		<div class="footer-bottom">
-			<p>&copy; {today.getFullYear()} Dr. Alper Mumcu. Tüm hakları saklıdır.</p>
+			<p>&copy; {today.getFullYear()} Dr. Alper Mumcu. Tüm hakları saklıdır. <br/><small>Bu sitedeki bilgiler tıbbi danışmanlık yerine geçmez.</small></p>
 		</div>
 	</div>
 </footer>
 
 <style>
 	.footer {
-		background: #0f172a;
-		border-top: 1px solid rgba(255, 255, 255, 0.1);
-		padding: 4rem 1rem 2rem;
+		background: white;
+		border-top: 1px solid var(--glass-border);
+		padding: 6rem 1rem 3rem;
 		margin-top: auto;
-		color: #94a3b8;
+		color: hsl(var(--text-muted));
 	}
 	.footer-container {
 		max-width: 1200px;
@@ -53,28 +53,35 @@ const today = new Date();
 	}
 	.footer-grid {
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-		gap: 3rem;
-		margin-bottom: 3rem;
+		grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+		gap: 4rem;
+		margin-bottom: 4rem;
 	}
 	h3 {
-		color: white;
-		font-size: 1.2rem;
-		margin-bottom: 1.5rem;
-		font-weight: 700;
+		color: hsl(var(--text-main));
+		font-size: 1.25rem;
+		margin-bottom: 2rem;
+		font-weight: 800;
+		font-family: 'Outfit', sans-serif;
 	}
 	p {
+		margin-bottom: 0.75rem;
+		font-size: 1rem;
+		line-height: 1.7;
+	}
+	.address {
+		margin-bottom: 1.5rem;
+	}
+	.phone, .email {
 		margin-bottom: 0.5rem;
-		font-size: 0.95rem;
-		line-height: 1.6;
 	}
-	.phone {
-		color: #cbd5e1;
-		font-weight: 500;
-	}
-	.email a {
-		color: #883aea;
+	.phone a, .email a {
+		color: hsl(var(--text-main));
 		text-decoration: none;
+		transition: color 0.2s;
+	}
+	.phone a:hover, .email a:hover {
+		color: hsl(var(--accent));
 	}
 	.hours {
 		list-style: none;
@@ -83,26 +90,35 @@ const today = new Date();
 	.hours li {
 		display: flex;
 		justify-content: space-between;
-		margin-bottom: 0.5rem;
+		margin-bottom: 0.75rem;
 		font-size: 0.95rem;
+		border-bottom: 1px dashed var(--glass-border);
+		padding-bottom: 0.75rem;
 	}
-	.social-links {
+	.footer-links {
 		display: flex;
 		flex-direction: column;
-		gap: 0.75rem;
+		gap: 1rem;
 	}
-	.social-links a {
-		color: #94a3b8;
+	.footer-links a {
+		color: hsl(var(--text-muted));
 		text-decoration: none;
-		transition: color 0.2s;
+		transition: all 0.2s;
+		font-weight: 500;
 	}
-	.social-links a:hover {
-		color: white;
+	.footer-links a:hover {
+		color: hsl(var(--accent));
+		padding-left: 5px;
 	}
 	.footer-bottom {
-		border-top: 1px solid rgba(255, 255, 255, 0.05);
-		padding-top: 2rem;
+		border-top: 1px solid var(--glass-border);
+		padding-top: 3rem;
 		text-align: center;
-		font-size: 0.85rem;
+		font-size: 0.9rem;
+	}
+	small {
+		opacity: 0.6;
+		display: block;
+		margin-top: 0.5rem;
 	}
 </style>
