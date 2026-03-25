@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import CategoryCard from '../components/CategoryCard.astro';
 import FAQAccordion from '../components/FAQAccordion.astro';
 import { getCollection } from 'astro:content';
+import doctorPhoto from '../images/uploads/2020/08/alper-mumcu-photo.jpg';
 
 const posts = (await getCollection('blog'))
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
@@ -133,7 +134,7 @@ const faqItems = [
 					<div class="profile-image-container">
 						<div class="image-accent"></div>
 						<div class="profile-image">
-							<img src="/src/images/uploads/2020/08/alper-mumcu-photo.jpg" alt="Dr. Alper Mumcu" class="doctor-img" />
+							<img src={doctorPhoto.src} alt="Dr. Alper Mumcu" class="doctor-img" />
 						</div>
 					</div>
 				</div>
