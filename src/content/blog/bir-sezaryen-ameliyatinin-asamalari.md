@@ -3,7 +3,7 @@ title: Bir sezaryen ameliyatının aşamaları
 pubDate: '2014-03-20T18:04:25'
 slug: bir-sezaryen-ameliyatinin-asamalari
 category:
-  - Cerrahi İşlemler
+  - Gebelik & Doğum- Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/bir-sezaryen-ameliyatinin-asamalari/'

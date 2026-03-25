@@ -3,7 +3,7 @@ title: Hamilelik ve karın çatlakları
 pubDate: '2014-03-17T23:31:42'
 slug: hamilelik-ve-karin-catlaklari
 category:
-  - Cerrahi İşlemler
+  - Gebelik & Doğum- Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamilelik-ve-karin-catlaklari/'

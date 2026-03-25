@@ -3,7 +3,7 @@ title: Amniyotik band sendromu
 pubDate: '2014-03-16T03:26:17'
 slug: amniyotik-band-sendromu
 category:
-  - Cerrahi İşlemler
+  - Gebelik & Doğum- Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/amniyotik-band-sendromu/'

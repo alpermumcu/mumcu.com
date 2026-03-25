@@ -3,7 +3,7 @@ title: Hamilelikte dolgu yaptırmak güvenli midir?
 pubDate: '2014-03-17T23:43:38'
 slug: hamilelikte-dolgu-yaptirmak-guvenli-midir
 category:
-  - Cerrahi İşlemler
+  - Gebelik & Doğum- Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamilelikte-dolgu-yaptirmak-guvenli-midir/'

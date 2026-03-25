@@ -3,7 +3,7 @@ title: Sezaryen &#8211; genel bilgiler
 pubDate: '2014-03-20T17:58:51'
 slug: sezaryen-genel-bilgiler
 category:
-  - Cerrahi İşlemler
+  - Gebelik & Doğum- Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/sezaryen-genel-bilgiler/'

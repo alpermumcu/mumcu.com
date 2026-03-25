@@ -3,7 +3,7 @@ title: Gebelikte cilt değişiklikleri
 pubDate: '2014-03-15T17:16:56'
 slug: gebelikte-cilt-degisiklikleri
 category:
-  - Cerrahi İşlemler
+  - Gebelik & Doğum- Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/gebelikte-cilt-degisiklikleri/'
