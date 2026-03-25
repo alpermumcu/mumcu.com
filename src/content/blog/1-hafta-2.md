@@ -12,6 +12,8 @@ readingTime: 4
 
 # 1. Hafta: Hamilelik Yolculuğunun İlk Adımı
 
+*Son Güncelleme: 25 Mart 2026*
+
 Hamilelik, mucizevi bir yolculuktur ve teknik olarak bu yolculuk, aslında henüz gebe kalmadığınız bir dönemde başlar. Tıbbi literatürde ve gebelik hesaplamalarında, hamileliğin ilk günü olarak **Son Adet Tarihinizin (SAT) ilk günü** kabul edilir.
 
 ## Neden 1. Hafta Olarak Hesaplanır?
