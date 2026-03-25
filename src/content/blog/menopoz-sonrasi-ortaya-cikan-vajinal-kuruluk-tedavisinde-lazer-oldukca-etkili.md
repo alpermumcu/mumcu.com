@@ -1,6 +1,7 @@
 ---
 title: Menopoz sonrası ortaya çıkan Vajinal kuruluk tedavisinde lazer oldukça etkili
 pubDate: '2018-04-08T00:50:13'
+heroImage: '../../images/blog/lazer-tedavisi.png'
 slug: menopoz-sonrasi-ortaya-cikan-vajinal-kuruluk-tedavisinde-lazer-oldukca-etkili
 category:
   - Gebelik & Doğum

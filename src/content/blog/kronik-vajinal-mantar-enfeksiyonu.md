@@ -1,6 +1,7 @@
 ---
 title: Kronik vajinal mantar enfeksiyonu
 pubDate: '2020-09-28T18:22:16'
+heroImage: '/images/blog/mikroskop.png'
 slug: kronik-vajinal-mantar-enfeksiyonu
 category:
   - Tüp Bebek & İnfertilite

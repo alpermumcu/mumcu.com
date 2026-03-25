@@ -1,6 +1,7 @@
 ---
 title: Polikistik over sendromu belirtileri
 pubDate: '2020-10-04T11:35:07'
+heroImage: '/images/blog/pcos.png'
 slug: polikistik-over-sendromu-belirtileri
 category:
   - Tüp Bebek & İnfertilite
