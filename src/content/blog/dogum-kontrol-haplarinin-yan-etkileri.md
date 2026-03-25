@@ -3,7 +3,7 @@ title: Doğum kontrol haplarının yan etkileri
 pubDate: '2018-09-12T00:17:59'
 slug: dogum-kontrol-haplarinin-yan-etkileri
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dogum-kontrol-haplarinin-yan-etkileri/'

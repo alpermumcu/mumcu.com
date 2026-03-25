@@ -3,7 +3,7 @@ title: Myom nedir?
 pubDate: '2014-03-22T20:14:00'
 slug: myomlar
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/myomlar/'

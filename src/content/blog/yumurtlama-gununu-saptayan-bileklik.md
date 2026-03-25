@@ -3,7 +3,7 @@ title: Yumurtlama gününü saptayan bileklik
 pubDate: '2016-08-07T03:46:23'
 slug: yumurtlama-gununu-saptayan-bileklik
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/yumurtlama-gununu-saptayan-bileklik/'

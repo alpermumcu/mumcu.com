@@ -3,7 +3,7 @@ title: Adet kanamasını geciktirmek
 pubDate: '2014-03-22T17:42:47'
 slug: adet-kanamasini-geciktirmek
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/adet-kanamasini-geciktirmek/'

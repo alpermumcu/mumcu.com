@@ -3,7 +3,7 @@ title: Endometrial Hiperplazi
 pubDate: '2014-03-22T20:17:19'
 slug: endometrial-hiperplazi
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/endometrial-hiperplazi/'

@@ -3,7 +3,7 @@ title: Vajinal kontraseptif halka
 pubDate: '2014-03-24T14:18:30'
 slug: vajinal-kontraseptif-halka
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/vajinal-kontraseptif-halka/'

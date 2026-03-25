@@ -3,7 +3,7 @@ title: Dismenore (Ağrılı adet görme)
 pubDate: '2014-03-22T17:40:37'
 slug: dismenore-agrili-adet-gorme
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dismenore-agrili-adet-gorme/'

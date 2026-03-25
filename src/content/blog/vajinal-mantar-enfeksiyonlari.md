@@ -3,7 +3,7 @@ title: Vajinal Mantar Enfeksiyonları
 pubDate: '2014-03-24T12:21:50'
 slug: vajinal-mantar-enfeksiyonlari
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/vajinal-mantar-enfeksiyonlari/'

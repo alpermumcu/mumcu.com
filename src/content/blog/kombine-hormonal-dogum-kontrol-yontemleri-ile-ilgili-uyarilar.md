@@ -3,7 +3,7 @@ title: Kombine hormonal doğum kontrol yöntemleri ile ilgili uyarılar
 pubDate: '2014-03-24T14:20:43'
 slug: kombine-hormonal-dogum-kontrol-yontemleri-ile-ilgili-uyarilar
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: >-

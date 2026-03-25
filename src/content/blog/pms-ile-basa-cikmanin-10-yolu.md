@@ -3,7 +3,7 @@ title: PMS ile başa çıkmanın 10 yolu
 pubDate: '2014-03-22T17:41:45'
 slug: pms-ile-basa-cikmanin-10-yolu
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/pms-ile-basa-cikmanin-10-yolu/'

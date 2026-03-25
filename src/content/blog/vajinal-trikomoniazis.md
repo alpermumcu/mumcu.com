@@ -3,7 +3,7 @@ title: Vajinal Trikomoniazis
 pubDate: '2014-03-24T12:23:37'
 slug: vajinal-trikomoniazis
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/vajinal-trikomoniazis/'

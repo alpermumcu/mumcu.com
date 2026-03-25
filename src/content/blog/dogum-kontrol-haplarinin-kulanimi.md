@@ -3,7 +3,7 @@ title: Doğum kontrol haplarının kulanımı
 pubDate: '2014-03-24T13:54:02'
 slug: dogum-kontrol-haplarinin-kulanimi
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dogum-kontrol-haplarinin-kulanimi/'

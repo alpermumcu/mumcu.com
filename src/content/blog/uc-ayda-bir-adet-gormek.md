@@ -3,7 +3,7 @@ title: Üç ayda bir adet görmek
 pubDate: '2014-03-24T14:09:22'
 slug: uc-ayda-bir-adet-gormek
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/uc-ayda-bir-adet-gormek/'
