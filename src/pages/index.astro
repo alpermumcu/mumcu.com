@@ -5,6 +5,7 @@ import FAQAccordion from '../components/FAQAccordion.astro';
 import { getCollection } from 'astro:content';
 import doctorPhoto from '../images/uploads/2020/08/alper-mumcu-photo.jpg';
 import { getHeroImage } from '../data/category-defaults';
+import PregnancyCalculator from '../components/PregnancyCalculator.astro';
 
 // Category Images
 import imgGebelik from '../images/categories/gebelik.png';
@@ -189,6 +190,8 @@ const faqItems = [
 				</div>
 			</div>
 		</section>
+
+		<PregnancyCalculator />
 	</main>
 </Layout>
 
