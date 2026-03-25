@@ -3,7 +3,7 @@ title: Germ Hücreli over kanserleri
 pubDate: '2014-03-26T16:31:21'
 slug: germ-hucreli-over-kanserleri
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/germ-hucreli-over-kanserleri/'

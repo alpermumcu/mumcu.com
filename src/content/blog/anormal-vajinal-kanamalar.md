@@ -3,7 +3,7 @@ title: Anormal vajinal kanamalar
 pubDate: '2014-03-22T17:42:16'
 slug: anormal-vajinal-kanamalar
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/anormal-vajinal-kanamalar/'

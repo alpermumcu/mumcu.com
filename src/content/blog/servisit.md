@@ -3,7 +3,7 @@ title: Servisit
 pubDate: '2014-03-22T20:23:35'
 slug: servisit
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/servisit/'

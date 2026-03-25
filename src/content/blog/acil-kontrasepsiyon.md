@@ -3,7 +3,7 @@ title: Acil Kontrasepsiyon
 pubDate: '2014-03-24T14:36:54'
 slug: acil-kontrasepsiyon
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/acil-kontrasepsiyon/'

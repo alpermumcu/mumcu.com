@@ -3,7 +3,7 @@ title: Doğum Kontrolü &#8211; Tüplerin Bağlanması
 pubDate: '2014-03-24T14:32:46'
 slug: dogum-kontrolu-tuplerin-baglanmasi
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dogum-kontrolu-tuplerin-baglanmasi/'

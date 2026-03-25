@@ -3,7 +3,7 @@ title: Doğum kontrol hapları ile ilgili klinik problemler
 pubDate: '2014-03-24T13:55:33'
 slug: dogum-kontrol-haplari-ile-ilgili-klinik-problemler
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dogum-kontrol-haplari-ile-ilgili-klinik-problemler/'

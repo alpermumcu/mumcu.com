@@ -3,7 +3,7 @@ title: Yumurtalık Kistleri
 pubDate: '2014-03-22T20:06:57'
 slug: yumurtalik-kistleri
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/yumurtalik-kistleri/'

@@ -3,7 +3,7 @@ title: Kadın prezervatifi
 pubDate: '2014-03-24T14:27:55'
 slug: kadin-prezervatifi
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/kadin-prezervatifi/'

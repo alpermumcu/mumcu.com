@@ -3,7 +3,7 @@ title: Vajinal Duş
 pubDate: '2014-03-24T12:28:36'
 slug: vajinal-dus
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/vajinal-dus/'

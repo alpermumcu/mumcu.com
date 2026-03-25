@@ -3,7 +3,7 @@ title: Kürtaj
 pubDate: '2014-03-15T19:48:54'
 slug: kurtaj
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/kurtaj/'

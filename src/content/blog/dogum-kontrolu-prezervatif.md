@@ -3,7 +3,7 @@ title: Doğum Kontrolü &#8211; Prezervatif
 pubDate: '2014-03-24T14:24:58'
 slug: dogum-kontrolu-prezervatif
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dogum-kontrolu-prezervatif/'

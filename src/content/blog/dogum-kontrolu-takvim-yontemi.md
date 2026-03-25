@@ -3,7 +3,7 @@ title: Doğum Kontrolü &#8211; Takvim Yöntemi
 pubDate: '2014-03-24T13:48:01'
 slug: dogum-kontrolu-takvim-yontemi
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dogum-kontrolu-takvim-yontemi/'

@@ -3,7 +3,7 @@ title: İmplanon
 pubDate: '2014-03-24T14:20:12'
 slug: implanon
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/implanon/'

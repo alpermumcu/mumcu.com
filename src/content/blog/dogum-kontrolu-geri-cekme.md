@@ -3,7 +3,7 @@ title: Doğum Kontrolü- Geri Çekme
 pubDate: '2014-03-24T13:49:40'
 slug: dogum-kontrolu-geri-cekme
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dogum-kontrolu-geri-cekme/'

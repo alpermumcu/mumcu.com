@@ -3,7 +3,7 @@ title: Doğum kontrol flasteri
 pubDate: '2014-03-24T14:19:24'
 slug: dogum-kontrol-flasteri
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dogum-kontrol-flasteri/'

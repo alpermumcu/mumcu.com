@@ -3,7 +3,7 @@ title: Adet siklusu- Sık Sorulanlar
 pubDate: '2014-03-22T17:39:53'
 slug: adet-siklusu-sik-sorulanlar
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/adet-siklusu-sik-sorulanlar/'

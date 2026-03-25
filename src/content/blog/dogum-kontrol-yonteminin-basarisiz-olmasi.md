@@ -3,7 +3,7 @@ title: Doğum kontrol yönteminin başarısız olması
 pubDate: '2014-03-24T13:45:50'
 slug: dogum-kontrol-yonteminin-basarisiz-olmasi
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dogum-kontrol-yonteminin-basarisiz-olmasi/'

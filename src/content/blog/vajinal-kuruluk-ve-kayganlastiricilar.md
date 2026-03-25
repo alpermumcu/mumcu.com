@@ -3,7 +3,7 @@ title: Vajinal kuruluk ve kayganlaştırıcılar
 pubDate: '2014-03-24T16:39:15'
 slug: vajinal-kuruluk-ve-kayganlastiricilar
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/vajinal-kuruluk-ve-kayganlastiricilar/'

@@ -3,7 +3,7 @@ title: Spiralin şaşırtıcı bir yararı olabilir.
 pubDate: '2017-11-13T01:40:52'
 slug: spiralin-sasirtici-bir-yarari-olabilir
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/spiralin-sasirtici-bir-yarari-olabilir/'

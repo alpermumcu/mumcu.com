@@ -4,7 +4,7 @@ pubDate: '2020-10-09T23:44:27'
 heroImage: '/images/blog/medical-gel.png'
 slug: dogum-kontrol-jeli
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dogum-kontrol-jeli/'

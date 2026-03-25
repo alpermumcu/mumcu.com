@@ -3,7 +3,7 @@ title: Gonore (Bel Soğukluğu)
 pubDate: '2014-03-24T12:40:52'
 slug: gonore-bel-soguklugu
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/gonore-bel-soguklugu/'

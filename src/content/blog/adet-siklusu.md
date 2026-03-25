@@ -3,7 +3,7 @@ title: Adet siklusu
 pubDate: '2014-03-22T17:39:12'
 slug: adet-siklusu
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/adet-siklusu/'

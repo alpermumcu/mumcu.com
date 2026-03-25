@@ -3,7 +3,7 @@ title: Rahim ağzında yara
 pubDate: '2014-03-22T20:28:43'
 slug: rahim-agzinda-yara
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/rahim-agzinda-yara/'

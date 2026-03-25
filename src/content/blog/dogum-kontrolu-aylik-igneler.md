@@ -3,7 +3,7 @@ title: Doğum Kontrolü- Aylık İğneler
 pubDate: '2014-03-24T14:17:16'
 slug: dogum-kontrolu-aylik-igneler
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dogum-kontrolu-aylik-igneler/'

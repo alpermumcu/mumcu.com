@@ -3,7 +3,7 @@ title: Doğum Kontrolü- Genel bilgiler
 pubDate: '2014-03-24T13:45:17'
 slug: dogum-kontrolu-genel-bilgiler
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dogum-kontrolu-genel-bilgiler/'

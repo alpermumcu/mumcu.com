@@ -3,7 +3,7 @@ title: Pelvik İltihabi Hastalık (PID)
 pubDate: '2014-03-24T12:19:42'
 slug: pelvik-iltihabi-hastalik-pid
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/pelvik-iltihabi-hastalik-pid/'

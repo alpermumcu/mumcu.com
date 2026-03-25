@@ -3,7 +3,7 @@ title: Hormonlu spiral (Mirena)
 pubDate: '2014-03-24T14:15:51'
 slug: hormonlu-spiral-mirena
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı- Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hormonlu-spiral-mirena/'
