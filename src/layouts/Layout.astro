@@ -64,7 +64,22 @@ const { title } = Astro.props;
     --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.08);
     --whatsapp: 142 63% 32%; /* Darker green for ethical feel */
     --link: 191 67% 25%;
+    --link-visited: 191 50% 20%;
     --border: 188 15% 91%;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg-main: 188 44% 5%;
+      --bg-card: 188 44% 8%;
+      --text-main: 60 11% 95%;
+      --text-muted: 188 20% 70%;
+      --glass: rgba(11, 31, 34, 0.9);
+      --glass-border: rgba(255, 255, 255, 0.1);
+      --border: 188 30% 15%;
+      --link: 190 70% 60%;
+      --link-visited: 190 50% 45%;
+    }
   }
   * {
     box-sizing: border-box;
@@ -82,6 +97,28 @@ const { title } = Astro.props;
     display: flex;
     flex-direction: column;
     overflow-x: hidden;
+  }
+  a {
+    color: hsl(var(--link));
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    text-decoration-thickness: 1px;
+    transition: all 0.2s;
+  }
+  a:visited {
+    color: hsl(260 30% 40%); /* Subtle purple-ish for visited */
+    text-underline-offset: 6px;
+    text-decoration-style: dashed;
+  }
+  a:hover {
+    color: hsl(var(--accent));
+    text-decoration-thickness: 2px;
+    text-decoration-style: solid;
+  }
+  :focus-visible {
+    outline: 3px solid hsl(var(--accent));
+    outline-offset: 3px;
+    border-radius: 4px;
   }
   h1, h2, h3, h4, .font-outfit {
     font-family: 'Outfit', sans-serif;
