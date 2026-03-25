@@ -9,16 +9,17 @@ import ReadingProgress from '../components/ReadingProgress.astro';
 
 interface Props {
   title: string;
+  description?: string;
 }
 
-const { title } = Astro.props;
+const { title, description = "Dr. Alper Mumcu'nun 25 yılı aşkın tecrübesiyle hazırlanan, güncel ve bilimsel kadın sağlığı, hamilelik ve tüp bebek bilgilendirme platformu." } = Astro.props;
 ---
 
 <!doctype html>
 <html lang="tr">
   <head>
     <meta charset="UTF-8" />
-    <meta name="description" content="Dr. Alper Mumcu'nun 25 yılı aşkın tecrübesiyle hazırlanan, güncel ve bilimsel kadın sağlığı, hamilelik ve tüp bebek bilgilendirme platformu." />
+    <meta name="description" content={description} />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
