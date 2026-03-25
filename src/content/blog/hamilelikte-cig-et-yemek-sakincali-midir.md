@@ -3,7 +3,7 @@ title: Hamilelikte çiğ et yemek sakıncalı mıdır?
 pubDate: '2014-03-16T20:22:08'
 slug: hamilelikte-cig-et-yemek-sakincali-midir
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamilelikte-cig-et-yemek-sakincali-midir/'

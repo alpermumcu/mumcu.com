@@ -3,7 +3,7 @@ title: Hamilelik ve obesite
 pubDate: '2014-03-17T02:52:51'
 slug: hamilelik-ve-obesite
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamilelik-ve-obesite/'

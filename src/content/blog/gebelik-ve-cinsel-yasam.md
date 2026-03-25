@@ -3,7 +3,7 @@ title: Gebelik ve cinsel yaşam
 pubDate: '2014-03-17T02:45:03'
 slug: gebelik-ve-cinsel-yasam
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/gebelik-ve-cinsel-yasam/'

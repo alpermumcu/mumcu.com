@@ -3,7 +3,7 @@ title: Hamilelik ve yüksek ateş
 pubDate: '2014-03-17T02:42:41'
 slug: hamilelik-ve-yuksek-ates
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamilelik-ve-yuksek-ates/'

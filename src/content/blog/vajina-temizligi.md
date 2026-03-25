@@ -3,7 +3,7 @@ title: Vajina temizliği
 pubDate: '2016-07-18T00:52:35'
 slug: vajina-temizligi
 category:
-  - Tüp Bebek & İnfertilite
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/vajina-temizligi/'

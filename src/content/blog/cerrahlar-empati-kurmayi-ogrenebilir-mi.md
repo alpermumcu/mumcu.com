@@ -3,7 +3,7 @@ title: Cerrahlar empati kurmayı öğrenebilir mi?
 pubDate: '2015-04-18T05:55:15'
 slug: cerrahlar-empati-kurmayi-ogrenebilir-mi
 category:
-  - Tüp Bebek & İnfertilite
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/cerrahlar-empati-kurmayi-ogrenebilir-mi/'

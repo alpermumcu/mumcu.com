@@ -3,7 +3,7 @@ title: Anormal Smear testi varlığında yaklaşım
 pubDate: '2014-03-22T20:25:30'
 slug: anormal-smear-testi-varliginda-yaklasim
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/anormal-smear-testi-varliginda-yaklasim/'

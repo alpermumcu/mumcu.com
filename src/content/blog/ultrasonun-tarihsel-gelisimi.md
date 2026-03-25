@@ -3,7 +3,7 @@ title: Ultrasonun tarihsel gelişimi
 pubDate: '2014-03-18T01:11:30'
 slug: ultrasonun-tarihsel-gelisimi
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/ultrasonun-tarihsel-gelisimi/'

@@ -3,7 +3,7 @@ title: '16. Hafta &#8211;  Kız mı, erkek mi?'
 pubDate: '2014-03-31T00:46:10'
 slug: 16-hafta-kiz-mi-erkek-mi
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/16-hafta-kiz-mi-erkek-mi/'

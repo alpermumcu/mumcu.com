@@ -3,7 +3,7 @@ title: Sezaryen sonrası normal doğum
 pubDate: '2014-03-20T18:05:29'
 slug: sezaryen-sonrasi-normal-dogum
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/sezaryen-sonrasi-normal-dogum/'

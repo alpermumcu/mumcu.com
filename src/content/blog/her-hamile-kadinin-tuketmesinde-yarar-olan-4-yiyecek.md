@@ -3,7 +3,7 @@ title: Her hamile kadının tüketmesinde yarar olan 4 yiyecek
 pubDate: '2016-06-04T09:16:58'
 slug: her-hamile-kadinin-tuketmesinde-yarar-olan-4-yiyecek
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/her-hamile-kadinin-tuketmesinde-yarar-olan-4-yiyecek/'

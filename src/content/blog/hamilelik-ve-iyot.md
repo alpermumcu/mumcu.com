@@ -3,7 +3,7 @@ title: Hamilelik ve İyot
 pubDate: '2014-03-16T19:13:21'
 slug: hamilelik-ve-iyot
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamilelik-ve-iyot/'

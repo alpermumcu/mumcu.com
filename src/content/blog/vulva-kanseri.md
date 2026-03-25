@@ -3,7 +3,7 @@ title: Vulva Kanseri
 pubDate: '2014-03-26T16:38:01'
 slug: vulva-kanseri
 category:
-  - Cerrahi İşlemler
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/vulva-kanseri/'

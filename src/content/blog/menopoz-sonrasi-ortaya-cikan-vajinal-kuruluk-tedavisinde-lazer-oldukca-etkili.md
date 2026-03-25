@@ -4,7 +4,7 @@ pubDate: '2018-04-08T00:50:13'
 heroImage: '../../images/blog/lazer-tedavisi.png'
 slug: menopoz-sonrasi-ortaya-cikan-vajinal-kuruluk-tedavisinde-lazer-oldukca-etkili
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: >-

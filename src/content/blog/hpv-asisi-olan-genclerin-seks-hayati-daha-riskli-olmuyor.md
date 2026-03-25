@@ -3,7 +3,7 @@ title: HPV aşısı olan gençlerin seks hayatı daha riskli olmuyor
 pubDate: '2016-08-11T07:08:09'
 slug: hpv-asisi-olan-genclerin-seks-hayati-daha-riskli-olmuyor
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: >-

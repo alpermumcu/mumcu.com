@@ -3,7 +3,7 @@ title: Yaz ayları için öneriler
 pubDate: '2014-03-27T15:26:23'
 slug: yaz-aylari-icin-oneriler
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/yaz-aylari-icin-oneriler/'

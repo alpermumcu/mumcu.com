@@ -3,7 +3,7 @@ title: Hamilelikte sivilce ilaçlarının kullanımı güvenli midir?
 pubDate: '2014-03-17T23:50:21'
 slug: hamilelikte-sivilce-ilaclarinin-kullanimi-guvenli-midir-2
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-

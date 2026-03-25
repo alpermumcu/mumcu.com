@@ -3,7 +3,7 @@ title: Bebeğinizi emzirmeniz için 51 neden
 pubDate: '2014-03-20T18:16:16'
 slug: bebeginizi-emzirmeniz-icin-51-neden
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/bebeginizi-emzirmeniz-icin-51-neden/'

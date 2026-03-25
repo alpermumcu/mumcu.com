@@ -3,7 +3,7 @@ title: Hamilelik ve Niasin (B3 vitamini)
 pubDate: '2014-03-16T19:08:23'
 slug: hamilelik-ve-niasin-b3-vitamini
 category:
-  - Jinekoloji & Kadın Sağlığı
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamilelik-ve-niasin-b3-vitamini/'

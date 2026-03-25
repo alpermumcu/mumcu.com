@@ -3,7 +3,7 @@ title: Hamilelikte ultrason neden yapılır?
 pubDate: '2014-03-18T01:13:19'
 slug: hamilelikte-ultrason-neden-yapilir
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamilelikte-ultrason-neden-yapilir/'

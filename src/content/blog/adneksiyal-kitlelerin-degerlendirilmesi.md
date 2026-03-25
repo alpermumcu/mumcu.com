@@ -3,7 +3,7 @@ title: Adneksiyal kitlelerin değerlendirilmesi
 pubDate: '2014-03-22T20:10:46'
 slug: adneksiyal-kitlelerin-degerlendirilmesi
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/adneksiyal-kitlelerin-degerlendirilmesi/'

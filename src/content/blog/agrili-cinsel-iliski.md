@@ -3,7 +3,7 @@ title: Ağrılı cinsel ilişki
 pubDate: '2014-03-24T16:36:23'
 slug: agrili-cinsel-iliski
 category:
-  - Tüp Bebek & İnfertilite
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/agrili-cinsel-iliski/'

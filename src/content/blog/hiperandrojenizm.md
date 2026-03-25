@@ -3,7 +3,7 @@ title: Hiperandrojenizm
 pubDate: '2014-03-26T16:54:53'
 slug: hiperandrojenizm
 category:
-  - Tüp Bebek & İnfertilite
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hiperandrojenizm/'

@@ -3,7 +3,7 @@ title: Gebelikte doktor takipleri
 pubDate: '2014-03-15T15:54:49'
 slug: gebelikte-doktor-takipleri
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/gebelikte-doktor-takipleri/'

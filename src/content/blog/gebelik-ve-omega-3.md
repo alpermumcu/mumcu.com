@@ -3,7 +3,7 @@ title: Gebelik ve Omega 3
 pubDate: '2014-03-16T19:35:38'
 slug: gebelik-ve-omega-3
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/gebelik-ve-omega-3/'

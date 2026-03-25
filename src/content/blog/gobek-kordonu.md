@@ -3,7 +3,7 @@ title: Göbek kordonu
 pubDate: '2014-03-15T21:51:52'
 slug: gobek-kordonu
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/gobek-kordonu/'

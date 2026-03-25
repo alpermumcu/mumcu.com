@@ -3,7 +3,7 @@ title: HPV aşısı
 pubDate: '2014-03-24T13:02:10'
 slug: hpv-asisi
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hpv-asisi/'

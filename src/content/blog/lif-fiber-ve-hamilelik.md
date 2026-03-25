@@ -3,7 +3,7 @@ title: Lif (Fiber) ve hamilelik
 pubDate: '2014-03-16T19:28:26'
 slug: lif-fiber-ve-hamilelik
 category:
-  - Jinekoloji & Kadın Sağlığı
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/lif-fiber-ve-hamilelik/'

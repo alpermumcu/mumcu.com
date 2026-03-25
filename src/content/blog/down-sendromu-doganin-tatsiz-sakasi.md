@@ -3,7 +3,7 @@ title: Down Sendromu- Doğanın tatsız şakası
 pubDate: '2014-03-16T03:30:15'
 slug: down-sendromu-doganin-tatsiz-sakasi
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/down-sendromu-doganin-tatsiz-sakasi/'

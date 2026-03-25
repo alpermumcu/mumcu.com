@@ -3,7 +3,7 @@ title: Naboth Kistleri
 pubDate: '2014-03-22T20:28:09'
 slug: naboth-kistleri
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/naboth-kistleri/'

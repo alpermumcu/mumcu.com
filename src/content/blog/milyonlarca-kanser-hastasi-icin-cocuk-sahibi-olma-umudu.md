@@ -3,7 +3,7 @@ title: Milyonlarca kanser hastası için çocuk sahibi olma umudu
 pubDate: '2015-06-13T17:47:11'
 slug: milyonlarca-kanser-hastasi-icin-cocuk-sahibi-olma-umudu
 category:
-  - Tüp Bebek & İnfertilite
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/milyonlarca-kanser-hastasi-icin-cocuk-sahibi-olma-umudu/'

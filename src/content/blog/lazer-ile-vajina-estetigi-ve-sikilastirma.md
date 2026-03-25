@@ -3,7 +3,7 @@ title: Lazer ile vajina estetiği ve sıkılaştırma
 pubDate: '2016-09-14T14:51:02'
 slug: lazer-ile-vajina-estetigi-ve-sikilastirma
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/lazer-ile-vajina-estetigi-ve-sikilastirma/'

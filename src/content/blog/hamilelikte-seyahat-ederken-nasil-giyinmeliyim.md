@@ -3,7 +3,7 @@ title: Hamilelikte seyahat ederken nasıl giyinmeliyim?
 pubDate: '2014-03-17T04:21:05'
 slug: hamilelikte-seyahat-ederken-nasil-giyinmeliyim
 category:
-  - Jinekoloji & Kadın Sağlığı
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamilelikte-seyahat-ederken-nasil-giyinmeliyim/'

@@ -3,7 +3,7 @@ title: Jinekolojik kanserlerde erken tanı
 pubDate: '2014-03-26T16:38:50'
 slug: jinekolojik-kanserlerde-erken-tani
 category:
-  - Tüp Bebek & İnfertilite
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/jinekolojik-kanserlerde-erken-tani/'

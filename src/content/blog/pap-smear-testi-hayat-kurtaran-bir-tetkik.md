@@ -3,7 +3,7 @@ title: PAP Smear Testi &#8211; Hayat kurtaran bir tetkik
 pubDate: '2014-03-22T20:24:39'
 slug: pap-smear-testi-hayat-kurtaran-bir-tetkik
 category:
-  - Tüp Bebek & İnfertilite
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/pap-smear-testi-hayat-kurtaran-bir-tetkik/'

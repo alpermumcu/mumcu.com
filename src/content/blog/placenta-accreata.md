@@ -3,7 +3,7 @@ title: Placenta Accreata
 pubDate: '2016-04-12T15:58:19'
 slug: placenta-accreata
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/placenta-accreata/'

@@ -3,7 +3,7 @@ title: Gebelikte diş beyazlatma işlemleri güvenli midir
 pubDate: '2016-04-07T08:32:56'
 slug: gebelikte-dis-beyazlatma-islemleri-guvenli-midir
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/gebelikte-dis-beyazlatma-islemleri-guvenli-midir/'

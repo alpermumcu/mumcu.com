@@ -3,7 +3,7 @@ title: Endometrium Kanseri
 pubDate: '2014-03-26T16:35:34'
 slug: endometrium-kanseri
 category:
-  - Tüp Bebek & İnfertilite
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/endometrium-kanseri/'

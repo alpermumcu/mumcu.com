@@ -3,7 +3,7 @@ title: Adet Öncesi Gerginlik Sendromu (PMS)
 pubDate: '2014-03-22T17:41:13'
 slug: adet-oncesi-gerginlik-sendromu-pms
 category:
-  - Tüp Bebek & İnfertilite
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/adet-oncesi-gerginlik-sendromu-pms/'

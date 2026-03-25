@@ -3,7 +3,7 @@ title: Alfa feto protein (AFP)
 pubDate: '2014-03-15T21:25:37'
 slug: alfa-feto-protein-afp
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/alfa-feto-protein-afp/'

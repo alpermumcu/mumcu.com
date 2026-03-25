@@ -3,7 +3,7 @@ title: Dörtlü test
 pubDate: '2014-03-15T21:30:31'
 slug: dortlu-test
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dortlu-test/'

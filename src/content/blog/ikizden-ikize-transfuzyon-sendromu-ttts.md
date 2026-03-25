@@ -3,7 +3,7 @@ title: İkizden ikize transfüzyon sendromu (TTTS)
 pubDate: '2014-03-17T01:56:20'
 slug: ikizden-ikize-transfuzyon-sendromu-ttts
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/ikizden-ikize-transfuzyon-sendromu-ttts/'

@@ -3,7 +3,7 @@ title: Endometrial polip
 pubDate: '2014-03-22T20:19:46'
 slug: endometrial-polip
 category:
-  - Tüp Bebek & İnfertilite
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/endometrial-polip/'

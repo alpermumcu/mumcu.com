@@ -3,7 +3,7 @@ title: Vajinal doğumun riskleri ile ilgili kadınlar resmi olarak bilgilendiril
 pubDate: '2016-07-10T12:02:22'
 slug: vajinal-dogumun-riskleri-ile-ilgili-kadinlar-resmi-olarak-bilgilendirilecek
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: >-

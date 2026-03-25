@@ -3,7 +3,7 @@ title: İdrar yaparken yanma ve nedenleri
 pubDate: '2018-12-24T03:16:19'
 slug: idrar-yaparken-yanma-ve-nedenleri
 category:
-  - Tüp Bebek & İnfertilite
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/idrar-yaparken-yanma-ve-nedenleri/'

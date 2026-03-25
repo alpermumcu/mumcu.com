@@ -3,7 +3,7 @@ title: Lateks alerjisi
 pubDate: '2014-03-24T14:25:37'
 slug: lateks-alerjisi
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/lateks-alerjisi/'

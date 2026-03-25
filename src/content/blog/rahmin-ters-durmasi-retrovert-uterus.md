@@ -3,7 +3,7 @@ title: Rahmin ters durması (retrovert uterus)
 pubDate: '2014-03-22T20:15:49'
 slug: rahmin-ters-durmasi-retrovert-uterus
 category:
-  - Tüp Bebek & İnfertilite
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/rahmin-ters-durmasi-retrovert-uterus/'

@@ -3,7 +3,7 @@ title: Over (Yumurtalık) Rezervi
 pubDate: '2015-08-25T15:09:30'
 slug: over-yumurtalik-rezervi
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/over-yumurtalik-rezervi/'

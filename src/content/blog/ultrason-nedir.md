@@ -3,7 +3,7 @@ title: Ultrason nedir?
 pubDate: '2014-03-18T01:09:43'
 slug: ultrason-nedir
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/ultrason-nedir/'

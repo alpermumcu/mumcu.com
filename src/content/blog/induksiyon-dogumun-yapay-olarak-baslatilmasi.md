@@ -3,7 +3,7 @@ title: 'İndüksiyon: Doğumun yapay olarak başlatılması'
 pubDate: '2014-03-20T17:33:20'
 slug: induksiyon-dogumun-yapay-olarak-baslatilmasi
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/induksiyon-dogumun-yapay-olarak-baslatilmasi/'

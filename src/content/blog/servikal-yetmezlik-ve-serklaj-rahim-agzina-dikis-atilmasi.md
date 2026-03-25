@@ -3,7 +3,7 @@ title: Servikal yetmezlik ve Serklaj (rahim ağzına dikiş atılması)
 pubDate: '2014-03-17T01:41:45'
 slug: servikal-yetmezlik-ve-serklaj-rahim-agzina-dikis-atilmasi
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: >-

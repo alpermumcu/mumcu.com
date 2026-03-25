@@ -3,7 +3,7 @@ title: Hamilelikte tren ve otobüs yolculuğu
 pubDate: '2014-03-17T03:21:51'
 slug: hamilelikte-tren-ve-otobus-yolculugu
 category:
-  - Jinekoloji & Kadın Sağlığı
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamilelikte-tren-ve-otobus-yolculugu/'

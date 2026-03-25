@@ -3,7 +3,7 @@ title: HPV tiplemesi
 pubDate: '2014-04-04T12:56:21'
 slug: hpv-tiplemesi
 category:
-  - Jinekoloji & Kadın Sağlığı
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hpv-tiplemesi/'

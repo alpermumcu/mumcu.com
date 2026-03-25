@@ -3,7 +3,7 @@ title: Yara iyileşmesi
 pubDate: '2014-03-26T17:18:17'
 slug: yara-iyilesmesi
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/yara-iyilesmesi/'

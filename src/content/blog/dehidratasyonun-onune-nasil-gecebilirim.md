@@ -3,7 +3,7 @@ title: Dehidratasyonun önüne nasıl geçebilirim?
 pubDate: '2014-03-16T20:25:36'
 slug: dehidratasyonun-onune-nasil-gecebilirim
 category:
-  - Jinekoloji & Kadın Sağlığı
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dehidratasyonun-onune-nasil-gecebilirim/'

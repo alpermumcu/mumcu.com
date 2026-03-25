@@ -6,7 +6,7 @@ pubDate: '2016-07-27T00:30:05'
 slug: >-
   40-yasindan-buyuk-kadinlar-yirmili-yaslardaki-kadinlardan-daha-fazla-bebek-sahibi-oluyor
 category:
-  - Gebelik & Doğum
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: >-

@@ -3,7 +3,7 @@ title: Emzirmenin anneye olan yararları
 pubDate: '2014-03-20T18:20:41'
 slug: emzirmenin-anneye-olan-yararlari
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/emzirmenin-anneye-olan-yararlari/'

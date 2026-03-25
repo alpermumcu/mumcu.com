@@ -3,7 +3,7 @@ title: Anne karnında bebeğin duyularının gelişimi
 pubDate: '2014-03-15T17:29:09'
 slug: anne-karninda-bebegin-duyularinin-gelisimi
 category:
-  - Tüp Bebek & İnfertilite
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/anne-karninda-bebegin-duyularinin-gelisimi/'

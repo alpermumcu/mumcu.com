@@ -3,7 +3,7 @@ title: Toksik Şok Sendromu
 pubDate: '2014-03-24T12:28:05'
 slug: toksik-sok-sendromu
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/toksik-sok-sendromu/'

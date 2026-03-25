@@ -3,7 +3,7 @@ title: Hamile kalma şansınızı arttıracak 11 küçük hatırlatma
 pubDate: '2017-04-09T00:00:14'
 slug: hamile-kalma-sansinizi-arttiracak-11-kucuk-hatirlatma
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamile-kalma-sansinizi-arttiracak-11-kucuk-hatirlatma/'

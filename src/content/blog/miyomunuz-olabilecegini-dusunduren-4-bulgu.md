@@ -3,7 +3,7 @@ title: Miyomunuz olabileceğini düşündüren 4 bulgu
 pubDate: '2017-06-28T07:39:34'
 slug: miyomunuz-olabilecegini-dusunduren-4-bulgu
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/miyomunuz-olabilecegini-dusunduren-4-bulgu/'

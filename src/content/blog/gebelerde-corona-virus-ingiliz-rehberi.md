@@ -3,7 +3,7 @@ title: Gebelerde corona virus Ingiliz rehberi
 pubDate: '2020-03-09T16:13:04'
 slug: gebelerde-corona-virus-ingiliz-rehberi
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/gebelerde-corona-virus-ingiliz-rehberi/'

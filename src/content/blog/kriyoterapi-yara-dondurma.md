@@ -3,7 +3,7 @@ title: Kriyoterapi (yara dondurma)
 pubDate: '2014-03-24T13:00:15'
 slug: kriyoterapi-yara-dondurma
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/kriyoterapi-yara-dondurma/'

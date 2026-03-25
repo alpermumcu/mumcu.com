@@ -3,7 +3,7 @@ title: Genital Herpes (Uçuk)
 pubDate: '2014-03-24T12:42:28'
 slug: genital-herpes-ucuk
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/genital-herpes-ucuk/'

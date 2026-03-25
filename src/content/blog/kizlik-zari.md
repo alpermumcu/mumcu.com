@@ -3,7 +3,7 @@ title: Kızlık zarı
 pubDate: '2014-03-22T17:37:00'
 slug: kizlik-zari
 category:
-  - Tüp Bebek & İnfertilite
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/kizlik-zari/'

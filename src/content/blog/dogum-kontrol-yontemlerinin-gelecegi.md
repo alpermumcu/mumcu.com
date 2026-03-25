@@ -3,7 +3,7 @@ title: Doğum kontrol yöntemlerinin geleceği
 pubDate: '2014-03-24T13:47:24'
 slug: dogum-kontrol-yontemlerinin-gelecegi
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dogum-kontrol-yontemlerinin-gelecegi/'

@@ -3,7 +3,7 @@ title: Gebelik ve Sfiliz (Frengi)
 pubDate: '2018-11-02T12:43:03'
 slug: sfiliz-frengi
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/sfiliz-frengi/'

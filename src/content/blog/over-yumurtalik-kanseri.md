@@ -3,7 +3,7 @@ title: Over (yumurtalık) kanseri
 pubDate: '2014-03-26T16:30:36'
 slug: over-yumurtalik-kanseri
 category:
-  - Tüp Bebek & İnfertilite
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/over-yumurtalik-kanseri/'

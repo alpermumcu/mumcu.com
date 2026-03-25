@@ -3,7 +3,7 @@ title: Bulantı ve kusma iyi giden gebeliğin habercisi
 pubDate: '2016-10-02T12:49:33'
 slug: bulanti-ve-kusma-iyi-giden-gebeligin-habercisi
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/bulanti-ve-kusma-iyi-giden-gebeligin-habercisi/'

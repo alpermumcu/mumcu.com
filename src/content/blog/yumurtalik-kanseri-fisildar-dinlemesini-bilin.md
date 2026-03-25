@@ -3,7 +3,7 @@ title: 'Yumurtalık kanseri fısıldar, dinlemesini bilin'
 pubDate: '2014-04-09T15:35:24'
 slug: yumurtalik-kanseri-fisildar-dinlemesini-bilin
 category:
-  - Tüp Bebek & İnfertilite
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/yumurtalik-kanseri-fisildar-dinlemesini-bilin/'

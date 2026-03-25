@@ -3,7 +3,7 @@ title: Gebelik takiplerinde yapılan incelemeler (Prenatal testler)
 pubDate: '2014-03-15T16:02:06'
 slug: gebelik-takiplerinde-yapilan-incelemeler-prenatal-testler
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-

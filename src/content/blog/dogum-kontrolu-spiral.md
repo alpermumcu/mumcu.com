@@ -3,7 +3,7 @@ title: Doğum Kontrolü &#8211; Spiral
 pubDate: '2014-03-24T14:12:32'
 slug: dogum-kontrolu-spiral
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dogum-kontrolu-spiral/'

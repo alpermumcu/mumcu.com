@@ -3,7 +3,7 @@ title: 9. Hafta &#8211; Düşük riski azalıyor
 pubDate: '2014-03-31T04:09:58'
 slug: 9-hafta
 category:
-  - Tüp Bebek & İnfertilite
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/9-hafta/'

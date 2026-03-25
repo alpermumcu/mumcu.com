@@ -3,7 +3,7 @@ title: Hamilelik ve vejeteryanizm
 pubDate: '2014-03-17T02:37:37'
 slug: hamilelik-ve-vejeteryanizm-2
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamilelik-ve-vejeteryanizm-2/'

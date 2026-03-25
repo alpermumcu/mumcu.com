@@ -3,7 +3,7 @@ title: Jinekolojik Muayene
 pubDate: '2014-03-22T17:28:08'
 slug: jinekolojik-muayene
 category:
-  - Tüp Bebek & İnfertilite
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/jinekolojik-muayene/'

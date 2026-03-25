@@ -3,7 +3,7 @@ title: Hamilelikte tehlike işaretleri
 pubDate: '2014-03-17T01:46:13'
 slug: hamilelikte-tehlike-isaretleri
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamilelikte-tehlike-isaretleri/'

@@ -3,7 +3,7 @@ title: Kegel Egzersizleri
 pubDate: '2014-03-24T13:37:20'
 slug: kegel-egzersizleri
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/kegel-egzersizleri/'

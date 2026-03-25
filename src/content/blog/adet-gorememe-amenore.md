@@ -3,7 +3,7 @@ title: Adet Görememe (Amenore)
 pubDate: '2014-03-26T16:52:40'
 slug: adet-gorememe-amenore
 category:
-  - Tüp Bebek & İnfertilite
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/adet-gorememe-amenore/'

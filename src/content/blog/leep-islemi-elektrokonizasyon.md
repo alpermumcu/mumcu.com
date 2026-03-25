@@ -3,7 +3,7 @@ title: LEEP işlemi- Elektrokonizasyon
 pubDate: '2014-03-24T13:01:37'
 slug: leep-islemi-elektrokonizasyon
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/leep-islemi-elektrokonizasyon/'

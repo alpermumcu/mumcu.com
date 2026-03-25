@@ -3,7 +3,7 @@ title: Gebe kalmak isteyenler için beslenme önerileri
 pubDate: '2014-04-13T23:17:45'
 slug: gebe-kalmak-isteyenler-icin-beslenme-onerileri
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/gebe-kalmak-isteyenler-icin-beslenme-onerileri/'

@@ -3,7 +3,7 @@ title: Kordon sarkması
 pubDate: '2014-03-15T22:00:41'
 slug: kordon-sarkmasi
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/kordon-sarkmasi/'

@@ -3,7 +3,7 @@ title: Düşük (Abortus)
 pubDate: '2014-03-15T19:39:01'
 slug: dusuk-abortus
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dusuk-abortus/'

@@ -3,7 +3,7 @@ title: Detaylı Ultrasonografi
 pubDate: '2014-03-18T01:17:14'
 slug: detayli-ultrasonografi
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/detayli-ultrasonografi/'

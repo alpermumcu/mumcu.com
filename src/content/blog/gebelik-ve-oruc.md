@@ -3,7 +3,7 @@ title: Gebelik ve Oruç
 pubDate: '2015-06-21T15:55:11'
 slug: gebelik-ve-oruc
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/gebelik-ve-oruc/'

@@ -3,7 +3,7 @@ title: Doğum kontrol haplarının kontrasepsiyon dışı etkileri ve yararları
 pubDate: '2014-03-24T14:07:18'
 slug: dogum-kontrol-haplarinin-kontrasepsiyon-disi-etkileri-ve-yararlari
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-

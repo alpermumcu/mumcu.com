@@ -3,7 +3,7 @@ title: Vajinada yanma ve nedenleri
 pubDate: '2018-09-17T00:04:52'
 slug: vajinada-yanma-ve-nedenleri
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/vajinada-yanma-ve-nedenleri/'

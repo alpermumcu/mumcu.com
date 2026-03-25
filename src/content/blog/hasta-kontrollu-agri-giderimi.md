@@ -3,7 +3,7 @@ title: Hasta kontrollü ağrı giderimi
 pubDate: '2014-03-20T17:54:44'
 slug: hasta-kontrollu-agri-giderimi
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hasta-kontrollu-agri-giderimi/'

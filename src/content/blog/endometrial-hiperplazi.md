@@ -3,7 +3,7 @@ title: Endometrial Hiperplazi
 pubDate: '2014-03-22T20:17:19'
 slug: endometrial-hiperplazi
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/endometrial-hiperplazi/'

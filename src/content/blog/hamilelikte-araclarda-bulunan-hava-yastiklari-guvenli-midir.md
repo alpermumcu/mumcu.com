@@ -3,7 +3,7 @@ title: Hamilelikte araçlarda bulunan hava yastıkları güvenli midir?
 pubDate: '2014-03-17T04:18:43'
 slug: hamilelikte-araclarda-bulunan-hava-yastiklari-guvenli-midir
 category:
-  - Jinekoloji & Kadın Sağlığı
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-

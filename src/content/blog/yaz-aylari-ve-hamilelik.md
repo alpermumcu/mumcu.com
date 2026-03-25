@@ -3,7 +3,7 @@ title: Yaz ayları ve hamilelik
 pubDate: '2016-07-14T00:01:11'
 slug: yaz-aylari-ve-hamilelik
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/yaz-aylari-ve-hamilelik/'

@@ -3,7 +3,7 @@ title: Doğum Kontrolü &#8211; Norplant
 pubDate: '2014-03-24T14:17:58'
 slug: dogum-kontrolu-norplant
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dogum-kontrolu-norplant/'

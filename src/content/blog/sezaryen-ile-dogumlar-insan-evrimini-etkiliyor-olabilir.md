@@ -3,7 +3,7 @@ title: Sezaryen ile doğumlar insan evrimini etkiliyor olabilir
 pubDate: '2016-12-13T13:59:44'
 slug: sezaryen-ile-dogumlar-insan-evrimini-etkiliyor-olabilir
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/sezaryen-ile-dogumlar-insan-evrimini-etkiliyor-olabilir/'

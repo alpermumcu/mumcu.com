@@ -3,7 +3,7 @@ title: Üçlü Test (Triple test)
 pubDate: '2014-03-15T21:29:42'
 slug: uclu-test-triple-test
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/uclu-test-triple-test/'

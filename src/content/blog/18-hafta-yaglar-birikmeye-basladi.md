@@ -3,7 +3,7 @@ title: 18. Hafta &#8211; Artık çok rahat anlaşılabiliyor
 pubDate: '2014-03-31T00:39:11'
 slug: 18-hafta-yaglar-birikmeye-basladi
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/18-hafta-yaglar-birikmeye-basladi/'

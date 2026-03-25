@@ -3,7 +3,7 @@ title: Vajen estetiği
 pubDate: '2014-03-24T16:38:42'
 slug: vajen-estetigi
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/vajen-estetigi/'

@@ -3,7 +3,7 @@ title: Hamilelik ve Röntgen
 pubDate: '2014-03-17T02:51:56'
 slug: hamilelik-ve-rontgen
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamilelik-ve-rontgen/'

@@ -3,7 +3,7 @@ title: Amniyosentez
 pubDate: '2014-03-15T21:23:34'
 slug: amniyosentez
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/amniyosentez/'

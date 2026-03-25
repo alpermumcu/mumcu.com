@@ -3,7 +3,7 @@ title: Endometriozis
 pubDate: '2014-03-22T17:44:32'
 slug: endometriozis
 category:
-  - Tüp Bebek & İnfertilite
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/endometriozis/'

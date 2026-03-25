@@ -3,7 +3,7 @@ title: Laparoskopi
 pubDate: '2014-03-26T17:14:30'
 slug: laparoskopi
 category:
-  - Tüp Bebek & İnfertilite
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/laparoskopi/'

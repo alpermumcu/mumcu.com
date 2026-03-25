@@ -3,7 +3,7 @@ title: Hamilelikte aspirin ve progesteron kullanımı
 pubDate: '2014-03-15T19:52:09'
 slug: hamilelikte-aspirin-ve-progesteron-kullanimi
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamilelikte-aspirin-ve-progesteron-kullanimi/'

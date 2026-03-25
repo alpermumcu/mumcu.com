@@ -3,7 +3,7 @@ title: Spiral kullanımında görülen probemler
 pubDate: '2014-03-24T14:13:15'
 slug: spiral-kullaniminda-gorulen-probemler
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/spiral-kullaniminda-gorulen-probemler/'

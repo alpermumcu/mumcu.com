@@ -3,7 +3,7 @@ title: Yapışık İkizler (Siyam İkizleri)
 pubDate: '2014-03-17T01:53:48'
 slug: yapisik-ikizler-siyam-ikizleri
 category:
-  - Tüp Bebek & İnfertilite
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/yapisik-ikizler-siyam-ikizleri/'

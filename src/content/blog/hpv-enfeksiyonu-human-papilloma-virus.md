@@ -3,7 +3,7 @@ title: HPV Enfeksiyonu (Human papilloma virus)
 pubDate: '2014-03-24T12:55:37'
 slug: hpv-enfeksiyonu-human-papilloma-virus
 category:
-  - Cerrahi İşlemler
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hpv-enfeksiyonu-human-papilloma-virus/'

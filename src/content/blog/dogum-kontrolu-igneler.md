@@ -3,7 +3,7 @@ title: Doğum Kontrolü- İğneler
 pubDate: '2014-03-24T14:16:35'
 slug: dogum-kontrolu-igneler
 category:
-  - Tüp Bebek & İnfertilite
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dogum-kontrolu-igneler/'

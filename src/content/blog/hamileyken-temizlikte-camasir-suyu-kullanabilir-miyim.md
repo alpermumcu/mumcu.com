@@ -3,7 +3,7 @@ title: Hamileyken temizlikte çamaşır suyu kullanabilir miyim?
 pubDate: '2014-03-17T23:29:59'
 slug: hamileyken-temizlikte-camasir-suyu-kullanabilir-miyim
 category:
-  - Jinekoloji & Kadın Sağlığı
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamileyken-temizlikte-camasir-suyu-kullanabilir-miyim/'

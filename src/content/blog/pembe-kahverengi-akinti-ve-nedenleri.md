@@ -3,7 +3,7 @@ title: Pembe kahverengi akıntı ve nedenleri
 pubDate: '2018-09-24T00:26:18'
 slug: pembe-kahverengi-akinti-ve-nedenleri
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/pembe-kahverengi-akinti-ve-nedenleri/'

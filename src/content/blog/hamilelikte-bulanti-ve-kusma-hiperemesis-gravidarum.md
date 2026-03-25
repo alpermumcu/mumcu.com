@@ -3,7 +3,7 @@ title: Hamilelikte bulantı ve kusma (hiperemesis gravidarum)
 pubDate: '2014-03-15T16:16:40'
 slug: hamilelikte-bulanti-ve-kusma-hiperemesis-gravidarum
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamilelikte-bulanti-ve-kusma-hiperemesis-gravidarum/'

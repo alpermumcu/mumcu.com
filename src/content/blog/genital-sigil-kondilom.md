@@ -3,7 +3,7 @@ title: Genital Siğil (Kondilom)
 pubDate: '2014-03-24T12:57:48'
 slug: genital-sigil-kondilom
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/genital-sigil-kondilom/'

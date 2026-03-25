@@ -3,7 +3,7 @@ title: Salin İnfüzyon Sonografi
 pubDate: '2015-12-14T16:49:37'
 slug: salin-infuzyon-sonografi
 category:
-  - Gebelik & Doğum
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/salin-infuzyon-sonografi/'

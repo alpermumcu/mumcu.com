@@ -3,7 +3,7 @@ title: Fetal gelişme kısıtlılığı
 pubDate: '2016-05-08T23:28:23'
 slug: fetal-gelisme-kisitliligi
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/fetal-gelisme-kisitliligi/'

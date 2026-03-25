@@ -3,7 +3,7 @@ title: 20. Hafta &#8211; Yarı yol
 pubDate: '2014-03-31T00:34:22'
 slug: 20-hafta-yari-yol
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/20-hafta-yari-yol/'

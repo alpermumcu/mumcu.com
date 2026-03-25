@@ -3,7 +3,7 @@ title: Vajinal enfeksiyonlardan korunma önerileri
 pubDate: '2014-03-24T12:29:07'
 slug: vajinal-enfeksiyonlardan-korunma-onerileri
 category:
-  - Jinekoloji & Kadın Sağlığı
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/vajinal-enfeksiyonlardan-korunma-onerileri/'

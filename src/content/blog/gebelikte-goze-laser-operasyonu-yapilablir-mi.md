@@ -3,7 +3,7 @@ title: Gebelikte göze Laser operasyonu yapılablir mi?
 pubDate: '2016-05-03T14:22:44'
 slug: gebelikte-goze-laser-operasyonu-yapilablir-mi
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/gebelikte-goze-laser-operasyonu-yapilablir-mi/'

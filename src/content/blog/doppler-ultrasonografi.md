@@ -3,7 +3,7 @@ title: Doppler Ultrasonografi
 pubDate: '2014-03-18T01:21:03'
 slug: doppler-ultrasonografi
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/doppler-ultrasonografi/'

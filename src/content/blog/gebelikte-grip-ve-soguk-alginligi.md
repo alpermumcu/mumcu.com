@@ -3,7 +3,7 @@ title: Gebelikte grip ve soğuk algınlığı
 pubDate: '2014-03-18T00:09:47'
 slug: gebelikte-grip-ve-soguk-alginligi
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/gebelikte-grip-ve-soguk-alginligi/'

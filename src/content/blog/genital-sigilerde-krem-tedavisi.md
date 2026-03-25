@@ -3,7 +3,7 @@ title: Genital siğilerde krem tedavisi
 pubDate: '2014-03-24T12:58:21'
 slug: genital-sigilerde-krem-tedavisi
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/genital-sigilerde-krem-tedavisi/'

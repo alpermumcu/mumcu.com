@@ -3,7 +3,7 @@ title: Çocuğuma nasıl olumlu alışkanlık kazandırabilirim?
 pubDate: '2014-03-20T18:21:21'
 slug: cocuguma-nasil-olumlu-aliskanlik-kazandirabilirim
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/cocuguma-nasil-olumlu-aliskanlik-kazandirabilirim/'

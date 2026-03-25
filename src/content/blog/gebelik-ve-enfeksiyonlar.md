@@ -3,7 +3,7 @@ title: Gebelik ve enfeksiyonlar
 pubDate: '2014-03-17T01:44:51'
 slug: gebelik-ve-enfeksiyonlar
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/gebelik-ve-enfeksiyonlar/'

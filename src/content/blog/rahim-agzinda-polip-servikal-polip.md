@@ -3,7 +3,7 @@ title: Rahim ağzında polip (servikal polip)
 pubDate: '2018-08-12T11:50:40'
 slug: rahim-agzinda-polip-servikal-polip
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/rahim-agzinda-polip-servikal-polip/'

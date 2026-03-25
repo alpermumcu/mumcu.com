@@ -3,7 +3,7 @@ title: Çocuk sahibi olmak ömrü uzatıyor olabilir
 pubDate: '2017-04-06T00:01:12'
 slug: cocuk-sahibi-olmak-omru-uzatiyor-olabilir
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/cocuk-sahibi-olmak-omru-uzatiyor-olabilir/'

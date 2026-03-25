@@ -3,7 +3,7 @@ title: Seyahatte kasılmalarım başlarsa ne yapmalıyım?
 pubDate: '2014-03-17T04:20:17'
 slug: seyahatte-kasilmalarim-baslarsa-ne-yapmaliyim
 category:
-  - Jinekoloji & Kadın Sağlığı
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/seyahatte-kasilmalarim-baslarsa-ne-yapmaliyim/'

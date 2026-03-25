@@ -3,7 +3,7 @@ title: Klamidya aşısı yolda
 pubDate: '2016-07-29T00:30:07'
 slug: klamidya-asisi-yolda
 category:
-  - Gebelik & Doğum
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/klamidya-asisi-yolda/'

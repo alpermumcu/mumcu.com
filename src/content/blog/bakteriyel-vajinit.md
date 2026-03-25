@@ -3,7 +3,7 @@ title: Bakteriyel Vajinit
 pubDate: '2014-03-24T12:24:36'
 slug: bakteriyel-vajinit
 category:
-  - Jinekoloji & Kadın Sağlığı
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/bakteriyel-vajinit/'

@@ -3,7 +3,7 @@ title: Hamile kalmaya karar verdiğinizde&#8230;
 pubDate: '2014-03-15T14:30:10'
 slug: hamile-kalmaya-karar-verdiginizde
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamile-kalmaya-karar-verdiginizde/'

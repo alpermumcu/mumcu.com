@@ -3,7 +3,7 @@ title: Spiral ne zaman takılmalıdır?
 pubDate: '2014-03-24T14:15:17'
 slug: spiral-ne-zaman-takilmalidir
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/spiral-ne-zaman-takilmalidir/'

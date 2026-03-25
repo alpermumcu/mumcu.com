@@ -3,7 +3,7 @@ title: İkili Test (11-14 testi) ve fetal ense kalınlığı
 pubDate: '2014-03-15T21:28:05'
 slug: ikili-test-11-14-testi-ve-fetal-ense-kalinligi
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/ikili-test-11-14-testi-ve-fetal-ense-kalinligi/'

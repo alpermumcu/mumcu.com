@@ -3,7 +3,7 @@ title: İdrarda yapılan gebelik testleri
 pubDate: '2014-03-15T15:47:53'
 slug: idrarda-yapilan-gebelik-testleri
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/idrarda-yapilan-gebelik-testleri/'

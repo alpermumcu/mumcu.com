@@ -3,7 +3,7 @@ title: Genital sağlığınız ile ilgili 9 öneri
 pubDate: '2017-04-20T00:00:11'
 slug: genital-sagliginiz-ile-ilgili-9-oneri
 category:
-  - Jinekoloji & Kadın Sağlığı
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/genital-sagliginiz-ile-ilgili-9-oneri/'

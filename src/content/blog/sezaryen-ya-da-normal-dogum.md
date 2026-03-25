@@ -3,7 +3,7 @@ title: Sezaryen ya da normal doğum
 pubDate: '2014-03-20T19:03:17'
 slug: sezaryen-ya-da-normal-dogum
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/sezaryen-ya-da-normal-dogum/'

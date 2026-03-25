@@ -3,7 +3,7 @@ title: Kolposkopi
 pubDate: '2014-03-24T12:59:42'
 slug: kolposkopi
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/kolposkopi/'

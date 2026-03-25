@@ -3,7 +3,7 @@ title: Genel Anestezi
 pubDate: '2014-03-20T17:53:52'
 slug: genel-anestezi
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/genel-anestezi/'

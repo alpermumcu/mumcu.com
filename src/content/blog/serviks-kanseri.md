@@ -3,7 +3,7 @@ title: Serviks Kanseri
 pubDate: '2014-03-26T16:28:57'
 slug: serviks-kanseri
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/serviks-kanseri/'

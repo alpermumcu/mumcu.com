@@ -3,7 +3,7 @@ title: Gebelik ve Hemoroid (Basur)
 pubDate: '2014-04-05T03:23:02'
 slug: gebelik-ve-hemoroid-basur
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/gebelik-ve-hemoroid-basur/'

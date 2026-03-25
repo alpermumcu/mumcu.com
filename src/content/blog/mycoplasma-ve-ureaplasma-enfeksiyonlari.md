@@ -3,7 +3,7 @@ title: Mycoplasma ve ureaplasma enfeksiyonları
 pubDate: '2014-03-24T12:43:34'
 slug: mycoplasma-ve-ureaplasma-enfeksiyonlari
 category:
-  - Tüp Bebek & İnfertilite
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/mycoplasma-ve-ureaplasma-enfeksiyonlari/'

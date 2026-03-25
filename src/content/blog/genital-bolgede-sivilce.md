@@ -3,7 +3,7 @@ title: Genital bölgede sivilce
 pubDate: '2017-06-15T07:34:23'
 slug: genital-bolgede-sivilce
 category:
-  - Tüp Bebek & İnfertilite
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/genital-bolgede-sivilce/'

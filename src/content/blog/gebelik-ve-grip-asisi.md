@@ -3,7 +3,7 @@ title: Gebelik ve Grip Aşısı
 pubDate: '2014-03-18T00:10:24'
 slug: gebelik-ve-grip-asisi
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/gebelik-ve-grip-asisi/'

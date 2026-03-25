@@ -3,7 +3,7 @@ title: Diş tedavileri ne zaman yapılmalıdır?
 pubDate: '2014-03-16T18:58:00'
 slug: dis-tedavileri-ne-zaman-yapilmalidir
 category:
-  - Gebelik & Doğum
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dis-tedavileri-ne-zaman-yapilmalidir/'

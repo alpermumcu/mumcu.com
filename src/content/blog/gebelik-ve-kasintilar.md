@@ -3,7 +3,7 @@ title: Gebelik ve kaşıntılar
 pubDate: '2014-03-17T02:53:44'
 slug: gebelik-ve-kasintilar
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/gebelik-ve-kasintilar/'

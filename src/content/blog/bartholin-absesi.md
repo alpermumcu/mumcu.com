@@ -3,7 +3,7 @@ title: Bartholin Absesi
 pubDate: '2014-03-24T12:39:44'
 slug: bartholin-absesi
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/bartholin-absesi/'

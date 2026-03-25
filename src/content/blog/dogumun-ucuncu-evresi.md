@@ -3,7 +3,7 @@ title: Doğumun üçüncü evresi
 pubDate: '2014-03-20T17:37:40'
 slug: dogumun-ucuncu-evresi
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/dogumun-ucuncu-evresi/'

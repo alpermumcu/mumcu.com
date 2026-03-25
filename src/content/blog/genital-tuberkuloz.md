@@ -3,7 +3,7 @@ title: Genital Tüberküloz
 pubDate: '2014-03-24T12:27:32'
 slug: genital-tuberkuloz
 category:
-  - Tüp Bebek & İnfertilite
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/genital-tuberkuloz/'

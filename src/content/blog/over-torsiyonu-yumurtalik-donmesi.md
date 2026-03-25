@@ -3,7 +3,7 @@ title: Over torsiyonu (yumurtalık dönmesi)
 pubDate: '2014-03-22T20:11:22'
 slug: over-torsiyonu-yumurtalik-donmesi
 category:
-  - Tüp Bebek & İnfertilite
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/over-torsiyonu-yumurtalik-donmesi/'

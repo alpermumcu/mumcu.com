@@ -3,7 +3,7 @@ title: Vajina hakkında bilmeniz gereken 12 önemli konu
 pubDate: '2017-09-24T16:06:03'
 slug: vajina-hakkinda-bilmeniz-gereken-12-onemli-konu
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/vajina-hakkinda-bilmeniz-gereken-12-onemli-konu/'

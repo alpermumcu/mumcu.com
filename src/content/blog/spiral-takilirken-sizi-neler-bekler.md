@@ -3,7 +3,7 @@ title: Spiral takılırken sizi neler bekler
 pubDate: '2014-03-24T14:14:41'
 slug: spiral-takilirken-sizi-neler-bekler
 category:
-  - Gebelik & Doğum
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/spiral-takilirken-sizi-neler-bekler/'

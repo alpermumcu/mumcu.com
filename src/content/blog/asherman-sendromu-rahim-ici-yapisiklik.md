@@ -3,7 +3,7 @@ title: Asherman Sendromu &#8211; Rahim içi yapışıklık
 pubDate: '2014-03-22T20:22:48'
 slug: asherman-sendromu-rahim-ici-yapisiklik
 category:
-  - Gebelik & Doğum
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/asherman-sendromu-rahim-ici-yapisiklik/'

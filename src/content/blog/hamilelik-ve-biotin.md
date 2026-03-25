@@ -3,7 +3,7 @@ title: Hamilelik ve Biotin
 pubDate: '2014-03-16T19:06:47'
 slug: hamilelik-ve-biotin
 category:
-  - Tüp Bebek & İnfertilite
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamilelik-ve-biotin/'

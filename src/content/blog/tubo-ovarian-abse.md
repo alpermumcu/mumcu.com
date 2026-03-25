@@ -3,7 +3,7 @@ title: Tubo-ovarian abse
 pubDate: '2014-03-24T12:20:24'
 slug: tubo-ovarian-abse
 category:
-  - Cerrahi İşlemler
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/tubo-ovarian-abse/'

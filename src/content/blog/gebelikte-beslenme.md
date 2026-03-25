@@ -3,7 +3,7 @@ title: Gebelikte beslenme
 pubDate: '2014-03-16T19:03:35'
 slug: gebelikte-beslenme
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/gebelikte-beslenme/'

@@ -3,7 +3,7 @@ title: Hamilelik ve Flor
 pubDate: '2014-03-16T19:12:47'
 slug: hamilelik-ve-flor
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamilelik-ve-flor/'

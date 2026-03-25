@@ -3,7 +3,7 @@ title: Folik asit
 pubDate: '2014-03-15T15:41:13'
 slug: folik-asit
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/folik-asit/'

@@ -3,7 +3,7 @@ title: Üreme Tedavileri çiftlerin büyük kısmında işe yarıyor
 pubDate: '2016-07-11T05:11:45'
 slug: ureme-tedavileri-ciftlerin-buyuk-kisminda-ise-yariyor
 category:
-  - Gebelik & Doğum
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/ureme-tedavileri-ciftlerin-buyuk-kisminda-ise-yariyor/'

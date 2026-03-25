@@ -3,7 +3,7 @@ title: Gebelik ve yiyecekler
 pubDate: '2014-03-16T19:24:42'
 slug: gebelik-ve-yiyecekler
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/gebelik-ve-yiyecekler/'

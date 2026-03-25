@@ -3,7 +3,7 @@ title: Diğer Over Kanserleri
 pubDate: '2014-03-26T16:32:16'
 slug: diger-over-kanserleri
 category:
-  - Jinekoloji & Kadın Sağlığı
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/diger-over-kanserleri/'

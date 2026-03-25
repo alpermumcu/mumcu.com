@@ -4,7 +4,7 @@ pubDate: '2020-10-18T21:40:48'
 heroImage: '/images/blog/lazer-tedavisi.png'
 slug: vajinal-kuruluk-tedavisinde-lazer
 category:
-  - Tüp Bebek & İnfertilite
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/vajinal-kuruluk-tedavisinde-lazer/'

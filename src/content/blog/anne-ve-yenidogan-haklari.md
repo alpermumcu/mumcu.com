@@ -3,7 +3,7 @@ title: Anne ve Yenidoğan Hakları
 pubDate: '2014-03-27T14:57:49'
 slug: anne-ve-yenidogan-haklari
 category:
-  - Gebelik & Doğum
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/anne-ve-yenidogan-haklari/'

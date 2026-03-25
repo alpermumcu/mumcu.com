@@ -3,7 +3,7 @@ title: Genç kızlarda adet düzensizlikleri önemli olabilir
 pubDate: '2015-12-02T07:00:48'
 slug: genc-kizlarda-adet-duzensizlikleri-onemli-olabilir
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/genc-kizlarda-adet-duzensizlikleri-onemli-olabilir/'

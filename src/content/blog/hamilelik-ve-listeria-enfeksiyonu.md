@@ -3,7 +3,7 @@ title: Hamilelik ve listeria enfeksiyonu
 pubDate: '2014-03-18T00:11:39'
 slug: hamilelik-ve-listeria-enfeksiyonu
 category:
-  - Tüp Bebek & İnfertilite
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hamilelik-ve-listeria-enfeksiyonu/'

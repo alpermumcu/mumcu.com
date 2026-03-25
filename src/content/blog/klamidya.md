@@ -3,7 +3,7 @@ title: Klamidya
 pubDate: '2015-02-08T12:41:22'
 slug: klamidya
 category:
-  - Tüp Bebek & İnfertilite
+  - Estetik Jinekoloji
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/klamidya/'

@@ -3,7 +3,7 @@ title: Hangi vitamin ve mineralden ne kadar almanız gerekli
 pubDate: '2014-03-16T19:33:00'
 slug: hangi-vitamin-ve-mineralden-ne-kadar-almaniz-gerekli
 category:
-  - Jinekoloji & Kadın Sağlığı
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/hangi-vitamin-ve-mineralden-ne-kadar-almaniz-gerekli/'
