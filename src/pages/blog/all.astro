@@ -2,6 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { getHeroImage } from '../../data/category-defaults';
 
 const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -25,12 +26,17 @@ const posts = (await getCollection('blog')).sort(
 		<div class="posts-list">
 			{posts.map((post) => (
 				<a href={`/blog/${post.slug}/`} class="post-item glass">
+					<div class="item-thumb">
+						<img src={getHeroImage(post.slug, (post.data.category || [])[0], post.data.heroImage)} alt="" loading="lazy" />
+					</div>
 					<div class="item-meta">
 						<span class="cat">{post.data.category?.[0]}</span>
 						<span class="date">{post.data.pubDate.toLocaleDateString('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' })}</span>
 					</div>
-					<h3>{post.data.title}</h3>
-					<span class="time">⏱️ {post.data.readingTime} dk okuma</span>
+					<div class="item-title">
+						<h3>{post.data.title}</h3>
+						<span class="time">⏱️ {post.data.readingTime} dk okuma</span>
+					</div>
 				</a>
 			))}
 		</div>
@@ -63,17 +69,32 @@ const posts = (await getCollection('blog')).sort(
 	}
 	.post-item {
 		display: grid;
-		grid-template-columns: 150px 1fr 120px;
+		grid-template-columns: 80px 150px 1fr;
 		align-items: center;
-		padding: 1.5rem 2rem;
-		border-radius: 20px;
+		padding: 1rem 1.5rem;
+		border-radius: 16px;
 		text-decoration: none;
 		transition: all 0.3s ease;
 		gap: 2rem;
+		background: white;
+		border: 1px solid var(--glass-border);
 	}
 	.post-item:hover {
 		transform: translateX(10px);
 		border-color: hsl(var(--accent) / 0.3);
+		background: hsl(var(--secondary) / 0.05);
+	}
+	.item-thumb {
+		width: 80px;
+		height: 60px;
+		border-radius: 8px;
+		overflow: hidden;
+		background: hsl(var(--secondary) / 0.2);
+	}
+	.item-thumb img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
 	}
 	.item-meta {
 		display: flex;
@@ -90,6 +111,11 @@ const posts = (await getCollection('blog')).sort(
 		font-size: 0.8rem;
 		color: hsl(var(--text-muted));
 	}
+	.item-title {
+		display: flex;
+		flex-direction: column;
+		gap: 0.25rem;
+	}
 	h3 {
 		font-size: 1.15rem;
 		margin: 0;
@@ -99,7 +125,6 @@ const posts = (await getCollection('blog')).sort(
 	.time {
 		font-size: 0.85rem;
 		color: hsl(var(--text-muted));
-		text-align: right;
 	}
 
 	@media (max-width: 768px) {

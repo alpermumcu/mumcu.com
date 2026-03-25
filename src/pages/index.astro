@@ -4,6 +4,7 @@ import CategoryCard from '../components/CategoryCard.astro';
 import FAQAccordion from '../components/FAQAccordion.astro';
 import { getCollection } from 'astro:content';
 import doctorPhoto from '../images/uploads/2020/08/alper-mumcu-photo.jpg';
+import { getHeroImage } from '../data/category-defaults';
 
 // Category Images
 import imgGebelik from '../images/categories/gebelik.png';
@@ -169,11 +170,9 @@ const faqItems = [
 				<div class="grid">
 					{posts.map((post) => (
 						<article class="post-card">
-							{post.data.heroImage && (
-								<div class="post-image">
-									<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
-								</div>
-							)}
+							<div class="post-image">
+								<img src={getHeroImage(post.slug, (post.data.category || [])[0], post.data.heroImage)} alt={post.data.title} loading="lazy" />
+							</div>
 							<div class="post-content">
 								<div class="post-meta">
 									<span class="post-date">{post.data.pubDate.toLocaleDateString('tr-TR', { day: 'numeric', month: 'long', year: 'numeric'})}</span>
@@ -462,6 +461,40 @@ const faqItems = [
 		margin-bottom: 1.5rem;
 		line-height: 1.4;
 		color: hsl(var(--text-main));
+	}
+
+	.more-link {
+		margin-top: auto;
+		display: inline-flex;
+		align-items: center;
+		color: hsl(var(--accent));
+		text-decoration: none;
+		font-weight: 800;
+		font-size: 0.95rem;
+		gap: 0.5rem;
+		transition: all 0.3s ease;
+		position: relative;
+		width: fit-content;
+	}
+
+	.more-link::after {
+		content: '';
+		position: absolute;
+		bottom: -4px;
+		left: 0;
+		width: 0;
+		height: 2px;
+		background: hsl(var(--accent));
+		transition: width 0.3s ease;
+	}
+
+	.more-link:hover {
+		gap: 0.75rem;
+		color: hsl(var(--accent) / 0.8);
+	}
+
+	.more-link:hover::after {
+		width: 100%;
 	}
 
 	.btn {
