@@ -58,6 +58,7 @@ Evet, düzenli ve hafif egzersizler (yürüyüş, yoga vb.) vücudunuzun kondisy
     "name": "Dr. Alper Mumcu"
   },
   "datePublished": "2014-03-31T04:13:01",
+  "dateModified": "2026-03-25T16:30:00",
   "image": "https://www.mumcu.com/favicon.svg"
 }
 </script>
