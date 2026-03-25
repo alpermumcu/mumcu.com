@@ -44,6 +44,25 @@ Evet, düzenli ve hafif egzersizler (yürüyüş, yoga vb.) vücudunuzun kondisy
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "1. Hafta - Hamilelik Başlıyor: Planlama ve Hazırlık Süreci",
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Alper Mumcu",
+    "url": "https://www.mumcu.com/dr-alper-mumcu/"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Dr. Alper Mumcu"
+  },
+  "datePublished": "2014-03-31T04:13:01",
+  "image": "https://www.mumcu.com/favicon.svg"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {
