@@ -3,10 +3,11 @@ title: Gebelikte beslenme
 pubDate: '2014-03-16T19:03:35'
 slug: gebelikte-beslenme
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-beslenme/
+originalUrl: 'https://www.mumcu.com/gebelikte-beslenme/'
+readingTime: 6
 ---
 
 Beslenmenin gebeliğin seyrinde ve sonucunda çok büyük etkileri vardır. Hamile olsun ya da olmasın kişinin sağlıklı bir yaşam sürdürebilmesinin temelinde doğru ve yeterli beslenme yatar. Hamile kadınlarda beslenme ayrı bir öneme sahiptir. Gelişmekte olan bebeğinizin gereksinimlerini karşılamak ve onun sizin dışınızdaki yaşama yeterli olarak hazırlanmasını sağlamanın dışında rahat ve sorunsuz bir hamilelik ve lohusalık dönemi geçirmek için de doğru beslenmeniz gerekir.

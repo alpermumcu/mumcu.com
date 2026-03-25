@@ -3,10 +3,11 @@ title: İmplanon
 pubDate: '2014-03-24T14:20:12'
 slug: implanon
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/implanon/
+originalUrl: 'https://www.mumcu.com/implanon/'
+readingTime: 3
 ---
 
 İstenmeyen gebeliklerin önlenmesi amacıyla implant adındaki cilt altına yerleştirilen ve hormon salgılayan çubuklar uzun zamandır ülkemizde ve dünyada kullanılmaktadır. Toplam 6 tane olan bu çubuklar kol iç yüzeyinde cildin hemen altına yerleştirilerek 5 yıl boyunca koruma sağlarlar.

@@ -3,10 +3,11 @@ title: Hamilelikte nefes darlığı
 pubDate: '2014-03-16T03:19:27'
 slug: hamilelikte-nefes-darligi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-nefes-darligi/
+originalUrl: 'https://www.mumcu.com/hamilelikte-nefes-darligi/'
+readingTime: 1
 ---
 
 Nefes darlığı hamilelik döneminde en sık karşılaşılan yakınmalardan birisidir. Özellikle hamileleiğin son dönemlerine doğru nefes darlığı sorunu yaşanabilir. Bu durumun temel nedeni büyüyen rahimin karın ve göğüs boşluklarını birbirinden ayıran diyafram kasını yukarı doğru itmesidir. Ayrıca gebelik sırasında vücudunuzun oksijen gereksinimi daha da artacağından daha hızlı ve sık nefes almaya başlarsınız.

@@ -3,13 +3,14 @@ title: 40. Hafta-Muhteşem final
 pubDate: '2014-03-30T13:56:16'
 slug: 40-hafta
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/40-hafta/
+originalUrl: 'https://www.mumcu.com/40-hafta/'
+readingTime: 2
 ---
 
-![birthsm](/wp-content/uploads/2014/03/birthsm.jpg)
+![birthsm](../../images/uploads/2014/03/birthsm.jpg)
 
 Eğer hala daha doğum yapmadıysanız iyice sıkılmaya ve sabırsızlanmaya başladınız demektir.
 

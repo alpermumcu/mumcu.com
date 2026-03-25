@@ -3,10 +3,11 @@ title: Genital siğilerde krem tedavisi
 pubDate: '2014-03-24T12:58:21'
 slug: genital-sigilerde-krem-tedavisi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/genital-sigilerde-krem-tedavisi/
+originalUrl: 'https://www.mumcu.com/genital-sigilerde-krem-tedavisi/'
+readingTime: 4
 ---
 
 İnsan papilloma virüsleri (HPV) kadın ve erkekte değişik şekillerde enfeksiyona neden olabilen ve temel olarak cinsel yolla bulaşan mikroorganizmalardır. HPV’nin 100’e yakın tipi vardır. Bunların bazıları sadece üreme sisteminde enfeksiyona neden olurlar ve bunlara genital HPV adı verilir.

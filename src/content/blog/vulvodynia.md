@@ -3,10 +3,11 @@ title: Vulvodynia
 pubDate: '2014-03-24T13:31:33'
 slug: vulvodynia
 category:
-  - Makaleler
+  - Cerrahi İşlemler
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/vulvodynia/
+originalUrl: 'https://www.mumcu.com/vulvodynia/'
+readingTime: 2
 ---
 
 Vulvodynia vulva yani kadın dış genital organında kronik rahatsızlık ya da ağrı olarak tanımlanır.

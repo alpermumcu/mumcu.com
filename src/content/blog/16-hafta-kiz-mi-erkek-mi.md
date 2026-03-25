@@ -1,12 +1,13 @@
 ---
-title: 16. Hafta &#8211;  Kız mı, erkek mi?
+title: '16. Hafta &#8211;  Kız mı, erkek mi?'
 pubDate: '2014-03-31T00:46:10'
 slug: 16-hafta-kiz-mi-erkek-mi
 category:
-  - Hafta Hafta Gebelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/16-hafta-kiz-mi-erkek-mi/
+originalUrl: 'https://www.mumcu.com/16-hafta-kiz-mi-erkek-mi/'
+readingTime: 2
 ---
 
 Bu haftada gözler ve kulaklar bebek doğduğunda bulunacakları son lokalizasyonlarına gelirler. Göz kırpma gibi basit refleksler gelişmeye başlar.Benzer şekilde kulaklar da son pozisyonlarını almışlardır.

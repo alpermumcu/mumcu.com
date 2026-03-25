@@ -3,10 +3,11 @@ title: Döllenme
 pubDate: '2014-03-28T00:48:03'
 slug: dollenme
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dollenme/
+originalUrl: 'https://www.mumcu.com/dollenme/'
+readingTime: 2
 ---
 
 OPU işlemi sırasında aspire edilen folikül içeriği hemen laboratuvara gönderilir. Özel bir mikroskop ile incelenen bu sıvının içinde bulunan yumurta kültür sıvısının içine konarak inkübatöre kaldırılır. İnkübatör, sıcaklığı 37 oC, karbondioksit oranını da %5-6 düzeyinde sabit tutar. Olgun yumurta hücreleri 4-6 saat sonra döllenme için hazır hale gelmektedir. KOH sonrası çapı 18-22 mm arasında olan foliküllerin yaklaşık %80’inden döllenmeye uygun olgun yumurta elde edillebilmektedir.

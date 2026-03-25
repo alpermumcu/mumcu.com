@@ -3,13 +3,14 @@ title: Gebelik sırasında egzersiz yapmak zararlı değil
 pubDate: '2017-03-22T15:16:48'
 slug: gebelik-sirasinda-egzersiz-yapmak-zararli-degil
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-sirasinda-egzersiz-yapmak-zararli-degil/
+originalUrl: 'https://www.mumcu.com/gebelik-sirasinda-egzersiz-yapmak-zararli-degil/'
+readingTime: 5
 ---
 
-![](/wp-content/uploads/2017/03/gym.jpg)
+![](../../images/uploads/2017/03/gym.jpg)
 
 Hamile olduğunu çevresine açıklayan bir kadın bir anda kendisini öneri bombardımanı altında bulur. Anneler babalar aile büyükleri arkadaşlar hatta tanımadık insanlar bile pek çok öneri ile zaten hamileliği ve bebeği hakkında endişeler taşıyan kadında daha büyük stres yaratır.
 

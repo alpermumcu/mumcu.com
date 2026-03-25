@@ -3,10 +3,11 @@ title: Gebelik ve Sfiliz (Frengi)
 pubDate: '2018-11-02T12:43:03'
 slug: sfiliz-frengi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/sfiliz-frengi/
+originalUrl: 'https://www.mumcu.com/sfiliz-frengi/'
+readingTime: 4
 ---
 
 1500’lü yıllardan 1900’lü yılların başına kadar batı dünyasını kasup kavuran ve dolaşım sistemi ile sinir siteminde kalıcı harabiyetlere sebep olan frengi 2. Dünya savaşından sonra keşfedilen güçlü antibiyotikler sayesinde büyük ölçüde önemini yitirmişken, AIDS hastalığının yaygınlaşması ve frengi ile HIV enfeksiyonu arasında yakın ilişki olması nedeni ile yeniden ilgi odağı haline gelmiştir.

@@ -3,14 +3,14 @@ title: Yumurtlama gününü saptayan bileklik
 pubDate: '2016-08-07T03:46:23'
 slug: yumurtlama-gununu-saptayan-bileklik
 category:
-  - Güncel Haberler
-  - Infertilite
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/yumurtlama-gununu-saptayan-bileklik/
+originalUrl: 'https://www.mumcu.com/yumurtlama-gununu-saptayan-bileklik/'
+readingTime: 2
 ---
 
-![fertilitytracker](/wp-content/uploads/2016/08/fertilitytracker.jpg)İçinde olduğumuz modern çağda insanların çoğu artık tesadüfi olarak değil önceden hazırlanarak ve planlayarak çocuk sahibi olma eğiliminde. Dünya üzerinde pek çok kadın bu hedefine sorunsuzca ulaşırken milyonlarcası da hamile kalmak için büyük çaba sarf etmek zorunda kalıyor. Bu sorunun üstesinden gelmek için fertilite yani Üreme sağlığı ile uğraşan hekimler ve firmalar değişik yöntemler öneriyorlar.
+![fertilitytracker](../../images/uploads/2016/08/fertilitytracker.jpg)İçinde olduğumuz modern çağda insanların çoğu artık tesadüfi olarak değil önceden hazırlanarak ve planlayarak çocuk sahibi olma eğiliminde. Dünya üzerinde pek çok kadın bu hedefine sorunsuzca ulaşırken milyonlarcası da hamile kalmak için büyük çaba sarf etmek zorunda kalıyor. Bu sorunun üstesinden gelmek için fertilite yani Üreme sağlığı ile uğraşan hekimler ve firmalar değişik yöntemler öneriyorlar.
 
 Bu yöntemler arasında en kolay uygulanabilen takvim yöntemi adı verileni .
 

@@ -3,10 +3,11 @@ title: Gebeliğin son dönemleri
 pubDate: '2014-03-15T17:27:53'
 slug: gebeligin-son-donemleri
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebeligin-son-donemleri/
+originalUrl: 'https://www.mumcu.com/gebeligin-son-donemleri/'
+readingTime: 4
 ---
 
 Gebelik anne her adayı için heyecan ve keyif verici bir dönemdir. Bebeğin hareket ettiğinin hissedilmesi, gövdede meydana gelen değişiklikler, bebek için hayeller kurmak, alışveriş yapmak anne adayını mutlu kılar. Ancak madalyonun bir de öteki yüzü vardır.Gebeliğin son dönemleri yaklaştıkça heyecan ile birlikte bir takım rahatsızlıklar da artar. Bunların belli başlıları nelerdir ve başa çıkmak için neler yapılabilir?

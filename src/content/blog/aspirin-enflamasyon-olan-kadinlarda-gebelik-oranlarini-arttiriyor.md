@@ -3,11 +3,12 @@ title: Aspirin enflamasyon olan kadınlarda gebelik oranlarını arttırıyor
 pubDate: '2017-02-20T00:20:44'
 slug: aspirin-enflamasyon-olan-kadinlarda-gebelik-oranlarini-arttiriyor
 category:
-  - Güncel Haberler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/aspirin-enflamasyon-olan-kadinlarda-gebelik-oranlarini-arttiriyor/
+readingTime: 3
 ---
 
 Çocuk sahibi olmak isteyen 8-10 çiftten biri ne yazık ki bu isteğine ulaşmakta güçlük yaşıyor. Yapılan yeni bir araştırma kronik enflamasyon sorunu olan kadınlarda düşük doz aspirin kullanımının gebe kalma şansını arttırabileceğini düşündürüyor.

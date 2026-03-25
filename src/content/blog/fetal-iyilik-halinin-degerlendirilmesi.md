@@ -3,10 +3,11 @@ title: Fetal iyilik halinin değerlendirilmesi
 pubDate: '2014-03-15T21:34:09'
 slug: fetal-iyilik-halinin-degerlendirilmesi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/fetal-iyilik-halinin-degerlendirilmesi/
+originalUrl: 'https://www.mumcu.com/fetal-iyilik-halinin-degerlendirilmesi/'
+readingTime: 4
 ---
 
 Fetusun anne karnındayken yaptığı bazı hareketlerin ve değişik uyarılara verdiği cevapların değerlendirilerek fetusun anne karnında güvende olup olmadığını anlamaya yarayan testlerdir.

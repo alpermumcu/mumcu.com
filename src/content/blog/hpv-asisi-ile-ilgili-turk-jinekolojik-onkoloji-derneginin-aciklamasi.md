@@ -3,11 +3,12 @@ title: HPV aşısı ile ilgili Türk Jinekolojik Onkoloji Derneğinin açıklama
 pubDate: '2014-12-15T20:33:40'
 slug: hpv-asisi-ile-ilgili-turk-jinekolojik-onkoloji-derneginin-aciklamasi
 category:
-  - Gündelik Konular
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/hpv-asisi-ile-ilgili-turk-jinekolojik-onkoloji-derneginin-aciklamasi/
+readingTime: 1
 ---
 
 **FDA HPV Aşılarının Servikal Kanseri Yok Etmede Yeni Bir Yöntem Olduğunu Kanıtladı**

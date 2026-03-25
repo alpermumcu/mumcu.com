@@ -3,10 +3,11 @@ title: Detaylı Ultrasonografi
 pubDate: '2014-03-18T01:17:14'
 slug: detayli-ultrasonografi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/detayli-ultrasonografi/
+originalUrl: 'https://www.mumcu.com/detayli-ultrasonografi/'
+readingTime: 4
 ---
 
 İdeal bir gebelik takibinin en önemli aşamalarından birisi de gelişmekte olan bebeğin tüm organ ve oluşumlarının detaylı bir şekilde incelendiği ayrıntılı fetal incelemedir. Bu inceleme halk arasında zaman zaman yanlış şekilde renkli ultrason olarak adlandırılmakla birlikte hekimler arasında da ikinci düzey ultrasonografi, ikinci trimester ultrasonografi taraması, ayrıntılı fetal inceleme, fetal anatomik inceleme gibi değişik isimler ile anılmaktadır. Bu yazıda ise kolaylık olması açısından kısaca detaylı ultrasonografi olarak anılacaktır.

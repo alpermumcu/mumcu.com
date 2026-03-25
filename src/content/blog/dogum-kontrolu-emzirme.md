@@ -3,10 +3,11 @@ title: Doğum Kontrolü- Emzirme
 pubDate: '2014-03-24T13:49:00'
 slug: dogum-kontrolu-emzirme
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-kontrolu-emzirme/
+originalUrl: 'https://www.mumcu.com/dogum-kontrolu-emzirme/'
+readingTime: 2
 ---
 
 Laktasyon yani süt salgılanması tüm dünyada doğum aralıklarının uzamasında önemli bir rol oynar. Emzirme alışkanlığı ve şekileri yaşanılan coğrafyaya göre değişiklikler gösterir. Gelişmiş ülkelerde annelerin yarısı en az 6 ay süreyle emzirirken gelişmekte olan ülkelerde bu oran %90’lara kadar çıkar.

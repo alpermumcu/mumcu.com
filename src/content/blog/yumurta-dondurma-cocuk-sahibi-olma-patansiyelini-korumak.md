@@ -3,13 +3,12 @@ title: Yumurta Dondurma
 pubDate: '2015-05-21T03:38:35'
 slug: yumurta-dondurma-cocuk-sahibi-olma-patansiyelini-korumak
 category:
-  - Güncel Haberler
-  - Hamilelik
-  - Tüp Bebek Haber
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/yumurta-dondurma-cocuk-sahibi-olma-patansiyelini-korumak/
+readingTime: 10
 ---
 
 Apple ve Facebook gibi dünyanın en değerli iki şirketinin kadın çalışanları için yumurta dondurma ücretlerini karşılayacaklarını duyurması, dikkatleri bir anda son dönemde özellikle ilk anne olma yaşının hızla arttığı Amerika Birleşik Devletleri ve diğer gelişmiş ülkelerde giderek popüler hale gelen bu konuya yöneltti.

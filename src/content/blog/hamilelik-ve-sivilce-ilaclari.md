@@ -3,10 +3,11 @@ title: Hamilelik ve sivilce ilaçları
 pubDate: '2014-03-17T02:39:03'
 slug: hamilelik-ve-sivilce-ilaclari
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-sivilce-ilaclari/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-sivilce-ilaclari/'
+readingTime: 5
 ---
 
 Halk arasında sivilce olarak bilinen akne’nin tedavisinde pekçok değişik madde ve ilaç kullanılmaktadır. Bunların bir kısmı ağızdan alınan ilaçlarken bir kısmı ise yüzeysel olarak uygulanan krem ve solüsyonlardır. Hamile olan ya da hamile kalmayı planlayan kadınlarda sivilce ilaçlarının kullanımı her zaman endişe yaratmaktadır. Bu tür ilaçların kullanımına bağlı bebek üzerinde ortaya çıkabilecek potasiyel riskleri hesaplarken ilacın türnün yanısıra kullanım şekli de büyük önem kazanmakatadır.

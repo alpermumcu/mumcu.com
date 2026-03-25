@@ -3,11 +3,12 @@ title: Doğum kontrol haplarının kontrasepsiyon dışı etkileri ve yararları
 pubDate: '2014-03-24T14:07:18'
 slug: dogum-kontrol-haplarinin-kontrasepsiyon-disi-etkileri-ve-yararlari
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/dogum-kontrol-haplarinin-kontrasepsiyon-disi-etkileri-ve-yararlari/
+readingTime: 5
 ---
 
 Doğum kontrol haplarının istenmeyen gebeliklerden korunma dışında kadın sağlığı açısından pekçok olumlu etkisi de vardır. Bu etkilerin bir kısmı ilacın direkt etkisi ile ortaya çıkarken, bazıları da indirekt olarak görülen yararlardır. Bazı hastalıklarda ise doğum kontrol hapları tedavi edici ajan olarak reçete edilirler.

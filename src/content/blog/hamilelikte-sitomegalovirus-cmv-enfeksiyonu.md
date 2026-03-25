@@ -3,10 +3,11 @@ title: Hamilelikte sitomegalovirüs (CMV) enfeksiyonu
 pubDate: '2016-12-07T00:09:09'
 slug: hamilelikte-sitomegalovirus-cmv-enfeksiyonu
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-sitomegalovirus-cmv-enfeksiyonu/
+originalUrl: 'https://www.mumcu.com/hamilelikte-sitomegalovirus-cmv-enfeksiyonu/'
+readingTime: 6
 ---
 
 Sitomegalovirüs (Cytomegalovirus, CMV) herpes ailesinden bir virüstür. Bu aileye dahil olan diğer virüsler uçuğa neden olan herpes simplleks virüsü ile su çiçeğine neden olan virüstür.

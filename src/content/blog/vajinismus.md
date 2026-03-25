@@ -3,10 +3,11 @@ title: Vajinismus
 pubDate: '2014-03-24T16:38:09'
 slug: vajinismus
 category:
-  - Makaleler
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/vajinismus/
+originalUrl: 'https://www.mumcu.com/vajinismus/'
+readingTime: 2
 ---
 
 Vajinismus vajina girişini çevreleyen kasların istemsiz olarak kasılması ve sonuçta penetrasyona izin vermemesidir. Yanlız cinsel işikide değil muayene, tampon gibi bazı durumlara da müsade etmez. Oldukça nadir görülen bir durumdur. Hemen bütün yaş grubundaki kadınları etkileyebilir. Görülme sıklığı tam olarak bilinmemektedir. Bunun nedeni hastaların hekime başvurmada çekingen davranmalarıdır. Tahmin edilen her 100 kadından ikisinde bu duruma rastlanıldığıdır.

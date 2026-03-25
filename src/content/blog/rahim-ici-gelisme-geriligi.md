@@ -3,10 +3,11 @@ title: Rahim içi gelişme geriliği
 pubDate: '2014-03-15T20:50:13'
 slug: rahim-ici-gelisme-geriligi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/rahim-ici-gelisme-geriligi/
+originalUrl: 'https://www.mumcu.com/rahim-ici-gelisme-geriligi/'
+readingTime: 3
 ---
 
 Rahim içi gelişme geriliği (Intrauterine growth retardation, IUGR) anne karnındaki bebeğin gebeliğn yaşına göre olması gerekenden küçük olduğu anlamına gelir.

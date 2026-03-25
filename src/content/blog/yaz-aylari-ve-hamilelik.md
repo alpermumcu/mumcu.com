@@ -3,10 +3,11 @@ title: Yaz ayları ve hamilelik
 pubDate: '2016-07-14T00:01:11'
 slug: yaz-aylari-ve-hamilelik
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/yaz-aylari-ve-hamilelik/
+originalUrl: 'https://www.mumcu.com/yaz-aylari-ve-hamilelik/'
+readingTime: 5
 ---
 
 Yaz demek pek çok insan için güneş, kum ve deniz demektir. Bütün senenin yorgunluğunun atıldığı, plajarda serin içeceklerin tüketildiği yaz günleri tüm çalışma ayları boyunca hayelleri süsler. Bebek bekleyen anne adayları için ise yaz ayları gebelik öncesindeki yaz dönemlerine göre biraz daha farklılık gösterir .

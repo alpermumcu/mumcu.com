@@ -3,10 +3,11 @@ title: Bebek planlarken bunu yapmayın
 pubDate: '2016-05-15T11:53:19'
 slug: bebek-planlarken-bunu-yapmayin
 category:
-  - Güncel Haberler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/bebek-planlarken-bunu-yapmayin/
+originalUrl: 'https://www.mumcu.com/bebek-planlarken-bunu-yapmayin/'
+readingTime: 3
 ---
 
 Bir bebek sahibi olmaya karar vermek insanın hayatında verdiği en önemli kararlardan birisi belki de en önemlisidir. Bu karar son derece heyecan verici olduğu gibi eğer umduğunuz kadar çabuk gerçekleşmezse aşırı derecede stres verici de olabilir. Aylar geçtikçe ve umutla beklerken adet kanamanız başlayınca stres de ister istemez artar. Oysa gebelik çoğu kadın için karar verildiği anda gerçekleşen bir olay değildir.

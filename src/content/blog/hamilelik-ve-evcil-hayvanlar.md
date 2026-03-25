@@ -3,10 +3,11 @@ title: Hamilelik ve evcil hayvanlar
 pubDate: '2014-03-17T23:27:45'
 slug: hamilelik-ve-evcil-hayvanlar
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-evcil-hayvanlar/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-evcil-hayvanlar/'
+readingTime: 4
 ---
 
 Modern toplumlarda olduğu gibi ülkemizde de evcil havyan besleme alışkanlığı giderek yaygınlık kazanmakta. Pek çok insan evinde kedi, köpek, kuş gibi hayvanlarla beraber yaşamakta. Bu durum evdeki bireylerin sağlığı açısından herhangi bir kaygı yaratmamakla birlikte bireylerden bir hamile kaldığında ya da hamile kalmayı planladığında bu sevimli dostlarımız kadının ve bebeğin sağlığı açısından ciddi endişelere neden olabilmekte.

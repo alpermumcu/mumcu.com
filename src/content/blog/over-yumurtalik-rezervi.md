@@ -3,10 +3,11 @@ title: Over (Yumurtalık) Rezervi
 pubDate: '2015-08-25T15:09:30'
 slug: over-yumurtalik-rezervi
 category:
-  - Infertilite
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/over-yumurtalik-rezervi/
+originalUrl: 'https://www.mumcu.com/over-yumurtalik-rezervi/'
+readingTime: 6
 ---
 
 Marieclaire dergisinin Amerika edisyonunun 25 Haziran 2015 tarihli sayısında yayınlanan bir haberde, Amerika Birleşik Devletlerinin en ünlü bankalarından birinin başkanı olan oldukça barasılı bir kadının öyküsünden söz edililiyor. Danilelle Coate 2011 yılında 35 yasındayken çocuk sahibi olmaya karar veriyor ancak zaman ilerleyip bir türlü hamile kalamayınca doktoru ile görüşüyor ancak doktorunun önerilerine uyup denemeye devam ederken iki tane de düşük yaşayınca bir üreme sağlığı uzmanına başvurmaya karar veriyor.

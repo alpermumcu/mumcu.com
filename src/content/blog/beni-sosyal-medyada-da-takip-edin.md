@@ -3,10 +3,11 @@ title: Beni sosyal medyada da takip edin
 pubDate: '2014-03-14T17:04:23'
 slug: beni-sosyal-medyada-da-takip-edin
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/beni-sosyal-medyada-da-takip-edin/
+originalUrl: 'https://www.mumcu.com/beni-sosyal-medyada-da-takip-edin/'
+readingTime: 1
 ---
 
 Mumcu.com sosyal medyada

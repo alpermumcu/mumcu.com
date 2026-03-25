@@ -3,10 +3,11 @@ title: Doğum kontrol hapları hakkında yanlış bilinenler
 pubDate: '2014-03-24T14:08:29'
 slug: dogum-kontrol-haplari-hakkinda-yanlis-bilinenler
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-kontrol-haplari-hakkinda-yanlis-bilinenler/
+originalUrl: 'https://www.mumcu.com/dogum-kontrol-haplari-hakkinda-yanlis-bilinenler/'
+readingTime: 3
 ---
 
 **Yanliş 1  

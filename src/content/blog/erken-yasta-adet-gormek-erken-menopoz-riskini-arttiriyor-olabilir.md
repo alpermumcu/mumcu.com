@@ -3,11 +3,12 @@ title: Erken yaşta adet görmek erken menopoz riskini arttırıyor olabilir.
 pubDate: '2017-01-31T00:00:26'
 slug: erken-yasta-adet-gormek-erken-menopoz-riskini-arttiriyor-olabilir
 category:
-  - Güncel Haberler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/erken-yasta-adet-gormek-erken-menopoz-riskini-arttiriyor-olabilir/
+readingTime: 3
 ---
 
 Konu ile yapılmış en geniş kapsamlı ve çok uluslu bir çalışmanın sonuçlarına göre 11 yaşında ya da daha önce adet görmeye başlayan kadınlar erken menopoz açısından artmış risk altında. Üstelik bu kadınlar hayatları boyunca çocuk sahibi olmazlar ise erken menepoz riski daha da artıyor.

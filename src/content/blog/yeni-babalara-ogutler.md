@@ -3,10 +3,11 @@ title: Yeni babalara öğütler
 pubDate: '2014-03-20T18:15:00'
 slug: yeni-babalara-ogutler
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/yeni-babalara-ogutler/
+originalUrl: 'https://www.mumcu.com/yeni-babalara-ogutler/'
+readingTime: 1
 ---
 
 Tüm gebelik ve doğum boyunca herkesin dikkati anne adayına yönelmiştir. Bu durum baba adayları üzerinde olumsuz etkilere yaratabilir. Pek çok erkek doğum yapma şansı olmadığı için çok memnun olmasına rağmen anne adayına yönelen bu ilgiden az da olsa kıskançlık duyar. İşte baba ve baba adaylarına birkaç küçük öneri

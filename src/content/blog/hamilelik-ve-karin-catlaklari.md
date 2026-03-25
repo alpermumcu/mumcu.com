@@ -3,10 +3,11 @@ title: Hamilelik ve karın çatlakları
 pubDate: '2014-03-17T23:31:42'
 slug: hamilelik-ve-karin-catlaklari
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-karin-catlaklari/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-karin-catlaklari/'
+readingTime: 4
 ---
 
 Anne adaylarını bebeklerinin sağlığı ve rahat bir hamilelik geçirip geçirmeyecekleri doğal olarak oldukça fazla endişelendirmektedir.Hamilelik ikinci üç aylık döneme ulaştığında bu endişeler bir nebze azalır ve kozmetik konular daha fazla önem kazanmaya başlar. Bu konuların en başında gelen de kuşkusuz hamilikte ortaya çıkması olası karın çatlaklarıdır. Gebelik bazı cilt değişikliklerine neden olabilir. Bu değişikliklerin büyük çoğunluğu hormonal değişimler ile ilgilidir. Yüzde görülebilen renk değişimleri, avuç içlerinde kızarıklık ya da kaşıntılı deri döküntüleri nispeten daha nadir görülürler. Hemen hemen bütün hamile kadınlarda görülen bir diğer değişim de karnın ortasından geçen siyah bir çizgi ortaya çıkmasıdır. Ancak anne adaylarını en fazla rahatsız eden cilt değişikliği karında görülen cilt çatlaklarıdır.

@@ -1,13 +1,14 @@
 ---
-title: 21. Yüzyıl Hipokrat yemini, günün ihtiyaçlara uygun olacak.
+title: '21. Yüzyıl Hipokrat yemini, günün ihtiyaçlara uygun olacak.'
 pubDate: '2010-03-27T15:40:38'
 slug: 21-yuzyil-hipokrat-yemini-gunun-ihtiyaclara-uygun-olacak
 category:
-  - Gündelik Konular
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/21-yuzyil-hipokrat-yemini-gunun-ihtiyaclara-uygun-olacak/
+readingTime: 1
 ---
 
 Uzmanlar, yeni etik kodların, hasta-doktor ilişkisinde bir mihenk taşı olacağını belirtiyor

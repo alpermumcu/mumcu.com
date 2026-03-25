@@ -3,10 +3,11 @@ title: 39. Hafta &#8211; Tüyleri dökülüyor
 pubDate: '2014-03-30T14:01:54'
 slug: 39-hafta-tuyleri-dokuluyor
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/39-hafta-tuyleri-dokuluyor/
+originalUrl: 'https://www.mumcu.com/39-hafta-tuyleri-dokuluyor/'
+readingTime: 2
 ---
 
 Son haftaya girildiğinde oksijen ve besin maddelerini bebeğinize taşıyan göbek kordonunun uzunluğu yaklaşık 50 kalınlığı ise 1.3 santimetre civarındadır.

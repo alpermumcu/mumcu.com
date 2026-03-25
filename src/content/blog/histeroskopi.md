@@ -3,10 +3,11 @@ title: Histeroskopi
 pubDate: '2014-04-07T17:12:58'
 slug: histeroskopi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/histeroskopi/
+originalUrl: 'https://www.mumcu.com/histeroskopi/'
+readingTime: 5
 ---
 
 Rahim içini ilgilendiren hastalıkların tanısı ya da tadavisi amacı ile rahim iç boşluğununun çeşitli optik aletler ile direkt olarak gözlenmesi histeroskopi olarak adlandırılır. Bu işlem için kullanılan enstrümana ise histeroskop adı verilir. Histeroskop yaklaşık 9 milimetre çapında, içinde optik lensler bulunan ve arkasına takılan bir kamera yardımı ile görüntünün dijital ortama aktarılarak ekrandan izlenebildiği bir sistemdir. Bu sistemin kenarından girilen ince aletler yardımı ile çeşitli operasyonlar yapılabilir.

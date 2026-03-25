@@ -3,10 +3,11 @@ title: Makat Geliş- Bebeğin ters durması
 pubDate: '2014-03-17T01:45:29'
 slug: makat-gelis-bebegin-ters-durmasi
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/makat-gelis-bebegin-ters-durmasi/
+originalUrl: 'https://www.mumcu.com/makat-gelis-bebegin-ters-durmasi/'
+readingTime: 6
 ---
 
 Hamileliğiniz süresince bebeğiniz sürekli hareket halindedir. Erken dönemlerde bebek ile içinde yüzdüğü sıvı karşılaştırıldığında sıvı daha büyük yer tutar. Bu nedenle bebek rahim içerisinde sürekli dönebilir, yer değiştirebilir ve bebek her türlü pozisyonda olabilir. Bebek ve rahimin şekli genelde bebeğin duruşunu belirler. Hamileliğiniz ilerledikçe bebeğinizin eğilimi baş aşağı durmak şeklindedir. Bebeğin önde gelen kısmına prezente olan kısım ya da prezentasyon adı verilir.

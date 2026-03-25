@@ -3,10 +3,11 @@ title: Hamilelik ve süt
 pubDate: '2014-03-16T19:31:22'
 slug: hamilelik-ve-sut
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-sut/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-sut/'
+readingTime: 3
 ---
 
 Hamile olduğunu çevresine söyleyen bir kadın bir anda büyük bir bilgi ve öneri bombardmanına maruz kalır. Aile büyükleri başta olmak üzere daha önce bir hamilelik deneyimi geçiren çevredeki herkes kendi bildiği doğruları yeni hamileye empoze etmeye çalışır. Bu önerilerden en sık karşılaşılanlardan birisi de kuşkusuz süt içmektir.

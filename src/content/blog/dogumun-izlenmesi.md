@@ -3,10 +3,11 @@ title: Doğumun izlenmesi
 pubDate: '2014-03-20T17:26:07'
 slug: dogumun-izlenmesi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogumun-izlenmesi/
+originalUrl: 'https://www.mumcu.com/dogumun-izlenmesi/'
+readingTime: 2
 ---
 
 Fetal Moniterizasyon doğum eylemi esnasında bebeğin kalp atım paternleri bebeğin durumunu yansıtır.

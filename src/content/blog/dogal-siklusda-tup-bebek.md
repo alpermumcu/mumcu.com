@@ -3,10 +3,11 @@ title: Doğal siklusda tüp bebek
 pubDate: '2014-03-28T00:50:18'
 slug: dogal-siklusda-tup-bebek
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogal-siklusda-tup-bebek/
+originalUrl: 'https://www.mumcu.com/dogal-siklusda-tup-bebek/'
+readingTime: 3
 ---
 
 Dünyada ilk tüp bebek denemesi, tüp problemi olan bir kadında, yumurtalıklarını önceden uyarmadan, yani onun doğal siklusunda oluşan yumurta ile kocasının spermi kullanılarak yapıldı. Bu teknolojiyi dünyada ilk kez başaran kişiler Edwards ve Steptoe oldu ve ilk denemeleri dış gebelik ile sonuçlandı, yani embryo rahim içinde değil, tüpde yerleşti. İkinci deneme ise başarılı oldu ve sonuçta bir kız çocuğu, Louise Brown dünyaya gelen ilk tüp bebek olarak tarihe geçti. Daha sonraları ise,bugün de kullandığımız ve kadının adet döngüsünü kontrol ederek daha fazla sayıda yumurta elde edebilmeyi sağlayan ilaçlar geliştirildi. Yumurtalığı uyarmak suretiyle daha fazla yumurta, takiben daha fazla embryo ve sonuçta daha yüksek gebelik oranları elde etmek geride kalan 22 yıllık serüvende kısırlık uzmanlarının hedefi oldu.

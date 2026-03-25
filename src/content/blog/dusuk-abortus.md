@@ -3,10 +3,11 @@ title: Düşük (Abortus)
 pubDate: '2014-03-15T19:39:01'
 slug: dusuk-abortus
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dusuk-abortus/
+originalUrl: 'https://www.mumcu.com/dusuk-abortus/'
+readingTime: 14
 ---
 
 Bebek sahibi olmak isteyip de adet kanaması geciken bir kadının ilk aklına gelen olasılık doğal olarak hamile olduğudur. Büyük bir heyecan ile jinekoloğuna giden ya da eczaneden aldığı testi yaptıktan sonra gerçekten hamile olduğu kadının ve eşinin sevinci çiftin hayatındaki önemli anlardan birisidir.Bu mutluluk doğum gerçekleşip de aileye yeni bir birey katılmasıyla birlikte başka bir boyut kazanır.

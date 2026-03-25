@@ -3,10 +3,11 @@ title: Ertesi gün hapları
 pubDate: '2014-03-24T14:36:18'
 slug: ertesi-gun-haplari
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/ertesi-gun-haplari/
+originalUrl: 'https://www.mumcu.com/ertesi-gun-haplari/'
+readingTime: 2
 ---
 
 Korunmasız girilen cinsel ilişkiden sonra istenmeyen bir gebeliği önlemek için uygulanan yöntemler acil kontrasepsiyon olarak tanımlanır. Bu amaçla ilişkiden sonraki ilk 72 saat içinde yüksek doz östrojen ve progesteron ya da sadece progesteron içeren haplar alınabileceği gibi, ilk 7 gün içinde spiral de takilabilir.

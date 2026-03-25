@@ -3,11 +3,11 @@ title: İnfertilite sorunu yaşayanlar için destek önerileri
 pubDate: '2017-04-17T00:00:30'
 slug: infertilite-sorunu-yasayanlar-icin-destek-onerileri
 category:
-  - Hamilelik
-  - Infertilite
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/infertilite-sorunu-yasayanlar-icin-destek-onerileri/
+originalUrl: 'https://www.mumcu.com/infertilite-sorunu-yasayanlar-icin-destek-onerileri/'
+readingTime: 4
 ---
 
 Çocuk sahibi olmaya karar verildiğinde duygu durumunda da değişimler görülür. Biraz zaman geçip de gebelik olmaz ise duygular dalgalanmaya başlar. Endişe, kaygı, korku gibi duygular zaman zaman kişinin hayatını olumsuz etkileyebilir. Bu durumu atlatmak için işte bazı öneriler

@@ -3,10 +3,11 @@ title: Doğum kontrol yönteminin başarısız olması
 pubDate: '2014-03-24T13:45:50'
 slug: dogum-kontrol-yonteminin-basarisiz-olmasi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-kontrol-yonteminin-basarisiz-olmasi/
+originalUrl: 'https://www.mumcu.com/dogum-kontrol-yonteminin-basarisiz-olmasi/'
+readingTime: 3
 ---
 
 Planlanmamış hamileliklerin %53’ü bir doğum kontrol yöntemi kullanan kadınlarda görülmektedir. Amerikan Tıp Birliğinin resmi yayın organı olan JAMA’da 1999 yılında yayınlanan bir araştırma planlanmamış hamileliklerin önemli bir kısmının- yaklaşık %76’sının- yirmili yaşlardaki kadınlarda görüldüğünü ortaya koymaktadır. Pek neden bu kadar çok kadın doğum kontrol yöntemi kulandığı halde gebe kalıyor.

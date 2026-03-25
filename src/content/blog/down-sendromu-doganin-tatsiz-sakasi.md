@@ -3,10 +3,11 @@ title: Down Sendromu- Doğanın tatsız şakası
 pubDate: '2014-03-16T03:30:15'
 slug: down-sendromu-doganin-tatsiz-sakasi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/down-sendromu-doganin-tatsiz-sakasi/
+originalUrl: 'https://www.mumcu.com/down-sendromu-doganin-tatsiz-sakasi/'
+readingTime: 13
 ---
 
 Eğer hamile iseniz bebek bekleyen anne adaylarının hepsinin en büyük ortak korkusunu çok büyük bir olasılıkla siz de yaşıyorsunuz demektir. Bu ortak korku bebeğin zeka özürlü olma olasılığıdır. Pek çok faktör bireyin zekasında rol oynar ancak bu nedelerden en iyi ve halk arasında en çok bilineni Down Sendromu ya da eski adıyla mongolizm’dir. Down sendromunun komuoyunda sık sık gündeme gelmesi ve adının geçmesi ve özellikle yaşı ileri annelerin bebeklerinde daha fazla görüldüğü bilgisi zeka geriliğini nerdeyse Down Sendromu ile özdeşleştirmiştir. Zeka özürü dışında pek çok yapısal ve fonkisyonel bozukluğu da bünyesinde barındıran Down sendromu ya da bilimsel adıyla “**_Trizomi 21_**” kromozomal bir bozukluktur.
@@ -25,11 +26,11 @@ Hücreler bölünerek çoğalırlar. Doğada iki tür bölünme vardır. Mitoz b
 
 Down sendromunda hücrelerde 46 değil 47 kromozom vardır ve fazla olan kromzom 21. kromzomdur. Başka bir değişle 21. kromozomdan 2 değil 3 tane vardır.
 
-![disjun](/wp-content/uploads/2014/03/disjun.gif)
+![disjun](../../images/uploads/2014/03/disjun.gif)
 
 Hücre bölünmesi sırasında pekçok hata ortaya çıkabilir. Mayoz bölünme sırasında kromozom çiftleri birbirinden uzaklaşarak farklı hücrelere dağılırlar. Buna ayrılma ya da **disjunction** adı verilir. Bazı durumlarda bir çift kromozom ayrılmaz ve kromozom çifti beraberce bölünen hücrelerden birine geçer. Nondisjunction ya da ayrılmama adı verilen bu durum olduğunda bölünme sonrası ortaya çıkan hücrelerden birinde 22 kromozom varken diğerinde 24 kromozom bulunur. Eğer bu eksik ya da fazla sayıda kromozom taşıyan hücre döllenme olayına katılır ve normal sayıda kromozom içeren bir sperm ya da yumurta ile döllenirse sonuçta ortaya çıkan embryoda normalden farklı sayıda kromozom olacaktır. Ayrılmama en sık 21. kromozomda olur. 2 tane 21. kromozom içeren 24 kromozomlu bir üreme hücresi normalde olması gerektiği gibi 1 tane 21. kromozom taşıyan bir üreme hücresi ile birleştiğinde embryoda 3 tane 21. kromozom bulunacakır. Bu durum **trizomi 21** yani Down sendromudur. Down Sendromu olgularının %95’inde altta yatan neden işte bu ayrılmamadır. Tam tersi durumda hiç 21. kromozom içermeyen 22 kromozomlu bir sperm ya da yumurta normal yapıda bir sperm ya da yumurta ile birleştiğinde sadece 1 adet 21. kromozomu olan toplam 45 kromozomlu bir embryo oluşur. Buna monozomi adı verilir. Monozomi varlığında gebelik genelde düşükle sonuçlanır.
 
-![down0051](/wp-content/uploads/2014/03/down0051.gif)
+![down0051](../../images/uploads/2014/03/down0051.gif)
 
 Ayrılmama en sık 21. kromozomda görülmekle birlikte 13 v 18 kromozomlarda hatta çok nadir olarak diğerlerinde de görülebilir.
 

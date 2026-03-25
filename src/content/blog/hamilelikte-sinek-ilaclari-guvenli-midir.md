@@ -3,10 +3,11 @@ title: Hamilelikte sinek ilaçları güvenli midir?
 pubDate: '2014-03-17T23:28:53'
 slug: hamilelikte-sinek-ilaclari-guvenli-midir
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-sinek-ilaclari-guvenli-midir/
+originalUrl: 'https://www.mumcu.com/hamilelikte-sinek-ilaclari-guvenli-midir/'
+readingTime: 3
 ---
 
 Sıcak yaz günlerinin gelmesi ile birlikte alışkın olduğumuz bir problem ile yine karşı karşıya kaldık: Sivrsinekler. Böyle günlerde hamile kadınların sıkça sordukları soruların başında sinek ilaçlarının bebeklerine zarar verip vermeyeceği geliyor. Gerçekten de sinek de olsa bir canlı türünün hayatını sona erdiren bir maddenin gelişmekte olan bebek üzerinde olumsuz etkileri olmasını beklemek son derece normal. Ancak pratikte yaşananlar böyle değil.

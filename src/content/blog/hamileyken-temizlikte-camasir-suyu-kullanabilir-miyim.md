@@ -3,10 +3,11 @@ title: Hamileyken temizlikte çamaşır suyu kullanabilir miyim?
 pubDate: '2014-03-17T23:29:59'
 slug: hamileyken-temizlikte-camasir-suyu-kullanabilir-miyim
 category:
-  - Makaleler
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamileyken-temizlikte-camasir-suyu-kullanabilir-miyim/
+originalUrl: 'https://www.mumcu.com/hamileyken-temizlikte-camasir-suyu-kullanabilir-miyim/'
+readingTime: 1
 ---
 
 Hamilelikte çamaşır suyu ve benzeri temizlik malzemelerini kullanabilirsiniz. Eğer bulunduğunuz ortam iyi havalanıyorsa temizlik malzemeleri ve çamaşır suyu kullanmanın bebeğiniz üzerinde olumsuz bir etkisi olmaz. Ancak özellikle çamaşır suyu kullanırken cildinizin ve ellerinizin zarar görmemesi için mutlaka eldiven kullanmalısınız.

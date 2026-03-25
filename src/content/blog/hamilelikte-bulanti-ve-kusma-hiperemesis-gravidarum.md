@@ -3,10 +3,11 @@ title: Hamilelikte bulantı ve kusma (hiperemesis gravidarum)
 pubDate: '2014-03-15T16:16:40'
 slug: hamilelikte-bulanti-ve-kusma-hiperemesis-gravidarum
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-bulanti-ve-kusma-hiperemesis-gravidarum/
+originalUrl: 'https://www.mumcu.com/hamilelikte-bulanti-ve-kusma-hiperemesis-gravidarum/'
+readingTime: 9
 ---
 
 Günlük yaşamda midesi bulanan birisine en sık yapılan espirilerden birisi hamilemisin? diye sormaktır. Filmlerin bir çoğunda karakterlerden birinin hamile kaldığı izlenimi durup dururken midesinin bulanması ya da kusması yoluyla verilir. Hamilelik ve bulantı arasındaki ilişki bu derece güçlüdür.

@@ -3,11 +3,12 @@ title: Uzun etkili doğum kontrol yöntemleri gençleri kürtaj olmaktan koruyor
 pubDate: '2014-12-04T10:21:52'
 slug: uzun-etkili-dogum-kontrol-yontemleri-gencleri-kurtaj-olmaktan-koruyor
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/uzun-etkili-dogum-kontrol-yontemleri-gencleri-kurtaj-olmaktan-koruyor/
+readingTime: 2
 ---
 
 Ingiltere’de yapılan yeni bir çalışmada gençler arasında uzun etkili ve geri dönüşlü doğum kontrol yöntemleri kullanımının gebelik ve kürtaj oranlarını anlamlı ölçüde azalttığı gösterildi.

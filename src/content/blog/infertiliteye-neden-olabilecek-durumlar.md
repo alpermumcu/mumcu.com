@@ -3,10 +3,11 @@ title: İnfertiliteye neden olabilecek durumlar
 pubDate: '2015-01-06T22:44:00'
 slug: infertiliteye-neden-olabilecek-durumlar
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/infertiliteye-neden-olabilecek-durumlar/
+originalUrl: 'https://www.mumcu.com/infertiliteye-neden-olabilecek-durumlar/'
+readingTime: 5
 ---
 
 İstenildiği halde çocuk sahibi olamamak yani infertilite modern çağın önemli sorunlarından biri. Pekçok çift herhangi bilinen bir sorunu olmamasına rağmen bu sıkıntıyı yaşıyor. Oysa insan dediğimiz canlının üremesi sanıldığı kadar kolay değil. Fertiliteyi yani üremeyi etkileyebilecek pek çok faktör söz konusu ve bunlara hergün yenileri ekleniyor. Üstelik insanların çoğu üreme potansiyellerini nelerin etkiyelebileceğinden habersiz. İşte çocuk sahibi olmada güçlüğe yol açabilecek faktörlerden bazıları

@@ -3,10 +3,11 @@ title: Jinekolojik Muayene
 pubDate: '2014-03-22T17:28:08'
 slug: jinekolojik-muayene
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/jinekolojik-muayene/
+originalUrl: 'https://www.mumcu.com/jinekolojik-muayene/'
+readingTime: 8
 ---
 
 Çok kısa bir zaman almasına sadece 1-2 dakika sürmesine rağmen jinekolojik muayene pek çok kadında heyecan ve korku uyandırır. Bu endişeler özellikle ilk defa muayene olacak kişilerde doruk noktasındadır. Düzenli jinekolojik muayene kadın sağlığının vaz geçilmez bir ögesidir. Herhangi bir şikayeti olsun ya da olmasın cinsel yönden aktif olan her kadının yılda bir defa muayene olması son derece önemlidir. Bu sayede kanser dahil pekçok hastalık erken devrelerde fark edilebilir ve çok kolay yöntemler ile tedavi edilebilir.
@@ -81,7 +82,7 @@ Anamnez aşaması sona erdikten sonra doktorunuz siz ve yakınmalarınız hakkı
 
 **Muayene**
 
-![jinmasa](/wp-content/uploads/2014/03/jinmasa.jpg)
+![jinmasa](../../images/uploads/2014/03/jinmasa.jpg)
 
 **Jinekolojik muayenede kullandığımız masa**
 

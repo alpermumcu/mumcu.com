@@ -1,6 +1,9 @@
 ---
 import { type CollectionEntry, getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import ReadingProgress from '../components/ReadingProgress.astro';
+import Sidebar from '../components/Sidebar.astro';
 
 export async function getStaticPaths() {
 	const pages = await getCollection('pages');
@@ -16,47 +19,88 @@ const { Content } = await page.render();
 ---
 
 <Layout title={page.data.title}>
-	<main>
-		<article>
-			{page.data.heroImage && <img width={1020} height={510} src={page.data.heroImage} alt="" />}
-			<h1 class="title">{page.data.title}</h1>
-			<hr />
-			<div class="content">
+  <ReadingProgress />
+	<div class="content-wrapper container">
+    <article class="post-content">
+      <Breadcrumbs 
+        parts={[
+          { label: page.data.title }
+        ]} 
+      />
+      
+			{page.data.heroImage && <img width={1020} height={510} src={page.data.heroImage} alt="" class="hero-img" />}
+			<h1 class="title font-outfit">{page.data.title}</h1>
+			
+			<div class="prose">
 				<Content />
 			</div>
 		</article>
-	</main>
+    <Sidebar />
+	</div>
 </Layout>
 
 <style>
-	main {
-		width: calc(100% - 2rem);
-		max-width: 800px;
-		margin: auto;
-		padding: 3em 1em;
-		color: white;
+	.content-wrapper {
+		margin: 8rem auto 4rem;
+		display: grid;
+		grid-template-columns: 1fr 320px;
+		gap: 4rem;
+	}
+	.post-content {
+		background: white;
+		border: 1px solid var(--glass-border);
+		border-radius: 32px;
+		padding: 4rem;
+		box-shadow: var(--shadow-sm);
 	}
 	.title {
-		margin-bottom: 0.5em;
+		font-size: 3.5rem;
+		color: hsl(var(--text-main));
+		line-height: 1.1;
+		margin: 1.5rem 0 3.5rem;
+		font-weight: 800;
+		padding-bottom: 2rem;
+		border-bottom: 1px solid var(--glass-border);
 	}
-	hr {
-		border-top: 1px solid #334155;
-		margin: 1rem 0;
-	}
-	.content {
+	.prose {
+		color: hsl(var(--text-main));
 		line-height: 1.8;
+		font-size: 1.15rem;
 	}
-	.content :global(p) {
+	.prose :global(p) {
+		margin-bottom: 2rem;
+	}
+	.prose :global(h2), .prose :global(h3) {
+		color: hsl(var(--text-main));
+		margin-top: 4rem;
 		margin-bottom: 1.5rem;
+		font-family: 'Outfit', sans-serif;
+		font-weight: 800;
 	}
-	.content :global(h2), .content :global(h3) {
-		margin-top: 2rem;
-		margin-bottom: 1rem;
-	}
-	.content :global(img) {
+	.prose :global(h2) { font-size: 2.25rem; }
+	.prose :global(h3) { font-size: 1.75rem; }
+
+	.hero-img {
 		max-width: 100%;
 		height: auto;
-		border-radius: 8px;
-		margin: 2rem 0;
+		border-radius: 20px;
+		margin-bottom: 2rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	@media (max-width: 1024px) {
+		.content-wrapper {
+			grid-template-columns: 1fr;
+			margin-top: 6rem;
+		}
+	}
+	@media (max-width: 768px) {
+		.post-content {
+			padding: 2rem;
+			border-radius: 24px;
+		}
+		.title {
+			font-size: 2.25rem;
+		}
 	}
 </style>

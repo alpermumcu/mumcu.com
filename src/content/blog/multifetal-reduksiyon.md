@@ -3,10 +3,11 @@ title: Multifetal redüksiyon
 pubDate: '2014-03-28T00:33:21'
 slug: multifetal-reduksiyon
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/multifetal-reduksiyon/
+originalUrl: 'https://www.mumcu.com/multifetal-reduksiyon/'
+readingTime: 2
 ---
 
 Çoğul gebelik kadının rahmi içinde birden fazla bebeğin gelişmesini ifade eder. Genel popülasyonda bu olay tüm gebeliklerin %1-2’sini oluştururken, fertilite ilaçları ve tüp bebek gibi yüksek teknoloji içeren uygulamalarda çok daha sık karşımıza çıkar. Yardımcı üreme teknolojileri ile elde edilen çoğul gebeliklerde en sık görülen ikiz gebeliklerdir, ancak ,üçüz, dördüz ve hatta daha fazla sayıda gebeliklere de rastlanabilmektedir.

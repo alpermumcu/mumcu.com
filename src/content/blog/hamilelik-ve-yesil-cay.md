@@ -3,10 +3,11 @@ title: Hamilelik ve yeşil çay
 pubDate: '2014-12-09T21:27:57'
 slug: hamilelik-ve-yesil-cay
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-yesil-cay/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-yesil-cay/'
+readingTime: 4
 ---
 
 Üreme ve gebe kalma ile ilgili olanlar da dahil sağlıklı yaşam ile ilgili pekçok web sitesinde yeşil çayın mucizelerini anlatan yazılara ve haberlere çokça rastlıyoruz.  Özellikle fertilite ile ilgili sitelerde ve forumlarda rahim ağzı salgısını arttırarak gebelik şansını yükselttiği yönünde bilgi paylaşımları olduğunu görüyoruz. Öte yandan yeşil çay kafein içeriğinin daha düşük olması nedeni ile kahvenin yerini alabilecek bir içecek olarak lanse ediliyor.

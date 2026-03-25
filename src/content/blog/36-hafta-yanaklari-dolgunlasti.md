@@ -3,10 +3,11 @@ title: 36. Hafta- Yanakları dolgunlaştı
 pubDate: '2014-03-30T21:08:37'
 slug: 36-hafta-yanaklari-dolgunlasti
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/36-hafta-yanaklari-dolgunlasti/
+originalUrl: 'https://www.mumcu.com/36-hafta-yanaklari-dolgunlasti/'
+readingTime: 2
 ---
 
 Mutlu finale sadece 4 hafta kaldı (eğer sezaryen olacaksanız 2 hafta kadar daha zamanınınz var demektir). Bebek ise hemen hemen hazırlandı. Her an doğum kanalına girebilir. Bu haftada yağ birikimi diz ve dirseklerde hızlanıyor. Boyun ve bilekleri de unutmamak lazım. Bebeğinizin diş etleri de olgunlaşmasını tamamladı ve artık sert.

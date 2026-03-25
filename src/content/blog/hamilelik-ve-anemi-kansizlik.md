@@ -3,10 +3,11 @@ title: Hamilelik ve anemi (kansızlık)
 pubDate: '2014-03-17T02:44:16'
 slug: hamilelik-ve-anemi-kansizlik
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-anemi-kansizlik/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-anemi-kansizlik/'
+readingTime: 5
 ---
 
 Halk arasında kansızlık olarak da bilinen anemi özellikle ülkemizde önemli bir sağlık sorunudur. Oksijen kanda hemoglobin adı verilen bir proteine bağlanarak taşınır Alyuvarlarda bulunan hemoglobin aynı zamanda kana kırmızı rengi veren maddedir. Hemoglobinin normalden düşük olması ise anemi olarak isimlendirilir.

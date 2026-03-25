@@ -3,10 +3,11 @@ title: Yaklaşan doğumun belirtileri
 pubDate: '2014-03-20T17:23:01'
 slug: yaklasan-dogumun-belirtileri
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/yaklasan-dogumun-belirtileri/
+originalUrl: 'https://www.mumcu.com/yaklasan-dogumun-belirtileri/'
+readingTime: 3
 ---
 
 Büyük olasılıkla tüm gebeliğiniz boyunca etrafınızdaki pekçok kadın size kendi doğum öyküsünü anlatacak, bazısı çok zorlandığını bazıları da çok rahat bir doğum yaptığını söyleyecektir. Bu hikayelerin ortak yanı hiçbirinin diğerinin aynısı olmamasıdır. Gerçekten de doğum eylemi özel bir durumdur. Farklıkadınlarda değişik şekillerde olduğu gibi aynı kadının farklı doğumları da birbirinden çok değişik olabilir.

@@ -18,8 +18,8 @@ Lazer teknolojilerinin gelişmesi ve ucuzlaması da bu tür girişimlerde hastal
 
 Günümüzde kendi kliniğimizde de başarı ile uygulanan genital estetik uygulamaları hakkında güncel bilgilere aşağıdaki bağlantılardan ulaşabilirsiniz.
 
-> [Vajen Estetiği](?p=1485)  
-> [Lazer ile vajina estetiği ve sıkılaştırma](?p=2311)  
-> [Labioplasti vulva estetigi ve dudakların küçültülmesi](?p=2697)
+> [Vajen Estetiği](/blog/vajen-estetigi/)  
+> [Lazer ile vajina estetiği ve sıkılaştırma](/blog/lazer-ile-vajina-estetigi-ve-sikilastirma/)  
+> [Labioplasti vulva estetigi ve dudakların küçültülmesi](/blog/labioplasti-vulva-estetigi-ve-dudaklarin-kucultulmesi/)
 > 
-> [Vajinal kuruluk tedavisinde lazer](?p=4305) Vajinal kuruluk artık etkili bir şekilde önlenebiliyor
+> [Vajinal kuruluk tedavisinde lazer](/blog/vajinal-kuruluk-tedavisinde-lazer/) Vajinal kuruluk artık etkili bir şekilde önlenebiliyor

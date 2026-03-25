@@ -3,10 +3,11 @@ title: İnfertilite nedenleri
 pubDate: '2014-03-27T13:12:43'
 slug: infertilite-nedenleri
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/infertilite-nedenleri/
+originalUrl: 'https://www.mumcu.com/infertilite-nedenleri/'
+readingTime: 2
 ---
 
 Cinsel ilişki sonucu normal yollardan gebelik elde edilebilmesi için:

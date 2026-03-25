@@ -3,10 +3,11 @@ title: Amniyotomi- Doktorun su kesesini açması
 pubDate: '2014-03-20T17:39:04'
 slug: amniyotomi-doktorun-su-kesesini-acmasi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/amniyotomi-doktorun-su-kesesini-acmasi/
+originalUrl: 'https://www.mumcu.com/amniyotomi-doktorun-su-kesesini-acmasi/'
+readingTime: 2
 ---
 
 Bebek rahim içinde büyümesini sürdürürken amniyon adı verilen bir kesenin içinde bulunur. Amniyon zarı ile çevrili olan bu kesenin içinde bebek ve içinde yüzdüğü sıvı olan amniyon sıvısı vardır.

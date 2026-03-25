@@ -3,10 +3,11 @@ title: Yapışık İkizler (Siyam İkizleri)
 pubDate: '2014-03-17T01:53:48'
 slug: yapisik-ikizler-siyam-ikizleri
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/yapisik-ikizler-siyam-ikizleri/
+originalUrl: 'https://www.mumcu.com/yapisik-ikizler-siyam-ikizleri/'
+readingTime: 4
 ---
 
 Çoğul gebelikler asırlardır insanları büyülemeye devem etmektedir. Oysa ikiz gebeliklerin bir de mutlu sonla noktalanmayan şekli vardır. Bu tür bebekler binlerce yıl insanları korkutmuş, Tanrı’ların gazabının bir şekli olarak nitelendirilmiş ve adeta afaroz edilmişlerdir. Bu bebekler doğanın belkide en acımasız oyununa maruz kalan yapışık ikizlerdir. Zamanla çok Tanrılı dinlerden tek Tanrılı dinlere geçildikçe bebekler Tanrının gazabı olmaktan çok hilkat garibesi olarak kabul edilmiş ve uygun yaşa kadar ulaşabilenler sirklerde para karşılığı insanlara seyrilik olarak dahi sunulmuştur. Günümüzde ise yapışık ikizlerin nasıl meydana geldiği anlaşılmakla beraber önlenmesi ve doğum sonrası tedavileri konusunda önemli şlerlemeler kaydedilememiştir.

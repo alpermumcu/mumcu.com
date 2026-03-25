@@ -3,15 +3,16 @@ title: Gebelikte alkol kullanımının güvenli sınırı var mı?
 pubDate: '2016-01-12T14:11:23'
 slug: gebelikte-alkol-kullaniminin-guvenli-siniri-var-mi
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-alkol-kullaniminin-guvenli-siniri-var-mi/
+originalUrl: 'https://www.mumcu.com/gebelikte-alkol-kullaniminin-guvenli-siniri-var-mi/'
+readingTime: 3
 ---
 
 Anne karınında gelişimine devam eden bebeğin alkole maruz kalması, doğum defektleri, entellektüel ve nörogelisimsel kısıtlılığın en önemli ve önlenebilir sebebidir.
 
-![sarap](/wp-content/uploads/2016/01/sarap.jpg)İlk kez 1973 yılında tanımlanan fetal alkol sendromu anne karnında alkole maruz kalan bebeklerde görülen bazı doğum defektlerini tanımlamak için kullanılmıştır. Ancak daha sonraki çalışmalar gebelik sırasında alkole maruz kalmanın sadece doğum defektlerine değil çok geniş spektrumda gelişimsel bozukluğa neden olabileceğini ortaya koymuştur. Günümüzde bu durumlar fetal alkol spektrum bozukluğu olarak tanımlanır.
+![sarap](../../images/uploads/2016/01/sarap.jpg)İlk kez 1973 yılında tanımlanan fetal alkol sendromu anne karnında alkole maruz kalan bebeklerde görülen bazı doğum defektlerini tanımlamak için kullanılmıştır. Ancak daha sonraki çalışmalar gebelik sırasında alkole maruz kalmanın sadece doğum defektlerine değil çok geniş spektrumda gelişimsel bozukluğa neden olabileceğini ortaya koymuştur. Günümüzde bu durumlar fetal alkol spektrum bozukluğu olarak tanımlanır.
 
 Bu durumun tanısı için değişik derneklerin farklı tanı kriterleri mevcuttur
 

@@ -3,13 +3,14 @@ title: Fetal kafa ölçümünün normal değerleri
 pubDate: '2014-03-18T01:38:52'
 slug: fetal-kafa-olcumunun-normal-degerleri
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/fetal-kafa-olcumunun-normal-degerleri/
+originalUrl: 'https://www.mumcu.com/fetal-kafa-olcumunun-normal-degerleri/'
+readingTime: 1
 ---
 
-![bpd16](/wp-content/uploads/2014/03/bpd16.jpg)
+![bpd16](../../images/uploads/2014/03/bpd16.jpg)
 
 **Hafta**
 

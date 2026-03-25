@@ -3,10 +3,11 @@ title: Sigara ve fertilite
 pubDate: '2014-03-27T13:25:17'
 slug: sigara-ve-fertilite
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/sigara-ve-fertilite/
+originalUrl: 'https://www.mumcu.com/sigara-ve-fertilite/'
+readingTime: 2
 ---
 
 Kabaca bakacak olursak yeryüzünde bilinen hangi madde olursa olsun, bunun yanması ile ortaya çıkan dumanı solumak organizma için son derece zararlıdır. Günümüzde en sık görülen alışkanlıklardan biri olan tütün kullanımının kalp damar sistemi üzerindeki etkilerine ek olarak bu alışkanlık hem erkek hem de kadın fertilitesi üzerinde oldukça olumsuz etkilere sahiptir.

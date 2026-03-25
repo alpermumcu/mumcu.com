@@ -3,10 +3,11 @@ title: 12. Hafta &#8211; Ses çıkarabilir
 pubDate: '2014-03-31T02:54:19'
 slug: 12-hafta-tirnaklar-olusuyor
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/12-hafta-tirnaklar-olusuyor/
+originalUrl: 'https://www.mumcu.com/12-hafta-tirnaklar-olusuyor/'
+readingTime: 2
 ---
 
 Diş etlerinde 20 dişinde yerleri belli olmuştur. Yüz insan görünümündedir, ağız içinde ise üst damak birleşmeye başlamıştır. Yüz derisi içinde kıl kökleri belirmeye başlar. Fetusun gırtlağında ses telleri oluşumunu tamamlar ve teorik olarak fetus ses çıkartabilir.

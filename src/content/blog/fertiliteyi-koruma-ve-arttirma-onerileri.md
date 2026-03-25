@@ -3,10 +3,11 @@ title: Fertiliteyi koruma ve arttırma önerileri
 pubDate: '2014-03-15T15:32:59'
 slug: fertiliteyi-koruma-ve-arttirma-onerileri
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/fertiliteyi-koruma-ve-arttirma-onerileri/
+originalUrl: 'https://www.mumcu.com/fertiliteyi-koruma-ve-arttirma-onerileri/'
+readingTime: 6
 ---
 
 Kendi kendinize alabileceğiniz bazı basit önlemler ile üreme potansiyelinizi koruyabileceğinizi hatta arttırabileceğinizi aklınızdan çıkartmayın. Halen çocuk sahibi olmayı düşünmeseniz bile üreme yeteneğinizi olumsuz etkileyebilecek faktörleri bilmeli ve bunlara karşı önlem almalısınız.

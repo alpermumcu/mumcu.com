@@ -3,10 +3,11 @@ title: Doğum kontrol hapları ile ilgili klinik problemler
 pubDate: '2014-03-24T13:55:33'
 slug: dogum-kontrol-haplari-ile-ilgili-klinik-problemler
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-kontrol-haplari-ile-ilgili-klinik-problemler/
+originalUrl: 'https://www.mumcu.com/dogum-kontrol-haplari-ile-ilgili-klinik-problemler/'
+readingTime: 7
 ---
 
 Tüm ilaçlarda olduğu gibi doğum kontrol haplarının kullanımı sırasında da bazı sorunlar yaşanabilir. Bu sorunlardan bazıları hasta uyumunu etkileyerek ilaç kullanımını terk etmesine neden olabilir. Oral kontraseptif kullanımında görülen etkilerin hemen hemen hepsi zararsızdır ve kolaylıkla üstesinden gelinebilecek durumlardır. Gerçekçi olmak gerekirse doğum kontrol hapı kullanan kadınların %80’inden fazlasında herhangi bir yan etki ortaya çıkmamaktadır.

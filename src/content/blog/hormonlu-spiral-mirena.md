@@ -3,10 +3,11 @@ title: Hormonlu spiral (Mirena)
 pubDate: '2014-03-24T14:15:51'
 slug: hormonlu-spiral-mirena
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hormonlu-spiral-mirena/
+originalUrl: 'https://www.mumcu.com/hormonlu-spiral-mirena/'
+readingTime: 4
 ---
 
 2000li yılların başından itibaren yepyeni bir doğum kontrol yöntemi ile tanıştık. Oldukça yaygın kullanılan bir yöntem olan rahim içi araç yani spiral ile büyük benzerlik taşıyan bu yeni sistem spiralden farklı olarak bakır değil kadınlık hormonlarından biri olan progesteron içermekteydi. Dünyada rahim içi sistem olarak adlandırılan bu yöntem Türkiye’de “Hormonlu spiral” adı ile tanındı ve adında gereksizce yer alan bu hormon kelimesi ve yarattığı etkiler nedeni ile halk arasında uzunca bir süre tercih edilen bir yöntem olmadı.

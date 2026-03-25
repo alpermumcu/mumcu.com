@@ -3,10 +3,11 @@ title: Suni sancı
 pubDate: '2014-03-20T17:29:36'
 slug: suni-sanci
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/suni-sanci/
+originalUrl: 'https://www.mumcu.com/suni-sanci/'
+readingTime: 6
 ---
 
 Doğum sancılarını başlatmak ya da var olan kasılmaları desteklemek amacıyla damar yolu ile oksitosin verilmesi işlemi halk arasında suni sancı olarak adlandırılmaktadır.

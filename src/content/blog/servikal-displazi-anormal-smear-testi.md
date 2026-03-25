@@ -3,10 +3,11 @@ title: Servikal displazi (Anormal Smear testi)
 pubDate: '2014-04-05T12:59:10'
 slug: servikal-displazi-anormal-smear-testi
 category:
-  - Makaleler
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/servikal-displazi-anormal-smear-testi/
+originalUrl: 'https://www.mumcu.com/servikal-displazi-anormal-smear-testi/'
+readingTime: 3
 ---
 
 Rahim ağzı kanseri taraması için yapılan smear testi normal çıkmadığında saptanan anormalliğin ne olduğu ileri tetkik ve tedavi gerektirip gerektirmediği önemlidir. Genelde PAP smearda saptanan anormallik servikal displazi olarak isimlendirilir. Bu değişimlerin kanser olmadığı ancak kanser öncülü değişimler olduğu akılda tutulmalıdır.

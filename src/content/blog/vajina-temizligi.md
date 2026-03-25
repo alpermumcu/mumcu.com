@@ -3,10 +3,11 @@ title: Vajina temizliği
 pubDate: '2016-07-18T00:52:35'
 slug: vajina-temizligi
 category:
-  - Jinekoloji
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/vajina-temizligi/
+originalUrl: 'https://www.mumcu.com/vajina-temizligi/'
+readingTime: 4
 ---
 
 Vajina nasıl temizlenir, vajinal temizlik nasıl olmalıdır sorusunun aslında tek bir cevabı vardır: Temizlenmez.

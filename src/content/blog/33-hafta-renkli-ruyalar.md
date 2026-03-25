@@ -3,10 +3,11 @@ title: 33. Hafta &#8211; Renkli Rüyalar
 pubDate: '2014-03-30T21:14:09'
 slug: 33-hafta-renkli-ruyalar
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/33-hafta-renkli-ruyalar/
+originalUrl: 'https://www.mumcu.com/33-hafta-renkli-ruyalar/'
+readingTime: 2
 ---
 
 Son haftalara hızla yaklaştıkça bebeğinizin beyninde oluşmuş olan ve nöron adı verilen milyarlarca sinir hücresi de onun rahim içi yaşantısında etrafındakileri öğrenmesine yardımcı olur. Bebeğiniz duyabilir, hissedebilir ve görebilir. Bu haftalarda bebeğinizin baş çapı eskiye oranla daha hızlı büyümeye başlar.

@@ -3,10 +3,11 @@ title: HPV aşısı
 pubDate: '2014-03-24T13:02:10'
 slug: hpv-asisi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hpv-asisi/
+originalUrl: 'https://www.mumcu.com/hpv-asisi/'
+readingTime: 6
 ---
 
 Son günlerde gerek ülkemizde gerekse dünyada sağlık ile ilgili gündemi en fazla meşgul eden konuların başında “Rahim ağzı kanserinin aşısı” geliyor. Yayınlanan pekçok haber rahim ağzı kanserinin (serviks kanseri) yakın bir gelecekte yok olabileceğinin öngörüsünü yapıyor. 2006 yılında piyasaya çıkan ve heen ertesi yıl  ülkemizde de kullanıma sunulan  bu aşı gerçekten de rahim ağzı kanserini yok edebilecek bir gelişme mi?

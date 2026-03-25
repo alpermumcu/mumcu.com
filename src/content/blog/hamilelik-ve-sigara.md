@@ -3,10 +3,11 @@ title: Hamilelik ve sigara
 pubDate: '2014-03-17T02:40:49'
 slug: hamilelik-ve-sigara
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-sigara/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-sigara/'
+readingTime: 6
 ---
 
 Günümüzde tüm dünyadaki kadınların yaklaşık %12’sinin sigara kullandığı tahmin edilmektedir. Bu oran gelişmiş ülkelerde çok daha fazladır.Tahminler sadece Amerika Birleşik Devletlerinde tüm kadınların %23’ünün sigara tiryakisi olduğu yönündedir.Bu tahminin en korkutucu yanı sigara kullanan kadınların büyük bir kısmının hamilelikleri süresince de bu alışkanlıklarından vaz geçmedikleri gerçeğidir. Hamilelikte sigara kullanımı tüm dünyada ciddi bir halk sağlığı problemidir. Sigara sadece kadının değil doğmamış bebeğin de sağlığını ciddi anlamda tehdit eden bir faktördür.

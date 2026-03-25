@@ -3,10 +3,11 @@ title: Hamilelikte dişeti hastalıkları
 pubDate: '2014-03-16T18:55:14'
 slug: hamilelikte-diseti-hastaliklari
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-diseti-hastaliklari/
+originalUrl: 'https://www.mumcu.com/hamilelikte-diseti-hastaliklari/'
+readingTime: 2
 ---
 
 Hamilelik sırasında diş ve diş etleri ile ilgili problemlerin ortaya çıkması çok nadir değildir. Bu problemlerden en sık görüleni gebelik gingiviti adı verilen diş etlerinin iltihabıdır. Gingivitde diş etleri genelde şiş ve kırmızı olarak görülür. Kolaylıkla hatta kendiliğinden kanayan dişetleri hassas ve ağrılı olabilir.

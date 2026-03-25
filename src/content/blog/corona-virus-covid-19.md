@@ -3,13 +3,14 @@ title: Corona Virus COVID-19
 pubDate: '2020-09-18T13:31:07'
 slug: corona-virus-covid-19
 category:
-  - Bizden Haberler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/corona-virus-covid-19/
+originalUrl: 'https://www.mumcu.com/corona-virus-covid-19/'
+readingTime: 2
 ---
 
-![](/wp-content/uploads/2020/09/rsz_ofis.jpg)2019 yılının sonlarında başlayan ve tüm dünyayı etkisi altına alan korona virüs salgını hepimizin hayatını pek çok yönden olumsuz etkiledi.
+![](../../images/uploads/2020/09/rsz_ofis.jpg)2019 yılının sonlarında başlayan ve tüm dünyayı etkisi altına alan korona virüs salgını hepimizin hayatını pek çok yönden olumsuz etkiledi.
 
 Salgın nedeni ile daha önce hiç aklımıza bile gelmeyecek yeni uygulamalar hayatımızın en azından (ve umud ederim ki) şimdilik vazgeçilmez rutini haline geldi.
 

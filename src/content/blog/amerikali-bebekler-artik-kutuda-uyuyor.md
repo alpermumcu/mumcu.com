@@ -3,13 +3,14 @@ title: Amerika&#8217;lı bebekler artık kutuda uyuyor
 pubDate: '2017-03-28T15:41:50'
 slug: amerikali-bebekler-artik-kutuda-uyuyor
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/amerikali-bebekler-artik-kutuda-uyuyor/
+originalUrl: 'https://www.mumcu.com/amerikali-bebekler-artik-kutuda-uyuyor/'
+readingTime: 1
 ---
 
-![](/wp-content/uploads/2017/03/bebek-kutusu2.jpg)
+![](../../images/uploads/2017/03/bebek-kutusu2.jpg)
 
 1930’lu yıllarda Finlandiya’da başlayan bir akım günümüzde Amerika Birleşik Devletleri’ne sıçradı.
 

@@ -3,10 +3,11 @@ title: Gonore (Bel Soğukluğu)
 pubDate: '2014-03-24T12:40:52'
 slug: gonore-bel-soguklugu
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gonore-bel-soguklugu/
+originalUrl: 'https://www.mumcu.com/gonore-bel-soguklugu/'
+readingTime: 2
 ---
 
 Neisseria gonorrhoeae (gonokok) adı verilen bakterinin yol açtığı bir enfeksiyondur. _**Cinsel yolla bulaşan hastalıkların en sık görülenidir.**_
@@ -19,7 +20,7 @@ Kadınlarda en çok rahim ağzında yerleşir.
 
 Dokuların yapısı nedeni ile vajina dokusunda gonore bakterisi yerleşemez. Rahim ağzı (serviks) dışında sırasıyla ürethtra ve vajinanın hemen girişinde her ki yanda yer alan bartholin bezlerini tutar. Kadınların %80’inden fazlası asemptomatik kalır yani hiçbir belirti olmaz. Bu kuluçka döneminin değişken olabileceğinin belirtisidir. Gonoreye neden olan diplokoklar
 
-![gonore](/wp-content/uploads/2014/03/gonore.jpg)
+![gonore](../../images/uploads/2014/03/gonore.jpg)
 
 Bel soğukluğuna neden olan gonokoklar
 

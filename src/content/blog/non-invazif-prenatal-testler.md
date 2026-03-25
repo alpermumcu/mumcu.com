@@ -1,12 +1,13 @@
 ---
-title: Non invazif prenatal testler (cell free fetal DNA, cffDNA testi)
+title: 'Non invazif prenatal testler (cell free fetal DNA, cffDNA testi)'
 pubDate: '2015-06-29T00:18:41'
 slug: non-invazif-prenatal-testler
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/non-invazif-prenatal-testler/
+originalUrl: 'https://www.mumcu.com/non-invazif-prenatal-testler/'
+readingTime: 7
 ---
 
 Hamile olduğunu öğrenen bir kadının en önemli endişelerinden biri bebeğinin sağlıklı olup olmayacağıdır. Günümüzde modern tıp uygulamaları ve yakın takip ile gebelikte görülebilecek pek çok sorun doğumdan önce saptanabilmekte ve mümkünse tedavi edilebilmektedir.

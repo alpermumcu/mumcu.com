@@ -3,10 +3,11 @@ title: Spiral kullanımında görülen probemler
 pubDate: '2014-03-24T14:13:15'
 slug: spiral-kullaniminda-gorulen-probemler
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/spiral-kullaniminda-gorulen-probemler/
+originalUrl: 'https://www.mumcu.com/spiral-kullaniminda-gorulen-probemler/'
+readingTime: 3
 ---
 
 RİA istenmeyen bir gebelik ile karşılaştırıldığında kadın sağlığı açısından daha az risk taşır. Bununla birlikte her doğum kontrol yönteminde olduğu gibi RİA kullanımı da belirli yan etki ve riskleri beraberinde taşır. Bu risklerin görülme olasılığı düşük olmakla birlikte ortaya çıktığında nasıl davranılacağını bilmek önemlidir.

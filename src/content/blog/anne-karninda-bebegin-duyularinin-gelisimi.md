@@ -3,10 +3,11 @@ title: Anne karnında bebeğin duyularının gelişimi
 pubDate: '2014-03-15T17:29:09'
 slug: anne-karninda-bebegin-duyularinin-gelisimi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/anne-karninda-bebegin-duyularinin-gelisimi/
+originalUrl: 'https://www.mumcu.com/anne-karninda-bebegin-duyularinin-gelisimi/'
+readingTime: 6
 ---
 
 Gebe bir kadın bebeği ile ilgili pekçok değişik şeyi merak eder. Hamileliği sırasında bebeğin sağlığı ile ilgili meraklar doğal olarak önceliklidir. Ancak bebeğin iyi olduğu öğrenildikten sonra ilgi ve merak diğer konulara yönelir. Bebeğin büyüklüğü, boyu, kilosu, duruş şekli gibi değişik pekçok durum merak uyandırır. Anne adayını heyecanlandıran ve ilgisini çeken konulardan bir diğeri de bebeğinin kendisini duyup duymadığı, canının acıyıp acımadığı gibi duyular ile iligli olan durumlardır.

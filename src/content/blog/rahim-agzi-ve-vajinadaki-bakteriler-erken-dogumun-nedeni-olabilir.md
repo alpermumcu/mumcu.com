@@ -3,11 +3,12 @@ title: Rahim ağzı ve vajinadaki bakteriler erken doğumun nedeni olabilir..
 pubDate: '2017-02-06T00:00:09'
 slug: rahim-agzi-ve-vajinadaki-bakteriler-erken-dogumun-nedeni-olabilir
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/rahim-agzi-ve-vajinadaki-bakteriler-erken-dogumun-nedeni-olabilir/
+readingTime: 2
 ---
 
 Yeni bir çalışma, rahim ağzı (serviks) ve vajinada bulunan mikrop gruplarının erken doğum riski ile ilişkili olabileceğini iddia ediyor. Bu araştırmada elde edilen sonuçlar ışığında gelecekte yararlı bakterilerin arttırılmasını ya da zararlı bakterilerin azaltılmasını hedefleyen terapilerin geliştirilmesi ile erken doğumun engellenebileceği ileri sürülüyor.

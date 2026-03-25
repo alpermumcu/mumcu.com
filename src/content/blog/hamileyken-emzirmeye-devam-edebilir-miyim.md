@@ -3,10 +3,11 @@ title: Hamileyken emzirmeye devam edebilir miyim?
 pubDate: '2014-03-17T23:17:10'
 slug: hamileyken-emzirmeye-devam-edebilir-miyim
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamileyken-emzirmeye-devam-edebilir-miyim/
+originalUrl: 'https://www.mumcu.com/hamileyken-emzirmeye-devam-edebilir-miyim/'
+readingTime: 3
 ---
 
 Anne ile yeni doğan bebeği arasındaki en güçlü bağlar emzirme ile kurulur. Emzirmenin anne sağlığına, anne sütü almanın da bebek sağlığına olan yararları tartışmasızdır. Son dönemlerde üretilen mamalar anne sütüne yakın besleyici özelliklere sahip olsa da emzireme özellikle doğum sonrası ilk 6 ayda önemlidir. Bu eylem ideal şartlarda uygulandığında gebelikten korunma konusunda da oldukça etkili bir doğum kontrol yöntemidir.

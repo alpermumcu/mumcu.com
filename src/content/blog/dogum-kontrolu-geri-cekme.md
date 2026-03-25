@@ -3,10 +3,11 @@ title: Doğum Kontrolü- Geri Çekme
 pubDate: '2014-03-24T13:49:40'
 slug: dogum-kontrolu-geri-cekme
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-kontrolu-geri-cekme/
+originalUrl: 'https://www.mumcu.com/dogum-kontrolu-geri-cekme/'
+readingTime: 1
 ---
 
 Dünyada en yaygın kullanılan doğum kontrol yöntemi coitus interruptus yani geri çekme yöntemidir.

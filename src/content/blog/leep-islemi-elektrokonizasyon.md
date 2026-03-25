@@ -3,10 +3,11 @@ title: LEEP işlemi- Elektrokonizasyon
 pubDate: '2014-03-24T13:01:37'
 slug: leep-islemi-elektrokonizasyon
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/leep-islemi-elektrokonizasyon/
+originalUrl: 'https://www.mumcu.com/leep-islemi-elektrokonizasyon/'
+readingTime: 4
 ---
 
 Yakın bir geçmişe kadar PAP smear testi sonucu rahim ağzında intraepitheliyal lezyon saptanan hastalarda yakma ya dondurma işlemi uygulanırken günümüzde elektrocerrahi teknikler kullanılmaktadır. Smaer sonucu CIN saptanan hastalar ağrısız ve güvenli bir şekilde tedavi edilebilmektedirler.
@@ -18,10 +19,10 @@ Belki de hayatınızda daha önce hiç duymadığınız LEEP sözcüğü rahim a
 PAP smear sonucunda CIN ya da SIL saptanan kadınlar LEEP için uygun adaylardır. Günümüzde LEEP bazı hastalıklarda kullanılan rahim ağzını yakma, dondurma ya da laser ile tahrip etme gibi pekçok geleneksel tedavinin yerini almıştır. Diğer işlemlerin aksine LEEP ile doku tahrip edilmeden çıkartılır ve bu sayede tedavi sağlanırken tanıyı patolojik olarak konfirme etme olanağı da doğar. Özellikle rahim ağzı kanserinin başlangıç yeri olan servikal kanalı başladığı bölgenin de LEEP ile çıkartılması bir diğer üstünlüğüdür.Tam ve yeterli bir tanı için bu alanın incelenmesi elzemdir.
 
 **LEEP nasıl yapılır?**  
-![leep3](/wp-content/uploads/2014/03/leep3.jpg)LEEP cerrahi bir işlem olmakla birlikte ayaktan cerrahi işelmeler sınıfına dahil edilir. Muayenehane şartlarında lokal anestezi ile yapılabileceği gibi genel anzestezi ile de yapılabilir. Rahim ağzında ağrı hissini taşıyan sinirler olmadığı için hasta işlem sırasında acı duymaz. İşlem sonrası hastanede yatış gerekmez ve hasta hemen normal hayatına dönebilir. İşlem yaklaşık 3-4 dakika sürer. Hasta jinekolojik pozisyonda yatar iken vajinaya spekulum adı verilen muayene aleti yerleştirilir ve rahim ağzı görülür. Elektirk akımının güvenli akışını sağlamak için hastanın bacağına bir topraklama pedi yapıştırılır. Daha sonra ucunda elektrik akımını ileten yarım halka şeklinde bir tel bulunan kaleme benzeyen elektrokoter yardımı ile rahim ağzından bir parça çıkartılır. Bu elektrik akımı hem dokuyu kesmeye hem de geride kalan dokuyu yakarak kanamayı durdurmaya yarar.Çıkartılan materyal patolojik incelemeye gönderilir.Kanamanın devam etmesi durumunda kalemin ucundaki tel çıkartılarak ucu topa benzer bir aparat takılarak kanayan yerler yakılır. Kanamayı durdurmak amacıyla bazı solusyonlar da kullanılabilir. İşlem lokal anestezi ile yapıldıysa hasta hemen kalkarak normal yaşantısına dönebilir. Genel anestezi ile yapılan işlemlerden sonra ise anestezinin etkisi geçene kadar 30-60 dakika ayılma odasında bekler.  
+![leep3](../../images/uploads/2014/03/leep3.jpg)LEEP cerrahi bir işlem olmakla birlikte ayaktan cerrahi işelmeler sınıfına dahil edilir. Muayenehane şartlarında lokal anestezi ile yapılabileceği gibi genel anzestezi ile de yapılabilir. Rahim ağzında ağrı hissini taşıyan sinirler olmadığı için hasta işlem sırasında acı duymaz. İşlem sonrası hastanede yatış gerekmez ve hasta hemen normal hayatına dönebilir. İşlem yaklaşık 3-4 dakika sürer. Hasta jinekolojik pozisyonda yatar iken vajinaya spekulum adı verilen muayene aleti yerleştirilir ve rahim ağzı görülür. Elektirk akımının güvenli akışını sağlamak için hastanın bacağına bir topraklama pedi yapıştırılır. Daha sonra ucunda elektrik akımını ileten yarım halka şeklinde bir tel bulunan kaleme benzeyen elektrokoter yardımı ile rahim ağzından bir parça çıkartılır. Bu elektrik akımı hem dokuyu kesmeye hem de geride kalan dokuyu yakarak kanamayı durdurmaya yarar.Çıkartılan materyal patolojik incelemeye gönderilir.Kanamanın devam etmesi durumunda kalemin ucundaki tel çıkartılarak ucu topa benzer bir aparat takılarak kanayan yerler yakılır. Kanamayı durdurmak amacıyla bazı solusyonlar da kullanılabilir. İşlem lokal anestezi ile yapıldıysa hasta hemen kalkarak normal yaşantısına dönebilir. Genel anestezi ile yapılan işlemlerden sonra ise anestezinin etkisi geçene kadar 30-60 dakika ayılma odasında bekler.  
 LEEP olacak hastaların işelm öncesi özel bir hazırlık yapmaları gerekmez.
 
-**![leep4](/wp-content/uploads/2014/03/leep4.jpg)**LEEP işleminde kullanılan kalem ve ucunda halka şeklinde tel
+**![leep4](../../images/uploads/2014/03/leep4.jpg)**LEEP işleminde kullanılan kalem ve ucunda halka şeklinde tel
 
 **İşlem sonrası görülebilecek yakınmalar nelerdir?**  
 Her cerrahi müdahalede olduğu gibi LEEP sonrası da bazı komplikasyonlar görülebilir. Yakınmalar genelde oldukça az ve hafiftir.

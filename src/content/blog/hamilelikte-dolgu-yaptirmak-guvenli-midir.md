@@ -3,10 +3,11 @@ title: Hamilelikte dolgu yaptırmak güvenli midir?
 pubDate: '2014-03-17T23:43:38'
 slug: hamilelikte-dolgu-yaptirmak-guvenli-midir
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-dolgu-yaptirmak-guvenli-midir/
+originalUrl: 'https://www.mumcu.com/hamilelikte-dolgu-yaptirmak-guvenli-midir/'
+readingTime: 2
 ---
 
 Hamileliğiniz sırasında diş hekiminize de muayene olmanız oldukça yararlıdır. Hamilelikte kan dolaşımınızda artmış olan hormonlarınızdan bazıları diğer bazı dokuları etkilediği gibi dişetlerinizi de etkileyebilir. Bu etki sonucu diş etlerinizde çekilmeler ve kendiliğinden kanamalar olabilir. Bu durum epulis gravidarum olarak adlandırılır. Bazı ileri durumlarda diş etlerinin cerrahi olarak düzeltilmesi dahi gerekebilir. Öte yandan hamilelik diş çürükleri açısından uygun bir ortam hazırlar. Özellikle ilk trimesterda kusmalar bakteri plaklarının diş yüzeyindeki birikimini arttırır. Bu da sonuçta çürük riskinde belirgin bir artışa neden olur.

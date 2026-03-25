@@ -3,10 +3,11 @@ title: Hamilelik ve göbek deliğinde ağrı
 pubDate: '2014-03-16T03:22:09'
 slug: hamilelik-ve-gobek-deliginde-agri
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-gobek-deliginde-agri/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-gobek-deliginde-agri/'
+readingTime: 1
 ---
 
 Göbek deliği ağrısı bir başkasından duyduğunuzda kulağa komik gelebilir ama hamilelik sırasında böyle bir ağrıdan yakınan kadınların sayısı hiç de az değildir.

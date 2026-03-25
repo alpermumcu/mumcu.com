@@ -3,10 +3,11 @@ title: Doğum kontrol haplarının kulanımı
 pubDate: '2014-03-24T13:54:02'
 slug: dogum-kontrol-haplarinin-kulanimi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-kontrol-haplarinin-kulanimi/
+originalUrl: 'https://www.mumcu.com/dogum-kontrol-haplarinin-kulanimi/'
+readingTime: 12
 ---
 
 Doğum kontrol ilaçları 21 tane hap içeren kutular şeklinde satılır. Monofazik haplarda ilaç paketinin arka yüzünde her hap için haftanın bir günü yazar. İlk ilaç genelde adet kanamasının başladığı ilk gün alınır. Ancak kanamanın ilk 5 günü içinde alınmaya başlanması durumunda da etkisinden birşey yitirmez. Eğer hap almaya başlarken paketin arkasında yazan günden başlarsanız bu sayede hap atlayıp atlamadığınızı daha kolay kontrol edebilirsiniz. Örneğin adet kanamanız Çarşamba günü başlamışsa paketin arkasında Çarşamba yazan haplardan birini alarak başlamalı ve daha sonra sırayı izlemelisiniz. Eğer multifazik hap kullanıyorsanız mutlaka arkasında 1 yazan haptan başlamalısınız.
@@ -19,7 +20,7 @@ Yeniden özetleyecek olursak sadece ilk kutuya başlarken adet kanamasının ilk
 
 Kullanımın özellikle ilk 3 ayı içerisinde ilaç almaya devam ederken lekelenme şeklide kanamalar olabilir. Bu kısmen beklenen bir durumdur ve zaman içerisinde geçecektir. Nadiren ilaç içerisindeki östrojen dozu kişiye az geldiğinden bu durum uzayabilir ve başka bir ilaca geçme gereksinimi doğabilir. Böyle bir olay başınıza geldiği taktirde jinekoloğunuzla irtibata geçiniz.
 
-![hap_kullan](/wp-content/uploads/2014/03/hap_kullan.gif)
+![hap_kullan](../../images/uploads/2014/03/hap_kullan.gif)
 
 Yapılan araştırmalarda kadınların %16’sında hap alımında düzensizikler yaşandığı saptanmıştır. Bu nedenle ilaç almayı unutmamak için belirli bir düzen oluşturmak yararlıdır. Örneğin gece yatmadan önce düzenli olarak dişlerini fırçalama alışkanlığı olan bir kişi OK kutusunu diş fırçasının yanına koyabilir. Benzer şekilde her sabah düzenli olarak makyaj yapıyorsanız kutuyu makyaj malzemelerinizin yanına koyabilirsiniz.
 

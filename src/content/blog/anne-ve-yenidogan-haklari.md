@@ -3,10 +3,11 @@ title: Anne ve Yenidoğan Hakları
 pubDate: '2014-03-27T14:57:49'
 slug: anne-ve-yenidogan-haklari
 category:
-  - Gündelik Konular
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/anne-ve-yenidogan-haklari/
+originalUrl: 'https://www.mumcu.com/anne-ve-yenidogan-haklari/'
+readingTime: 8
 ---
 
 Bu belge Perinatoloji Derneği’nin de üyesi olduğu Dünya Perinatal Tıp Birliği tarafından kaleme alınmış ve “5. Dünya Perinatal Tıp Kongresi” sırasında gerekli düzenlemeleri takiben kabul edilmiştir. Perinatoloji Derneği, imzalamış olduğu bu bildirgedeki maddelere, yayınlanmış oldukları şekilde katılmakta ve desteklemektedir.
@@ -20,13 +21,13 @@ Bu belge Perinatoloji Derneği’nin de üyesi olduğu Dünya Perinatal Tıp Bir
 Perinatoloji Derneği, imzalamış olduğu bu bildirgedeki maddelere, yayınlanmış oldukları şekilde  
 katılmakta ve desteklemektedir.
 
-**![peri1](/wp-content/uploads/2014/03/peri1.gif)  
+**![peri1](../../images/uploads/2014/03/peri1.gif)  
 DÜNYA PERİNATAL TIP BİRLİĞİ**
 
-![peri2](/wp-content/uploads/2014/03/peri2.gif)  
+![peri2](../../images/uploads/2014/03/peri2.gif)  
 **AVRUPA PERİNATAL TIP BİRLİĞİ**
 
-![peri3](/wp-content/uploads/2014/03/peri3.gif)  
+![peri3](../../images/uploads/2014/03/peri3.gif)  
 **PERİNATOLOJİ DERNEĞİ**
 
 **BİLDİRGENİN TARİHÇESİ**

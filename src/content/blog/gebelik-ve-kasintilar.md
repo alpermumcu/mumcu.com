@@ -3,10 +3,11 @@ title: Gebelik ve kaşıntılar
 pubDate: '2014-03-17T02:53:44'
 slug: gebelik-ve-kasintilar
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-ve-kasintilar/
+originalUrl: 'https://www.mumcu.com/gebelik-ve-kasintilar/'
+readingTime: 5
 ---
 
 Gebelik sırasında kadınlar daha önceden yaşamadıkları pekçok değişik durumla karşılaşabilirler. Özellikle ilk gebeliğini yaşayanlarda bu durumlar bebeğin sağlığı, ve ona zarar verip vermeyeceği konusunda endişeye neden olabilirler.

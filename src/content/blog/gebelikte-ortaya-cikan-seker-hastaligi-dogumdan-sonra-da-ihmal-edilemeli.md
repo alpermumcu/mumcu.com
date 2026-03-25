@@ -3,12 +3,12 @@ title: Gebelikte ortaya çıkan şeker hastalığı doğumdan sonra da ihmal edi
 pubDate: '2016-06-15T06:23:33'
 slug: gebelikte-ortaya-cikan-seker-hastaligi-dogumdan-sonra-da-ihmal-edilemeli
 category:
-  - Güncel Haberler
-  - Haberler | Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/gebelikte-ortaya-cikan-seker-hastaligi-dogumdan-sonra-da-ihmal-edilemeli/
+readingTime: 2
 ---
 
 15 Haziran 2016

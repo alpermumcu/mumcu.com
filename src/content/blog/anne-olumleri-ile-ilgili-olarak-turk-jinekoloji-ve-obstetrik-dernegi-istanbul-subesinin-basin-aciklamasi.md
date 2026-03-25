@@ -6,11 +6,12 @@ pubDate: '2014-11-25T23:56:53'
 slug: >-
   anne-olumleri-ile-ilgili-olarak-turk-jinekoloji-ve-obstetrik-dernegi-istanbul-subesinin-basin-aciklamasi
 category:
-  - Gündelik Konular
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/anne-olumleri-ile-ilgili-olarak-turk-jinekoloji-ve-obstetrik-dernegi-istanbul-subesinin-basin-aciklamasi/
+readingTime: 3
 ---
 
 Kamuoyunun bilgisine;

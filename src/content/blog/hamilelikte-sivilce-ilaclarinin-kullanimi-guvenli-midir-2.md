@@ -3,11 +3,12 @@ title: Hamilelikte sivilce ilaçlarının kullanımı güvenli midir?
 pubDate: '2014-03-17T23:50:21'
 slug: hamilelikte-sivilce-ilaclarinin-kullanimi-guvenli-midir-2
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/hamilelikte-sivilce-ilaclarinin-kullanimi-guvenli-midir-2/
+readingTime: 1
 ---
 
 Şiddetli sivilcelenmenin tedavisinde retinoik asit içeren tabletler sıklıkla kullanılmaktadır.**Retinoik asit hamilelikte kullanılması kesinlikle sakıncalı olan bir maddedir**. Retinoik asidin öğrenme bozukluğu, bazı beyin deformiteleri, kalp hastalıkları ve yüz anomalilerine neden olduğu bilinmektedir. Öte yandan retinoik asit kullanımı düşüklere yol açmaktadır. Krem ya da solüsyon şeklinde kullanılan tretionin içeren ilaçların hamilelikte kullanımı da kesinlikle sakıncalıdır.

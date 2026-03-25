@@ -3,10 +3,11 @@ title: Hamileliğin belirtileri
 pubDate: '2014-03-15T15:49:24'
 slug: hamileligin-belirtileri
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamileligin-belirtileri/
+originalUrl: 'https://www.mumcu.com/hamileligin-belirtileri/'
+readingTime: 5
 ---
 
 Gebeliğin en önemli bulgusu adet gecikmesidir. Ancak her adet gecikmesi gebelik anlamına gelmez. Yaşam tarzındaki herhangi bir değişiklik, çeşitli rahatsızlıklar, diet, psikolojik durum değişiklikleri, stres gibi pek çok faktör adet gecikmesine neden olabilir.

@@ -3,11 +3,12 @@ title: Kombine hormonal doğum kontrol yöntemleri ile ilgili uyarılar
 pubDate: '2014-03-24T14:20:43'
 slug: kombine-hormonal-dogum-kontrol-yontemleri-ile-ilgili-uyarilar
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/kombine-hormonal-dogum-kontrol-yontemleri-ile-ilgili-uyarilar/
+readingTime: 2
 ---
 
 Doğum kontrol hapları, vajinal halka, doğum kontrol flasteri gibi hem östrojen hem de progesteron hormonları içeren yöntemler kombine hormonal kontraseptifler olarak adlandırılırlar. Bu yöntemlerin hepsi ortak etki mekanizmalarına,avantaj ve dezavantajlarla yan etkilere sahiptirler.

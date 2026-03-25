@@ -3,10 +3,11 @@ title: Doğum sonrası riskler 6 haftada bitmiyor
 pubDate: '2014-03-17T01:37:39'
 slug: dogum-sonrasi-riskler-6-haftada-bitmiyor
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-sonrasi-riskler-6-haftada-bitmiyor/
+originalUrl: 'https://www.mumcu.com/dogum-sonrasi-riskler-6-haftada-bitmiyor/'
+readingTime: 2
 ---
 
 6 Mart 2014

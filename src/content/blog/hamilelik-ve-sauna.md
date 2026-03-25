@@ -3,10 +3,11 @@ title: Hamilelik ve Sauna
 pubDate: '2014-03-17T23:34:18'
 slug: hamilelik-ve-sauna
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-sauna/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-sauna/'
+readingTime: 4
 ---
 
 Saunalar genelde rahatlama ve stres gidermek için tercih edilen ortamlardır. Hamile bir kadın da bu tür rahatlamalara çoğu zaman gereksinim duyar. Daha önceden düzenli olarak sauna, kaplıca gibi sıcak ve sıcak suyun rahatlatıcı etkisini kullanan ve bu ortama alışkın kişiler gebeliklerinde de bu alışkanlıklarını devam ettirip ettiremeyeceklerini merak ederler.

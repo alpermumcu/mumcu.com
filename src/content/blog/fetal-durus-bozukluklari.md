@@ -3,10 +3,11 @@ title: Fetal duruş bozuklukları
 pubDate: '2014-03-20T18:13:09'
 slug: fetal-durus-bozukluklari
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/fetal-durus-bozukluklari/
+originalUrl: 'https://www.mumcu.com/fetal-durus-bozukluklari/'
+readingTime: 3
 ---
 
 Bebeğin rahim içerisindeki pozisyonu fetal duruş olarak adlandırılır. Bu duruş pozisyonunda fetusun rahim ağzına en yakın olan kısmı önde gelen kısım olarak adlandırılır. Bebeklerin yaklaşık %96’sında önde gelen kısım baştır. Ancak doğumun fizyolojik ve en kolay şekilde gerçekleşebilmesi için başın belirli bir şekilde leğen kemiği içinde durması gerekir. Bu ideal pozisyonda bebeğin en önde gelen kısmı kafasının arkasındaki çıkıntıdır ve bu çıkıntının annenin ön tarafında olması gerekir. Yani ayakta duran bir kadında bebeğin yüzü arkaya (annenin omugasına) bakar durumda olmalıdır.Bu sayede bebeğin başı kemik çatıya mümkün olan en küçük çapı ile girer. Bu pozisyona occiput anterior, onde gelen kısma da vertex adı verilir. Occiput anterior dışındaki gelişlere malprezentasyon denir. Bu gelişlerden bazısı normal doğum için uygun değildir. Normal yoldan doğumun gerçekleşebileceği fetal duruş bozukluklarında doğum eylemi normale göre daha yavaş ilerler ve zor doğum söz konusu olabilir.

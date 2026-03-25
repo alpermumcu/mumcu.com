@@ -3,10 +3,11 @@ title: Karpal Tünel Sendromu
 pubDate: '2014-03-16T02:07:11'
 slug: karpal-tunel-sendromu
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/karpal-tunel-sendromu/
+originalUrl: 'https://www.mumcu.com/karpal-tunel-sendromu/'
+readingTime: 6
 ---
 
 Hamilelik sırasında vücutta fazla sıvı tutulumunun yol açtığı şikayetler yanlızca ellerde ve ayaklarda görülen şişlikler ile sınırlı değildir. Bu fazla sıvı ellerde ve bileklerde ağrı ve güç kaybı ile karakterize karpal tünel sendromu adı verilen bir rahatsızlığın da nedenidir. Karpal Tünel Sendromu (KTS) hamile kadınların %25-30’unda görülür.
@@ -67,26 +68,26 @@ Bazı araştırmacılar KTS tanısı konduktan sonra tedavinin tam etkili olabil
 
 Önerilen egzersiz şu şekildedir.
 
- ![cts_a](/wp-content/uploads/2014/03/cts_a.gif)
+ ![cts_a](../../images/uploads/2014/03/cts_a.gif)
 
 Kolları ileri doğru uzatın, bilek ve parmakları gererek 5 saniye bu şekilde bekleyin
 
- ![cts_b](/wp-content/uploads/2014/03/cts_b.gif)
+ ![cts_b](../../images/uploads/2014/03/cts_b.gif)
 
 Bilekleri düz konuma getirin ve parmakları gevşetin
 
- ![cts_c](/wp-content/uploads/2014/03/cts_c.gif)
+ ![cts_c](../../images/uploads/2014/03/cts_c.gif)
 
 Her iki elinizi yumruk yapın
 
- ![cts_d](/wp-content/uploads/2014/03/cts_d.gif)
+ ![cts_d](../../images/uploads/2014/03/cts_d.gif)
 
 Elleriniz yumruk şeklindeyken bilekleri aşağı doğru bükün ve 5 saniye bekleyin
 
- ![cts_e](/wp-content/uploads/2014/03/cts_e.gif)
+ ![cts_e](../../images/uploads/2014/03/cts_e.gif)
 
 Bilekleri düz konuma getirin ve parmakları gevşetin
 
- ![cts_f](/wp-content/uploads/2014/03/cts_f.gif)
+ ![cts_f](../../images/uploads/2014/03/cts_f.gif)
 
 Bu egzersizleri 10’ar defa yaptıktan sonra kolları yanda serbest şekilde bırakıp birkaç saniye süreyle hafi hafif sallayın

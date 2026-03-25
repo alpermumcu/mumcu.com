@@ -3,10 +3,11 @@ title: Gebelikte yüzme
 pubDate: '2014-03-17T23:35:50'
 slug: gebelikte-yuzme-2
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-yuzme-2/
+originalUrl: 'https://www.mumcu.com/gebelikte-yuzme-2/'
+readingTime: 3
 ---
 
 Sıcak yaz günlerinde hemen hepimizin aklını tatil hayalleri meşgul eder. Tatil deyince de insanın aklına ilk olarak güneş, kum ve deniz geliyor. Sıcak güneşin altında ısınan bedenleri serin sulara bırakmak hayali bile, çoğumuzun çalışma ortamından sanal ve kısa bir süre için de olsa uzaklaşmasına neden oluyor. Bazılarımız ise biraz daha şanslı. Ya evlerinde bulunan ya da spor klüplerinin veya otellerin havuzlardan yararlanabiliyorlar. Peki ya gebeler? Onlar sıcak yaz günlerinde yüzme zevkinden ve şansından mahrum kalmak zorundalar mı?  

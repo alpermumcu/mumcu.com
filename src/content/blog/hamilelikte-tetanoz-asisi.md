@@ -3,10 +3,11 @@ title: Hamilelikte tetanoz aşısı
 pubDate: '2014-03-18T00:11:03'
 slug: hamilelikte-tetanoz-asisi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-tetanoz-asisi/
+originalUrl: 'https://www.mumcu.com/hamilelikte-tetanoz-asisi/'
+readingTime: 4
 ---
 
 Halk arasında çok iyi bilinen bir hastalık olan tetanoz _Clostridium tetani_ adı verilen bakterinin neden olduğu bir nefeksiyon hastalığıdır. Bu bakteri gazlı gangrene neden olan bakteri ile aynı aileye mensuptur.

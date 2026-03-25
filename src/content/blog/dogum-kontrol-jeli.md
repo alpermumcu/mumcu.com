@@ -3,13 +3,14 @@ title: Doğum kontrol jeli
 pubDate: '2020-10-09T18:56:35'
 slug: dogum-kontrol-jeli
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-kontrol-jeli/
+originalUrl: 'https://www.mumcu.com/dogum-kontrol-jeli/'
+readingTime: 3
 ---
 
-![doğum kontrol jeli](/wp-content/uploads/2020/10/kontroljel.jpg)
+![doğum kontrol jeli](../../images/uploads/2020/10/kontroljel.jpg)
 
 Phexxi doğum kontrol jeli ve aplikatörü
 

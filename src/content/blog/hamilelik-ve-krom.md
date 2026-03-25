@@ -3,10 +3,11 @@ title: Hamilelik ve krom
 pubDate: '2014-03-16T19:12:06'
 slug: hamilelik-ve-krom
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-krom/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-krom/'
+readingTime: 3
 ---
 
 Krom insan vücudunun gereksinim duyduğu eser minerallerden birisidir. Doğada 3 değişik formda bulunur. Bunlardan trivalan krom (chromium III) formunda olan besinler ile alınan ve biyolojik olarak aktif olan ana krom formudur.Ortalama bir insanın vücudunda 0.4-6 mg krom bulunur. Krom düzeyi toplumlar arasında büyük farklılıklar gösterir. Genel olarak krom alımının yüksek olduğu toplumlarda diabet ve kalp hastalıklarının daha az görülmesi dikkat çekicidir.

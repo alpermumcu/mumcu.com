@@ -3,10 +3,11 @@ title: HELLP Sendromu
 pubDate: '2014-03-17T01:44:06'
 slug: hellp-sendromu
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hellp-sendromu/
+originalUrl: 'https://www.mumcu.com/hellp-sendromu/'
+readingTime: 7
 ---
 
 Pekçok kadın için problemsiz geçen 280 günlük gebelik macerası bazı kadınlar için çok zor geçebilir hatta hem anne hem de bebek açısından çok üzücü sonuçlar doğurabilir. Komplikasyonlu geçen bu gebeliklerin takip ve tedavisi diğer gebeliklerden oldukça farklıdır. Tecrübe ve cesaret gerektirir. Gebeliğin anne hayatını da tehlikeye atabilen en önemli komplikasyonlarından birisi gebeliğe bağlı hipertansiyondur. Kısaca PIH (pregnancy induced hypertension) olarak adlandırılan bu durumun en ileri formu ise HELLP Sendromudur.

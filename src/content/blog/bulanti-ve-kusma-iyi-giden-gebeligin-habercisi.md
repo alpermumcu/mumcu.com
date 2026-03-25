@@ -3,11 +3,11 @@ title: Bulantı ve kusma iyi giden gebeliğin habercisi
 pubDate: '2016-10-02T12:49:33'
 slug: bulanti-ve-kusma-iyi-giden-gebeligin-habercisi
 category:
-  - Güncel Haberler
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/bulanti-ve-kusma-iyi-giden-gebeligin-habercisi/
+originalUrl: 'https://www.mumcu.com/bulanti-ve-kusma-iyi-giden-gebeligin-habercisi/'
+readingTime: 3
 ---
 
 Hamileliğin başında kadınların büyük kısmını rahatsız eden hatta bazen canından bezdiren en büyük yakınmadır bulantı ve kusmalar. Sürekli midesi bulanan ve bu nedenle doğru düzgün beslenemediğini düşünen anne adayı hem bu problem nedeni ile halsiz kalır hem de bebeğinin yeterli besinleri alamadığı endişesi ile daha da üzülür.

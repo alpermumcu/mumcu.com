@@ -3,10 +3,11 @@ title: Hamilelik ve Niasin (B3 vitamini)
 pubDate: '2014-03-16T19:08:23'
 slug: hamilelik-ve-niasin-b3-vitamini
 category:
-  - Makaleler
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-niasin-b3-vitamini/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-niasin-b3-vitamini/'
+readingTime: 2
 ---
 
 Niasin B3 vitamini olarak da bilinen suda çözünen bir vitamindir.Niasin adı nikotinik asit ya da nikotinamidi belirtir ve her iki madde de vücuttaki bazı enzimlerin sentezininde görev alır. İsimleri çağrıştırsa da tütündeki nikotin ile bir ilgileri yoktur.

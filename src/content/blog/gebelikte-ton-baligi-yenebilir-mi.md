@@ -3,13 +3,14 @@ title: Gebelikte ton balığı yenebilir mi?
 pubDate: '2014-03-16T20:27:30'
 slug: gebelikte-ton-baligi-yenebilir-mi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-ton-baligi-yenebilir-mi/
+originalUrl: 'https://www.mumcu.com/gebelikte-ton-baligi-yenebilir-mi/'
+readingTime: 1
 ---
 
-![tonbaligi](/wp-content/uploads/2014/03/tonbaligi.jpg)
+![tonbaligi](../../images/uploads/2014/03/tonbaligi.jpg)
 
 Büyük balıklar içerdikleri yüksek civa miktarları nedeni ile genellikle hamilelikte önerilmemektedir. Ton balığı ise büyük olmasına rağmen genelde düşük civa içeren balıklar sınıfına dahil edilmektedir.
 

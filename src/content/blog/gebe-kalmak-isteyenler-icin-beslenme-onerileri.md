@@ -3,10 +3,11 @@ title: Gebe kalmak isteyenler için beslenme önerileri
 pubDate: '2014-04-13T23:17:45'
 slug: gebe-kalmak-isteyenler-icin-beslenme-onerileri
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebe-kalmak-isteyenler-icin-beslenme-onerileri/
+originalUrl: 'https://www.mumcu.com/gebe-kalmak-isteyenler-icin-beslenme-onerileri/'
+readingTime: 5
 ---
 
 Eğer artık çocuk sahibi olmayı düşünüyorsanız kendinizi hem zihinsel hem de fiziksel olarak buna hazırlamanız yararlı olacaktır. Bu fiziksel hazırlanma sadece bebeği 9 ay boyunca sağlıkla taşımaya yönelik olmamalı tam tersine ilk aşamada sağlıklı bir şekilde hamile kalmayı hedeflemelidir.Hamile kalmadan 4-6 ay öncesinden hazırlıklara başlamak ve sağlık durumunuzu kontrol altına almak ideal yaklaşım olacaktır. Hamileliğe ideal bir şekilde hazırlanmanın pekçok aşaması ve bileşeni vardır. Bu bileşenlerden en önemlisi beslenme şekli ve alışkanlıklarıdır. Bazı besinler gebe kalma potansiyeli üzerinde olumsuz etkiye sahipken bazı besinler ise tabir yerindeyse fertiliteyi coşturur.Aşırı zayıf ya da şişman olmanın fertilite üzerinde direk etkili olduğunu aklınızdan çıkarmayın.  Yumurtalıklarınız ve yağ hücreleriniz öströjen adı verilen kadınlık hormonunun üretiminden sorumludur. Bu hormon pekçok işlevinin yanısıra hamile kalmak için kilit nokta olan yumurtlamadan da sorumludur. Aşırı zayıf olanlarda öströjen az, şişmanlarda ise fazladır ve her iki durum da yumurtlamayı olumsuz etikleyerek gebe kalma şansını azaltır. Bu nedenle gebe kalmaya çalışırken ideal vücut ağırlığınıza yakın olmak önemlidir. Vücut kitle indeksiniz 19-24 aralığında ise endişe etmenize gerek yoktur.

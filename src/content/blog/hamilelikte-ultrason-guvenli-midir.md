@@ -3,10 +3,11 @@ title: Hamilelikte ultrason güvenli midir?
 pubDate: '2014-03-18T01:12:15'
 slug: hamilelikte-ultrason-guvenli-midir
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-ultrason-guvenli-midir/
+originalUrl: 'https://www.mumcu.com/hamilelikte-ultrason-guvenli-midir/'
+readingTime: 5
 ---
 
 Konu tıp ve insan olduğunda herhangi bir uygulama, tedavi şekli ya da tanısal yöntem için kesinlikle güvenlidir demek mümkün değildir. Dünya üzerinde ne kadar insan varsa o kadar değişik genetik yapı var demektir ve bunlardan biri için bile geri kalanları için güvenli olan bir uygulama istenmeyen sonuçlar doğurabilir.

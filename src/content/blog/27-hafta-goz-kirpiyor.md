@@ -3,10 +3,11 @@ title: 27. Hafta &#8211; Göz kırpıyor
 pubDate: '2014-03-30T22:25:45'
 slug: 27-hafta-goz-kirpiyor
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/27-hafta-goz-kirpiyor/
+originalUrl: 'https://www.mumcu.com/27-hafta-goz-kirpiyor/'
+readingTime: 2
 ---
 
 Eğer rahim içine bir kamera yerleştirmek ya da direk olarak gözlemek mümkün olabilseydi, bebeğinizin gözlerini görebilirdiniz. Çünkü o’nun göz rengi artık belli ve sıkı durun: size göz kırpabilir. Bu haftaya gelindiğinde bebeğiniz gözünü açıp kapamaya başlıyor. Beyin olgunlaşması hızla devam ediyor ve sese verdiği tepkiler iyice arttı. Boyu 25 santimetreye yaklaştı ve kilosu 1000 gram civarında.
@@ -19,7 +20,7 @@ Rutin kontrollerinizde yapılan ultrason incelemelerinde artık bebeğinizi bir 
 
 Bu hafta ile birlikte gebeliğinizin ikinci trimester’ı sona erdi. Yolun büyük kısmı aşıldı.
 
-![27haf1lb13o](/wp-content/uploads/2014/03/27haf1lb13o.jpg)
+![27haf1lb13o](../../images/uploads/2014/03/27haf1lb13o.jpg)
 
 27 haftalıkken doğan bir bebek
 

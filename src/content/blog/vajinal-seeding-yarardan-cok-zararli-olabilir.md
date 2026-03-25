@@ -3,10 +3,11 @@ title: Vajinal seeding yarardan çok zararlı olabilir
 pubDate: '2017-09-15T12:30:04'
 slug: vajinal-seeding-yarardan-cok-zararli-olabilir
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/vajinal-seeding-yarardan-cok-zararli-olabilir/
+originalUrl: 'https://www.mumcu.com/vajinal-seeding-yarardan-cok-zararli-olabilir/'
+readingTime: 2
 ---
 
 Son dönemlerde bazı çevrelerde giderek popülerlik kazanan, sezaryenla doğan bebeklerde doğumdan hemen sonra annenin vajinasının bir gazlı bez ile silinip bu gazlı bezin bebeğin yüzüne, gözlerine ağzına sürülmesi şeklinde yapılan ve “vajinal seeding” olarak adlandırılan uygulama ile ilgili yeni bilimsel öneriler yayınlandı.

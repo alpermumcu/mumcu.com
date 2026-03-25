@@ -3,10 +3,11 @@ title: Vajinal Mantar Enfeksiyonları
 pubDate: '2014-03-24T12:21:50'
 slug: vajinal-mantar-enfeksiyonlari
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/vajinal-mantar-enfeksiyonlari/
+originalUrl: 'https://www.mumcu.com/vajinal-mantar-enfeksiyonlari/'
+readingTime: 5
 ---
 
 (Mikotik vajinit) Vajinal mantar enfeksiyonları ilk kez 1849 yılında gebe bir kadında tanımlanmıştır. Erişkin kadınların yaklaşık %75’i yaşamlarının herhangi bir döneminde en az bir kez mantar enfeksiyonu geçirirler
@@ -15,7 +16,7 @@ originalUrl: https://www.mumcu.com/vajinal-mantar-enfeksiyonlari/
 
 Candida Albikansın vajinada zaten normalde bulunan bir organizma mı olduğu yoksa belirti vermeyen kadınlarda saptandığında mutlaka tedavi edilmesi gereken bir patojen mi olduğu günümüzde dahi açıklığa kavuşturulamamış bir sorudur. Erkek semeninde üretilemediği için cinsel yolla bulaşan bir hastalık olarak kabul edilemez.Ancak yapılan araştırmalarda eşlerin benzer tipte mantar hücresi taşıdıkları saptandığı için pekçok hekim tedavide eş tedavisi de uygulamayı uygun görmektedir.
 
-![calbicans](/wp-content/uploads/2014/03/calbicans.jpg)
+![calbicans](../../images/uploads/2014/03/calbicans.jpg)
 
 Vajinal mantar enfeksiyonuna neden olan candida albikans hifleri
 

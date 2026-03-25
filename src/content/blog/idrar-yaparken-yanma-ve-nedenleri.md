@@ -3,10 +3,11 @@ title: İdrar yaparken yanma ve nedenleri
 pubDate: '2018-12-24T03:16:19'
 slug: idrar-yaparken-yanma-ve-nedenleri
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/idrar-yaparken-yanma-ve-nedenleri/
+originalUrl: 'https://www.mumcu.com/idrar-yaparken-yanma-ve-nedenleri/'
+readingTime: 3
 ---
 
 İdrar yapmak son derece basit bir olaydır aslında. Ancak bu basit eylem sırasında yanma, batma ya da herhangi bir şekilde rahatsızlık olması bir şeylerin yolunda olmadığının göstergesidir.

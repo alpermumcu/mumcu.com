@@ -3,10 +3,11 @@ title: AMH nedir
 pubDate: '2015-09-01T00:20:00'
 slug: amh-nedir
 category:
-  - Infertilite
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/amh-nedir/
+originalUrl: 'https://www.mumcu.com/amh-nedir/'
+readingTime: 4
 ---
 
 AMH yani Anti-Müllerian Hormon yumurtalıklar içindeki folikullerin granüloza hücrelerinden salgılanan bir hormondur. AMH testi yumurtalık rezervi hakkında bilgi veren en önemli testlerden birisidir

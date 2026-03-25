@@ -3,10 +3,11 @@ title: Hamilelikte topuklu ayakkabı giymek güvenli midir
 pubDate: '2016-04-05T16:33:42'
 slug: hamilelikte-topuklu-ayakkabi-giymek-guvenli-midir
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-topuklu-ayakkabi-giymek-guvenli-midir/
+originalUrl: 'https://www.mumcu.com/hamilelikte-topuklu-ayakkabi-giymek-guvenli-midir/'
+readingTime: 3
 ---
 
 Bebek beklerken topuklu ayakkabı giymenin herhangi bir sakıncasının olup olmadığı modern çağ kadınlarının kafasını meşgul eden sorulardan bir tanesidir.

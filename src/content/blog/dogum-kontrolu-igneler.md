@@ -3,10 +3,11 @@ title: Doğum Kontrolü- İğneler
 pubDate: '2014-03-24T14:16:35'
 slug: dogum-kontrolu-igneler
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-kontrolu-igneler/
+originalUrl: 'https://www.mumcu.com/dogum-kontrolu-igneler/'
+readingTime: 4
 ---
 
 Üreme çağında ve cinsel yönden aktif olan her kadının en büyük korkularından birisi de istemeden gebe kalmaktır. Böyle bir durumda ya bebeği doğurmak zorunda kalacak ya da kürtaj olacaktır. Her iki olasılık da plansız gebe kalan kadın için ciddi psikolojik travma yaratır. Öte yandan pekçok kadın gebelikten korunma yöntemleri hakkında yeterince bilgiye sahip değildir. Pekçok kadın hangi yöntemi seçeceğine karar veremez. Etraftan duyduğu yalan yanlış bilgiler nedeni ile kendisine uygun olan yöntemleri dahi kullanamaz. Hap almayı sevmediği ya da unutkan olduğu için doğum kontrol hapı kullanmayan yüzbinlerce kadın vardır. Spirali eşi ilişki esnasında rahatsız olur diye istemeyen kadınların sayısı zannedilenden çok daha fazladır. Değişik nedenler ile kendine uygun ve kolay doğum kontrol yöntemi bulamayanlar için etkli ve bir o kadar da kolay olan bir yöntem uzun etkili iğnelerdir. Bunlardan en çok kullanılanı da 3 aylık iğne olarak bilinen depo-provera’dır.

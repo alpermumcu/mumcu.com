@@ -3,10 +3,11 @@ title: Embryo Dondurma
 pubDate: '2014-03-28T00:44:23'
 slug: embryo-dondurma
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/embryo-dondurma/
+originalUrl: 'https://www.mumcu.com/embryo-dondurma/'
+readingTime: 2
 ---
 
 İnsan gametlerinin ve embryolarının dondurulmasının tüp bebek pratiğinde büyük önemi vardır. Tüp bebek uygulamalarında çoğul gebelik riskini en aza indirmek için genel yaklaşım en fazla 3 embryo transfer etmektir. Bu durumda akla gelen ilk soru elde edilen fazla embryoların ne şekilde değerlendirileceğidir. Bu şekilde elde edilen fazla embryoların dondurulması hastaya hem ekonomik hem de psikolojik bir avantaj sağlamaktadır. Ayrıca dondurulan embryolar transfer edileceği zaman hasta herhangi bir tedaviye gereksinim duymamaktadır. Embryo dondurma işlemi tüp bebek uygulamalarında başarı şansını arttıran bir işlem olarak da değerlendirilebilir.

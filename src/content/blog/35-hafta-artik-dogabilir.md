@@ -3,10 +3,11 @@ title: 35. Hafta- Artık doğabilir
 pubDate: '2014-03-30T21:11:17'
 slug: 35-hafta-artik-dogabilir
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/35-hafta-artik-dogabilir/
+originalUrl: 'https://www.mumcu.com/35-hafta-artik-dogabilir/'
+readingTime: 2
 ---
 
 Bu haftadan sonra artık erken doğum sancılarınız başlasa bile doktorunuz durdurmaya çalışmayacaktır. Bebeğiniz doğum sonrası genelde sorunsuz ya da az bir bakım ile yaşamını kolaylıkla devam ettirebilir ve ağırlığı 2000 gramın üzerindedir.

@@ -3,10 +3,11 @@ title: Yumurta bağışı
 pubDate: '2014-03-28T00:52:31'
 slug: yumurta-bagisi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/yumurta-bagisi/
+originalUrl: 'https://www.mumcu.com/yumurta-bagisi/'
+readingTime: 7
 ---
 
 Tüp bebek tedavisine başvuran çiftlerin bir kısmında zaman zaman tedavinin iptal edilmesi gerekebilir. Çiftlerin çocuk sahibi olma umudunu tüketen bu iptallerin altında yatan nedenlerden birisi de tedavide kullanılacak sayı ya da kalitede yumurta hücresi elde edilememesidir. Yaşı ileri olan kadınlarda bu beklenilen bir durumken ne yazik ki bazen çok genç kadınlarda da yumurtalıklardan beklenilen cevap alınanamakta ve yüksek dozlarda ilaç kullanılmasına rağmen ya hiç folikül gelişmemekte, ya çok az sayıda gelişen folikül içinden yumurta çıkmamakta ya da elde edilen yumurta hücreleri mikroenjeksiyon işleminde kullanılabilecek nitelikte olmamaktadır. Bu durum azalmış over rezervi olarak tanımlanmakta ve bu kadınlar da İngilizce’de zayıf cevap veren yumurtalık anlamında “poor responder” veya “bad response” olarak adlandırılmaktadır.

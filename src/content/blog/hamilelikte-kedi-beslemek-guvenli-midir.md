@@ -3,13 +3,14 @@ title: Hamilelikte kedi beslemek güvenli midir?
 pubDate: '2014-03-17T23:28:18'
 slug: hamilelikte-kedi-beslemek-guvenli-midir
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-kedi-beslemek-guvenli-midir/
+originalUrl: 'https://www.mumcu.com/hamilelikte-kedi-beslemek-guvenli-midir/'
+readingTime: 2
 ---
 
-![](/wp-content/uploads/2014/03/gizmo.jpg)
+![](../../images/uploads/2014/03/gizmo.jpg)
 
 Evcil kedi insanın en eski dostlarından birisidir. Antik Mısır’dan beri kedilerin insanlarla içiçe yaşadığı bilinmektedir. Apartman yaşamı evcil hayvan beslemek isteyenler için de kedileri en cazip hayvanlardan birisi haline getirmiştir. Bugün ülkemizde de pekçok evde kedi beslenmektedir. Yine ülkemizde belki de önemli sorunlardan birisi de sokak hayvanları ve kedilerdir.
 

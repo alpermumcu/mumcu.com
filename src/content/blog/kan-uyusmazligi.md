@@ -3,10 +3,11 @@ title: Kan uyuşmazlığı
 pubDate: '2014-03-17T01:42:39'
 slug: kan-uyusmazligi
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/kan-uyusmazligi/
+originalUrl: 'https://www.mumcu.com/kan-uyusmazligi/'
+readingTime: 3
 ---
 
 Kan uyuşmazlığı adından da anlaşılacağı üzere anne ve babanın kan grupları arasında uygunsuzluk olmasıdır. İnsan kan grupları A, B, AB, ve O olarak 4 türdür. Bunun yanı sıra D faktörü adı verilen Rh faktörü de pozitif ya da negatif olabilir. Anne karnındaki bebeğin uyuşmazlıktan etkilenebilmesi için bebeğin kan grubu ile anneninkinin uyumsuz olması, bebeğin kanının anne kanı ile temas etmesi, ve annenin bağışıklık sisteminin bu duruma cevap olarak antikor üretmesi gerekir. En sık rastlanılan uygunsuzluk Rh uygunsuzluğudur. Bu durumda baba Rh(+) iken anne Rh(-)dir. Eğer bebek de Rh (+) olursa bebeğin kanındaki bu Rh faktörü anne kanına geçer ve annenin bağışıklık sitemi Rh faktörünü ortadan kaldırmak için antikor adı verilen maddeler üretir. Bu nedenle ilk bebek durumdan etkilenmez. Rh uygunsuzluğundan sadece Baba pozitif anne negatif iken söz edilebilir. Baba negatif anne pozitif ise uyuşmazlık önemli değildir.

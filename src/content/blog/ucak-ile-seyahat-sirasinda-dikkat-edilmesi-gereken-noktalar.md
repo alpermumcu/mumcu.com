@@ -3,11 +3,12 @@ title: Uçak ile seyahat sırasında dikkat edilmesi gereken noktalar
 pubDate: '2014-03-17T04:17:19'
 slug: ucak-ile-seyahat-sirasinda-dikkat-edilmesi-gereken-noktalar
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/ucak-ile-seyahat-sirasinda-dikkat-edilmesi-gereken-noktalar/
+readingTime: 2
 ---
 
 Uçak ile seyahat edecek olan hamile kadınların uçuş sırasında dikkat etmesi gereken noktalar.

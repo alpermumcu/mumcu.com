@@ -3,11 +3,11 @@ title: Miyomunuz olabileceğini düşündüren 4 bulgu
 pubDate: '2017-06-28T07:39:34'
 slug: miyomunuz-olabilecegini-dusunduren-4-bulgu
 category:
-  - Jinekoloji
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/miyomunuz-olabilecegini-dusunduren-4-bulgu/
+originalUrl: 'https://www.mumcu.com/miyomunuz-olabilecegini-dusunduren-4-bulgu/'
+readingTime: 3
 ---
 
 Kadın doğum uzmanları olarak en fazla karşılaştığımız patolojilerin başında halk arasında rahim uru olarak da bilinen miyomlar gelmektedir. Kadınların büyük kısmında bulunan miyomlar birkaç milimetreden 20-30 santimetreye kadar değişen boyutlarda olabileceği gibi bir ya da çok daha fazla sayıda da olabilirler.
@@ -23,7 +23,7 @@ Kabaca kadınların yaklaşık yarısı sıklıkla 30-50 yaşlar arasında myom 
 
 Rahiminizde myom olabileceğini düşündüren belirtiler şunlardır:
 
-![](/wp-content/uploads/2017/06/IMG_6623.jpg)
+![](../../images/uploads/2017/06/IMG_6623.jpg)
 
 **1) Adetlerde değişim: Kanama miktarınızda ve süresinde belirgin bir artış varsa**  
 Miyomların neden olduğu en belirgin bulgu adet kanamalarının gıderek uzaması ve miktar olarak artmasıdır. Kanama zaman zaman o kadar fazla olabilir ki, sosyal yaşantınız bundan etkilenebilir.

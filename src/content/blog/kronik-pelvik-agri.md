@@ -3,10 +3,11 @@ title: Kronik Pelvik Ağrı
 pubDate: '2014-03-24T13:32:15'
 slug: kronik-pelvik-agri
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/kronik-pelvik-agri/
+originalUrl: 'https://www.mumcu.com/kronik-pelvik-agri/'
+readingTime: 5
 ---
 
 Kronik pelvik ağrı denildiğinde 6 aydan daha uzun süredir var olan, siklik ve ya siklus ile ilgisiz, devamlı ya da aralıklarla gelen ağrılar tanımlanmaktadır. Dismenore, disparoni gibi ağrılar da bu durum içine girmektedir. Kronik pelvik ağrıya jinekolog, ürolog, gastroenterolog, ortopedist ve psikologların beraberce ekip olarak yaklaşması önerilmektedir.  

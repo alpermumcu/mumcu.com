@@ -3,10 +3,11 @@ title: Doğum Kontrolü- Aylık İğneler
 pubDate: '2014-03-24T14:17:16'
 slug: dogum-kontrolu-aylik-igneler
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-kontrolu-aylik-igneler/
+originalUrl: 'https://www.mumcu.com/dogum-kontrolu-aylik-igneler/'
+readingTime: 3
 ---
 
 Bazı ülkelerde 20 yıldan uzun bir zamandır kullanılan aylık doğum kontrol iğneleri yaklaşık 4 yıldır ülkemizde de piyasada bulunmaktadır. Bu aylık iğneleri Amerika Birleşik Devletleri’nde kullanımına 2000 yılından beri izin verilmektedir.  

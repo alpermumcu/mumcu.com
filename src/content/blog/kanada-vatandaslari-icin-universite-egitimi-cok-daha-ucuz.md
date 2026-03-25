@@ -3,14 +3,15 @@ title: Kanada vatandaşları için üniversite eğitimi çok daha ucuz
 pubDate: '2018-04-18T13:00:56'
 slug: kanada-vatandaslari-icin-universite-egitimi-cok-daha-ucuz
 category:
-  - Makaleler
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/kanada-vatandaslari-icin-universite-egitimi-cok-daha-ucuz/
+readingTime: 2
 ---
 
-![](/wp-content/uploads/2018/04/okul.jpg)
+![](../../images/uploads/2018/04/okul.jpg)
 
  Pek çok ailenin çocuğu ile ilgili sağlığından sonra gelen en büyük düşünce ve endişesi ileride seçeceği meslek ve bu meslek için alacağı eğitim konusudur.
 

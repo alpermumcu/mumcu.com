@@ -3,10 +3,11 @@ title: Hamilelik ve Demir
 pubDate: '2014-03-16T19:14:03'
 slug: hamilelik-ve-demir
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-demir/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-demir/'
+readingTime: 6
 ---
 
 Demir besin maddeleri arasında belki de hakkında en çok araştırma yapılan ve etkileri en iyi bilinendir. Dünya üzerindeki hemen hemen tüm canlı organizmaların hayatının devamında kilit rol oynar. İnsanlarda da yüzlerce protein ve enzim için elzem bir maddedir.

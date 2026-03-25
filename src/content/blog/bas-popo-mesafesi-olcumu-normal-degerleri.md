@@ -3,13 +3,14 @@ title: Baş popo mesafesi ölçümü normal değerleri
 pubDate: '2014-03-18T01:38:01'
 slug: bas-popo-mesafesi-olcumu-normal-degerleri
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/bas-popo-mesafesi-olcumu-normal-degerleri/
+originalUrl: 'https://www.mumcu.com/bas-popo-mesafesi-olcumu-normal-degerleri/'
+readingTime: 1
 ---
 
-![crl16](/wp-content/uploads/2014/03/crl16.jpg)
+![crl16](../../images/uploads/2014/03/crl16.jpg)
 
 **Hafta**
 

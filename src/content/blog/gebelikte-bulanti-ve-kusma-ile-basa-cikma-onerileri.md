@@ -3,10 +3,11 @@ title: Gebelikte bulantı ve kusma ile başa çıkma önerileri
 pubDate: '2015-04-15T06:05:05'
 slug: gebelikte-bulanti-ve-kusma-ile-basa-cikma-onerileri
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-bulanti-ve-kusma-ile-basa-cikma-onerileri/
+originalUrl: 'https://www.mumcu.com/gebelikte-bulanti-ve-kusma-ile-basa-cikma-onerileri/'
+readingTime: 5
 ---
 
 Amerika Birleşik Devletleri ve İngiltere’de yapılan istatistikler gebe kadınların yaklaşık yarısını sabah bulantılarından yakındığını gösteriyor. Nedeni tam olarak bilinmeyen sabah bulantılarının ardında yatan sebebin gebelik sırasında artan kadınlık hormonu (östrojen) düzeyleri olduğuna inanılıyor. Yine gebelikte artış gösteren koku hassasiyeti de bulantıyı tetikleyen faktörlerden birisi.  

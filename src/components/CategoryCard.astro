@@ -1,0 +1,92 @@
+---
+interface Props {
+	title: string;
+	description: string;
+	href: string;
+	icon: string;
+	count?: number;
+}
+
+const { title, description, href, icon, count } = Astro.props;
+---
+
+<a href={href} class="category-card">
+	<div class="icon-wrapper">
+		<span class="icon">{icon}</span>
+	</div>
+	<div class="content">
+		<h3>{title}</h3>
+		<p>{description}</p>
+		{count !== undefined && <span class="count">{count} Makale</span>}
+	</div>
+	<div class="arrow">→</div>
+</a>
+
+<style>
+	.category-card {
+		display: flex;
+		align-items: center;
+		gap: 1.5rem;
+		background: white;
+		padding: 1.5rem;
+		border-radius: 20px;
+		text-decoration: none;
+		border: 1px solid var(--glass-border);
+		transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+		position: relative;
+		overflow: hidden;
+	}
+	.category-card:hover {
+		transform: translateY(-5px);
+		border-color: hsl(var(--primary) / 0.3);
+		box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1);
+	}
+	.icon-wrapper {
+		width: 60px;
+		height: 60px;
+		background: hsl(var(--secondary));
+		border-radius: 16px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 2rem;
+		flex-shrink: 0;
+	}
+	.content {
+		flex-grow: 1;
+	}
+	h3 {
+		margin: 0 0 0.5rem 0;
+		font-size: 1.25rem;
+		color: hsl(var(--text-main));
+		font-family: 'Outfit', sans-serif;
+		font-weight: 700;
+	}
+	p {
+		margin: 0;
+		font-size: 0.95rem;
+		color: hsl(var(--text-muted));
+		line-height: 1.5;
+	}
+	.count {
+		display: inline-block;
+		margin-top: 0.5rem;
+		font-size: 0.8rem;
+		font-weight: 700;
+		color: hsl(var(--primary));
+		background: hsl(var(--primary) / 0.1);
+		padding: 0.2rem 0.6rem;
+		border-radius: 99px;
+	}
+	.arrow {
+		font-size: 1.5rem;
+		color: hsl(var(--accent));
+		opacity: 0;
+		transform: translateX(-10px);
+		transition: all 0.3s ease;
+	}
+	.category-card:hover .arrow {
+		opacity: 1;
+		transform: translateX(0);
+	}
+</style>

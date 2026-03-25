@@ -3,10 +3,11 @@ title: Hamilelik ve Diş Sağlığı
 pubDate: '2014-03-16T18:54:25'
 slug: hamilelik-ve-dis-sagligi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-dis-sagligi/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-dis-sagligi/'
+readingTime: 3
 ---
 
 **Gebelikte Diş Bakımı**

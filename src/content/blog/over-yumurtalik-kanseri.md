@@ -3,10 +3,11 @@ title: Over (yumurtalık) kanseri
 pubDate: '2014-03-26T16:30:36'
 slug: over-yumurtalik-kanseri
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/over-yumurtalik-kanseri/
+originalUrl: 'https://www.mumcu.com/over-yumurtalik-kanseri/'
+readingTime: 5
 ---
 
 Jinekolojik kanserleri içinde en geç tanısı konabilen ve bu nedenle en fazla ölüme sebebiyet veren kanser türü olması nedeni ile ayrı bir öneme sahiptir. Kadın kanserlerinn %4’ünü, genital kanserlerin ise %23’ünü meydana getirir. Her 100 kadından 5’i over kanseri nedeni ile yaşamını kaybeder.Over kanseri tanısı konan kadınlarda 5 yıllık yaşam % 35 civarındadır.Endüstrileşmiş ülkelerde daha fazla görülür. Bu çevresel faktörlerin etkisini düşündürmektedir.  

@@ -3,10 +3,11 @@ title: Vajinal enfeksiyonlardan korunma önerileri
 pubDate: '2014-03-24T12:29:07'
 slug: vajinal-enfeksiyonlardan-korunma-onerileri
 category:
-  - Makaleler
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/vajinal-enfeksiyonlardan-korunma-onerileri/
+originalUrl: 'https://www.mumcu.com/vajinal-enfeksiyonlardan-korunma-onerileri/'
+readingTime: 2
 ---
 
 Vajinal enfeksiyonlar, hemen her kadının hayatı boyunca dönem dönem karşılaştığı, bazen son derece basit bazen de ciddi komplikasyonlara neden olabilen önemli sağlık sorunlarıdır.

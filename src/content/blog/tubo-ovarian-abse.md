@@ -3,10 +3,11 @@ title: Tubo-ovarian abse
 pubDate: '2014-03-24T12:20:24'
 slug: tubo-ovarian-abse
 category:
-  - Makaleler
+  - Cerrahi İşlemler
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/tubo-ovarian-abse/
+originalUrl: 'https://www.mumcu.com/tubo-ovarian-abse/'
+readingTime: 2
 ---
 
 Tubo-ovarian abse (TOA) ise adından da anlaşılabileceği gibi adneksiyel alanda meydana gelen abselerdir

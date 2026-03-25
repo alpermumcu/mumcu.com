@@ -3,10 +3,11 @@ title: Hamilelikte prozac güvenli midir?
 pubDate: '2014-03-17T23:45:31'
 slug: hamilelikte-prozac-guvenli-midir
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-prozac-guvenli-midir/
+originalUrl: 'https://www.mumcu.com/hamilelikte-prozac-guvenli-midir/'
+readingTime: 2
 ---
 
 Yirmibirinci yüzyılın modern çağ insanına verdiği hediyelerden birisi de yoğun çalışma temposu ve strestir. Bu durumun doğal sonucu ise her insanda zaman zaman değişik derecelerde görülebilen bunaltı ve depresyondur. Modern insanın hastalığı olarak da tanımlayabileceğimiz depresyon gelişmiş ve sosyokültürel düzeyi yüksek toplumlarda giderek artan bir oranda görülmektedir.

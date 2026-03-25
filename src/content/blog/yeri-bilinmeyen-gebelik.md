@@ -3,10 +3,11 @@ title: Yeri bilinmeyen gebelik
 pubDate: '2014-04-09T22:45:52'
 slug: yeri-bilinmeyen-gebelik
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/yeri-bilinmeyen-gebelik/
+originalUrl: 'https://www.mumcu.com/yeri-bilinmeyen-gebelik/'
+readingTime: 5
 ---
 
 Bebek isteyen ve bunun için uğraşan,ve adet gecikmesi sonrası gebelik testi yapıp pozitif sonucu gören bir kadının mutluluğuna diyecek yoktur. Bundan sonraki aşama ise doğal olarak hemen doktorundan randevu alıp herşeyin yolunda olup olmadığını öğrenmektir. Bu ilk muayenede gebelik ile ilgili doktorun önerileri alınıp bilgilendikten sonra sıra bebek ile tanışmaya, yani ultrason ile gebeliği görmeye gelir. Eğer doktorunuz uygun zamana yani 6. hafta civarına randevu vermiş ise bebek yeteri kadar büyüdüğünden sadece görmekle kalmayıp kalp atışlarını da duymak mümkün olacaktır.

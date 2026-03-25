@@ -3,10 +3,11 @@ title: Hamilelikte ultrason neden yapılır?
 pubDate: '2014-03-18T01:13:19'
 slug: hamilelikte-ultrason-neden-yapilir
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-ultrason-neden-yapilir/
+originalUrl: 'https://www.mumcu.com/hamilelikte-ultrason-neden-yapilir/'
+readingTime: 7
 ---
 
 Obstetrik ultrasonografi gebelik takiplerinde yapılan ultrasonografik incelemeye verilen isimdir. 1950’lerin son çeyreginde kullanıma girmesinden bu yana ultrasonografi obstetrik alanında son derece önemli ve vaz geçilmez bir konuma gelmiştir. Günümüzde kullanılan gerçek zamanlı ultrasonografi cihazları hareket halindeki fetusun görüntülerini monitör ekranına yansıtmakta ve fetusu incelemeye olanak tanımaktadırlar. Bu görüntüleri elde edebilmek için 3.5-7.0 megahertzlik (saniyede 3.5-7 milyon siklusluk) yüksek frekanslı ses dalgaları kullanılmaktadır.

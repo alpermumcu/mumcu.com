@@ -3,10 +3,11 @@ title: Hamilelik ve Çinko
 pubDate: '2014-03-16T19:14:47'
 slug: hamilelik-ve-cinko
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-cinko/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-cinko/'
+readingTime: 3
 ---
 
 Çinko dünya üzerinde bilinen tüm yaşam şekilleri için gerekli ve elzem olan minerallerden birisidir. İnsan yaşamındaki önemi ve eksikliğinde karşılaşılan sağlık sorunları nispeten yakın bir geçmişte, 1960’lı yılların başında fark edilmiştir.

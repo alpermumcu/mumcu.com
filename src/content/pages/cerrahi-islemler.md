@@ -8,32 +8,32 @@ menuOrder: 0
 
 ####     **GENEL İŞLEMLER**
 
-> [Kürtaj](?p=274)
+> [Kürtaj](/blog/kurtaj/)
 > 
-> [Kolposkopi ve biopsi](?p=1334)
+> [Kolposkopi ve biopsi](/blog/kolposkopi/)
 > 
 > [LEEP İşlemi](?p=1338)
 > 
-> [Kriyoterapi (yara dondurma)](?p=1336)
+> [Kriyoterapi (yara dondurma)](/blog/kriyoterapi-yara-dondurma/)
 > 
-> [Histeroskopi](?p=1604)
+> [Histeroskopi](/blog/histeroskopi/)
 > 
-> [Laparoskopi](?p=1606)
+> [Laparoskopi](/blog/laparoskopi/)
 > 
-> [Myomektomi](?p=1610)
+> [Myomektomi](/blog/myomektomi/)
 > 
-> [Yara iyileşmesi](?p=1616)
+> [Yara iyileşmesi](/blog/yara-iyilesmesi/)
 > 
-> [Laparoskopik histerektomi : Kapalı rahim ameliyatı](?p=2664)
+> [Laparoskopik histerektomi : Kapalı rahim ameliyatı](/blog/laparoskopi/)
 > 
-> [Labioplasti vulva estetigi ve dudakların küçültülmesi](?p=2697)
+> [Labioplasti vulva estetigi ve dudakların küçültülmesi](/blog/labioplasti-vulva-estetigi-ve-dudaklarin-kucultulmesi/)
 > 
-> [Vajinal kuruluk tedavisinde lazer](?p=4305)
+> [Vajinal kuruluk tedavisinde lazer](/blog/vajinal-kuruluk-tedavisinde-lazer/)
 
 ####      **ANESTEZİ**
 
-> [Epidural anestezi](?p=1042)
+> [Epidural anestezi](/blog/dogumda-vakum-kullanilmasi-2/)
 > 
-> [Genel Anestezi](?p=1044)
+> [Genel Anestezi](/blog/genel-anestezi/)
 > 
-> [Hasta kontrollü ağrı giderimi](?p=1048)
+> [Hasta kontrollü ağrı giderimi](/blog/hasta-kontrollu-agri-giderimi/)

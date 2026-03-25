@@ -3,10 +3,11 @@ title: Amniyon sıvısının azalması
 pubDate: '2014-03-15T20:47:21'
 slug: amniyon-sivisinin-azalmasi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/amniyon-sivisinin-azalmasi/
+originalUrl: 'https://www.mumcu.com/amniyon-sivisinin-azalmasi/'
+readingTime: 2
 ---
 
 **Amniyon sıvısı nedir?  

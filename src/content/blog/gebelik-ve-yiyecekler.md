@@ -3,10 +3,11 @@ title: Gebelik ve yiyecekler
 pubDate: '2014-03-16T19:24:42'
 slug: gebelik-ve-yiyecekler
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-ve-yiyecekler/
+originalUrl: 'https://www.mumcu.com/gebelik-ve-yiyecekler/'
+readingTime: 5
 ---
 
 Hamile bir kadına hemen herkes kendine dikkat etmesini söyler. Aslında bunu söyleyenler de, bu söze muhatap olanlarda nasıl ve neye dikkat etmeleri gerektiğini tam anlamıyla bilmemektedirler. Gerçekten de gebelikte dikkat edilmesi ve sakınılması gereken pekçok durum ve davranış vardır. Beslenme bunlardan birisidir. Ancak sadece belirli gıdaları tüketmek ya da tüketmemek tek sorun değildir. Uygunsuz olarak hazırlanan gıdalardan değişik hastalıklar bulaşabilir. Bu hem gebeler hem de gebe olmayanlar için tehlike yaratabilir.

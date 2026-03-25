@@ -3,11 +3,12 @@ title: Menopoz sonrası ortaya çıkan Vajinal kuruluk tedavisinde lazer oldukç
 pubDate: '2018-04-08T00:50:13'
 slug: menopoz-sonrasi-ortaya-cikan-vajinal-kuruluk-tedavisinde-lazer-oldukca-etkili
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/menopoz-sonrasi-ortaya-cikan-vajinal-kuruluk-tedavisinde-lazer-oldukca-etkili/
+readingTime: 2
 ---
 
 Menopoz ile birlikte azalan östrojen düzeyleri nedeniyle genital sistemde görülen dokulardaki küçülme ve kuruluk menopoz sonrası kadınların önemli bir sağlık sorunudur.

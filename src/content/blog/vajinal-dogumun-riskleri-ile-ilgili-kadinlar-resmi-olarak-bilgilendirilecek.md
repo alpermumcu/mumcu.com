@@ -3,12 +3,12 @@ title: Vajinal doğumun riskleri ile ilgili kadınlar resmi olarak bilgilendiril
 pubDate: '2016-07-10T12:02:22'
 slug: vajinal-dogumun-riskleri-ile-ilgili-kadinlar-resmi-olarak-bilgilendirilecek
 category:
-  - Güncel Haberler
-  - Haberler | Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/vajinal-dogumun-riskleri-ile-ilgili-kadinlar-resmi-olarak-bilgilendirilecek/
+readingTime: 3
 ---
 
 Birleşik Krallık tarihinde ilk kez hamile kadınlara normal doğumun riskleri ile ilgili resmi olarak bilgi verilmesi gündemde.

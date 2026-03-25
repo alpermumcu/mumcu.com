@@ -3,10 +3,11 @@ title: Servisit
 pubDate: '2014-03-22T20:23:35'
 slug: servisit
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/servisit/
+originalUrl: 'https://www.mumcu.com/servisit/'
+readingTime: 4
 ---
 
 Servisit en sık karşılaşılan jinekolojik problemlerden birisidir. Kadınların yarısından fazlası hayatının bir döneminde bu hastalığa yakalanır. Yaşı ne olursa olsun cinsel yönden aktif her kadın servisit için uygun bir adaydır. Kasık ağrısı ve vajinal akıntısı olan kadınların çoğunda başka bir hastalıkla bir arada ya da tek başına mutlaka servisit bulunur. Belirtileri diğer pekçok hastalığa benzediği ve spesifik yakınmalar yaratmadığı için kişinin kendi kendine servisitten şüphelenmesi zordur. Genelde başka bir nedenden dolayı yapılan jinekolojik muayene ile fark edilir.

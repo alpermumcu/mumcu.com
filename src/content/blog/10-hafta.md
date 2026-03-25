@@ -3,10 +3,11 @@ title: 10. Hafta &#8211;  Cinsiyet farklılaşması başladı
 pubDate: '2014-03-31T04:09:41'
 slug: 10-hafta
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/10-hafta/
+originalUrl: 'https://www.mumcu.com/10-hafta/'
+readingTime: 2
 ---
 
 Fertilizasyondan 47-48 gün sonra ilk kez beyin dalgaları üretilmeye başlar.

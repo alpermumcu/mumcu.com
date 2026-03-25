@@ -3,10 +3,11 @@ title: Vajen estetiği
 pubDate: '2014-03-24T16:38:42'
 slug: vajen-estetigi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/vajen-estetigi/
+originalUrl: 'https://www.mumcu.com/vajen-estetigi/'
+readingTime: 4
 ---
 
 Dünyadaki en güzel kadının bile psikolojik fonksiyonlarını ve cinsel yaşantısını olumsuz yönde etkileyen ve kimse ile paylaşamadığı bir sorunu olabilir. Bu sorun kadının kendi dış genital organlarından hoşnut olmamasıdır. En sık olarak vajinal doğum yapmış kadınlarda doğum esnasında vajinal dokuların gerilmesine ve daha sonra asla normal halinde dönmemesine bağlı olarak ortaya çıkar. Bu idrar kesesi ve rektumda (barsakların anüsten önceki en son kısmı) vajinaya doğru bir sarkma olarak belirir ve cinsel fonksiyon bozukluğunun yanı sıra idrar tutamama gibi patolojik durumlara da neden olabilir. Hoşnutsuzluk yaratan doğumlara bağlı bir başka problem ise doğum esnasında açılan epizyotominin bıraktığı dikiş izidir. Burada gelişen nedbe dokusu hem kadının hem de erkeğin cinsel tatminini engeleyebilir.

@@ -3,10 +3,11 @@ title: Diğer Over Kanserleri
 pubDate: '2014-03-26T16:32:16'
 slug: diger-over-kanserleri
 category:
-  - Makaleler
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/diger-over-kanserleri/
+originalUrl: 'https://www.mumcu.com/diger-over-kanserleri/'
+readingTime: 1
 ---
 
 **Gonadal Stromal Tümörler**  

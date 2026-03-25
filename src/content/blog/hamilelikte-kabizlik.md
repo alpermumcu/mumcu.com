@@ -3,10 +3,11 @@ title: Hamilelikte kabızlık
 pubDate: '2014-03-16T03:21:22'
 slug: hamilelikte-kabizlik
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-kabizlik/
+originalUrl: 'https://www.mumcu.com/hamilelikte-kabizlik/'
+readingTime: 2
 ---
 
 Hamilelik sırasında kadınların en sık yakındığı konuların başında gelenlerden birisi de kabızlık yani konstipasyondur. Bu durumun temel nedeni hamilelik sırasında salgılanan progesteron hormonunun düz kaslar üzerinde yarattığı etkidir. Düz kaslar vücudumuzda kendi kontrolümüz dışında çalışan kaslardır ve bu nedenle istemsiz kaslar olarak da adlandırılırlar. Mide, barsaklar, idrarı böbreklerden mesaneye taşıyan üreterler istemsiz yani düz kaslara örnek olarak gösterilebilir.

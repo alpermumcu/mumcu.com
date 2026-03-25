@@ -3,10 +3,11 @@ title: 37. Hafta- Artık hazır
 pubDate: '2014-03-30T20:57:27'
 slug: 37-hafta-artik-hazir
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/37-hafta-artik-hazir/
+originalUrl: 'https://www.mumcu.com/37-hafta-artik-hazir/'
+readingTime: 2
 ---
 
 37\. haftayı tamamladığınızda bebeğiniz ve hamileliğiniz miadını doldurmuş olarak kabul edilir. Ancak büyümesi daha durmamıştır. Vücudu yağ depolamaya devam eder ve günde yaklaşık 15-30 gram kadar alırlar. Genelde erkek bebekler kzı bebeklerden daha fazla yağ depolarlar ve bu nedenle daha ağır doğarlar.

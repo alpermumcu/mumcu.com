@@ -3,10 +3,11 @@ title: Hamilelikte manikür ve pedikür
 pubDate: '2014-03-17T23:31:08'
 slug: hamilelikte-manikur-ve-pedikur
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-manikur-ve-pedikur/
+originalUrl: 'https://www.mumcu.com/hamilelikte-manikur-ve-pedikur/'
+readingTime: 1
 ---
 
 Hamilelikte manikür ve pedikür yaptırılmasında herhangi bir sakınca yoktur

@@ -1,0 +1,121 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Sidebar from '../../components/Sidebar.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { categories } from '../../data/categories';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return categories.map((category) => {
+    const filteredPosts = posts.filter((post) => 
+      post.data.category?.includes(category.name)
+    ).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+    
+    return {
+      params: { slug: category.slug },
+      props: { category, posts: filteredPosts },
+    };
+  });
+}
+
+const { category, posts } = Astro.props;
+---
+
+<Layout title={`${category.name} | Dr. Alper Mumcu`}>
+  <div class="content-wrapper container">
+    <main class="category-main">
+      <Breadcrumbs 
+        parts={[
+          { label: 'Bilgi Kütüphanesi', href: '/blog/' },
+          { label: category.name }
+        ]} 
+      />
+      
+      <header class="category-header">
+        <h1 class="font-outfit">{category.name}</h1>
+        <p>{posts.length} Uzman Makalesi</p>
+      </header>
+
+      <div class="posts-grid">
+        {posts.map((post) => (
+          <article class="post-card glass">
+            <div class="meta">
+              <span>{post.data.pubDate.toLocaleDateString('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' })}</span>
+              <span>⏱️ {post.data.readingTime} dk</span>
+            </div>
+            <h3>{post.data.title}</h3>
+            <a href={`/blog/${post.slug}/`} class="btn-text">Okumaya Devam Et →</a>
+          </article>
+        ))}
+      </div>
+    </main>
+    <Sidebar />
+  </div>
+</Layout>
+
+<style>
+  .content-wrapper {
+    margin: 8rem auto 4rem;
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    gap: 4rem;
+  }
+  .category-header {
+    margin: 2rem 0 4rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--glass-border);
+  }
+  h1 {
+    font-size: 3.5rem;
+    color: hsl(var(--text-main));
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+  }
+  .category-header p {
+    font-size: 1.25rem;
+    color: hsl(var(--accent));
+    font-weight: 700;
+  }
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+  }
+  .post-card {
+    padding: 2rem;
+    border-radius: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: all 0.3s ease;
+  }
+  .post-card:hover {
+    transform: translateY(-5px);
+    border-color: hsl(var(--accent) / 0.3);
+  }
+  .meta {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: hsl(var(--text-muted));
+    margin-bottom: 1rem;
+  }
+  h3 {
+    font-size: 1.25rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.4;
+    color: hsl(var(--text-main));
+    font-family: 'Outfit', sans-serif;
+  }
+  .btn-text {
+    color: hsl(var(--accent));
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 0.95rem;
+  }
+  @media (max-width: 1024px) {
+    .content-wrapper { grid-template-columns: 1fr; margin-top: 6rem; }
+  }
+</style>

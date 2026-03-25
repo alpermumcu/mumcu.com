@@ -3,10 +3,11 @@ title: Yumurtalıkların uyarılması
 pubDate: '2014-03-28T00:45:58'
 slug: yumurtaliklarin-uyarilmasi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/yumurtaliklarin-uyarilmasi/
+originalUrl: 'https://www.mumcu.com/yumurtaliklarin-uyarilmasi/'
+readingTime: 5
 ---
 
 Tedavinin ilk aşaması yeterli sayıda döllenme yeteneğine sahip yumurta hücresi elde edebilmektir. Bu amaçla yumurtalıklar çeşitli ilaçlar ile uyarılırlar. Bu işleme kontrollü ovarian hiperstimülasyon adı verilir. İlk başarılı IVF gebeliği herhangi bir uyarının verilmediği doğal bir adet döneminde elde edilmiş olsa da, birden fazla sayıda embryo transfer edilmesi başarı olasılığını arttırmaktadır, daha fazla sayıda embryo elde edebilmenin tek yolu daa daha fazla sayıda yumurta hücresi elde etmektir. Günümüzde dünyadaki hemen hemen tüm üreme sağlığı merkezlerinde KOH uygulanmaktadır.

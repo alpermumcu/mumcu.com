@@ -3,10 +3,11 @@ title: Kürtaj
 pubDate: '2014-03-15T19:48:54'
 slug: kurtaj
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/kurtaj/
+originalUrl: 'https://www.mumcu.com/kurtaj/'
+readingTime: 12
 ---
 
 Kadın olsun, erkek olsun kürtaj kelimesini duymayan yok gibidir. Buna karşın yine pekçok kişi kürtajın sadece bebek aldırmak olduğunu düşünür. Oysa kürtaj en çok istenmeyen ya da zorunluluk durumunda gebeliğin sonlandırılması için uygulalan bir işlem olmasına karşın kelime olarak sadece bu işlem için kullanılan bir terim değildir.

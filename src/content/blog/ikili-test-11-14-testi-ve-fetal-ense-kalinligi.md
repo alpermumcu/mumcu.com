@@ -3,10 +3,11 @@ title: İkili Test (11-14 testi) ve fetal ense kalınlığı
 pubDate: '2014-03-15T21:28:05'
 slug: ikili-test-11-14-testi-ve-fetal-ense-kalinligi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/ikili-test-11-14-testi-ve-fetal-ense-kalinligi/
+originalUrl: 'https://www.mumcu.com/ikili-test-11-14-testi-ve-fetal-ense-kalinligi/'
+readingTime: 8
 ---
 
 Her hamile kadın karnında kromozomal bozukluk taşıyan bir bebek taşıma riski ile karşı karşıyadır. Herhangi bir inceleme yapmadan bu riski kabaca tahmin etmeye çalışırken bazı parametreler göz önüne alınır.
@@ -49,7 +50,7 @@ Düşük risk grubundaki kadınlarda yapılan çalışmalar ise çelişkili sonu
 
 Günümüzde yaygın olarak kabul edilen görüşe göre gebeliğin 11-14. haftaları arasında bebeğin baş-popo uzunluğunun ölçüldüğü kesitte ense kalınlığının 3 milimetreden fazla olması artmış fetal ense kalınlığı olarak kabul edilmektedir.
 
- ![ens_1](/wp-content/uploads/2014/03/ens_1.jpg)
+ ![ens_1](../../images/uploads/2014/03/ens_1.jpg)
 
 Transvajinal ultrasonografide  
 fetal ense kalınlığı ölçümü
@@ -107,7 +108,7 @@ görülme riski
 **PAPP-A ve SERBEST beta-hCG TESTİ**  
 PAPP-A sadece gebeliğe ait olan bir tür proteindir. HCG ise yine sadece gebelikte salgılanan bir hormonudur. Bu kimyasal maddelerin belirli gebelik haftalarında belirli düzeylerde olması gerekir. Yapılan araştırmalarda anomaliye sahip bebeklerde PAPP-A düzeyinin normalden daha az, serbest beta-hCG düzeyininin ise daha fazla olduğu görülmüştür. Gebeliğin 11-14. haftalarında alınan kan örneğinde ölçülen bu iki kimyasal maddenin düzeyleri bir bilgisayar programına girilir ve program bir risk tahmininde bulunur. Parametreler arasına fetal ense kalınlığı da eklendiğinde tahminin başarılı olma şansı çok daha yüksektir.
 
-[![ikili_sonuc3](/wp-content/uploads/2014/03/ikili_sonuc3.jpg)](http://www.mumcu.com/wp-content/uploads/2014/03/ikili_sonuc3.jpg)
+[![ikili_sonuc3](../../images/uploads/2014/03/ikili_sonuc3.jpg)](http://www.mumcu.com../../images/uploads/2014/03/ikili_sonuc3.jpg)
 
 Normal bir ikili test raporu
 

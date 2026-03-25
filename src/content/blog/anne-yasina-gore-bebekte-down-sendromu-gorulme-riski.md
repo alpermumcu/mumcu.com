@@ -3,10 +3,11 @@ title: Anne yaşına göre bebekte Down Sendromu görülme riski
 pubDate: '2014-03-16T03:31:09'
 slug: anne-yasina-gore-bebekte-down-sendromu-gorulme-riski
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/anne-yasina-gore-bebekte-down-sendromu-gorulme-riski/
+originalUrl: 'https://www.mumcu.com/anne-yasina-gore-bebekte-down-sendromu-gorulme-riski/'
+readingTime: 1
 ---
 
 Anne yaşı

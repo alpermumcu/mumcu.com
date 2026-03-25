@@ -3,10 +3,11 @@ title: Ağrılı cinsel ilişki
 pubDate: '2014-03-24T16:36:23'
 slug: agrili-cinsel-iliski
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/agrili-cinsel-iliski/
+originalUrl: 'https://www.mumcu.com/agrili-cinsel-iliski/'
+readingTime: 4
 ---
 
 Ağrılı cinsel ilişki ya da tıbbi terminolojideki adıyla dispronia jinekoloğa başvuran kadınlar arasında oldukça yaygın bir yakınmadır. Pek çok kadın dönem dönem bu tür şikayetler yaşar buna karşın bazı kadınlar sürekli hemen her ilişkide bu durumla karşı karşıya kalırlar. Dispronia çoğu zaman nedeni saptanabilen ve kolaylıkla tedavi edilebilen bir durumdur. Disparonia cinsel ilişki esnasında kadının geçici bir zaman için ya da sürekli olarak ağrı duymasıdir ve cinsel tatminin önünde çok büyük bir engeldir.Kadınların yaklaşık %15’i bu rahatsızlığı zaman zaman yaşar, %1-2 kadında ise sürekli bir disparonia durumu söz konusudur. Cinsel yönden aktif hemen her yaştaki kadını etkileyebilir. Disparonide etkilenen organlar vajinal kaslar, hymen, bazı durumlarda rahim ve beyindir.

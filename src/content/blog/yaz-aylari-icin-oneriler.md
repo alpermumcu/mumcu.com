@@ -3,13 +3,14 @@ title: Yaz ayları için öneriler
 pubDate: '2014-03-27T15:26:23'
 slug: yaz-aylari-icin-oneriler
 category:
-  - Gündelik Konular
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/yaz-aylari-icin-oneriler/
+originalUrl: 'https://www.mumcu.com/yaz-aylari-icin-oneriler/'
+readingTime: 6
 ---
 
-![yazoneri](/wp-content/uploads/2014/03/yazoneri.jpg)
+![yazoneri](../../images/uploads/2014/03/yazoneri.jpg)
 
 Yaz ayları tüm dünyada insanların çok büyük bir kısmı için tatil anlamına gelir. Tatil deyince de ilk akla gelen seyahat, güneş ve denizdir. Öte yandan yaz ayları yeni bir hayatın ilk adımı olan evlilik törenlerinin de en sık yaşandığı yıl dönemleridir.
 

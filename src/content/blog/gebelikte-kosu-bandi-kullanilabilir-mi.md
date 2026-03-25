@@ -3,10 +3,11 @@ title: Gebelikte koşu bandı kullanılabilir mi?
 pubDate: '2014-03-17T23:36:24'
 slug: gebelikte-kosu-bandi-kullanilabilir-mi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-kosu-bandi-kullanilabilir-mi/
+originalUrl: 'https://www.mumcu.com/gebelikte-kosu-bandi-kullanilabilir-mi/'
+readingTime: 2
 ---
 
 Günümüzde artık pekçok kadın doğum hekimi gebelik sırasında yapılan hafif egzersizin yararlarını kabul etmiş durumdadır. Bu hafif egzersizler hem bebeğin hem de gebe kadının sağlığı açısından olumlu etkilere sahiptir. Ancak gebelik sırasında her türlü sporda hem kendi sağlığınız hem de bbeinizin sağlığı açısından bazı noktalara dikkat etmeniz gerekir.

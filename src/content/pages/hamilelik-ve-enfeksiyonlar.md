@@ -12,28 +12,28 @@ Makaleleri okumak için tıklayın.
 
 [Hamilelik ve korona virüs (COVID-19)](/hamilelik-ve-korona-virus-covid-19/)
 
-[Hamilelik ve Suçiçeği](/hamilelik-ve-enfeksiyonlar/?p=849)
+[Hamilelik ve Suçiçeği](/blog/hamilelik-ve-sucicegi/)
 
-[Hamilelik ve Kabakulak](/hamilelik-ve-enfeksiyonlar/?p=851)
+[Hamilelik ve Kabakulak](/blog/hamilelik-ve-kabakulak/)
 
-[Hamilelik ve toksoplazma](/hamilelik-ve-enfeksiyonlar/?p=853)
+[Hamilelik ve toksoplazma](/blog/hamilelik-ve-toksoplazma/)
 
-[Hamilelikte idrar yolu enfeksiyonları](/hamilelik-ve-enfeksiyonlar/?p=855)
+[Hamilelikte idrar yolu enfeksiyonları](/blog/hamilelikte-idrar-yolu-enfeksiyonlari/)
 
-[Hamilelikte sitomegalovirüs (CMV) enfeksiyonu](/hamilelik-ve-enfeksiyonlar/?p=857)
+[Hamilelikte sitomegalovirüs (CMV) enfeksiyonu](/blog/hamilelikte-sitomegalovirus-cmv-enfeksiyonu/)
 
 [Hamilelikte grip ve soğuk algınlığı](/hamilelik-ve-enfeksiyonlar/?p=859)
 
 [Hamilelik ve Grip Aşısı](/hamilelik-ve-enfeksiyonlar/?p=861)
 
-[Hamilelikte tetanoz aşısı](/hamilelik-ve-enfeksiyonlar/?p=863)
+[Hamilelikte tetanoz aşısı](/blog/hamilelikte-tetanoz-asisi/)
 
-[Hamilelik ve listeria enfeksiyonu](/hamilelik-ve-enfeksiyonlar/?p=865)
+[Hamilelik ve listeria enfeksiyonu](/blog/hamilelik-ve-listeria-enfeksiyonu/)
 
 [Gebelik ve Frengi (Sifiliz)](/hamilelik-ve-enfeksiyonlar/?p=1315)
 
-[Gebelik ve Rubella (kızamıkçık) enfeksiyonu](/hamilelik-ve-enfeksiyonlar/?p=867)
+[Gebelik ve Rubella (kızamıkçık) enfeksiyonu](/blog/gebelik-ve-rubella-kizamikcik-enfeksiyonu/)
 
 [Pandemik H1N1 (Domuz gribi)](/hamilelik-ve-enfeksiyonlar/?p=869)
 
-[Gebelikte ilaç kullanımında FDA sınıflamas](/hamilelik-ve-enfeksiyonlar/?p=495)
+[Gebelikte ilaç kullanımında FDA sınıflamas](/blog/gebelikte-ilac-kullanimi/)

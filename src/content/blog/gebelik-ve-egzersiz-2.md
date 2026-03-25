@@ -3,10 +3,11 @@ title: Gebelik ve egzersiz
 pubDate: '2014-03-17T23:35:17'
 slug: gebelik-ve-egzersiz-2
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-ve-egzersiz-2/
+originalUrl: 'https://www.mumcu.com/gebelik-ve-egzersiz-2/'
+readingTime: 3
 ---
 
 Kadının yaşamında en çok stres yaratan durumların başında gebelik gelir. Gebelik hem psikolojik hem de fiziksel olarak kadında çok büyük değişikliklere neden olur. Bu 280 günlük dönemde yapılacak egzersizler hem genel sağlık açısından hem de doğuma hazırlık açısından oldukça önemlidir.Gebelikte egzersize başlamak için genelde yapılanın aksine son 3 ayı beklemek gereksizdir. Aslında ideali gebelik planlandığında egzersizlere de başlamaktır. Bu sayede kişi kendini daha rahat hisseder ve gebelik fikrine daha kolay hazırlanabilir. Gebelik esnasında yapılan düzenli egzersiz kişinin duruş bozukluklarının giderilmesine yardımcı olur, eylem ve doğum esnasında görev yapan kas gruplarını güçlendirir, gebeliğe bağlı bazı rahatsızlıkları giderir ve halsizlik, yorgunluk şikayetlerini azaltır.

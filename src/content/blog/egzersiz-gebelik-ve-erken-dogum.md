@@ -1,12 +1,13 @@
 ---
-title: Egzersiz, gebelik, ve erken doğum
+title: 'Egzersiz, gebelik, ve erken doğum'
 pubDate: '2018-04-22T13:00:24'
 slug: egzersiz-gebelik-ve-erken-dogum
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/egzersiz-gebelik-ve-erken-dogum/
+originalUrl: 'https://www.mumcu.com/egzersiz-gebelik-ve-erken-dogum/'
+readingTime: 2
 ---
 
 Yenidoğan ölümlerinin, çocukluk çağındaki gelişim bozuklukları ve bu dönemde görülen kronik hastalıkların bilinen en önemli risk faktörü erken doğumdur.

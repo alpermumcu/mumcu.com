@@ -3,13 +3,14 @@ title: Adet kanamasını geciktirmek
 pubDate: '2014-03-22T17:42:47'
 slug: adet-kanamasini-geciktirmek
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/adet-kanamasini-geciktirmek/
+originalUrl: 'https://www.mumcu.com/adet-kanamasini-geciktirmek/'
+readingTime: 3
 ---
 
-![dominik](/wp-content/uploads/2016/06/dominik.jpg)
+![dominik](../../images/uploads/2016/06/dominik.jpg)
 
 Sosyal hayat içerisinde kadınların çekindikleri ve rahatsız oldukları konulardan birisi de zamansız adet görmektir. Örneğin izin döneminde adet görecek olan ya da düğününe birkaç hafta kala balayı döneminde adet göreceğini fark eden kadın doğal olarak huzursuz olur.
 

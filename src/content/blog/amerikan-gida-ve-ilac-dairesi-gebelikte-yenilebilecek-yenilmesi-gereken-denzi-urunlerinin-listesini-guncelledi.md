@@ -6,11 +6,12 @@ pubDate: '2017-01-29T08:56:34'
 slug: >-
   amerikan-gida-ve-ilac-dairesi-gebelikte-yenilebilecek-yenilmesi-gereken-denzi-urunlerinin-listesini-guncelledi
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/amerikan-gida-ve-ilac-dairesi-gebelikte-yenilebilecek-yenilmesi-gereken-denzi-urunlerinin-listesini-guncelledi/
+readingTime: 1
 ---
 
 > Amerikan Gıda ve İlaç dairesi gebelikte yenilebilecek (yenilmesi gereken) denzi ürünlerinin listesini güncelledi. Temel…

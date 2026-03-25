@@ -3,17 +3,18 @@ title: Doğumun üçüncü evresi
 pubDate: '2014-03-20T17:37:40'
 slug: dogumun-ucuncu-evresi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogumun-ucuncu-evresi/
+originalUrl: 'https://www.mumcu.com/dogumun-ucuncu-evresi/'
+readingTime: 3
 ---
 
 Bebeğinizin kordonunun kesilmesi ve ilk ağlaması ile birlikte tüm hamileliğiniz boyunca bebeğiniz ile sizin aranızdaki iletişim merkezi olan plasentanın da görevi sona erer. Doğumunzun bundan sonraki üçüncü ve son aşaması plasentanın doğumudur.
 
 Bebek doğduktan sonra kasılmaların sıklığı ve şiddeti azalır. Birkaç kasılma ile birlikte plasenta yapıştığı yerden ayrılır. Doktorunuz bunu fark ettiğinde sizden son birkez daha ıkınmanızı isteyebilir. Bu ıkınma ile plasenta ve zarlar vücut dışına atılır. Plasentanın ayrılması genelde 5-30 dakika içinde gerçekleşir. Bu sürenin aşılması durumunda rahim ağzı kapanabilir ve plasentanın geçişine izin vermeyebilir. Böyle bir durumda doktorunuz eli ile rahim içine girerek tıpkı sezaryende olduğu gibi plasentayı eliyle kendisi ayırıp dışarıya alacaktır.
 
-![plasent](/wp-content/uploads/2014/03/plasent.jpg)
+![plasent](../../images/uploads/2014/03/plasent.jpg)
 
 Plasentanın ayrılması
 

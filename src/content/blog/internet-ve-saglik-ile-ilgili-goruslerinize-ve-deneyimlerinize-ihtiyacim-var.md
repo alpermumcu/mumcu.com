@@ -3,11 +3,12 @@ title: Internet ve sağlık ile ilgili görüşlerinize ve deneyimlerinize ihtiy
 pubDate: '2014-03-14T18:04:09'
 slug: internet-ve-saglik-ile-ilgili-goruslerinize-ve-deneyimlerinize-ihtiyacim-var
 category:
-  - Bizden Haberler
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/internet-ve-saglik-ile-ilgili-goruslerinize-ve-deneyimlerinize-ihtiyacim-var/
+readingTime: 1
 ---
 
 Internet ve sağlık ile ilgili görüşlerinize ve deneyimlerinize ihtiyacım var

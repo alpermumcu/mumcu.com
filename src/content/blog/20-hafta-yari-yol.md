@@ -3,10 +3,11 @@ title: 20. Hafta &#8211; Yarı yol
 pubDate: '2014-03-31T00:34:22'
 slug: 20-hafta-yari-yol
 category:
-  - Hafta Hafta Gebelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/20-hafta-yari-yol/
+originalUrl: 'https://www.mumcu.com/20-hafta-yari-yol/'
+readingTime: 2
 ---
 
 Tebrikler. Gebelik maceranızın tam ortasındasınız. Bebek anne karnındaki yaşamının yarısını tamamladı. Bu haftada doğumdan sonra 5 yaşına kadar devam edecek olan hızlı beyin olgunlaşması başlar. Bebeğin koku, tat, işitme, görme ve dokunma duyuları iyice aktif olmaya başlar.

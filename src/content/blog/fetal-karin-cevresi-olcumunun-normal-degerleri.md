@@ -3,13 +3,14 @@ title: Fetal karın çevresi ölçümünün normal değerleri
 pubDate: '2014-03-18T01:41:18'
 slug: fetal-karin-cevresi-olcumunun-normal-degerleri
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/fetal-karin-cevresi-olcumunun-normal-degerleri/
+originalUrl: 'https://www.mumcu.com/fetal-karin-cevresi-olcumunun-normal-degerleri/'
+readingTime: 1
 ---
 
-![ac16](/wp-content/uploads/2014/03/ac16.jpg)
+![ac16](../../images/uploads/2014/03/ac16.jpg)
 
 **Hafta**
 

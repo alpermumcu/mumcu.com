@@ -3,10 +3,11 @@ title: Spiral ve gebelik
 pubDate: '2014-03-24T14:13:57'
 slug: spiral-ve-gebelik
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/spiral-ve-gebelik/
+originalUrl: 'https://www.mumcu.com/spiral-ve-gebelik/'
+readingTime: 2
 ---
 
 Tüm uygulamalarda olduğu gibi spiral kullanımının da başarısız olma olasılığı vardır. Doğum kontrol yöntemleri söz konusu olduğunda başarısızlık gebelilk ile eş anlamlı olarak kullanılmaktadır.

@@ -3,10 +3,11 @@ title: Hamilelik ve lityum kullanımı
 pubDate: '2014-03-17T23:42:32'
 slug: hamilelik-ve-lityum-kullanimi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-lityum-kullanimi/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-lityum-kullanimi/'
+readingTime: 2
 ---
 
 Lityum gebelikte ilaç kullanımı sınıflamasında D kategorisine giren bir ilaçtır.

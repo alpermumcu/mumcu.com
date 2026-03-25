@@ -3,10 +3,11 @@ title: Braxton Hicks kasılmaları
 pubDate: '2014-03-20T17:23:36'
 slug: braxton-hicks-kasilmalari
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/braxton-hicks-kasilmalari/
+originalUrl: 'https://www.mumcu.com/braxton-hicks-kasilmalari/'
+readingTime: 2
 ---
 
 Belki bu kulağa tuhaf gelen sözcüğü daha önceden duydunuz belki de ilk defa duyuyorsunuz. Ancak durum nasıl olursa olsun eğer bebek bekleyen bir anne adayıysanız anlamını bran önce öğrenmenizde yarar var. Bundan yaklaşık 150 yıl kadar önce İngiliz doktor John Braxton Hicks gerçek doğum kasılmaları başlamadan önce rahim kaslarında meydana gelen bazı kasılmalar olduğunu fark etti ve o güne kadar hem doktorların hem de anne adaylarının yaşadığı karmaşa ve heyecana açıklık getirdi.

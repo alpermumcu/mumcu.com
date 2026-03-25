@@ -3,10 +3,11 @@ title: Hamile kalmayı kolaylaştıran vitamin ve besin maddeleri
 pubDate: '2017-04-12T00:01:36'
 slug: hamile-kalmayi-kolaylastiran-vitamin-ve-besin-maddeleri
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamile-kalmayi-kolaylastiran-vitamin-ve-besin-maddeleri/
+originalUrl: 'https://www.mumcu.com/hamile-kalmayi-kolaylastiran-vitamin-ve-besin-maddeleri/'
+readingTime: 5
 ---
 
 Dünya üzerinde var olmaya başladığından beri insanların toplu ölümüne neden olan 3 büyük etken savaşlar, tedavi edilemeyen enfeksiyonlar ve açlık iken son 40-50 yılda dünya üzerinde, normaldan fazla beslenme ve bunun neden olduğu hastalıklar nedeni ile hayatını kaybedenlerin sayısı, açlıktan ölenlerin sayısını geçti. Yani günümüzde aşırı besin tüketimi ve obezite açlıktan daha ciddi bir sorun.

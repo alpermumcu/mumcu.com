@@ -3,10 +3,11 @@ title: 18. Hafta &#8211; Artık çok rahat anlaşılabiliyor
 pubDate: '2014-03-31T00:39:11'
 slug: 18-hafta-yaglar-birikmeye-basladi
 category:
-  - Hafta Hafta Gebelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/18-hafta-yaglar-birikmeye-basladi/
+originalUrl: 'https://www.mumcu.com/18-hafta-yaglar-birikmeye-basladi/'
+readingTime: 2
 ---
 
 Şu ana kadar herşey yolunda gidiyor. Minik bebeğinizin kemiklerinin büyük bir kısmı hala daha lastik sertliğinde ancak giderek sertleşiyor ve doğumdaki halini alıyor. Yeterli kalsyum almayı ihmal etmemeniz kemik olgunlaşması için çok önemli.

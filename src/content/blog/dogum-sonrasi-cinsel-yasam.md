@@ -3,10 +3,11 @@ title: Doğum sonrası cinsel yaşam
 pubDate: '2014-04-21T20:23:56'
 slug: dogum-sonrasi-cinsel-yasam
 category:
-  - Doğum
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-sonrasi-cinsel-yasam/
+originalUrl: 'https://www.mumcu.com/dogum-sonrasi-cinsel-yasam/'
+readingTime: 5
 ---
 
 Doğum sonrası bebeğe ve anneliğe alışıp işler yavaş yavaş yoluna girdiğinde gebelik öncesi yaşama dönüş serüveni başlar. Küçük bir ipucu: işler asla ve asla eskisi gibi olmayacak ama yeni ve büyük olasılıkla daha yorucu ama bir o adara da keyifli bir hayat sizi bekliyor. Bu yeni “normal” hayata dönüşün bileşenlerinden biri de cinsellik.

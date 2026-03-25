@@ -3,10 +3,11 @@ title: Vajina hakkında bilmeniz gereken 12 önemli konu
 pubDate: '2017-09-24T16:06:03'
 slug: vajina-hakkinda-bilmeniz-gereken-12-onemli-konu
 category:
-  - Jinekoloji
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/vajina-hakkinda-bilmeniz-gereken-12-onemli-konu/
+originalUrl: 'https://www.mumcu.com/vajina-hakkinda-bilmeniz-gereken-12-onemli-konu/'
+readingTime: 5
 ---
 
 Kadın vücudunun en eksik ve yanlış bilinen organı buyuk olasılıkla vajinadır. İşte size kadınların vajinaları hakkında öğrenmesi gereken 2 önemli bilgi.

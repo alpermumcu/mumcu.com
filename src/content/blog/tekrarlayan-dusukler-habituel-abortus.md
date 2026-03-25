@@ -3,10 +3,11 @@ title: Tekrarlayan Düşükler (Habitüel Abortus)
 pubDate: '2014-03-15T19:44:40'
 slug: tekrarlayan-dusukler-habituel-abortus
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/tekrarlayan-dusukler-habituel-abortus/
+originalUrl: 'https://www.mumcu.com/tekrarlayan-dusukler-habituel-abortus/'
+readingTime: 4
 ---
 
 İlk gebeliği düşükle sonlanan kadınların en büyük korkularından biri bir daha hiç çocuğunun olmayacağı ya da sonraki gebeliklerinin de düşükle sonuçlanacağıdır. Bu gerçek değildir. Ancak düşük yapan kadınların daha sonraki gebeliklerinde düşük yapma ya da düşük tehditi yaşama olasılıkları hiç yapmamışlara göre biraz daha yüksektir.Arka arkaya 3 ya da daha fazla sayıda gebeliğin düşük ile sonuçlanmasına tekrarlayan düşük ya da habitüel abortus adı verilir. Burada önemli olan nokta düşüklerin birbirini takip eden gebeliklerde yani arka arkaya olmasıdır.

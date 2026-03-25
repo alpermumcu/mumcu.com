@@ -3,11 +3,12 @@ title: Gebelikte vitamin kullanımı gerekli mi yoksa sadece para kaybı mı
 pubDate: '2016-07-25T07:30:16'
 slug: gebelikte-vitamin-kullanimi-gerekli-mi-yoksa-sadece-para-kaybi-mi
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/gebelikte-vitamin-kullanimi-gerekli-mi-yoksa-sadece-para-kaybi-mi/
+readingTime: 2
 ---
 
 Aslında doğum ile ilgilenen tüm hekimlerin bildiği ama bir türlü vazgeçemediği uygulamalardan biri olan bütün anne adaylarına gebeliğin başlangıcından itibaren vitamin ilacı başlama alışkanlığı İngiltere’de bir kez daha masaya yatırıldığında multivitamin ve mineral desteği alan gebelerin aslında paralarını havaya savurdukları ve bu ilaçlara büyük olasılıkla gereksinim duymadıkları araştırmacılar tarafından bir kez daha ortaya kondu.

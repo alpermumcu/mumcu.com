@@ -3,10 +3,11 @@ title: Fetal gelişme kısıtlılığı
 pubDate: '2016-05-08T23:28:23'
 slug: fetal-gelisme-kisitliligi
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/fetal-gelisme-kisitliligi/
+originalUrl: 'https://www.mumcu.com/fetal-gelisme-kisitliligi/'
+readingTime: 5
 ---
 
 Fetal gelişme kısıtlılığı ya da daha eski tabiri ile rahim içi gelişme geriliği genetik ya da çevresel faktörler nedeni ile bebeğin büyüme hızını ve potansiyelini tam olarak yakalayamadığı durumları ifade etmek için kullanılır. Bebeğe, plasentaya ya da anneye ait nedenler sonucu ortaya çıkar ancak çoğu zaman bu üç faktör bir arada etkilidir ve altta yatan nedeni bulmak mümkün değildir.

@@ -3,10 +3,11 @@ title: Gebelikte grip ve soğuk algınlığı
 pubDate: '2014-03-18T00:09:47'
 slug: gebelikte-grip-ve-soguk-alginligi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-grip-ve-soguk-alginligi/
+originalUrl: 'https://www.mumcu.com/gebelikte-grip-ve-soguk-alginligi/'
+readingTime: 8
 ---
 
 Sonbaharın gelmesi yanlızca sıcak yaz günlerinin ve tatilin sona erdiğini göstermekle kalmaz. Sonbahar değişken hava sıcaklıkları ile birlikte aynı zamanda kış hastalıkları olan grip ve soğuk algınlığı sezonunun da habercisidir. Normal zamanlarda bile çok rahatsızlık verici olan bu durum hamilelikte hem daha çok sıkıntı yaratır hem de anne adaylarının bebekleri açısından endişelenmesine neden olur.

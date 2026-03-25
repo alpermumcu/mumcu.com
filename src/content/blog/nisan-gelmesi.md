@@ -3,10 +3,11 @@ title: Nişan Gelmesi
 pubDate: '2014-03-20T17:24:12'
 slug: nisan-gelmesi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/nisan-gelmesi/
+originalUrl: 'https://www.mumcu.com/nisan-gelmesi/'
+readingTime: 2
 ---
 
 Bebek bekleyen anne adaylarının hemen hepsi ya çevrelerinden ya da doktorlarından nişan gelmesi adında bir olayın varlığını duymuşlarıdır.

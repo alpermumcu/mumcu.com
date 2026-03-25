@@ -3,10 +3,11 @@ title: Hirsutism
 pubDate: '2014-03-26T16:56:05'
 slug: hirsutism
 category:
-  - Makaleler
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hirsutism/
+originalUrl: 'https://www.mumcu.com/hirsutism/'
+readingTime: 3
 ---
 
 En ilkel toplumlardan en gelişmiş toplumlara kadar hepsinde dış görüntü büyük önem taşır. Bazı toplumlarda çirkin kabul edilen görüntüler bazılarında çok güzel olarak sayılabilir. Gelişmiş toplumların pek çoğunda ise kadın vücudundaki erkek tipi tüyler çirkin kabul edilir ve kadınlar bu istenmeyen tüylerden kurtlumak için çok değişik yöntemler ararlar. Normalde kadın vücudunda erkek tipi olmayan kıllardaki genel artışa hipertrikozis adı verilirken özellikle orta hat üzerindeki erkek tipi sert, siyah renkte olan kıllanmaya hirsutism denir. Hirsutism kabaca kadınlarda, olmaması gereken bölgelerde kıllanma olması demektir. Genelde yüzde şakaklarda, çenede, dudak, üstlerinde, meme başı etrafında, iki meme arasında, göbek çevresinde, kasık ile göbek arasındaki orta hatta, bacakların iç yanında, sırtta, kalçalarda ve kasıklarda yoğundur.

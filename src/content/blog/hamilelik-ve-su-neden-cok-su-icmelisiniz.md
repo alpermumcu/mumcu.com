@@ -3,13 +3,14 @@ title: Hamilelik ve su&#8230; Neden çok su içmelisiniz?
 pubDate: '2014-03-16T19:30:36'
 slug: hamilelik-ve-su-neden-cok-su-icmelisiniz
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-su-neden-cok-su-icmelisiniz/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-su-neden-cok-su-icmelisiniz/'
+readingTime: 7
 ---
 
-![su_2](/wp-content/uploads/2014/03/su_2.jpg)
+![su_2](../../images/uploads/2014/03/su_2.jpg)
 
 Su… Hayat kaynağı…Hepimiz suyun hayat için ne kadar önemli olduğunu biliyoruz. Sadece insan için değil bizim bilebildiğimiz her türlü yaşam formu için su kaçınılmaz bir gereklilik. Bu nedenle suyun olmadığı yerde hayatın da olamayacağına inanıyoruz. Uzay araştırmalarında dünya dışında başka hiç bir gezegende su saptanamadığı için hayat olmadığı sonucuna varıyoruz. Okullarda kimya dersinde en önce suyun formülünü öğreniyoruz. Suyun iki hidrojen ve bir oksijen atomundan meydana geldiğini öğrenip her ikisi de yanıcı ve yakıcı olan bu maddelerin nasıl olup ta ateşi söndürdüğüne hayret ediyoruz.
 

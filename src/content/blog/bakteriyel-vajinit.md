@@ -3,10 +3,11 @@ title: Bakteriyel Vajinit
 pubDate: '2014-03-24T12:24:36'
 slug: bakteriyel-vajinit
 category:
-  - Makaleler
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/bakteriyel-vajinit/
+originalUrl: 'https://www.mumcu.com/bakteriyel-vajinit/'
+readingTime: 2
 ---
 
 İlk defa 1955 yılında tanımlanan ve Haemophilus vaginalis adı verilen bir bakterinin yol açtığı vajinal enfeksiyondur.
@@ -15,7 +16,7 @@ Etkene Gardnerella vajinalis adı da verilir. Cinsel ilişki ile bulaşabilir an
 
 Halk arasında en çok görülen vajinal enfeksiyonun mantar enfeksiyonu olduğu sanılmasına rağmen gerçekte en sık bakteriyel vajinozis yani Gardnarella enfeksiyonu görülür. Kadınların %10-68’inde gardnarelle vajiniti görülür.Genelde üreme çağındaki kadınlarda rastlanır.
 
-![gardnarella](/wp-content/uploads/2014/03/gardnarella.gif)
+![gardnarella](../../images/uploads/2014/03/gardnarella.gif)
 
 Gardnarella vajinlis etkeni
 

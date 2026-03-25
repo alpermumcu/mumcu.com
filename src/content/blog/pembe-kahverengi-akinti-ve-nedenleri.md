@@ -3,11 +3,11 @@ title: Pembe kahverengi akıntı ve nedenleri
 pubDate: '2018-09-24T00:26:18'
 slug: pembe-kahverengi-akinti-ve-nedenleri
 category:
-  - Jinekoloji
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/pembe-kahverengi-akinti-ve-nedenleri/
+originalUrl: 'https://www.mumcu.com/pembe-kahverengi-akinti-ve-nedenleri/'
+readingTime: 4
 ---
 
 Vajinal akıntının ya da vajenden olan salgının şekli ve rengi çok değişken olabilir. Bu akıntının pembe ya da kahverengi olması çoğu kadında endişe yaratır ancak pek çok değişik durum bu tür akıntılara neden olabilmektedir.

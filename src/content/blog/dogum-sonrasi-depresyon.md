@@ -3,10 +3,11 @@ title: Doğum Sonrası Depresyon
 pubDate: '2014-03-20T18:14:30'
 slug: dogum-sonrasi-depresyon
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-sonrasi-depresyon/
+originalUrl: 'https://www.mumcu.com/dogum-sonrasi-depresyon/'
+readingTime: 4
 ---
 
 Doğumdan hemen sonraki dönem pekçok kadın için rüya gibidir. Eve yeni gelen bir bebek aileye neşe ve mutluluk saçar. Ancak bu dönem keyifli olduğu kadar streslidir de. Eve yeni bir bireyin katılışı kadınların önemli bir kısmında zihinsel ve duygusal değişikliklere yol açar. Zihinsel ve duygusal durumu etkileyen bu hastalıklar melankoli, depresyon ve psikoz olarak sınıflandırılabilir.

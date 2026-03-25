@@ -3,10 +3,11 @@ title: Sağlıklı vajina diyeti
 pubDate: '2018-09-22T00:19:53'
 slug: saglikli-vajina-diyeti
 category:
-  - Jinekoloji
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/saglikli-vajina-diyeti/
+originalUrl: 'https://www.mumcu.com/saglikli-vajina-diyeti/'
+readingTime: 3
 ---
 
 Tükettiğimiz yiyeceklerin genel vücut sağlığı üzerindeki etkileri artık bilinen bir gerçek. Her geçen gün farklı yiyeceklerin vücudun değişik bölgeleri üzerindeki etkileri ortaya çıkartılıyor.

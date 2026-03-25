@@ -3,10 +3,11 @@ title: Plasenta Previa
 pubDate: '2014-03-15T20:20:50'
 slug: plasenta-previa
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/plasenta-previa/
+originalUrl: 'https://www.mumcu.com/plasenta-previa/'
+readingTime: 6
 ---
 
 **DİKKAT: Tam plasenta previa doğumun sezaryen ile gerçekleştirilmesini gerektiren bir durumdur.**

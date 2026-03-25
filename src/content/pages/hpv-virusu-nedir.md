@@ -10,28 +10,28 @@ Human Papilloma Virüs ya da kısa adı ile HPV son yıllarda giderek daha fazla
 
 > [HPV (Human papilloma virus)](/hpv-dosyasi/?p=1322)
 > 
-> [HPV tiplemesi](/hpv-dosyasi/?p=1324)
+> [HPV tiplemesi](/blog/hpv-tiplemesi/)
 > 
-> [HPV sorular- cevaplar](/hpv-dosyasi/?p=1326)
+> [HPV sorular- cevaplar](/blog/hpv-sorular-cevaplar/)
 > 
-> [Kondilom](/hpv-dosyasi/?p=1328)
+> [Kondilom](/blog/genital-sigil-kondilom/)
 > 
 > [Genital siğillerde krem](/hpv-dosyasi/?p=1330)
 > 
-> [PAP Smear](/hpv-dosyasi/?p=1218)
+> [PAP Smear](/blog/pap-smear-testi-hayat-kurtaran-bir-tetkik/)
 > 
-> [Servikal displazi (Anormal Smear Testi)](/hpv-dosyasi/?p=1332)
+> [Servikal displazi (Anormal Smear Testi)](/blog/servikal-displazi-anormal-smear-testi/)
 > 
-> [Anormal Smear testi varlığında yaklaşım](/hpv-dosyasi/?p=1221)
+> [Anormal Smear testi varlığında yaklaşım](/blog/anormal-smear-testi-varliginda-yaklasim/)
 > 
-> [Kolposkopi ve biopsi](/hpv-dosyasi/?p=1334)
+> [Kolposkopi ve biopsi](/blog/kolposkopi/)
 > 
-> [Kriyoterapi](/hpv-dosyasi/?p=1336)
+> [Kriyoterapi](/blog/kriyoterapi-yara-dondurma/)
 > 
 > [LEEP İşlemi](/hpv-dosyasi/?p=1338)
 > 
 > [HPV (rahim ağzı kanseri) aşıs](/hpv-dosyasi/?p=1342)[ı](/hpv-dosyasi/?p=1342)
 > 
-> [HPV aşısı ile ilgili Türk Jinekolojik Onkoloji Derneğinin açıklaması](/hpv-dosyasi/?p=2148)
+> [HPV aşısı ile ilgili Türk Jinekolojik Onkoloji Derneğinin açıklaması](/blog/hpv-asisi-ile-ilgili-turk-jinekolojik-onkoloji-derneginin-aciklamasi/)
 > 
-> [HPV aşısı olan gençlerin seks hayatı daha riskli olmuyor](/hpv-dosyasi/?p=2671)
+> [HPV aşısı olan gençlerin seks hayatı daha riskli olmuyor](/blog/hpv-asisi-olan-genclerin-seks-hayati-daha-riskli-olmuyor/)

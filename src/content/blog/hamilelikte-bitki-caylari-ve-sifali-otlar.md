@@ -3,10 +3,11 @@ title: Hamilelikte bitki çayları ve şifalı otlar
 pubDate: '2014-03-16T19:34:50'
 slug: hamilelikte-bitki-caylari-ve-sifali-otlar
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-bitki-caylari-ve-sifali-otlar/
+originalUrl: 'https://www.mumcu.com/hamilelikte-bitki-caylari-ve-sifali-otlar/'
+readingTime: 6
 ---
 
 Bitki çayları son zamanlarda giderek popülerite kazanan içecekleridir. Eskiden sadece aktarlarda satılan bitkiler ve bunlardan elde edilen çaylar günümüzde hemen her markette pazara sunulmaktadır.

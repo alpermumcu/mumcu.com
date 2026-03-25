@@ -3,10 +3,11 @@ title: APGAR skoru
 pubDate: '2014-03-20T17:45:52'
 slug: apgar-skoru
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/apgar-skoru/
+originalUrl: 'https://www.mumcu.com/apgar-skoru/'
+readingTime: 6
 ---
 
 Bir bebek doğduğunda anne ve babaların ilk sorduğu soru bebeğin kilosu, boyu ve doğum saatidir.Bu durum dünyanın hemen hemen her yerinde böyledir. Oysa bu bilgilerden çok daha önemli bir bilgi bebeğin doğum notuna kaydedilir: bebeğin “_APGAR skoru_“.

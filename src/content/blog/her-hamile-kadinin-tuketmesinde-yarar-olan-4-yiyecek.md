@@ -3,10 +3,11 @@ title: Her hamile kadının tüketmesinde yarar olan 4 yiyecek
 pubDate: '2016-06-04T09:16:58'
 slug: her-hamile-kadinin-tuketmesinde-yarar-olan-4-yiyecek
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/her-hamile-kadinin-tuketmesinde-yarar-olan-4-yiyecek/
+originalUrl: 'https://www.mumcu.com/her-hamile-kadinin-tuketmesinde-yarar-olan-4-yiyecek/'
+readingTime: 2
 ---
 
 Bebek bekleyen hemen her kadının önemli endişelerinden biri neyi ne kadar ve ne sıklıkta yemesi gerektiğidir. Ne yazık ki böyle mucizevi bir diyet reçetesi yok. Temel prensip tüm sağlıklı bireylerin olması gerektiği gibi bebek bekleyen anne adaylarının da dengeli bir şekilde beslenmesi, protein, karbonhidrat, yağ ile mineralleri yeterli bir şekilde alması. Bu amaca ulaşmak için gebeliğiniz sırasında her besin grubundan yeterli miktarda tüketmeniz gerekir. Çok sevilmeyen ya da tercih edilmeyen ancak gebelik sırasında tüketilmesinin yararlarını hatırlatmak istediğim 4 besin maddesi var.

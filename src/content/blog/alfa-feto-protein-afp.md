@@ -3,10 +3,11 @@ title: Alfa feto protein (AFP)
 pubDate: '2014-03-15T21:25:37'
 slug: alfa-feto-protein-afp
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/alfa-feto-protein-afp/
+originalUrl: 'https://www.mumcu.com/alfa-feto-protein-afp/'
+readingTime: 5
 ---
 
 Tıp alanındaki gelişmelere paralel olarak gebelik takibi de son zamanlarda büyük değişimler göstermiştir. Gebelik sırasındaki takibin amacı hem annenin hem de bebeğin miada kadar sağlıklı bir şekilde gelebilmeleridir. Ayrıca bebekte bulunan bazı anomalilerin önceden, gebelik esnasında tespit edilmesi ve mümkün ise tedavi edilmesi, eğer yaşama şansı yoksa gebeliğin sonlandırılması bu takiplerin bir diğer amacıdır.

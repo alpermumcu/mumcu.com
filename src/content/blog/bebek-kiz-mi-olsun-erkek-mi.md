@@ -3,10 +3,11 @@ title: Bebek kız mı olsun erkek mi?
 pubDate: '2014-03-16T02:11:51'
 slug: bebek-kiz-mi-olsun-erkek-mi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/bebek-kiz-mi-olsun-erkek-mi/
+originalUrl: 'https://www.mumcu.com/bebek-kiz-mi-olsun-erkek-mi/'
+readingTime: 3
 ---
 
 Antik Çin, Mısır ve Yunan uygarlıklarından beri insanoğlu doğacak bebeğinin cinsiyetini doğmadan önce saptayacak ve istediği cinsiyette bebek sahibi olmasını sağlayacak fomüllerin peşinde koşmuştur. Bu konuda sayısız hurafe, halk öyküsü ve sihirli öneriler ortaya atılmıştır. Günümüzde bile bazı “_otoriteler!_” ve “_konunun uzmanları_!” çiftlere istedikleri cinsiyette çocuk sahibi olabilmeleri için yüzdeyüz garantili! öğütler vermeye devam etmektedirler. Maalesef sadece bizim toplumumuzda değil en gelişmiş toplumlarda bile bu tür hokkabazlar rağbet görmektedir. Erkek bebek için Y kromozomu taşıyan, kız bebek için ise X kromozomuna sahip spermin yumurtayı döllemesinin gerektiği bir asırdan beri bilinmesine rağmen1970’lerde Y kromozomu taşıyan spermlerin X’lerden ayrılabileceğinin keşfi ile isteyene istediği çocuğu vermenin bilimsel ve gerçekçi yolu açılmıştır.

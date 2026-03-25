@@ -3,15 +3,16 @@ title: Hamilelikte beslenme ipuçları
 pubDate: '2014-03-16T19:05:52'
 slug: hamilelikte-beslenme-ipuclari
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-beslenme-ipuclari/
+originalUrl: 'https://www.mumcu.com/hamilelikte-beslenme-ipuclari/'
+readingTime: 3
 ---
 
 Hamilelik günlük yaşantınızda pek çok değişiklik yapmanızı gerektirir. Bu değişikliklerden en belirgin ve en önemli olanı beslenme alışkanlıklarınızdaki değişikliklerdir. Hamilelik öncesi sağlıklı bir beslenme alışkanlığınız olsa dahi yediklerinize biraz daha dikkat etmeniz gerekebilir. Bu yazıda hamilelikte beslenmeye ilişkin minik ipuçları bulabilirsiniz. Yazıyı okumadan önce sağlıklı besleme piramidini incelemenizi öneririm.
 
-![piramit](/wp-content/uploads/2014/03/piramit.gif)
+![piramit](../../images/uploads/2014/03/piramit.gif)
 
 *   Beslenme piramidini inceleyin. En altta bulunan besinlerden önerilen miktarda tüketmeye dikkat edin. Bu bölümdeki besinlerden fazla miktarda tüketmeniz bebeğinizden çok sizin kilo almanıza neden olacaktır. Bu nedenle önerilen miktarda karbonhidrat aldıktan sonra meyve ve sebzeleri ekleyin. Aldığınız yağ miktarının az olmasına dikkat edin.
 *   Çeşitlilik son derece önemlidir. Bu hem yemekleri monoton biçimde algılamanızı engeller hem de yeterli miktarda vitamin ve besin ögeleri almanıza destek olur. Önerilen gruplarda hergün farklı şeyler tüketmeye gayret gösterin

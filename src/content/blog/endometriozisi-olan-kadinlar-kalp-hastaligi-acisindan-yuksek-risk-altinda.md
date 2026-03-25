@@ -3,11 +3,12 @@ title: Endometriozisi olan kadınlar kalp hastalığı açısından yüksek risk
 pubDate: '2016-04-06T04:06:44'
 slug: endometriozisi-olan-kadinlar-kalp-hastaligi-acisindan-yuksek-risk-altinda
 category:
-  - Güncel Haberler
+  - Cerrahi İşlemler
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/endometriozisi-olan-kadinlar-kalp-hastaligi-acisindan-yuksek-risk-altinda/
+readingTime: 1
 ---
 
 Yeni yayınlanan bir araştırmaya göre Endometriozisi olan kadınlar kalp hastalığı açısından yüksek risk altında olabilir.

@@ -3,10 +3,11 @@ title: Spiral ne zaman takılmalıdır?
 pubDate: '2014-03-24T14:15:17'
 slug: spiral-ne-zaman-takilmalidir
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/spiral-ne-zaman-takilmalidir/
+originalUrl: 'https://www.mumcu.com/spiral-ne-zaman-takilmalidir/'
+readingTime: 6
 ---
 
 Spiral ne zaman takılmalıdır sorusunun net bir cavabı yoktur. Spiral ya da bilimsel adı ile rahim içi araç (RİA) doğum sonrası, düşük/kürtaj sonrası ya da adet siklusunun herhangi bir döneminde güvenle takılabilir. En sık uygulanma zamanı adet kanaması sırasında ya da hemen bitimidir.

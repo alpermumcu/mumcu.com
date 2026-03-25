@@ -3,10 +3,11 @@ title: Gebelerde corona virus Ingiliz rehberi
 pubDate: '2020-03-09T16:13:04'
 slug: gebelerde-corona-virus-ingiliz-rehberi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelerde-corona-virus-ingiliz-rehberi/
+originalUrl: 'https://www.mumcu.com/gebelerde-corona-virus-ingiliz-rehberi/'
+readingTime: 4
 ---
 
 İngiliz Royal College of Obstetricians and Gynaecologists, Royal College of Midwives and Royal College of Paediatrics and Child Health, ile Royal College of Anaesthetists, Public Health England ve Health Protection Scotland gebelerde Coronavirüs enfeksiyonu ile ilgili ulusal bir rehber yayınladı.

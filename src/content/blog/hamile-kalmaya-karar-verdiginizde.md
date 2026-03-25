@@ -3,10 +3,11 @@ title: Hamile kalmaya karar verdiğinizde&#8230;
 pubDate: '2014-03-15T14:30:10'
 slug: hamile-kalmaya-karar-verdiginizde
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamile-kalmaya-karar-verdiginizde/
+originalUrl: 'https://www.mumcu.com/hamile-kalmaya-karar-verdiginizde/'
+readingTime: 7
 ---
 
 İnsanın hayatında verdiği en önemli kararlardan birisi de çocuk sahibi olmak istemesidir. Hayatının herhangi bir döneminde çocuk sahibi olmayı istemeyen kadın yok gibidir. Ancak bu güç karar verildiğinde gebe kalmadan önce hem ruhsal hem de fiziksel olarak hazır olmak gerekir.

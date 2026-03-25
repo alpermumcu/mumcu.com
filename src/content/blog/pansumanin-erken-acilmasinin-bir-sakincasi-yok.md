@@ -3,10 +3,11 @@ title: Pansumanın erken açılmasının bir sakıncası yok
 pubDate: '2016-04-05T17:28:06'
 slug: pansumanin-erken-acilmasinin-bir-sakincasi-yok
 category:
-  - Güncel Haberler
+  - Cerrahi İşlemler
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/pansumanin-erken-acilmasinin-bir-sakincasi-yok/
+originalUrl: 'https://www.mumcu.com/pansumanin-erken-acilmasinin-bir-sakincasi-yok/'
+readingTime: 1
 ---
 
 American Journal of Obstetrics and Gynecology dergisinin Nisan sayısında yayınlanan bir araştırmaya göre sezaryen sonrası yara pansumanının erken açılması ile geç açılması arasında anlamlı bir fark saptanmamış

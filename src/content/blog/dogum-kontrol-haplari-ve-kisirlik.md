@@ -3,10 +3,11 @@ title: Doğum kontrol hapları ve kısırlık
 pubDate: '2014-03-24T14:07:52'
 slug: dogum-kontrol-haplari-ve-kisirlik
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-kontrol-haplari-ve-kisirlik/
+originalUrl: 'https://www.mumcu.com/dogum-kontrol-haplari-ve-kisirlik/'
+readingTime: 3
 ---
 
 Halk arasında doğum kontrol hapları ile ilgili yaşanan en büyük endişe kullanım sonrası kısırlığa neden olabileceği korkusudur. Hap kullanımı sonrası gebe kalmada bir gecikme olabileceği bazı yayınlarda ileri sürülmekle birlikte oral kontraseptif kullanımının kısırlığı arttırdığına dair hiçbir bulgu ve kanıt yoktur.

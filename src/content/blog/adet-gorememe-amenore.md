@@ -3,10 +3,11 @@ title: Adet Görememe (Amenore)
 pubDate: '2014-03-26T16:52:40'
 slug: adet-gorememe-amenore
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/adet-gorememe-amenore/
+originalUrl: 'https://www.mumcu.com/adet-gorememe-amenore/'
+readingTime: 3
 ---
 
 Bir kadının adet görebilmesi için vücudundaki 4 kompartmanın düzenli çalışması gerekir. Bunlar

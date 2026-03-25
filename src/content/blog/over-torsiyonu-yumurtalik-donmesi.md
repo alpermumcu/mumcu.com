@@ -3,10 +3,11 @@ title: Over torsiyonu (yumurtalık dönmesi)
 pubDate: '2014-03-22T20:11:22'
 slug: over-torsiyonu-yumurtalik-donmesi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/over-torsiyonu-yumurtalik-donmesi/
+originalUrl: 'https://www.mumcu.com/over-torsiyonu-yumurtalik-donmesi/'
+readingTime: 4
 ---
 
 Pek çok kişi kendisine ya da bir yakınına ağrı ile gittiği acil serviste muayene eden jinekolog tarafından yumurtalık dönmesinden (over torsiyonu) şüphe edildiği söylendiğinde büyük bir şaşkınlık ile daha önce hiç böyle birşey duymadığını belirtir ve çoğu zaman tanıdan kuşku duyar.

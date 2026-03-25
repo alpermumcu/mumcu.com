@@ -6,11 +6,12 @@ pubDate: '2016-07-27T00:30:05'
 slug: >-
   40-yasindan-buyuk-kadinlar-yirmili-yaslardaki-kadinlardan-daha-fazla-bebek-sahibi-oluyor
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/40-yasindan-buyuk-kadinlar-yirmili-yaslardaki-kadinlardan-daha-fazla-bebek-sahibi-oluyor/
+readingTime: 2
 ---
 
 Bu bilgiler ülkemizden değil. İngiltere ve Galler verileri.

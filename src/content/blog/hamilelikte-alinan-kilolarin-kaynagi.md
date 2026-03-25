@@ -3,10 +3,11 @@ title: Hamilelikte alınan kiloların kaynağı
 pubDate: '2014-03-16T19:18:24'
 slug: hamilelikte-alinan-kilolarin-kaynagi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-alinan-kilolarin-kaynagi/
+originalUrl: 'https://www.mumcu.com/hamilelikte-alinan-kilolarin-kaynagi/'
+readingTime: 2
 ---
 
 Bazı kadınlar kilo almaktan aşırı derecede rahtsız olurlar. Özellikle hamilelik döneminde aşırı derecede kilo almak ve doğumdan sonra bunu verememek pek çok anne adayı için korkulu bir rüya gibidir.

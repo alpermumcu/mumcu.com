@@ -3,10 +3,11 @@ title: Gebelikte kaç kilo almalı
 pubDate: '2014-03-16T19:17:41'
 slug: gebelikte-kac-kilo-almali
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-kac-kilo-almali/
+originalUrl: 'https://www.mumcu.com/gebelikte-kac-kilo-almali/'
+readingTime: 4
 ---
 
 Uygun bir beslenme tarzı ve yeterli kilo alımı annenin sağlığı ve bebeğinin ideal gelişimi açısından son derece önemlidir. Eğer hamileliğinizde yeteri kadar kilo almazsanız bebeğiniz küçük doğabilir. Ancak bu bir kural değildir ve istisnaları vardır. Hem kişisel deneyimlerimiz hem de bilimsel veriler annenin kilo artışı ile bebeğin doğum kilosu arasında her zaman doğru bir ilişki olmadığını göstermektedir. Hamileliği süresince 30 kilo aldığı halde küçük bebek dünyaya getiren anenler olduğu gibi bunun tam tersi olarak da 1-2 kilo artışla hamilelik süresini tamamlayan annelerin 3500 hatta 4000 gram civarında bebekler dünyaya getirdiklerine de şahit oluyoruz. Ancak bu durumlar nadiren karşımıza çıkıyor. Genelde bebeğin doğum kilosu ile annenin hamilelik süresince aldığı kilolar arasında yakın ilişki mevcut. Ancak bu ilişkide açığa kavuşmamış bazı nokatlar var. Örneğin küçük bebek doğuran annelerde bebeğin küçük olmasından dolayı mı annenin az kilo aldığı yoksa anne az kilo aldığı için mi bebeğin küçük olduğu konusunda bilimsel veriler yeterli değil. Tabii aynı belirsizlik tersi durumlar için de geçerli.
@@ -15,7 +16,7 @@ Hamile kalan kadınların ilk doktor ziyaterlerinde en sık sorulan soruların b
 
 Örneğin hamile kaldığınızda vücut ağırlığınız normal aralıktaysa (vücut kitle indeksi (VKI) 20-25 arasında) bu durumda hamileliğinizin sonunda 11.5-16 kilo arasında almış olmanız idealdir. Vücut kitle indeksinizi [buradan](http://www.mumcu.com/html/modules.php?name=Bmi) hesaplayabilirsiniz. Hamileliğinizin ilk 12-13 haftasında kilo artışınız çok yavaş olabilir. Hatta bulantı ve kusmalarınız varsa bir kaç kilo kaybetmeniz de normal kabul edilebilir. İkinci trimesterin başlangıcı ile birlikte kilo artışı da hızlanır ve haftada 300-500 gram arasında kilo almanız beklenir (grafiğe bakınız). Boyu kısa olan kadınların kendilerine hedef olarak grafikteki alt sınırı seçmelerini öneririm.
 
- ![prenormwt](/wp-content/uploads/2014/03/prenormwt.jpg)
+ ![prenormwt](../../images/uploads/2014/03/prenormwt.jpg)
 
 Hamilelik öncesi kilosu normal olanlar için (VKI= 20-25) kilo artış eğrisi
 
@@ -23,7 +24,7 @@ Hamilelik öncesi kilosu normal olanlar için (VKI= 20-25) kilo artış eğrisi
 
 Eğer hamilelik öncesi vücut kitle indeksiniz 20’nin altındaysa yani zayıf kabul edilen gruptaysanız hamileliğinizde normal kilolu olanlara göre daha fazla kilo almanız önerilir. Bu durumda tüm hamilelik süresince 13-18 kilo arasında almanız idealdir. İkinci trimesterdan başlayarak haftada 400-600 gram almalısınız.
 
- ![prelowwt](/wp-content/uploads/2014/03/prelowwt.jpg)
+ ![prelowwt](../../images/uploads/2014/03/prelowwt.jpg)
 
 Hamilelik öncesi kilosu düşük olanlar için (VKI < 20) kilo artış eğrisi
 
@@ -31,7 +32,7 @@ Hamilelik öncesi kilosu düşük olanlar için (VKI < 20) kilo artış eğrisi
 
 Hamile kalmadan önce fazla kiloluysanız (VKI = 26-29) bu durumda tüm hamileliğinizde 7-11.5 kilo arasında almanızı öneririm. Eğer aşırı obes kabul edilen ve vücut kitle indeksi 29’dan büyük bir kadınsanız bu durumda tüm gebelik süreniz 7 kilodan fazla artışla bitmemeli. İkinci trimesterdan sonra haftada 300 gramdan daha fazla almamaya özen göstermelisiniz.
 
- ![prehiwt](/wp-content/uploads/2014/03/prehiwt.jpg)
+ ![prehiwt](../../images/uploads/2014/03/prehiwt.jpg)
 
 Hamilelik öncesi kilosu fazla olanlar için (VKI = 26-29) kilo artış eğrisi
 

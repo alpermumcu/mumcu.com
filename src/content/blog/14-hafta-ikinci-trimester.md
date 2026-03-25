@@ -3,10 +3,11 @@ title: 14. Hafta &#8211; İkinci trimester
 pubDate: '2014-03-31T02:48:26'
 slug: 14-hafta-ikinci-trimester
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/14-hafta-ikinci-trimester/
+originalUrl: 'https://www.mumcu.com/14-hafta-ikinci-trimester/'
+readingTime: 2
 ---
 
 Gebeliğin en rahat dönemi olan ikinci terimestar’a hoşgeldiniz. Artık bebeğiniz tamamen bir insan görünümünde. Kaslardaki güç gelişimine bağlı olarak kafası öne eğik değil. Zaman zaman kafasını dik tutabiliyor.

@@ -3,10 +3,11 @@ title: Germ Hücreli over kanserleri
 pubDate: '2014-03-26T16:31:21'
 slug: germ-hucreli-over-kanserleri
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/germ-hucreli-over-kanserleri/
+originalUrl: 'https://www.mumcu.com/germ-hucreli-over-kanserleri/'
+readingTime: 2
 ---
 
 Ergenlik öncesi dönemde ya da ergenliğin hemen başında ortaya çıkmaları ile diğer over kanserlerinden farklılık gösterirler.Bunlar embryonik dönemde ortaya çıkan tabakalardan arta kalan hücrelerden köken alırlar.

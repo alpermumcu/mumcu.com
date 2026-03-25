@@ -3,10 +3,11 @@ title: Destekli yuvalama
 pubDate: '2014-03-28T00:43:25'
 slug: destekli-yuvalama
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/destekli-yuvalama/
+originalUrl: 'https://www.mumcu.com/destekli-yuvalama/'
+readingTime: 1
 ---
 
 Yardımcı üreme tekniklerine başvuran çiftlerin yarısından fazlasında cenin (embryo) gelişmesine rağmen gebelik olmamaktadır. Döllenme olmasına rağmen gebelik oluşmamasının kaynağı muhtemelen bu embryonun rahime yerleşme safhasındadır: Embryonun rahim içine yerleştirilmesini takiben değişik olaylar oluşmaktadır. İlk olarak hücreler bölünmeye devam ederken belli bir boya erişince kendisini çevreleyen zarı (zona pellusida) yırtarak endometrium olarak adlandırılan rahim içindeki dokunun derinliklerine yerleşerek gelişimine burada devam etmektedir. Bu olay hatching olarak isimlendirilir.

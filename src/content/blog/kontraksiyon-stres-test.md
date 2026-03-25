@@ -3,10 +3,11 @@ title: Kontraksiyon stres test
 pubDate: '2014-03-15T21:33:21'
 slug: kontraksiyon-stres-test
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/kontraksiyon-stres-test/
+originalUrl: 'https://www.mumcu.com/kontraksiyon-stres-test/'
+readingTime: 3
 ---
 
 Anne karınında gelişmekte olan fetusda kısa süreli oksijen ve besin yetmezliğine karşı bir çeşit rezerv vardır. Bebek stres anında bu rezervi devreye sokar. Plasenta yetmezliğinin kronikleştiği durumlarda bu rezerv bebeğin hayatını kurtarır. Fetusun sadece normal durumunu değerlendiren testler bu rezerv hakkında bilgi vermediğinden bebeği oksijen miktarını azaltarak strese sokmak yolu gündeme gelir. Eski dönemlerde bu amaca ulaşmak için anneye düşük konsantrasyonlu oksijen solutmak ya da egzersiz yaptırmak gibi yöntemler uygulanmaktaydı. Gelişen bilim sayesinde, doğum eylemi esnasında rahim kasılmaları ile birlikte rahim içi basıncın belirli bir düzeyin üstüne çıkması ile de bebeğe giden oksijen miktarında bir azalma olduğu saptandı.

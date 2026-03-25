@@ -3,11 +3,12 @@ title: Hamilelikte yapay tatlandırıcıların kullanımı güvenli midir?
 pubDate: '2014-03-16T20:24:25'
 slug: hamilelikte-yapay-tatlandiricilarin-kullanimi-guvenli-midir
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/hamilelikte-yapay-tatlandiricilarin-kullanimi-guvenli-midir/
+readingTime: 1
 ---
 
 Günümüzde pek çok yapay tatlandırıcının içinde aspartam adı verilen bir madde bulunmaktadır. Yapılan çalışmalarda aspartamın doğum defektlerine neden olduğu gösterilememiştir. Bu nedenle hamilelikte aspartam kullanımı güvenli olarak kabul edilir.

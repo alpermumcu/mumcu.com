@@ -3,10 +3,11 @@ title: Neden internet üzerinden soru kabul etmiyorum?
 pubDate: '2014-03-15T23:25:04'
 slug: neden-internet-uzerinden-soru-kabul-etmiyorum
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/neden-internet-uzerinden-soru-kabul-etmiyorum/
+originalUrl: 'https://www.mumcu.com/neden-internet-uzerinden-soru-kabul-etmiyorum/'
+readingTime: 1
 ---
 
 Günümüzde internet her türlü konuda en önemli bilgiye ulaşma kaynağımız. Hemen her konuda aradığımız bilgiye birkaç tıklama ile cep telefonlarımızdan ulaşabilir durumdayız. Bununla beraber internet ve özellikle sosyal medya ne yazıkki korkunç bir bilgi kirliliğine de içinde barındırıyor.

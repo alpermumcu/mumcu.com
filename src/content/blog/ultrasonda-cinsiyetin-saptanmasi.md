@@ -3,10 +3,11 @@ title: Ultrasonda cinsiyetin saptanması
 pubDate: '2014-03-18T01:19:28'
 slug: ultrasonda-cinsiyetin-saptanmasi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/ultrasonda-cinsiyetin-saptanmasi/
+originalUrl: 'https://www.mumcu.com/ultrasonda-cinsiyetin-saptanmasi/'
+readingTime: 2
 ---
 
 Yumurta sperm tarafından döllendiği anda doğacak bebeğin cinsiyeti de bellidir. Bunu belirlemede yumurtanın yani annenin hiçbir rolü yoktur.
@@ -21,10 +22,10 @@ Bununla birlikte yapılan bir araştırmada gebeliklerinin 11-14 haftalarında o
 
 Bebeğin duruşunun uygun olmadığı zamanlarda gebeliğin sonuna kadar cinsiyet görülemeyebilir. Zaman zaman cinsiyet tayininde hatalar olabilmektedir. Kız denen bebeklerin doğduğunda aslında erkek olduğu ya da tam tersi durumlar söz konusu olabilmekte bu durum da bazı ailelerde yersiz endişeler yaratabilmektedir. Ultrason ile cinsiyet tayininin %100 olmadığı bilinmeli ve hata olabileceği her zaman hatırda tutulmalıdır.
 
-![male](/wp-content/uploads/2014/03/male.jpg)  
+![male](../../images/uploads/2014/03/male.jpg)  
 Erkek Bebek
 
-![female](/wp-content/uploads/2014/03/female.jpg)  
+![female](../../images/uploads/2014/03/female.jpg)  
 Kiz bebek
 
 KAYNAKLAR

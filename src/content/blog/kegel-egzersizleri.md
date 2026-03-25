@@ -3,17 +3,18 @@ title: Kegel Egzersizleri
 pubDate: '2014-03-24T13:37:20'
 slug: kegel-egzersizleri
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/kegel-egzersizleri/
+originalUrl: 'https://www.mumcu.com/kegel-egzersizleri/'
+readingTime: 3
 ---
 
 Bize basit gibi görünen ve hergün birkaç kere tekrarladığımız vücut olayları aslında çok karmaşık mekanizmalarla meydana gelmektedir. Bunlardan bir tanesi de idrar yapmaktır. İdrar yapma fizyolojik, nörolojik, psikolojik, anatomik ve sosyolojik olayların bileşkesidir.
 
 Böbreklerden süzülen idrarın dışarı atılıncaya kadar biriktirildiği organ olan mesane ve idrarı mesaneden dış dünyaya taşıyan ürethra, pelvis boşluğu içinde bulunur. İdrar yapmada görev alan bu organlar pelvis boşluğunu alttan destekleyen kas grupları tarafından yerinde tutulur. Bu kas tabakalarındaki gevşeme ve zayıflıklar idrar tutmada güçlüğüne yol açabilirler. Gevşeme ve zayıflıkların en önemli nedeni yapılmış olan normal doğumlardır. Sonuçta pelvik kaslardaki gevşemeler sonucu mesane sarkması (sistosel), rektum sarkması (rektosel) ve idrar tutamama (üriner inkontinans) görülebilir. İlerlemiş bir sistosel vakasında ameliyat dışında yapacak pek birşey yoktur. Oysa sistosel çok fazla değilse, kasları güçlendirmeye yönelik yapılacak birkaç küçük egzersiz ile şikayetler giderilebilir. İdrar sarkması olmasa bile gebelik esnasında pelvik kasları güçlendirmek ileride idrar problemi yaşanma olasılığını azaltabilir.
 
-![pelvic](/wp-content/uploads/2014/03/pelvic.gif)
+![pelvic](../../images/uploads/2014/03/pelvic.gif)
 
 **Kegel egzersizleri ile çalıştırılan pelvik kaslar**
 

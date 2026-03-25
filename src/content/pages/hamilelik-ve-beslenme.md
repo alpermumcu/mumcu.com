@@ -13,39 +13,39 @@ Bu bölümde yer alan bilgiler çeşitli maddelerin besin değerlerini ve besin 
 
 > [Hamilelik ve Beslenme](/hamilelik-ve-beslenme-eski/?p=522)
 > 
-> [Hamilelikte beslenme ipuçları](/hamilelik-ve-beslenme-eski/?p=524)
+> [Hamilelikte beslenme ipuçları](/blog/hamilelikte-beslenme-ipuclari/)
 > 
-> [Gebe kalmak isteyenler için beslenme önerileri](/hamilelik-ve-beslenme-eski/?p=2057) 
+> [Gebe kalmak isteyenler için beslenme önerileri](/blog/gebe-kalmak-isteyenler-icin-beslenme-onerileri/) 
 > 
 > [Hamilelikte bulantı ve kusma ile başa çıkma önerileri](/hamilelik-ve-beslenme-eski/?p=2234)
 > 
-> [Hamile kalma şansınızı arttıracak 11 küçük hatırlatma](/hamilelik-ve-beslenme-eski/?p=2877)
+> [Hamile kalma şansınızı arttıracak 11 küçük hatırlatma](/blog/hamile-kalma-sansinizi-arttiracak-11-kucuk-hatirlatma/)
 > 
 > [Yiyecekler ve üreme potansiyeli. Gebe kalmak isteyen kadınlar neler yemeli?](/yiyecekler-ve-ureme-potansiyeli-gebe-kalmak-isteyen-kadinlar-neler-yemeli/)
 
-> [Biotin](/hamilelik-ve-beslenme-eski/?p=527)
+> [Biotin](/blog/hamilelik-ve-biotin/)
 > 
-> [A Vitamini](/hamilelik-ve-beslenme-eski/?p=529)
+> [A Vitamini](/blog/a-vitamini/)
 > 
 > [B3 Vitamini (Niasin)](/hamilelik-ve-beslenme-eski/?p=531)
 > 
-> [Folik asit](/hamilelik-ve-beslenme-eski/?p=533)
+> [Folik asit](/blog/folik-asit/)
 > 
-> [C Vitamini](/hamilelik-ve-beslenme-eski/?p=535)
+> [C Vitamini](/blog/hamilelik-ve-c-vitamini/)
 > 
 > D Vitamini (Hazırlanıyor)
 > 
 > E Vitamini (Hazırlanıyor)
 
-> [Kalsiyum](/hamilelik-ve-beslenme-eski/?p=537)
+> [Kalsiyum](/blog/31-hafta-daha-fazla-kalsiyum/)
 > 
-> [Krom](/hamilelik-ve-beslenme-eski/?p=539)
+> [Krom](/blog/alfa-feto-protein-afp/)
 > 
-> [Flor](/hamilelik-ve-beslenme-eski/?p=541)
+> [Flor](/blog/10-hafta/)
 > 
-> [İyot](/hamilelik-ve-beslenme-eski/?p=543)
+> [İyot](/blog/hamilelik-ve-iyot/)
 > 
-> [Demir](/hamilelik-ve-beslenme-eski/?p=545)
+> [Demir](/blog/21-hafta-buyume-biraz-yavasladi/)
 > 
 > Magnezyum (Hazırlanıyor)
 > 
@@ -55,7 +55,7 @@ Bu bölümde yer alan bilgiler çeşitli maddelerin besin değerlerini ve besin 
 > 
 > Potasyum (Hazırlanıyor)
 > 
-> [Çinko](/hamilelik-ve-beslenme-eski/?p=547)
+> [Çinko](/blog/hamile-kalma-sansinizi-arttiracak-11-kucuk-hatirlatma/)
 > 
 > Sodyum (Hazırlanıyor)
 > 
@@ -71,54 +71,54 @@ Bu bölümde yer alan bilgiler çeşitli maddelerin besin değerlerini ve besin 
 
 > [Yiyeceklerle gelen tehlike](/hamilelik-ve-beslenme-eski/?p=556)
 > 
-> [Gebelik ve alkol](/hamilelik-ve-beslenme-eski/?p=560)
+> [Gebelik ve alkol](/blog/gebelik-ve-alkol-kullanimi/)
 > 
-> [Gebelikte alkol kullanımının güvenli sınırı var mı?](/hamilelik-ve-beslenme-eski/?p=2412)
+> [Gebelikte alkol kullanımının güvenli sınırı var mı?](/blog/gebelikte-alkol-kullaniminin-guvenli-siniri-var-mi/)
 > 
 > [Gebelik ve kafein](/hamilelik-ve-beslenme-eski/?p=563)
 > 
-> [Lif (Fiber) ve hamilelik](/hamilelik-ve-beslenme-eski/?p=566)
+> [Lif (Fiber) ve hamilelik](/blog/lif-fiber-ve-hamilelik/)
 > 
 > [Neden çok su içmeliyim?](/hamilelik-ve-beslenme-eski/?p=571)
 > 
-> [Hamilelik ve vejeteryanizm](/hamilelik-ve-beslenme-eski/?p=696)
+> [Hamilelik ve vejeteryanizm](/blog/hamilelik-ve-vejeteryanizm/)
 > 
-> [Hamilelik ve süt](/hamilelik-ve-beslenme-eski/?p=573)
+> [Hamilelik ve süt](/blog/hamilelik-ve-sut/)
 > 
-> [Laktoz intoleransı (süt içememek)](/hamilelik-ve-beslenme-eski/?p=575)
+> [Laktoz intoleransı (süt içememek)](/blog/laktoz-intoleransi-sut-icememek/)
 > 
-> [Hangi vitamin ve mineralden ne kadar almanız gerekli](/hamilelik-ve-beslenme-eski/?p=577)
+> [Hangi vitamin ve mineralden ne kadar almanız gerekli](/blog/hangi-vitamin-ve-mineralden-ne-kadar-almaniz-gerekli/)
 > 
-> [Hamilelikte vitamin kullanmalı mısınız](/hamilelik-ve-beslenme-eski/?p=580)
+> [Hamilelikte vitamin kullanmalı mısınız](/blog/hamilelikte-vitamin-kullanmali-misiniz/)
 > 
-> [Hamilelikte bitki çayları ve şifalı otlar](/hamilelik-ve-beslenme-eski/?p=582)
+> [Hamilelikte bitki çayları ve şifalı otlar](/blog/hamilelikte-bitki-caylari-ve-sifali-otlar/)
 > 
 > [Hamilelikte yeşil çay](/hamilelik-ve-beslenme-eski/?p=2126)
 > 
-> [Gebelik ve Omega 3](/hamilelik-ve-beslenme-eski/?p=584)
+> [Gebelik ve Omega 3](/blog/gebelik-ve-omega-3/)
 > 
-> [Gebelik ve Oruç](/hamilelik-ve-beslenme-eski/?p=2333)
+> [Gebelik ve Oruç](/blog/gebelik-ve-oruc/)
 
-> [Hamilelikte balık yağı tabletleri kullanmak sakıncalı mıdır?](/hamilelik-ve-beslenme-eski/?p=501)
+> [Hamilelikte balık yağı tabletleri kullanmak sakıncalı mıdır?](/blog/hamilelikte-balik-yagi-tabletleri-kullanmak-sakincali-midir/)
 > 
-> [Hamilelikte çiğ et yemek sakıncalı mıdır?](/hamilelik-ve-beslenme-eski/?p=597)
+> [Hamilelikte çiğ et yemek sakıncalı mıdır?](/blog/hamilelikte-cig-et-yemek-sakincali-midir/)
 > 
 > [Hamileyken Sushi yenebilir mi?](/hamilelik-ve-beslenme-eski/?p=599)
 > 
-> [Hamilelikte yapay tatlandırıcıların kullanımı güvenli midir?](/hamilelik-ve-beslenme-eski/?p=602)
+> [Hamilelikte yapay tatlandırıcıların kullanımı güvenli midir?](/blog/hamilelikte-yapay-tatlandiricilarin-kullanimi-guvenli-midir/)
 > 
-> [Hamilelikte kahve içmek zararlı mı?](/hamilelik-ve-beslenme-eski/?p=506)
+> [Hamilelikte kahve içmek zararlı mı?](/blog/hamilelikte-kahve-icmek-zararli-mi/)
 > 
-> [Hazımsızlık ve şişkinlik ile nasıl başa çıkabilirim?](/hamilelik-ve-beslenme-eski/?p=595)
+> [Hazımsızlık ve şişkinlik ile nasıl başa çıkabilirim?](/blog/hazimsizlik-ve-siskinlik-ile-nasil-basa-cikabilirim/)
 > 
 > [Dehidratasyonun önüne nasıl geçebilirim ?](/hamilelik-ve-beslenme-eski/?p=604)
 > 
 > [Gebelikte midye ve istiridye yenebilir mi ?](/hamilelik-ve-beslenme-eski/?p=606)
 > 
-> [Gebelikte ton balığı yenebilir mi?](/hamilelik-ve-beslenme-eski/?p=608)
+> [Gebelikte ton balığı yenebilir mi?](/blog/gebelikte-ton-baligi-yenebilir-mi/)
 > 
-> [Gebelikte sukraloz (Splenda) kullanılabilir mi?](/hamilelik-ve-beslenme-eski/?p=610)
+> [Gebelikte sukraloz (Splenda) kullanılabilir mi?](/blog/gebelikte-sukraloz-splenda-kullanilabilir-mi/)
 > 
-> [Her hamile kadının tüketmesinde yarar olan 4 yiyecek](/hamilelik-ve-beslenme-eski/?p=2517)
+> [Her hamile kadının tüketmesinde yarar olan 4 yiyecek](/blog/her-hamile-kadinin-tuketmesinde-yarar-olan-4-yiyecek/)
 > 
-> [Hamilelikte mikrodalga fırın kullanımı güvenli midir?](/hamilelik-ve-beslenme-eski/?p=2997)
+> [Hamilelikte mikrodalga fırın kullanımı güvenli midir?](/blog/hamilelikte-mikrodalga-firin-kullanimi-guvenli-midir/)

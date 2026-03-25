@@ -3,11 +3,12 @@ title: Gebeliğin son dönemlerinde sırt üstü yatmak ölü doğum riskini art
 pubDate: '2016-11-24T13:58:40'
 slug: gebeligin-son-donemlerinde-sirt-ustu-yatmak-olu-dogum-riskini-arttirabilir
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/gebeligin-son-donemlerinde-sirt-ustu-yatmak-olu-dogum-riskini-arttirabilir/
+readingTime: 3
 ---
 
 Gebeliğin özellikle son dönemlerinde geceleri rahat bir yatış pozisyonu bulmak çoğu hamile kadın için sorun yaratmaktadır. Özellikle bebeği biraz iri olan anne adayları rahat bir pozisyon bulabilmek için çok çaba sarf ederler.

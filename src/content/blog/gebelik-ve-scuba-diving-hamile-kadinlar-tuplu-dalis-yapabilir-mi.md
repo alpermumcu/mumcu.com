@@ -3,11 +3,12 @@ title: Gebelik ve scuba diving. Hamile kadınlar tüplü dalış yapabilir mi?
 pubDate: '2016-07-15T00:30:45'
 slug: gebelik-ve-scuba-diving-hamile-kadinlar-tuplu-dalis-yapabilir-mi
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/gebelik-ve-scuba-diving-hamile-kadinlar-tuplu-dalis-yapabilir-mi/
+readingTime: 3
 ---
 
 Yaz aylarının gözde aktivitelerinden olan tüplü ve tüpsüz dalışlar son dönemlere ülkemizde de giderek popülerlik kazanmaktadır. Hemen hemen tüm kıyılarımızda scuba dalış eğitimleri ve aktiviteleri ile giderek daha daha fazla karşılaşıyoruz. Üstelik kadınlar arasında bu spor oldukça popüler.

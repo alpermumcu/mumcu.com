@@ -3,10 +3,11 @@ title: Gebelikte doktor takipleri
 pubDate: '2014-03-15T15:54:49'
 slug: gebelikte-doktor-takipleri
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-doktor-takipleri/
+originalUrl: 'https://www.mumcu.com/gebelikte-doktor-takipleri/'
+readingTime: 4
 ---
 
 Günümüzden yaklaşık 100 yıl öncesine kadar doğum ile ilgilenen doktor ve ebeler sadece doğum olayı ile ilgilenirler gebeliğe ve gebelikte takibe çok fazla önem vermezlerdi. Tıp bilmindeki gelişmelere paralel olarak gebelik ve fetal gelişimdeki pekçok faktörün anlaşılması buna bağlı olarak görülen anne ve bebek ölümlerinin azalmasında ve sağlıklı toplumların oluşmasında son derece önemli bir rol oynamaktadır. Bu olayda tıp alanındaki ilerlemeler kadar iletişimdeki gelişmelerin etkisi ile anne ve baba adaylarının bilinçlenmesinin ve günümüzde takip talep etmelerinin de rolü son derece önemlidir. Prenatal takip adıyla anılan bu bakımın ana hedefleri:  

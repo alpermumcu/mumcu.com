@@ -3,10 +3,11 @@ title: 32. Hafta &#8211; Artık rengi pembe
 pubDate: '2014-03-30T21:15:27'
 slug: 32-hafta-artik-rengi-pembe
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/32-hafta-artik-rengi-pembe/
+originalUrl: 'https://www.mumcu.com/32-hafta-artik-rengi-pembe/'
+readingTime: 1
 ---
 
 Cilt altı yağ dokusu gelişmeye devam ettikçe bebeğinizin rengi kırmızıdan pembeye doğru dönmeye başlar. Bu haftada bebeğinizin hareketlerinin iyice arttığını fark edebilirsiniz.Bebeğin hareketleri iyilik halinin bir göstergesidir bu nedenle hareketleri saymayı öğrenmenizde fayda var. Bu arda bebeğin tırnakları tamamen gelişti ve parmak uçlarına kadar uzadılar bile buna karşın bebeğin büyüme hızı azaldı.

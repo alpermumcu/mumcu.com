@@ -3,10 +3,11 @@ title: Hamilelikte aspirin ve progesteron kullanımı
 pubDate: '2014-03-15T19:52:09'
 slug: hamilelikte-aspirin-ve-progesteron-kullanimi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-aspirin-ve-progesteron-kullanimi/
+originalUrl: 'https://www.mumcu.com/hamilelikte-aspirin-ve-progesteron-kullanimi/'
+readingTime: 8
 ---
 
 Hamile olduğunu öğrenen ve bunu isteyen bir kadının ilk ve en büyük endişelerinden birisi düşük yapma olasılığıdır. Çevresinden duyduğu pekçok düşük öyküsü bu endişelerini daha da arttırır. Gerçekten de düşük her 5 hamile kadından birinin başına gelen ve çok sık karşılaşılan bir durumdur. Bu düşüklerin çok büyük bir kısmı da maalesef önlenemez nedenlerden kaynaklanmaktadır. Özellikle hamileliğin ilk haftlarında görülen erken düşüklerin neredeyse tamamına yakını o gebeliğe ait kromozomal anomaliler nedeni ile yaşanmaktadır. Bir başka deyişle düşükle sonuçlanan gebeliklerin önemli bir kısmında zaten anomalili ve yaşama şansı olmayan bebekler söz konusudur.

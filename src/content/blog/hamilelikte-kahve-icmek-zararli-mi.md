@@ -3,13 +3,14 @@ title: Hamilelikte kahve içmek zararlı mı?
 pubDate: '2014-03-16T04:59:40'
 slug: hamilelikte-kahve-icmek-zararli-mi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-kahve-icmek-zararli-mi/
+originalUrl: 'https://www.mumcu.com/hamilelikte-kahve-icmek-zararli-mi/'
+readingTime: 2
 ---
 
-![Photo by: Alper Mumcu 2014 ](/wp-content/uploads/2014/03/kahve.jpg)
+![Photo by: Alper Mumcu 2014 ](../../images/uploads/2014/03/kahve.jpg)
 
 Hamilelik sırasında kahve içilip içilemeyeceği çok sık sorulan soruların başında gelir. Çoğu kişi bir bebek beklerken çay ve kahve gibi zararli olduğu düşünülen içecekerin içilmesinin yasak olduğunu zanneder. Hamile kadınların etraflarındaki kişiler örneğin eşleri ve aile büyükleri de bu tür içecekleri tüketmemeleri konusunda uyarırlar.
 

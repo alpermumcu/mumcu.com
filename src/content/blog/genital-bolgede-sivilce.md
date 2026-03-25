@@ -3,10 +3,11 @@ title: Genital bölgede sivilce
 pubDate: '2017-06-15T07:34:23'
 slug: genital-bolgede-sivilce
 category:
-  - Jinekoloji
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/genital-bolgede-sivilce/
+originalUrl: 'https://www.mumcu.com/genital-bolgede-sivilce/'
+readingTime: 3
 ---
 
 Genital bölgede ortaya çıkan sivilceler çok nadir olmayan durumlardır. Bu ufak kabarıklıklar pek çok duruma bağlı olarak ortaya çıkabilir. Çoğu zaman oldukça rahatsız edici olsa da genelde çok ciddi bir problem değildir.

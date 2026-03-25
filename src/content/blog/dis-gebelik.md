@@ -3,10 +3,11 @@ title: Dış gebelik
 pubDate: '2014-03-15T20:15:22'
 slug: dis-gebelik
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dis-gebelik/
+originalUrl: 'https://www.mumcu.com/dis-gebelik/'
+readingTime: 5
 ---
 
 Dış gebelik döllenmiş bir yumurtanın rahim içi dışında bir yere yerleşmesidir. En sık fallop tüplerinde görülür (%90-95). İlk 3 ayda yaşanan anne ölümlerinin en sık sebebidir ve gebeliklerin yaklaşık % 1inde görülür. Döllenmiş olan yumurta herhangi bir nedenden dolayı tüplerden rahim boşluğuna kadar olan seyahatini tamamlayamaz. En sık tüplerde görüldüğü için ektopik gebelik denildiğinde genelde tubal gebelik anlaşılır.

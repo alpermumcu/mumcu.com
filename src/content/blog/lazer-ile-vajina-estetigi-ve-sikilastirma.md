@@ -3,10 +3,11 @@ title: Lazer ile vajina estetiği ve sıkılaştırma
 pubDate: '2016-09-14T14:51:02'
 slug: lazer-ile-vajina-estetigi-ve-sikilastirma
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/lazer-ile-vajina-estetigi-ve-sikilastirma/
+originalUrl: 'https://www.mumcu.com/lazer-ile-vajina-estetigi-ve-sikilastirma/'
+readingTime: 5
 ---
 
 İlerleyen yaş ile birlikte tüm dokularda bir gevşeme söz konusu olur. Özellikle yüz cildinde canlılık azalır, kırışıklıklar belirmeye başlar ve bunlar temel olarak cilt altındaki kollajen adı verilen liflerin gevşemesi nedeni ile elastisitenin azalmasına bağlı olarak ortaya çıkar. İşte tüm dünyada kadınlar bu süreci yavaşlatmak ya da engellemek için kozmetik işlemlere, kremlere ve terapilere başvurmayı tercih ederler.

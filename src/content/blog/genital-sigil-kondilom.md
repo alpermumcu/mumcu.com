@@ -3,10 +3,11 @@ title: Genital Siğil (Kondilom)
 pubDate: '2014-03-24T12:57:48'
 slug: genital-sigil-kondilom
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/genital-sigil-kondilom/
+originalUrl: 'https://www.mumcu.com/genital-sigil-kondilom/'
+readingTime: 4
 ---
 
 Kondilom ya da condyloma accumunata adı verilen genital siğil pek çok kadına sıkıntı veren tatsız lezyonlardır. Tekrarlama eğiliminin olması çoğu zaman kadının moralini bozar. Kondilomlar cinsel yolla bulaşan ve human papilloma virus (HPV) adı verilen bir virusun neden olduğu enfeksiyonlardır.

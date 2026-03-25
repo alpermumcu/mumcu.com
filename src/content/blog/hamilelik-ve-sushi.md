@@ -3,10 +3,11 @@ title: Hamilelik ve Sushi
 pubDate: '2014-03-16T20:23:41'
 slug: hamilelik-ve-sushi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-sushi/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-sushi/'
+readingTime: 2
 ---
 
 Japon kültürünün önemli ögelerinden biri olan sushi artık kendi sınırlarını aşmış ve dünyaca ünlü bir yiyecek haline gelmiştir. Ülkemizde de sushi kültürü giderek yayılmakta ve büyük şehirlerde hergün pek çok sushi restoranı açılmaktadır. Hatta İstanbulda büyük süpermarketlerde dahi sushi satılmaktadır.
@@ -17,7 +18,7 @@ Sushi bazıları için son derece lezzetli ve aranılan bir yiyecek maddesi iken
 
 Hamilelikte sushinin güvenli olup olmadığı, bebek ve anne adayına zarar verip vermeyeceği konusunda yeterli veri ne yazik ki yoktur.
 
-![sushi_geb](/wp-content/uploads/2014/03/sushi_geb.jpg)Çiğ balık ve deniz ürünleri parazitler açısından potansiyel risk oluşturur. Eğer bu parazitler vücudunuzda yerleşir ve gelişirlerse sizin yediğiniz besinlerin önemli bir kısmını kendilerine alırlar. Sonuçta hem sizde bir beslenme bozukluğu ortaya çıkar hem de bebeğiniz gelişmi için gerekli olan enerji, protein ve diğer besin maddelerinden yeteri kadar yararlanamaz.
+![sushi_geb](../../images/uploads/2014/03/sushi_geb.jpg)Çiğ balık ve deniz ürünleri parazitler açısından potansiyel risk oluşturur. Eğer bu parazitler vücudunuzda yerleşir ve gelişirlerse sizin yediğiniz besinlerin önemli bir kısmını kendilerine alırlar. Sonuçta hem sizde bir beslenme bozukluğu ortaya çıkar hem de bebeğiniz gelişmi için gerekli olan enerji, protein ve diğer besin maddelerinden yeteri kadar yararlanamaz.
 
 Besin maddelerini dondurmak ya da pişirmek bu parazitleri yok eder. Bu nedenle bazı Japon restoranlarında sushi yapımında kullanılan çiğ deniz ürünleri önce dondurulup daha sonra çözülerek hazırlanmaktadır.
 

@@ -3,11 +3,12 @@ title: Anne adayının beslenme şekli erken doğum ile alakalı olabilir!
 pubDate: '2014-12-17T21:35:50'
 slug: anne-adayinin-beslenme-sekli-erken-dogum-ile-alakali-olabilir
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/anne-adayinin-beslenme-sekli-erken-dogum-ile-alakali-olabilir/
+readingTime: 2
 ---
 
 British Medical Journal’da yayınlanan bir çalışmada sebze meyve ve tam tahıllar açısından zengin bir diyetle beslenen ve yeterli miktarda su içen gebe kadınlarda erken doğum riskinin anlamlı derecede azaldığı iddia ediliyor.

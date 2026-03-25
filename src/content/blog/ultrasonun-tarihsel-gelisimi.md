@@ -3,10 +3,11 @@ title: Ultrasonun tarihsel gelişimi
 pubDate: '2014-03-18T01:11:30'
 slug: ultrasonun-tarihsel-gelisimi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/ultrasonun-tarihsel-gelisimi/
+originalUrl: 'https://www.mumcu.com/ultrasonun-tarihsel-gelisimi/'
+readingTime: 3
 ---
 
 Tıp tarihinde medikal mühendisliğin çok büyük önemi vardır. Tıbbi mühendislik olmasa günümüzdeki modern hastane ve kliniklerin pek çoğu var olmazdı. Mühendislik bilminin tıp alanındaki yansımalarından en önemlilerinden birisi de ultrason teknolojisindeki gelişimdir.

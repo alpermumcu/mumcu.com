@@ -3,13 +3,14 @@ title: Rahim Filmi (HSG)
 pubDate: '2014-03-27T13:31:53'
 slug: rahim-filmi-hsg
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/rahim-filmi-hsg/
+originalUrl: 'https://www.mumcu.com/rahim-filmi-hsg/'
+readingTime: 4
 ---
 
-![hsg_cek](/wp-content/uploads/2014/03/hsg_cek.jpg)Histerosalpingografi ya da yaygın adıyla rahim filmi rahimin içi ve tüplerin durumunu değerlendirmeye olanak sağlayan bir rontgen tekniğidir.
+![hsg_cek](../../images/uploads/2014/03/hsg_cek.jpg)Histerosalpingografi ya da yaygın adıyla rahim filmi rahimin içi ve tüplerin durumunu değerlendirmeye olanak sağlayan bir rontgen tekniğidir.
 
 İşlem esnasında rontgen filminde görünen bir sıvı rahim ağzından rahime doğru basınç altında verilir. Bu esnada skopi altinda ekrandan bu sıvının rahimin içine ve tüplere dağılımı gözlenir ve uygun anlarda röntgen filmi çekilir.
 
@@ -58,21 +59,21 @@ HSG’de herhangi bir patoloji saptanması durumunda ise uygun şekilde tedavi y
 
 **HSG resimleri**
 
-![norm_hs_g](/wp-content/uploads/2014/03/norm_hs_g.jpg)  
+![norm_hs_g](../../images/uploads/2014/03/norm_hs_g.jpg)  
 **Normal HSG filmleri:** Resimde uterus (rahim) normal olarak dolmuş. Her iki tüp yeterli olarak görünmekte ve sıvı tüplerden geçerek karın boşluğuna yayılmış.
 
-![hsgtikali](/wp-content/uploads/2014/03/hsgtikali.gif)  
+![hsgtikali](../../images/uploads/2014/03/hsgtikali.gif)  
 **Tüpler tıkalı:** Uterus normalolrak dolmuş. Her iki tüp ilaç ile dolmuş ancak uç kısımlarında genişleme mevcut. İlaç karın boşluğuna yayılmamış. Her iki tüpün uç tarafları tıkalı
 
-![hsgpolip](/wp-content/uploads/2014/03/hsgpolip.gif)  
+![hsgpolip](../../images/uploads/2014/03/hsgpolip.gif)  
 **Polip:** Rahim içerisinde yer kaplayan birden fazla lezyon mevcut. Bunlar endometrial polipler
 
-![hsgmyom](/wp-content/uploads/2014/03/hsgmyom.gif)  
+![hsgmyom](../../images/uploads/2014/03/hsgmyom.gif)  
 **Myom:** Uterusun tepesinde yer alan ve içine doğru büyüyen bir myom mevcudiyeti
 
-![bicornres](/wp-content/uploads/2014/03/bicornres.jpg)
+![bicornres](../../images/uploads/2014/03/bicornres.jpg)
 
-[![bicornhsg](/wp-content/uploads/2014/03/bicornhsg.jpg)](http://www.mumcu.com/wp-content/uploads/2014/03/bicornhsg.jpg)
+[![bicornhsg](../../images/uploads/2014/03/bicornhsg.jpg)](http://www.mumcu.com../../images/uploads/2014/03/bicornhsg.jpg)
 
 **Çift Gözlü Uterus**
 

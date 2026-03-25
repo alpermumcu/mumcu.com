@@ -3,13 +3,14 @@ title: Tüp bebek tedavisi meme kanseri riskini arttırmıyor
 pubDate: '2016-07-20T15:13:16'
 slug: tup-bebek-tedavisi-meme-kanseri-riskini-arttirmiyor
 category:
-  - Güncel Haberler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/tup-bebek-tedavisi-meme-kanseri-riskini-arttirmiyor/
+originalUrl: 'https://www.mumcu.com/tup-bebek-tedavisi-meme-kanseri-riskini-arttirmiyor/'
+readingTime: 3
 ---
 
-![tupbebek](/wp-content/uploads/2016/07/tupbebek.jpg)
+![tupbebek](../../images/uploads/2016/07/tupbebek.jpg)
 
 Doğal yollardan çocuk sahibi olamadıkları için tüp bebek tedavisine başvuran kadınların önemli endişelerinden biri de bu tedavinin kanser riskinde artışa neden olup olmadığıdır.
 

@@ -3,10 +3,11 @@ title: Gebelik ve Rubella (kızamıkçık) enfeksiyonu
 pubDate: '2014-03-18T00:12:20'
 slug: gebelik-ve-rubella-kizamikcik-enfeksiyonu
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-ve-rubella-kizamikcik-enfeksiyonu/
+originalUrl: 'https://www.mumcu.com/gebelik-ve-rubella-kizamikcik-enfeksiyonu/'
+readingTime: 4
 ---
 
 Halk arasında kızamıkçık olarak bilinen rubella oldukça yaygın görülen bir virus enfeksiyonudur. Hamilelik sırasında geçirildiğinde bebekte ciddi sorunlara neden olabilmektedir.

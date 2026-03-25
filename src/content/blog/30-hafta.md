@@ -3,17 +3,18 @@ title: 30. Hafta- Burası hep karanlık değil
 pubDate: '2014-03-30T22:14:23'
 slug: 30-hafta
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/30-hafta/
+originalUrl: 'https://www.mumcu.com/30-hafta/'
+readingTime: 1
 ---
 
 Bebeğinizin cildini kaplayan ve lanugo adı verilen ince tüyler artık yavaş yavaş kaybolmaya başlarken el ve ayak tırnakları yavaş yavaş uzuyor. Kemik iliği kan hücresi üretimini tamamen karaciğerden devaraldı. Öte yandan bebek artık etrafının farkına varmaya başlar. Rahimin içi genellikte zifiri karanlık gibi düşünülse de anne adayının bulunduğu çevreye bağlı olarak aydınlık ya da karanlık olabilir ve bebek bunun ayrımını yapabilir. Erkek bebeklerde testisler torbaya iniş sürecini tamamlamak üzeredir. Bebeğin ağrılığı doğumda olacağı ağırlığın üçte ikisine ulaşmıştır.
 
 Bu haftalarda anne adayı artık hamilelikten iyice sıkılmaya başlar. Uyuyamamak ve mide yanmaları sık görülen problemlerdir. Zaman zaman kasıklarınızda bir ağrı ya da kasılma hissedebilirsiniz. Bunlar rahimin gerginliğini sağladığı küçük ve önemsiz kasılmalardır ve Braxton Hicks kontraksiyonları olarak adlandırılırlar.
 
- ![30haf](/wp-content/uploads/2014/03/30haf.jpg)30 haftalıkken doğan bir bebek
+ ![30haf](../../images/uploads/2014/03/30haf.jpg)30 haftalıkken doğan bir bebek
 
 \[third\]
 

@@ -3,10 +3,11 @@ title: 9. Hafta &#8211; Düşük riski azalıyor
 pubDate: '2014-03-31T04:09:58'
 slug: 9-hafta
 category:
-  - Hafta Hafta Gebelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/9-hafta/
+originalUrl: 'https://www.mumcu.com/9-hafta/'
+readingTime: 2
 ---
 
 Embryonik kuyruk iyice kaybolmuştur. Kıkırdak ve kemik dokuları oluşmaya başlamıştır.

@@ -3,10 +3,11 @@ title: Folik asit
 pubDate: '2014-03-15T15:41:13'
 slug: folik-asit
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/folik-asit/
+originalUrl: 'https://www.mumcu.com/folik-asit/'
+readingTime: 4
 ---
 
 Bu B grubu suda çözünen vitamin çoğu zaman folik asit ya da folat olarak adlandırılır. Oysa bu iki terim birbirinden farklıdır.Folik asit viatminin en stabil formunu belirtir ve besin maddelerinde nadiren bulunur. Folik asit vitaminin ilaçlarda ve işlenmiş besinlerde bulunan formudur. Folat ise doğal maddelerde bulunan şeklidir.

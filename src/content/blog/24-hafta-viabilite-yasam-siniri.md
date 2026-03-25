@@ -3,10 +3,11 @@ title: '24. Hafta &#8211; Viabilite: Yaşam Sınırı'
 pubDate: '2014-03-30T22:39:57'
 slug: 24-hafta-viabilite-yasam-siniri
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/24-hafta-viabilite-yasam-siniri/
+originalUrl: 'https://www.mumcu.com/24-hafta-viabilite-yasam-siniri/'
+readingTime: 2
 ---
 
 > **Dikkat:** **Çok iyi hazırlanmış şartlarda ve yoğun bakım koşullarında bu haftada doğan bebekler yaşatılabilmektedir.**
@@ -23,7 +24,7 @@ Yine 24. haftada gebeliğer bağlı diabetin varlığını araştırmak için do
 
 Yine bu haftalarda erken doğumun belirtilerine karşı dikkatli olmayı öğrenmelisiniz. Bunu başarabilmek için de erken doğum hakkında bigi sahibi olmanız gereklidir. Doktorunuz bu konuda size yardımcı olacaktır.
 
-![24haf1p9o](/wp-content/uploads/2014/03/24haf1p9o.jpg)  
+![24haf1p9o](../../images/uploads/2014/03/24haf1p9o.jpg)  
 24 haftalık doğan bir bebek
 
 \[third\]

@@ -3,10 +3,11 @@ title: Spor aşkı doğuştan geliyor olabilir mi?
 pubDate: '2016-04-04T16:02:16'
 slug: spor-aski-dogustan-geliyor-olabilir-mi
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/spor-aski-dogustan-geliyor-olabilir-mi/
+originalUrl: 'https://www.mumcu.com/spor-aski-dogustan-geliyor-olabilir-mi/'
+readingTime: 2
 ---
 
 Baylor College of Medicine araştırmacıları gebelik sırasında kendi isteğiyle egzersiz yapan farelerden doğan bebeklerin i̇leriki yaşantılarında daha aktif olduklarını saptamışlar.

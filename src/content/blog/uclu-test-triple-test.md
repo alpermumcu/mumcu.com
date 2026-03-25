@@ -3,10 +3,11 @@ title: Üçlü Test (Triple test)
 pubDate: '2014-03-15T21:29:42'
 slug: uclu-test-triple-test
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/uclu-test-triple-test/
+originalUrl: 'https://www.mumcu.com/uclu-test-triple-test/'
+readingTime: 8
 ---
 
 Her anne baba adayının hayali sağlıklı ve problemsiz bir bebeğe sahip olmaktır. Bu amaca ulaşabilmek için tüm hamilelikleri boyunca doktor kontrolüne girerler ve doktorlarının önerilerine harfiyen uyarlar.

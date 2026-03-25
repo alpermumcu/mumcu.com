@@ -6,10 +6,10 @@ parent: 0
 menuOrder: 0
 ---
 
-[![bayrakkan](/wp-content/uploads/2016/06/bayrakkan.jpg)](?p=2521)
+[![bayrakkan](../../images/uploads/2016/06/bayrakkan.jpg)](?p=2521)
 
-*   [Yaz ayları için öneriler](?p=1704)
+*   [Yaz ayları için öneriler](/blog/yaz-aylari-icin-oneriler/)
 *   [Adet geciktirmek](?p=1173)
-*   [Bebek planlayanların işine yarayabilecek 7 öneri](?p=2504)
-*   [Her hamile kadının tüketmesinde yarar olan 4 yiyecek](?p=2517)
-*   [Bebeğin zekasını annenin genleri belirliyor](?p=2719)
+*   [Bebek planlayanların işine yarayabilecek 7 öneri](/blog/bebek-planlayanlarin-isine-yarayabilecek-7-oneri/)
+*   [Her hamile kadının tüketmesinde yarar olan 4 yiyecek](/blog/her-hamile-kadinin-tuketmesinde-yarar-olan-4-yiyecek/)
+*   [Bebeğin zekasını annenin genleri belirliyor](/blog/bebegin-zekasini-annenin-genleri-belirliyor/)

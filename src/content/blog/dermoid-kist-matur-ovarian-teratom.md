@@ -3,10 +3,11 @@ title: Dermoid kist (matür ovarian teratom)
 pubDate: '2014-03-22T20:10:11'
 slug: dermoid-kist-matur-ovarian-teratom
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dermoid-kist-matur-ovarian-teratom/
+originalUrl: 'https://www.mumcu.com/dermoid-kist-matur-ovarian-teratom/'
+readingTime: 5
 ---
 
 Embryonik yaşamın başlarında kabaca 3 hücre tabakası bulunur. Bu tabakalar farklılaşarak değişik hücre ve doku gruplarını, sonunda da organları oluştururlar. Bu tabakalara germ hücre tabakaları adı verilir. Germ hücreleri kadınlarda yumurtalık, erkeklerde ise testislerde bulunur ve yumurta ile sperm hücresinin yapımından sorumludur. Bu hücrelerden gelişen tümörler pekçok değişik dokuyu barındırma yeteneğine sahiptirler. Genelde baskın olan germ tabakası ektoderm adı verilen tabakadır. Bu tabakadan başta deri ve deri ekleri olmak üzere değişik dokular gelişir. Bu nedenle yumurtalıkta görülen iyi huylu germ hücre tümörleri “**dermoid kist**” olarak adlandırılmaktadır.
@@ -32,16 +33,16 @@ Genelde tek taraflı olmakla birlikte %8-15 olguda her iki yumurtalıkta da derm
 **Yapısı  
 **Dermoid kist bütün germ hücrelerinden parçalar taşıyabilir ancak genelde baskın olan ektoderm tabakasıdır. Bu nedenle deri ve deri eklerine ait kısımlar daha fazla görülür. Deride bulunan sebase salgı bezleri dermoid kist içinde de bulunduğundan kist sıvısı koyu kıvamlı, sarı-kahverengi renkli, yağlı, yoğun bir sıvıdır. Kist içinde çoğu zaman saç, kıl, diş, kemik, kıkırdak, sinir gibi dokular bulunur.
 
-![dermo_dis](/wp-content/uploads/2014/03/dermo_dis.jpg)
+![dermo_dis](../../images/uploads/2014/03/dermo_dis.jpg)
 
 Resimde içinde diş içeren bir dermoid kistin  
 röntgen filmindeki görüntüsü izlenmektedir.
 
-![dermo_macro](/wp-content/uploads/2014/03/dermo_macro.jpg)
+![dermo_macro](../../images/uploads/2014/03/dermo_macro.jpg)
 
 Ameliyat sırasında dev dermoid kist
 
-![dermo_sac](/wp-content/uploads/2014/03/dermo_sac.jpg)
+![dermo_sac](../../images/uploads/2014/03/dermo_sac.jpg)
 
 Dermoid kist içinde saç
 
@@ -55,7 +56,7 @@ Dermoid kistin kansere dönme olasılığı son derece düşüktür. Olguların 
 **Klinik ve Tanı**  
 Dermoid kist genelde belirti vermez ve başka bir nedenle yapılan muayene, ultrason incelemesi, radyolojik inceleme ya da ameliyatlar sırasında tesadüfen fark edilir. Olguların yaklaşık %65’inde herhangi bir yakınma yoktur.
 
-[![dermoid_usg](/wp-content/uploads/2014/03/dermoid_usg1.jpg)](http://www.mumcu.com/wp-content/uploads/2014/03/dermoid_usg1.jpg)
+[![dermoid_usg](../../images/uploads/2014/03/dermoid_usg1.jpg)](http://www.mumcu.com../../images/uploads/2014/03/dermoid_usg1.jpg)
 
 Dermoid kistin ultrasonografik görüntüsü
 
@@ -77,7 +78,7 @@ Dermoid kistin tedavisi cerrahidir. Fark edildiği anda çıkartılması uygun o
 
 Operasyon laparoskopik ya da açık ameliyat şeklinde yapılabilir. Ancak uygun vakalarda laparoskopik yaklaşım tercih edilmelidir.
 
-![dermo_lap](/wp-content/uploads/2014/03/dermo_lap.jpg)
+![dermo_lap](../../images/uploads/2014/03/dermo_lap.jpg)
 
 Dermoid kistin laparoskopideki görünüşü
 

@@ -3,10 +3,11 @@ title: Doğum sonrası seks ile ilgili ipuçları
 pubDate: '2015-04-24T02:54:54'
 slug: dogum-sonrasi-seks-ile-ilgili-ipuclari
 category:
-  - Doğum
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-sonrasi-seks-ile-ilgili-ipuclari/
+originalUrl: 'https://www.mumcu.com/dogum-sonrasi-seks-ile-ilgili-ipuclari/'
+readingTime: 4
 ---
 
 Karnızındaki bebek doğup da onunla tanıştıktan sonra hayatınız bir süre eski düzenine girmeyecek ve eski halinize gelmeniz biraz zaman alacak bunun farkındasınız. Örneğin aldığını kiloları verip hamile kalmadan önceki halinize dönmeniz için biraz zamana ihtiyacınız var. Benzer şekilde yatak odası departmanı için de eski düzene dönmek biraz zaman gerektirebilir

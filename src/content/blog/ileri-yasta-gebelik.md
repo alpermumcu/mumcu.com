@@ -3,10 +3,11 @@ title: İleri yaşta gebelik
 pubDate: '2014-03-15T15:37:41'
 slug: ileri-yasta-gebelik
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/ileri-yasta-gebelik/
+originalUrl: 'https://www.mumcu.com/ileri-yasta-gebelik/'
+readingTime: 5
 ---
 
 Kadınların çalışma ve sosyal hayat içerisinde daha fazla yer almaları, eğitim süreçlerini daha uzun tutmaları ve gelişen hayat şartları son 20 yıl içinde ortalama gebelik yaşını oldukça yukarılara çekti. İleri yaşta bebek doğuran, özellikle ilk bebek için 30’lu yaşlarını bekleyen pekçok kadın mevcut. Tıptaki gelişmelere paralel olarak gebelik takibindeki gelişmeler de ileri yaş gebeliklerini teşvik eder bir hal aldı. Uzun yıllar boyunca infertilite nedeni ile tedavi görüp de çocuk sahibi olamayan pekçok çiftin kısırlık tedavilerinde sağlanan baş döndürücü başarılardan faydalanmak istemeleri de bu artışda önemli rol üstlendi. ABD’de 63 yaşında anne olan bir kişinin yazılı ve görsel basında yer alması yaşı ileri olup da bebek sahibi omaktan korkan kadınları yüreklendirdi.

@@ -3,10 +3,11 @@ title: Göbek kordonunda düğüm
 pubDate: '2014-03-15T21:57:02'
 slug: gobek-kordonunda-dugum
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gobek-kordonunda-dugum/
+originalUrl: 'https://www.mumcu.com/gobek-kordonunda-dugum/'
+readingTime: 2
 ---
 
 Bazı bebekler göbek kordonlarında gerçek bir düğüm ile doğarlar. Bazılarında ise kordon belirli bir bölgede o kadar çok kıvrılmıştır ki adeta bir düğüm gibi görülür. Bunun nedeni damarlardan birinin daha uzun olmasıdır. Damar kendi boyunu kordonun boyuna uydurmak için kıvrılır.
@@ -14,11 +15,11 @@ Bazı bebekler göbek kordonlarında gerçek bir düğüm ile doğarlar. Bazıla
 **Ne sıklıkta görülür**  
 Gerçek düğümlere yaklşık her 100 doğumdan birinde rastlanmaktadır. Monoamniyotik yani tek bir amniyon kesesinin içinde bulunan ikiz bebeklerde daha fazla görülmektedir. Yalancı düğümler ise daha sıklıkla karşılaşılan durumlardır. Çok nadiren kordonda birden fazla gerçek düğüm ya da gerçek ve yalancı düğüm birarada görülür.
 
- ![gerc_dugum](/wp-content/uploads/2014/03/gerc_dugum.jpg)
+ ![gerc_dugum](../../images/uploads/2014/03/gerc_dugum.jpg)
 
 Gerçek düğüm
 
- ![yalan_dugum](/wp-content/uploads/2014/03/yalan_dugum.jpg)
+ ![yalan_dugum](../../images/uploads/2014/03/yalan_dugum.jpg)
 
 Yalancı düğüm
 

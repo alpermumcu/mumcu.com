@@ -3,10 +3,11 @@ title: Pelvik İltihabi Hastalık (PID)
 pubDate: '2014-03-24T12:19:42'
 slug: pelvik-iltihabi-hastalik-pid
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/pelvik-iltihabi-hastalik-pid/
+originalUrl: 'https://www.mumcu.com/pelvik-iltihabi-hastalik-pid/'
+readingTime: 7
 ---
 
 Kadın yaşantısı içinde en az dikkat çeken ama belki de kadının beden ve ruh sağlığına en fazla zarar verme olasılığı olan hastalık grubu pelvik enfeksiyonlardır. Hem enfeksiyon anında yarattığı şikayetler hem de sekelleri nedeni ile kadınları zor durumda bırakabilir. Çok ileri vakalarda hayatı tehdit edebilecek tablolar yaratabilir. Sadece A.B.D.’de her yıl 1 milyon kadının PID geçirdiği, ve 100.000 den fazla kadının bu nedenle infertilite problemi yaşadığı thmin edilmektedir. Ayrıca binlerce dış gebelik vakası da bu nedenle ortaya çıkmaktadır.

@@ -3,10 +3,11 @@ title: Yüksek doz folik asit gebelik zehirlenmesini önlemiyor
 pubDate: '2018-10-03T04:38:22'
 slug: yuksek-doz-folik-asit-gebelik-zehirlenmesini-onlemiyor
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/yuksek-doz-folik-asit-gebelik-zehirlenmesini-onlemiyor/
+originalUrl: 'https://www.mumcu.com/yuksek-doz-folik-asit-gebelik-zehirlenmesini-onlemiyor/'
+readingTime: 2
 ---
 
 Kanada’da yapılan bir çalışma gebelik sırasında alınan yüksek dozda folik Asitin gebelik zehirlenmesi de denilen ve potansiyel olarak ölümcül olabilen preeklampsiyi önlemede etkili olmadığını ortaya koydu.

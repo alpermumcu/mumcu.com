@@ -3,10 +3,11 @@ title: Doğum öncesi izni
 pubDate: '2014-03-15T15:35:18'
 slug: dogum-oncesi-izni
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-oncesi-izni/
+originalUrl: 'https://www.mumcu.com/dogum-oncesi-izni/'
+readingTime: 3
 ---
 
 Son zamanlarda gerek yaklaşan doğumun heyecanı gerekse dalgınlık nedeni ile çalışan anne adaylarından bazıları yasal hakları olan doğum öncesi iznine ayrılmak ile ilgili işlemleri yaptırmayı unutmakta ya da çok geç kalmaktadırlar. Bunun sonucunda ise yasal izin hakları yanmaktadır. Bazı kurumlarda ise durumdan haberi olmayan anne adayı personel birimi tarafından uyarılmamakta ve sonuçta yine anne adayı mağdur olmaktadır.

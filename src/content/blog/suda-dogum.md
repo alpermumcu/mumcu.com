@@ -3,10 +3,11 @@ title: Suda doğum
 pubDate: '2014-03-20T17:44:33'
 slug: suda-dogum
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/suda-dogum/
+originalUrl: 'https://www.mumcu.com/suda-dogum/'
+readingTime: 5
 ---
 
 Hidroterapi yani su ile tedavi uzun yıllardır kas gevşetici ve rahatlatıcı etkileri nedeni ile kullanılagelen bir alternatif tedavi yaklaşımıdır. Bu etkinin normal doğumlarda da kullanılabileceği fikri de oldukça eskilere dayanır. Dokümente edilen ilk su altı doğumu 1803 yılında Fransa’da yaşanmıştır. Ancak bu planlı bir doğum değidir. Uzun süre doğum eyleminde kalan ve biraz rahatlamak için sıcak su dolu bir küvete giren bir kadının doğumu bu esnada gerçekleşmiş ve bu tesadüf sonucu suda doğum yapan ilk kadın olarak tarihe geçmiştir.

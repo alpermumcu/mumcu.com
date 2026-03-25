@@ -3,7 +3,7 @@ title: Yüksek tiroid hormon düzeyleri de bebeğin beyin gelişimini etkileyebi
 pubDate: '2015-03-13T09:36:49'
 slug: yuksek-tiroid-hormon-duzeyleri-de-bebegin-beyin-gelisimini-etkileyebilir
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags:
   - Gebe
   - Hipertiroidi
@@ -15,6 +15,7 @@ tags:
 status: publish
 originalUrl: >-
   https://www.mumcu.com/yuksek-tiroid-hormon-duzeyleri-de-bebegin-beyin-gelisimini-etkileyebilir/
+readingTime: 2
 ---
 
 Amerika Birleşik Devletleri’nin San Diego kentinde yapılan 97. Endokrin Cemiyeti toplantısında sunulan yeni bir çalışmada sadece düşük tiroid hormon düzeylerinin değil, gebeliğin erken dönemlerindeki yüksek düzeylerin de çocuğun ileriki yaşantısında düşük zekaya neden olabileceği iddia edildi. 

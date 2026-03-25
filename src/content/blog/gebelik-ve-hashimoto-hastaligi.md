@@ -3,10 +3,11 @@ title: Gebelik ve Hashimoto hastalığı
 pubDate: '2015-07-26T10:47:31'
 slug: gebelik-ve-hashimoto-hastaligi
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-ve-hashimoto-hastaligi/
+originalUrl: 'https://www.mumcu.com/gebelik-ve-hashimoto-hastaligi/'
+readingTime: 11
 ---
 
 Kanda yüksek antitiroid antikor varlığı ile düşük riski arasındaki ilişkinin bilimsel olarak gösterilemesinin üzerinden çeyrek yüzyıldan fazla zaman geçmesine ve konu ile ilgili pek çok bilimsel yayın literatürde yer almasına rağmen hala daha günümüzde Hashimoto hastalığı yani otoimmün tiroidit tüm dünyada gerekli önemi görmemekte ve gebe ya da anne olmayı planlayan kadınlarda ihmal edilmektedir.

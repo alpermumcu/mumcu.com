@@ -3,10 +3,11 @@ title: Septik Abortus &#8211; Anne ölümlerinin önemli bir nedeni
 pubDate: '2014-03-15T19:47:03'
 slug: septik-abortus-anne-olumlerinin-onemli-bir-nedeni
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/septik-abortus-anne-olumlerinin-onemli-bir-nedeni/
+originalUrl: 'https://www.mumcu.com/septik-abortus-anne-olumlerinin-onemli-bir-nedeni/'
+readingTime: 4
 ---
 
 Septik abortus, enfeksiyon komplikasyonu ortaya çıkan düşük olayı olarak tanımlanabilir ya da br başka deyişle ister kürtaj isterse kendiliğinden olan düşükler sonrasında gebe kadının rahminde meydana gelen düşükler septik abortus olarak adlandırılır.

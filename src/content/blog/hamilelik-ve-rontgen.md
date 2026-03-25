@@ -3,10 +3,11 @@ title: Hamilelik ve Röntgen
 pubDate: '2014-03-17T02:51:56'
 slug: hamilelik-ve-rontgen
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-rontgen/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-rontgen/'
+readingTime: 8
 ---
 
 Radyasyon kelimesini duymak bile çoğu insanın içinde endişe uyandırır. Bu endişede kuşkusuz radyasyonun insan sağlığı üzerindeki olumsuz etkileri ile ilgili yayınlar, filmler ve medya haberleri önemli rol oynar. Özellikle ikinci dünya savaşını sona erdiren dram ve Çernobil faciası gibi radyasyonla direkt ilgili olayların sonrasında görülen ölümlerin yanısıra kanser hastalarında görülen artış radyasyonun insanların gözünde korkunç bir yer edinmesine neden olmuştur.

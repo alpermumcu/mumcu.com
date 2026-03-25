@@ -3,10 +3,11 @@ title: Gebelik ve astim
 pubDate: '2014-03-16T02:10:19'
 slug: gebelik-ve-astim
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-ve-astim/
+originalUrl: 'https://www.mumcu.com/gebelik-ve-astim/'
+readingTime: 8
 ---
 
 **\[box\] Dikkat:** _Astım hastalığı ile ilgili en doğru ve güncel bilgiler ile tedavi uygulamalarını size ancak bir göğüs hastalıkları uzmanı verebilir. Burada astım ile anlatılan genel bilgiler tamamen bilgilendirme amacı taşımaktadır. Gebelik söz konusu olduğunda ise göğüs hastalıkları uzmanı ile kadın hastalıkları ve doğum uzmanının koordineli çalışması gereklidir._ \[/box\]

@@ -1,15 +1,16 @@
 ---
-title: Ben de baba oldum :)
+title: 'Ben de baba oldum :)'
 pubDate: '2007-10-24T14:39:49'
 slug: ben-de-baba-oldum
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/ben-de-baba-oldum/
+originalUrl: 'https://www.mumcu.com/ben-de-baba-oldum/'
+readingTime: 1
 ---
 
-![img1](/wp-content/uploads/2014/03/img1.jpg)Meslekte geçirilen onlarca yıl, doğumuna tanıklık edilen onbine yakın bebek… bunların hiçbirisi insanı kendi eşinin gebeliği ve bebeklerinin gelişimi ile ilgili yaşadığı endişeler konusunda diğer bireylerden çok da farklı kılmıyor. Benzer endişeler ve heyecanlar belki kadın doğum uzmanı olmayan kişilere göre biraz daha bilinçli yaşanıyor o kadar.
+![img1](../../images/uploads/2014/03/img1.jpg)Meslekte geçirilen onlarca yıl, doğumuna tanıklık edilen onbine yakın bebek… bunların hiçbirisi insanı kendi eşinin gebeliği ve bebeklerinin gelişimi ile ilgili yaşadığı endişeler konusunda diğer bireylerden çok da farklı kılmıyor. Benzer endişeler ve heyecanlar belki kadın doğum uzmanı olmayan kişilere göre biraz daha bilinçli yaşanıyor o kadar.
 
 Ve en önemlisi insanın tüp bebek & kadın hastalıkları ve doğum uzmanı olması erken doğuma karşı bir engel teşkil etmiyor.
 
@@ -19,4 +20,4 @@ Anne baba olmak gerçekten çok zor bir iş. İkiz sahibi olmak ise zorlukları 
 
 Alp ve Arda için yaptığım siteye aşağıdaki resme tıklayarak ulaşabilirsiniz
 
-[![mumcu](http://www.mumcu.com/wp-content/uploads/2014/03/mumcu.jpg)](http://www.alpvearda.com)
+[![mumcu](http://www.mumcu.com../../images/uploads/2014/03/mumcu.jpg)](http://www.alpvearda.com)

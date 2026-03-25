@@ -3,10 +3,11 @@ title: Mikroenjeksiyon (ICSI)
 pubDate: '2014-03-27T14:36:35'
 slug: mikroenjeksiyon-icsi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/mikroenjeksiyon-icsi/
+originalUrl: 'https://www.mumcu.com/mikroenjeksiyon-icsi/'
+readingTime: 5
 ---
 
 İnfertilite problemi yaşayanlar kadar konuya uzak olanlar da gerek çevrelerinden gerekse medya organlarından mikroenjeksiyon sözcüğünü mutlaka duymuşlardır. Özellikle erkek faktörüne bağlı infertilitenin tedavisinde çığır açan mikroenjeksiyon ya da başka bir deyişle İntrasitoplazmik sperm enjeksiyonu (ICSI), yardımla üreme teknolojilerinde yaygın kullanıma giren yeni bir teknolojidir. ICSI sayesinde neden ne olursa olsun tek bir spermi olan ya da testis biopsisi ile tek bir sperm dahi elde edilen erkekler kendi çocuklarına sahip olma şansını bulmuşlardır. Ülkemizde yasal olmamakla birlikte bazı ülkelerde başka kişilerin spermi ile yani sperm bankalarından elde edilen spermler ile tüpbebek uygulamaları legaldir. ICSI yardımı ile pekçokerkek için bu gereklilik ortadan kalkmıştır.

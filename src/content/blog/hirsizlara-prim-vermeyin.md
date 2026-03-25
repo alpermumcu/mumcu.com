@@ -3,10 +3,11 @@ title: Hırsızlara prim vermeyin
 pubDate: '2014-03-14T19:26:36'
 slug: hirsizlara-prim-vermeyin
 category:
-  - Bizden Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hirsizlara-prim-vermeyin/
+originalUrl: 'https://www.mumcu.com/hirsizlara-prim-vermeyin/'
+readingTime: 2
 ---
 
 İntihal bilimsel yayınlarda çalıntı apartma, başkasının emeğini izinsiz olarak kullanmak yoluyla yapılan**hırsızlık** anlamına gelmektedir Açıldığı günden beri konusundaki lider sitelerden birisi olan mumcu.com kadın sağlığı ve gebelik sitesinin ve yine kendi konusunda önemli bir açığı kapatan ve bu konudaki düzeyli bazı sitelerin içeriği, **bazı sorumsuz site yöneticileri tarafından çalınmaktadır.**.

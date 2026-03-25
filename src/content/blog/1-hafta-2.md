@@ -3,10 +3,11 @@ title: 1. Hafta &#8211;  Gebe kalmaya karar verdiniz
 pubDate: '2014-03-31T04:13:01'
 slug: 1-hafta-2
 category:
-  - Hafta Hafta Gebelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/1-hafta-2/
+originalUrl: 'https://www.mumcu.com/1-hafta-2/'
+readingTime: 2
 ---
 
 Bugün belki de son adet kanamanızı görmeye başladınız. Eğer planlarınız gerçek olur da gebe kalırsanız uzunca bir süre adet kanamanız olmayacak. Çoğu insan için şaşırtıcı olmakla birlikte gebeliğin başlangıcı olarak, gebe kalınan ilişkinin olduğu gün değil, bundan yaklaşık 14 gün öncesi yani son adet kanamasının ilk günü (SAT) kabul edilir. Bu durumda kanamanızın başladığı bugün istatistiksel anlamda gebeliğiniz başlamıştır. Bu şekilde hesaplandığında insanlarda gebelik 280 gün yani 40 hafta sürer. Ay hesabı yapmak karışıklığa neden olabileceğinden siz de gebeliğinizi takip ederken hafta olarak ifade etmeyi öğrenmeli ve ay hesabını bırakmalısınız.

@@ -3,11 +3,11 @@ title: Tüp bebeğe gereğinden fazla mı başvuruluyor?
 pubDate: '2014-03-17T01:12:47'
 slug: tup-bebege-gereginden-fazla-mi-basvuruluyor
 category:
-  - Güncel Haberler
-  - Tüp Bebek Haber
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/tup-bebege-gereginden-fazla-mi-basvuruluyor/
+originalUrl: 'https://www.mumcu.com/tup-bebege-gereginden-fazla-mi-basvuruluyor/'
+readingTime: 2
 ---
 
 29 Ocak 2014

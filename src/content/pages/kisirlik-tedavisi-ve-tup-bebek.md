@@ -8,35 +8,35 @@ menuOrder: 0
 
 Aşağıdaki konu başlıklarına tıklayarak makaleleri okuyun.
 
-> [Genel bilgiler](?p=1747)
+> [Genel bilgiler](/blog/dogum-hakkinda-genel-bilgiler/)
 > 
-> [İyi bir tüp bebek merkezi nasıl anlaşılır?](?p=1743)
+> [İyi bir tüp bebek merkezi nasıl anlaşılır?](/blog/iyi-bir-tup-bebek-merkezi-nasil-anlasilir/)
 
 > Ovülasyon indüksiyonu
 > 
-> [Aşılama](?p=1750)
+> [Aşılama](/blog/asilama/)
 
 > İlk Görüşme
 > 
-> [Yumurtalıkların uyarılması](/kisirlik-tedavisi-ve-tup-bebek/?p=1760)
+> [Yumurtalıkların uyarılması](/blog/yumurtaliklarin-uyarilmasi/)
 > 
-> [Yumurta toplama](/kisirlik-tedavisi-ve-tup-bebek/?p=1688)
+> [Yumurta toplama](/blog/yumurta-toplama/)
 > 
-> [Döllenme (Mikroenjeksiyon, tüp bebek)](/kisirlik-tedavisi-ve-tup-bebek/?p=1763)
+> [Döllenme (Mikroenjeksiyon, tüp bebek)](/blog/dollenme/)
 > 
-> [Embryo Transferi](/kisirlik-tedavisi-ve-tup-bebek/?p=1767)
+> [Embryo Transferi](/blog/embryo-transferi/)
 > 
-> [Gebelik Testi](/kisirlik-tedavisi-ve-tup-bebek/?p=1737)
+> [Gebelik Testi](/blog/gebelik-testi/)
 > 
 > Başarı oranları
 
-> [Mikroenjeksiyon (ICSI)](/kisirlik-tedavisi-ve-tup-bebek/?p=1686)
+> [Mikroenjeksiyon (ICSI)](/blog/mikroenjeksiyon-icsi/)
 > 
-> [Destekli yuvalama (Laser assisted hatching)](/kisirlik-tedavisi-ve-tup-bebek/?p=1753)
+> [Destekli yuvalama (Laser assisted hatching)](/blog/destekli-yuvalama/)
 > 
 > Blastokist transferi
 > 
-> [Embryo Dondurma](/kisirlik-tedavisi-ve-tup-bebek/?p=1756)
+> [Embryo Dondurma](/blog/embryo-dondurma/)
 > 
 > İn-vitro maturasyon
 > 
@@ -44,6 +44,6 @@ Aşağıdaki konu başlıklarına tıklayarak makaleleri okuyun.
 
 > [Doğal Sıklus’da Tüpbebek](/kisirlik-tedavisi-ve-tup-bebek/?p=1770)
 > 
-> [Multifetal redüksiyon](/kisirlik-tedavisi-ve-tup-bebek/?p=1740)
+> [Multifetal redüksiyon](/blog/multifetal-reduksiyon/)
 > 
-> [Yumurta bağışı](/kisirlik-tedavisi-ve-tup-bebek/?p=1773)
+> [Yumurta bağışı](/blog/yumurta-bagisi/)

@@ -3,10 +3,11 @@ title: Kafein düşük riskini arttırıyor olabilir
 pubDate: '2016-04-06T04:15:17'
 slug: kafein-dusuk-riskini-arttiriyor-olabilir
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/kafein-dusuk-riskini-arttiriyor-olabilir/
+originalUrl: 'https://www.mumcu.com/kafein-dusuk-riskini-arttiriyor-olabilir/'
+readingTime: 2
 ---
 
 Üreme sağlığı ile ilgili en önemli dergilerden biri olan Fertility and Sterility’nin 22 Mart 2016 tarihli sayısında yayınlanan bir makaleye göre anne ve baba adaylarının fazla kafein tüketmesi gebeliğin düşük ile sonuçlanması riskini arttırken, gebe kalmadan birkaç hafta öncesinden multivitamin başlanması ise düşük riskinde yarı yarıya azalmaya yardımcı olabilir.

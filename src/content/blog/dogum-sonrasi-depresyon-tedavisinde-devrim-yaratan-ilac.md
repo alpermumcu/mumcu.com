@@ -3,10 +3,11 @@ title: Doğum sonrası depresyon tedavisinde devrim yaratan ilaç
 pubDate: '2019-04-13T10:07:54'
 slug: dogum-sonrasi-depresyon-tedavisinde-devrim-yaratan-ilac
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-sonrasi-depresyon-tedavisinde-devrim-yaratan-ilac/
+originalUrl: 'https://www.mumcu.com/dogum-sonrasi-depresyon-tedavisinde-devrim-yaratan-ilac/'
+readingTime: 1
 ---
 
 Doğum sonrasında görülen ve zaman zaman siyah süt olarak adlandırılan depresyon sanıldığından çok daha ciddi bir sağlık sorunudur.

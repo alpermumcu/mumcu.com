@@ -3,10 +3,11 @@ title: Hamilelikte yatak istirahati
 pubDate: '2014-03-17T01:47:04'
 slug: hamilelikte-yatak-istirahati
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-yatak-istirahati/
+originalUrl: 'https://www.mumcu.com/hamilelikte-yatak-istirahati/'
+readingTime: 6
 ---
 
 Hamilelik çoğu zaman sorunsuz ve sağlıklı bir şekilde atlatılan bir yaşam dönemidir. Hamile kadınların çoğu bu dönemi her türlü sosyal ve fiziksel aktivitelerini sürdürerek geçirirler. Herşey normal seyrinde giderken, çalıştığınız yerde ve evinizde normal işlerinizi sorunsuz şekilde yaparken, aileniz ve arkadaşlarınızla herzamanki sosyal aktivitelerinizde bulunurken va hatta düzenli olarak spor yaparken doktorunuz birgün sizin ve bebeğinizin sağlığı açısından yataktan çıkmamanız gerektiğini söyleyebilir. Bu durumda büyük bir şaşkınlık, endişe ve hatta korku yaşamanız normaldir. Doktorunuz size yatak istirahati önerdiğinde büyük bir olasılıkla çevrenizdekiler, arkadaşlarınız ve aileniz bunu bir tatil olarak görmenizi salık vereceklerdir. Oysa bu dönem parklarda gezinti yapabileceğiniz zorunlu bir tatilden oldukça farklıdır.

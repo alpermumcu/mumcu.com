@@ -3,10 +3,11 @@ title: Semen Analizi
 pubDate: '2014-03-27T13:32:47'
 slug: semen-analizi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/semen-analizi/
+originalUrl: 'https://www.mumcu.com/semen-analizi/'
+readingTime: 3
 ---
 
 Yakın geçmişe kadar infertilite kadının sorunu olarak kabul edilirdi. Kırılgan erkek egosunun yanısması olan bu durum, erkeklik gücü ile üreme yeteneğinin birbirine paralel tutulmasından kaynaklanmaktaydı. Oysa günümüzde yapılan çalışmalar her 100 infertil çiftten 40’ında sorunun erkekden kaynalandığını göstermektedir. Cinsel güç ve boşalma ile ilişkisi olmadığından erkekdeki infertilite, eğer anatomik bir bozukluk yoksa ancak çocuk sahibi olmaya karar verdiğinde fark edilebilir.

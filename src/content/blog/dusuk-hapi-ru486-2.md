@@ -3,10 +3,11 @@ title: Düşük Hapı (RU486) BU İLAÇ SATILMIYOR TÜRKİYE&#8217;DE YOK !!!!!
 pubDate: '2014-03-24T13:46:45'
 slug: dusuk-hapi-ru486-2
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dusuk-hapi-ru486-2/
+originalUrl: 'https://www.mumcu.com/dusuk-hapi-ru486-2/'
+readingTime: 11
 ---
 
 **BU TÜR İLAÇLARIN TÜRKİYE’DE SATIŞI, KULLANIMI VB İLLEGALDİR. LÜTFEN İLAÇ VAR MI, NASIL TEMIN EDEBİLİRİM ŞEKLİNDE MESAJ GÖNDERMEYİNİZ .  

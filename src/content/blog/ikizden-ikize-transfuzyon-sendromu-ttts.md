@@ -3,10 +3,11 @@ title: İkizden ikize transfüzyon sendromu (TTTS)
 pubDate: '2014-03-17T01:56:20'
 slug: ikizden-ikize-transfuzyon-sendromu-ttts
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/ikizden-ikize-transfuzyon-sendromu-ttts/
+originalUrl: 'https://www.mumcu.com/ikizden-ikize-transfuzyon-sendromu-ttts/'
+readingTime: 6
 ---
 
 İkiz gebelikler hemen herkesin ilgisini çeker. İkiz gördüğünde hepimiz istemeden de olsa bu doğa mucizesi denen insanları inceleriz. İster erkek ister kadın olsun aramızdan çoğu ikiz bebek sahibi olmayı istemekte, ikiz anne-babalarına imrenerek bakmaktadır.Oysa çoğul gebelikler hem anne hem de bebek açısından pekçok riski beraberinde taşırlar. Bu risklerden biri de ikizden ikize transfüzyon sendromudur.

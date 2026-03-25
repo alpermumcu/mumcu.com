@@ -3,10 +3,11 @@ title: 28. Hafta &#8211; Üçüncü Trimester
 pubDate: '2014-03-30T22:22:13'
 slug: 28-hafta-ucuncu-trimester
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/28-hafta-ucuncu-trimester/
+originalUrl: 'https://www.mumcu.com/28-hafta-ucuncu-trimester/'
+readingTime: 2
 ---
 
 Bu hafta ile birlikte gebeliğin en zor dönemlerinden biri olan üçüncü trimester yani son üç aya girmiş oluyorsunuz. Bu haftada bebeğiniz hızla büyümeye devam edecek ve rahim içini mümkün olduğunca dolduracak. Rahim büyüklüğünüz neredeyse kaburgalarınzın seviyesine ulaştı. Bu haftada bacaklarınızdaki varislerde artış ve şişme fark edebilirsiniz. Yine hemoroid probleminiz varsa bu kötüleşebilir, ya da bacaklarınızda sık sık kramplar yaşayabilirsiniz. 28. haftada doktorunuz sizden glukoz yükleme testi isteyecektir. Bu testin amacı gebelikte ortaya çıkan şeker hastalığını yani gestasyonel diabeti araştırmaktır. Yine bu haftada kan uyuşmazlığınız varsa doktorunuza bunu hatırlatın.
@@ -15,7 +16,7 @@ Bu hafta ile birlikte gebeliğin en zor dönemlerinden biri olan üçüncü trim
 
 Bu haftada bebeğinizle rahatça konuşabilirsiniz, çünkü artık sizin sesinizi tanıyor!
 
-![27haf1lb8o](/wp-content/uploads/2014/03/27haf1lb8o.jpg)  
+![27haf1lb8o](../../images/uploads/2014/03/27haf1lb8o.jpg)  
 28 haftalık doğan bir bebek
 
 \[third\]

@@ -3,10 +3,11 @@ title: Toksik Şok Sendromu
 pubDate: '2014-03-24T12:28:05'
 slug: toksik-sok-sendromu
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/toksik-sok-sendromu/
+originalUrl: 'https://www.mumcu.com/toksik-sok-sendromu/'
+readingTime: 5
 ---
 
 Çağdaşlaşma ile birlikte modern kadının yaşantısında da büyük ve köklü değişiklikler meydana geldi. Geçmişte evde oturup çocuk bakan kadınların yerini çalışan ve üreten kadınlar aldıkça bu kadınların menstrüasyon dönemlerindeki ihtiyaçları da değişikliğe uğradı. Eskiden her ay yaşadıkları dönemi bez, pamuk gibi emici maddeler ile geçiren kadınlar hijyenik pedlerin piyasaya sürülmesi ve yaygın olarak kullanılması ile büyük rahatlık yaşamaya başladılar. Çalışma ve yaşam şartlarındaki sürekli değişim hijyenik pedleri de bir süre sonra yetersiz kılmaya başladı ve kadınlar adet dönemlerini diğer günlerden farksız geçirme isteklerini vajinal tamponlar ile sağladılar.

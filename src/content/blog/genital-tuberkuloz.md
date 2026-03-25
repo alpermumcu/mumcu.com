@@ -3,10 +3,11 @@ title: Genital Tüberküloz
 pubDate: '2014-03-24T12:27:32'
 slug: genital-tuberkuloz
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/genital-tuberkuloz/
+originalUrl: 'https://www.mumcu.com/genital-tuberkuloz/'
+readingTime: 2
 ---
 
 Tüberküloz yani verem bir zamanların en tehlikeli ve en ölümcül hastalığıydı. Günümüzde ise eskisi kadar yaygın olmasa bile hala daha özellikle ülkemizde yaygın olarak görülmekte olan bir hastalıktır.  

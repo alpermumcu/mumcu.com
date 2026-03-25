@@ -3,10 +3,11 @@ title: Hamilelik ve Kabakulak
 pubDate: '2014-03-18T00:07:23'
 slug: hamilelik-ve-kabakulak
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-kabakulak/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-kabakulak/'
+readingTime: 3
 ---
 
 Kabakulak hastalığı paramiksovirüs adı verilen virüs ailesine bağlı bir virüsün neden olduğu bir enfeksiyon hastalığıdır. Aynı grup virüsler içinde kızamığa neden olan virüs de bulunur.

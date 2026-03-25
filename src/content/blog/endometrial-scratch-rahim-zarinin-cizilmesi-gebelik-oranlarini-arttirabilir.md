@@ -3,12 +3,12 @@ title: Endometrial scratch rahim zarının çizilmesi gebelik oranlarını artt�
 pubDate: '2016-07-08T04:13:15'
 slug: endometrial-scratch-rahim-zarinin-cizilmesi-gebelik-oranlarini-arttirabilir
 category:
-  - Güncel Haberler
-  - Infertilite
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/endometrial-scratch-rahim-zarinin-cizilmesi-gebelik-oranlarini-arttirabilir/
+readingTime: 2
 ---
 
 Yeni bir çalışmadan elde edilen bilgilere göre rahim zarının çizilmesi ya da kaşınması olarak tercüme edebileceğimiz çok basit ve ucuz bir teknik gebelik oranlarını yaklaşık 2 kat arttırabilir.

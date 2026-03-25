@@ -3,10 +3,11 @@ title: Hamilelikte seyahat ederken nasıl giyinmeliyim?
 pubDate: '2014-03-17T04:21:05'
 slug: hamilelikte-seyahat-ederken-nasil-giyinmeliyim
 category:
-  - Hamilelik
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-seyahat-ederken-nasil-giyinmeliyim/
+originalUrl: 'https://www.mumcu.com/hamilelikte-seyahat-ederken-nasil-giyinmeliyim/'
+readingTime: 1
 ---
 
 Burada ana kural kendinizi nasıl iyi ve rahat hissediyorsanız o şekilde giyinmeniz gerektiğidir. Ancak bazı noktalara dikkat etmek gerekir. Öncelikle tek parça pantolonlu tulum gibi kıyafetler hamilelikte seyahat ederken pek uygun değildir. Bunun yerine alt ve üst ayrı kıyafetleri ya da etekli elbiseleri tercih etmelisiniz. Bu sayede acil tuvalet ihtiyacı hissettiğinizde geç kalma riskinizi en aza indirmiş olursunuz.

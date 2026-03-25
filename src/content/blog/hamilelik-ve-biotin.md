@@ -3,10 +3,11 @@ title: Hamilelik ve Biotin
 pubDate: '2014-03-16T19:06:47'
 slug: hamilelik-ve-biotin
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-biotin/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-biotin/'
+readingTime: 2
 ---
 
 Biotin suda çözünen vitaminlerden birisidir.B grubu vitaminler içinde kabul edilir. Tüm organizmalar biotine ancak sadece bazı bakteriler, mantarlar ve yosunlar tarafından sentezlenir.

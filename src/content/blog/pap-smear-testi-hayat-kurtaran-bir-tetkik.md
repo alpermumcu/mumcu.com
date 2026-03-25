@@ -3,13 +3,14 @@ title: PAP Smear Testi &#8211; Hayat kurtaran bir tetkik
 pubDate: '2014-03-22T20:24:39'
 slug: pap-smear-testi-hayat-kurtaran-bir-tetkik
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/pap-smear-testi-hayat-kurtaran-bir-tetkik/
+originalUrl: 'https://www.mumcu.com/pap-smear-testi-hayat-kurtaran-bir-tetkik/'
+readingTime: 9
 ---
 
-![fullsizerender-2](/wp-content/uploads/2014/03/FullSizeRender-2.jpg)Vücut dokularının yenilenmesi nedeniyle kaçınılmaz olarak yüzeylerden hücreler dökülmektedir. Bu dökülen hücrelerin toplanıp özel işlemlerden geçirildikten sonra mikroskop altında incelenmesine sitolojik inceleme denir. Bu işlemin en etkili uygulandığı alan rahim ağzından yani serviksten alınan örneklerdir. Servikal hücrelerin bu şekilde toplanması işlemine smear adı verilir.İlk kez 1930’lu yıllarda Yunan doktor George Papanicolaou tarafından tanımlandığı için onun ismine ithafen PAP Smear ya da PAP test olarak da adlandırılır.
+![fullsizerender-2](../../images/uploads/2014/03/FullSizeRender-2.jpg)Vücut dokularının yenilenmesi nedeniyle kaçınılmaz olarak yüzeylerden hücreler dökülmektedir. Bu dökülen hücrelerin toplanıp özel işlemlerden geçirildikten sonra mikroskop altında incelenmesine sitolojik inceleme denir. Bu işlemin en etkili uygulandığı alan rahim ağzından yani serviksten alınan örneklerdir. Servikal hücrelerin bu şekilde toplanması işlemine smear adı verilir.İlk kez 1930’lu yıllarda Yunan doktor George Papanicolaou tarafından tanımlandığı için onun ismine ithafen PAP Smear ya da PAP test olarak da adlandırılır.
 
 Smear testi rahim ağzının kötü huylu (habis, malign) veya kötü huylu bir hastalığa dönüşme potansiyeli olan (premalign) değişikliklerini saptamak amacıyla yapılan bir tarama testidir. Tarama testleri hastalık bulguları taşımayan normal insanlarda yapılan tetkikleridir. Bu nedenle smear testi tanı koydumaz ve kanser bulguları olan kişilerde kanser olmadığını belirtmez. Smear testinin pozitif yani anormal çıkması bir problem olduğunu ve tanıya yönelik ileri testler yapılması gerektiğini işaret eder.
 
@@ -21,7 +22,7 @@ Serviks rahimin dış dünya ile olan bağlantısıdır. Vajina ile birlikte ser
 Vajina ve serviksin her ikisi de epitel hücrelerinden oluşmakla birlikte bu epitel hücreleri birbirlerinden farklıdır. Rahim ağzındaki hücreler salgı yapma yeteneğindeki glanduler hücrelerdir buna karşın vajina skuamöz epitel adı verilen hücrelerden meydana gelmiştir. Bu iki hücre grubunun rahim ağzında biribiri ile komşuluk içinde olduğu bölgeye transformasyon alanı adı verilir. Rahim ağzı kanserlerinin tamamına yakını bu bölgeden başladığı için transformasyon alanındaki hücrelern yapısının incelenmesi son derece önemlidir.
 
 **Nasıl alınır**  
-![0003](/wp-content/uploads/2014/03/0003.gif)Smear alınması son derece basit bir yöntemdir ve kesinlikle ağrıya neden olmaz. Jinekolojik muayene esnasında vajinal spekulum takıldıktan sonra serviks görülür. Herhangi bir kanama olmadığından emin olunduktan sonra plastik bir spatul ya da fırça vasıtası ile serviksten vajinaya dökülen hücreler toplanır. Ayrıca yine bu fırça vasıtası ile rahim içine uzanan kanaldan (endoservikal kanal) sürüntü alınır.Yani smear testinde iki yerden hücre örneği toplanır: endoservikal kanal ve vajina.  
+![0003](../../images/uploads/2014/03/0003.gif)Smear alınması son derece basit bir yöntemdir ve kesinlikle ağrıya neden olmaz. Jinekolojik muayene esnasında vajinal spekulum takıldıktan sonra serviks görülür. Herhangi bir kanama olmadığından emin olunduktan sonra plastik bir spatul ya da fırça vasıtası ile serviksten vajinaya dökülen hücreler toplanır. Ayrıca yine bu fırça vasıtası ile rahim içine uzanan kanaldan (endoservikal kanal) sürüntü alınır.Yani smear testinde iki yerden hücre örneği toplanır: endoservikal kanal ve vajina.  
 Alınan materyal bir lam üzerine yayılır ve hemen alkol dolu bir kap içine konur. Fırça üzerine bulaşmış olan mukus salgıları uzaklaştırdığı için inceleme daha kolay ve sağlıklı olmaktadır. Başka bir yöntem de alınan materyali lama yaydıktan sonra 30 santimetre uzaklıktan bildiğimiz saç spreyi sıkmaktır. Her iki yöntemde de amaç alınan hücrelerin lam üzerinde fikse edilmesidir. Ancak piyasada satılan spreylerin alkol içerikleri biribirinden oldukça farklılık gösterdiğinden pekçok hekim preparatı direk olarak alkolde fikse etmeyi tercih etmektedir. Fiksasyonun örnek alındıktan hemen sonra yapılmaması hücresel şekillerin bozulmasına ve kurumasına yol açar. Bu da değerlendirmede hatalara neden olabilir.
 
 **Yeni tanı tetkikleri**   

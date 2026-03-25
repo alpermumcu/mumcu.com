@@ -3,10 +3,11 @@ title: Doğumhane
 pubDate: '2014-03-20T17:28:22'
 slug: dogumhane
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogumhane/
+originalUrl: 'https://www.mumcu.com/dogumhane/'
+readingTime: 3
 ---
 
 Doğumhane… Pekçok insanın aklında bağırış çağırışlar içinde acı çeken, ter içinde bir kadın, kapısında ise volta atan baba adaylarının bekleştiği loş koridorların sonunda üzerinde girilmez yazısı bulunan bir oda çağırıştıran hastane bölümü.

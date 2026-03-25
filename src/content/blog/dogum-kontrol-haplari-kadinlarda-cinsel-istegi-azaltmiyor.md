@@ -3,11 +3,12 @@ title: Doğum kontrol hapları kadınlarda cinsel isteği azaltmıyor
 pubDate: '2017-01-12T00:43:14'
 slug: dogum-kontrol-haplari-kadinlarda-cinsel-istegi-azaltmiyor
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/dogum-kontrol-haplari-kadinlarda-cinsel-istegi-azaltmiyor/
+readingTime: 2
 ---
 
 Yeni bir araştırmanın sonuçları doğum kontrol hapları ile ilgili bugüne kadar bilinenleri değiştiriyor.

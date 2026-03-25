@@ -3,10 +3,11 @@ title: Doğumdan ne kadar sonra yeniden hamile kalabilirsiniz?
 pubDate: '2018-12-20T03:47:08'
 slug: dogumdan-ne-kadar-sonra-yeniden-hamile-kalabilirsiniz
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogumdan-ne-kadar-sonra-yeniden-hamile-kalabilirsiniz/
+originalUrl: 'https://www.mumcu.com/dogumdan-ne-kadar-sonra-yeniden-hamile-kalabilirsiniz/'
+readingTime: 2
 ---
 
 Doğum yaptıktan sonra üreme potansiyelinin geri dönmesi ile ilgili pek çok gerçek olmayan bilgi yeni annelerin kafasını karıştırmaktadır.

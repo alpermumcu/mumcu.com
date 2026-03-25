@@ -24,8 +24,11 @@ const { Content } = await post.render();
     <article class="post-content">
       <Breadcrumbs 
         parts={[
-          { label: 'Blog', href: '/blog/' },
-          { label: post.data.category?.[0] || 'Genel', href: post.data.category?.[0] ? `/category/${post.data.category[0].toLowerCase().replace(/ /g, '-')}/` : '#' },
+          { label: 'Bilgi Kütüphanesi', href: '/blog/' },
+          { 
+            label: post.data.category?.[0] || 'Genel', 
+            href: post.data.category?.[0] ? `/category/${post.data.category[0].toLowerCase().replace(/ & /g, '-').replace(/ /g, '-').normalize('NFD').replace(/[\u0300-\u036f]/g, "")}/` : '#' 
+          },
           { label: post.data.title }
         ]} 
       />
@@ -38,8 +41,10 @@ const { Content } = await post.render();
               day: 'numeric',
             })}
           </time>
+          <span class="separator">•</span>
+          <span class="reading-time">⏱️ {post.data.readingTime} dk okuma</span>
           {post.data.category && (
-            <span class="category-tag">{post.data.category}</span>
+            <span class="category-tag">{post.data.category[0]}</span>
           )}
         </div>
         <h1 class="font-outfit">{post.data.title}</h1>

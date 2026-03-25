@@ -3,10 +3,11 @@ title: Jinekolojik kanserlerde erken tanı
 pubDate: '2014-03-26T16:38:50'
 slug: jinekolojik-kanserlerde-erken-tani
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/jinekolojik-kanserlerde-erken-tani/
+originalUrl: 'https://www.mumcu.com/jinekolojik-kanserlerde-erken-tani/'
+readingTime: 2
 ---
 
 Her türlü kanserin ideal tedavisi erken dönemde teşhis edilmesine bağlıdır.Kanser başka organlara ya da sistemlere sıçramadan önce yakalanabildiği taktirde tamamen iyileştirilebilmesi olasıdır.Yumurtalık kanseri hariç kadın hastalıkları ile ilgili jinekolojik kanserlerde erken teşhis şansı oldukça yüksektir. Çünkü dış ortamla direk temas halide olan bu organların verdiği belirtiler çoğu zaman kolayca fark edilebilir.Ayrıca hücre incelemesi, ultrasonografi, kolposkopi gibi tanıya yardımcı yöntemlerin yaygınlaşması oldukça yardımcıdır.Her jinekolog tarafından kolayca uygulanabilen bu erken tanı yöntemlerinin başarısı halk tarafından benimsenmesine ve hiçbir şikayet olmasa dahi kontrollere gidilmesi ile mümkündür.

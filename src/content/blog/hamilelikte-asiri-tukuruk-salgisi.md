@@ -3,10 +3,11 @@ title: Hamilelikte aşırı tükürük salgısı
 pubDate: '2014-03-15T16:18:15'
 slug: hamilelikte-asiri-tukuruk-salgisi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-asiri-tukuruk-salgisi/
+originalUrl: 'https://www.mumcu.com/hamilelikte-asiri-tukuruk-salgisi/'
+readingTime: 4
 ---
 
 Hamile kadınların sık karşılaştıkları durumlardan birisi de tükürük salgılarının herzamankinden daha fazla olduğunu fark etmeleridir.

@@ -3,10 +3,11 @@ title: Gebeliğin hipertansif hastalıkları
 pubDate: '2014-03-17T01:43:28'
 slug: gebeligin-hipertansif-hastaliklari
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebeligin-hipertansif-hastaliklari/
+originalUrl: 'https://www.mumcu.com/gebeligin-hipertansif-hastaliklari/'
+readingTime: 3
 ---
 
 Gebelikte yüksek tansiyon tehlikeli bir durumdur. Yüksek tansiyon gebelikten önce var olabileceği gibi gebeliğe bağlı olarak da ortaya çıkabilir ve gebelik sonlandıktan sonra kaybolabilir.

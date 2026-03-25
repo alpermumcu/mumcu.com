@@ -3,14 +3,14 @@ title: Somon ve Astım
 pubDate: '2016-06-11T12:42:50'
 slug: somon-ve-astim
 category:
-  - Güncel Haberler
-  - Haberler | Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/somon-ve-astim/
+originalUrl: 'https://www.mumcu.com/somon-ve-astim/'
+readingTime: 1
 ---
 
-![somon](/wp-content/uploads/2016/06/somon-1.jpg)
+![somon](../../images/uploads/2016/06/somon-1.jpg)
 
 İngiltere’deki Southhampton Üniversitesinde yapılan yeni bir araştırmanın sonuçları gebelik sırasında somon gibi yağlı balık tüketen annelerin bebeklerinde astım hastalığına daha az rastlandığını ortaya koydu.
 

@@ -3,10 +3,11 @@ title: Sezaryen sonrası normal doğum
 pubDate: '2014-03-20T18:05:29'
 slug: sezaryen-sonrasi-normal-dogum
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/sezaryen-sonrasi-normal-dogum/
+originalUrl: 'https://www.mumcu.com/sezaryen-sonrasi-normal-dogum/'
+readingTime: 5
 ---
 
 Belki de birçoğunuz “birkere sezaryen hep sezaryen” sözünü duymuşsunuzdur. Bu sözün anlamı bir defe sezaryen ile doğum yapan kadının daha sonraki tüm bebekleri için sezaryen olması gerektiğidir. Oysa günümüzde bu anlayış yerini yavaş yavaş sezaryen sonrası normal doğum kavramına bırakıyor. Geçirilmiş sezaryenden sonra normal doğumdan kaçınılmasının sebebi doğum sancıları sırasında rahim üzerindeki eski sezaryene ait dikiş yerinin yırtılabileceği ve hem anne hem de bebek hayatının büyük tehlike altına gireceğidir. Bu yırtılmaya uterin rüptür ya da kısaca rüptür adı verilir. Rüptür riski en fazla rahimin dikine kesildiği sezaryenlar sonrası mevcuttur. Rahimin alt tarafının enine kesilerek bebeğin çıkarıldığı ve daha sonra kesinin uygun şekilde dikildiği tür sezaryenlerde rüptür riski çok azdır. Günümüzde sezaryenlerin yaklaşık %99’u bu tür kesiler ile yapılmaktadır.

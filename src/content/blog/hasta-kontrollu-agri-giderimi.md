@@ -3,10 +3,11 @@ title: Hasta kontrollü ağrı giderimi
 pubDate: '2014-03-20T17:54:44'
 slug: hasta-kontrollu-agri-giderimi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hasta-kontrollu-agri-giderimi/
+originalUrl: 'https://www.mumcu.com/hasta-kontrollu-agri-giderimi/'
+readingTime: 5
 ---
 
 _Ağrı dindirmek Tanrı sanatıdır  

@@ -3,10 +3,11 @@ title: Yumurta Toplama
 pubDate: '2014-03-27T14:39:02'
 slug: yumurta-toplama
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/yumurta-toplama/
+originalUrl: 'https://www.mumcu.com/yumurta-toplama/'
+readingTime: 2
 ---
 
 Oocyte pick up (OPU)

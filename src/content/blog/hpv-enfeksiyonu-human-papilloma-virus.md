@@ -3,10 +3,11 @@ title: HPV Enfeksiyonu (Human papilloma virus)
 pubDate: '2014-03-24T12:55:37'
 slug: hpv-enfeksiyonu-human-papilloma-virus
 category:
-  - Makaleler
+  - Cerrahi İşlemler
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hpv-enfeksiyonu-human-papilloma-virus/
+originalUrl: 'https://www.mumcu.com/hpv-enfeksiyonu-human-papilloma-virus/'
+readingTime: 8
 ---
 
 Human papilloma virus ya da kısa adı ile HPV enfeksiyonu son zamanlarda toplumda giderek daha fazla duyulmaya başlayan bir enfeksiyon hastalığıdır. Bunun nedeni enfeksiyonun görülme sıklığındaki artışın yanısıra kadınlarımızın yıllık smear kontrollerini daha düzenli yaptırmaları ve bu sayede var olan hastalıkların saptanabilmesdir.

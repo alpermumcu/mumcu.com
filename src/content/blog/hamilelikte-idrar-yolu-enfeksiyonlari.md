@@ -3,10 +3,11 @@ title: Hamilelikte idrar yolu enfeksiyonları
 pubDate: '2014-03-18T00:08:40'
 slug: hamilelikte-idrar-yolu-enfeksiyonlari
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-idrar-yolu-enfeksiyonlari/
+originalUrl: 'https://www.mumcu.com/hamilelikte-idrar-yolu-enfeksiyonlari/'
+readingTime: 7
 ---
 
 İdrar yolu enfeksiyonları kadın hastalıkları ve doğum hekimlerinin çok sık karşı karşıya kaldığı hastalıklardan birisidir. Jinekoloğa başvuran hastaların yaklaşık %10’unun idrar yolu enfeksiyonu sorunu olduğu tahmin edilmektedir. Öte yandan tüm kadınların %15-20’si hayatlarının bir döneminde idrar yolu enfeksiyonuna yakalanırlar.

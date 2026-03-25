@@ -3,10 +3,11 @@ title: Laktoz intoleransı (süt içememek)
 pubDate: '2014-03-16T19:32:11'
 slug: laktoz-intoleransi-sut-icememek
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/laktoz-intoleransi-sut-icememek/
+originalUrl: 'https://www.mumcu.com/laktoz-intoleransi-sut-icememek/'
+readingTime: 6
 ---
 
 Laktoz temel olarak süt içinde bulunan disakkarid türü bir şekerdir. Disakkaridler iki farklı şeker türünün biraraya gelmesi ile oluşurlar. Glukoz ile galaktoz biraraya gelerek süt şekerini yani laktozu oluşturular.

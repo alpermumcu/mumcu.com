@@ -3,17 +3,18 @@ title: 29. Hafta &#8211; Hıçkırıyor
 pubDate: '2014-03-30T22:19:07'
 slug: 29-hafta-hickiriyor
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/29-hafta-hickiriyor/
+originalUrl: 'https://www.mumcu.com/29-hafta-hickiriyor/'
+readingTime: 2
 ---
 
 Bebeğiniz doğum gününe hazırlanmaya devam ediyor. Artık kafası ve gövdesi arasındaki oran normale yakın. Artık kendi vücut ısısını ayarlayabilme yeteneğine sahip. Kemik iliğide sürekli kırmızı kan hücreleri yani alyuvar üretiyor. Gözleri ise hareket etmeye başladılar bile. Bu arada unutmadan zaman zaman içinizde aniden bir hareket hissederseniz sakın şaşırmayın ve korkmayın çünkü bebeğiniz hıçkırıyor!
 
 29\. haftaya gelindiğinde hamileliğinizi artık iyice hissetmeye başladığınız fark edeceksiniz. Bu haftalarda karın cildinizde kaşınmalar hissetmeniz normaldir. Bunun yanısıra karın içi basıncındaki ve dolaşım sistemindeki değişikliklerin sonucunda hemoroid (basur) problemi görülebilir. Ayrıca nefes darlığı, midede yanma, bacaklarda kramplar gibi yakınmalar ortaya çıkabilir. Bu yakınmaların sizi hamileliğinizden soğutmasına izin vermeyin. Bunların hepsi geçici ve tedavi ile üstesinden gelinebilecek şikayetleridir. Yakınmak yerine hamileliğinizin pozitif yönlerini görmeye ve keyfini çıkarmaya çalışın
 
-![29haf](/wp-content/uploads/2014/03/29haf.jpg)  
+![29haf](../../images/uploads/2014/03/29haf.jpg)  
 29 haftalık doğan bir bebek
 
 \[third\]

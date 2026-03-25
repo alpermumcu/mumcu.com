@@ -3,10 +3,11 @@ title: Hamilelikte tansiyon düşüklüğü
 pubDate: '2018-05-06T13:00:42'
 slug: hamilelikte-tansiyon-dusuklugu
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-tansiyon-dusuklugu/
+originalUrl: 'https://www.mumcu.com/hamilelikte-tansiyon-dusuklugu/'
+readingTime: 4
 ---
 
 Hamilelik sırasında kan basıncının düşmesi yani hipotansiyon sık karşılaşılan bir durumdur.

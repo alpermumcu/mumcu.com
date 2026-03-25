@@ -3,11 +3,11 @@ title: İnfertilite ve depresyon
 pubDate: '2019-01-28T03:17:09'
 slug: infertilite-ve-depresyon
 category:
-  - Hamilelik
-  - Infertilite
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/infertilite-ve-depresyon/
+originalUrl: 'https://www.mumcu.com/infertilite-ve-depresyon/'
+readingTime: 4
 ---
 
 İstediği halde çocuk sahibi olamama yani bilimsel adıyla infertilite çoğu zaman kişinin üzerinde baskı yaratan bir durumdur. İnfertilite sorunu yaşayan kişiler stres, üzüntü ve dönem dönem ümitsizlik duygusunu fazlasıyla yaşarlar. İnfertilite problemi yaşayan kişilerden bazıları bu soruna ek olarak depresif dönemlerden geçebilirler.

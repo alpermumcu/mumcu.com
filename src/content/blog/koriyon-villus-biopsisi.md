@@ -3,10 +3,11 @@ title: Koriyon villus biopsisi
 pubDate: '2014-03-15T21:24:40'
 slug: koriyon-villus-biopsisi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/koriyon-villus-biopsisi/
+originalUrl: 'https://www.mumcu.com/koriyon-villus-biopsisi/'
+readingTime: 2
 ---
 
 Bebeğin plasentasını oluşturan dokulardan örnek alınması demektir. Erken uygulanması, fetusa doğrudan müdahale olmaması, fetal zarlara tahribat vermemesi, ve amniyosenteze göre fazla materyal elde edilmesi avantajlarıdır. Zor olması, alınan hücrelerin direk olarak fetusa ait olmması, fetus üzerindeki muhtamel olumsuz etkileri dezavantajıdır.Çok yaygın olarak uygulanan bir teknik olmayıp uygulandığı durumlar [amniyosentez](file:///C:\Belgelerim\yeniweb\amniyosentez.htm) ile aynıdır. %10 civarında fetal kayba neden olur. 9-12 haftalar arasında yapılabilir ama en ideali 11. haftada yapılmasıdır.

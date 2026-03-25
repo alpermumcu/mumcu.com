@@ -3,10 +3,11 @@ title: Lif (Fiber) ve hamilelik
 pubDate: '2014-03-16T19:28:26'
 slug: lif-fiber-ve-hamilelik
 category:
-  - Makaleler
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/lif-fiber-ve-hamilelik/
+originalUrl: 'https://www.mumcu.com/lif-fiber-ve-hamilelik/'
+readingTime: 5
 ---
 
 Son zamanlarda sık sık duyduğumuz bir söz fiber..ya da başka bir deyişle “**lif**“. Beslenme uzmanları ya da konu ile ilgili kişilerin neredeyse hemen her gün “yüksek lif içerikli” gıdalarla beslenmemiz konusundaki önerileri ile karşılaşıyoruz. Bundan birkaç yıl öncesine kadar bu kadar içli dışlı olmadığımız bu madde nedir? gerçekten yararlı mıdır? Hamilelikte alınması gerekir mi?

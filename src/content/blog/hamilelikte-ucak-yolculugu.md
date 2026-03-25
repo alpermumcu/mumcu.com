@@ -3,13 +3,14 @@ title: Hamilelikte uçak yolculuğu
 pubDate: '2014-03-17T04:09:43'
 slug: hamilelikte-ucak-yolculugu
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-ucak-yolculugu/
+originalUrl: 'https://www.mumcu.com/hamilelikte-ucak-yolculugu/'
+readingTime: 4
 ---
 
-![ucak3](/wp-content/uploads/2014/03/ucak3.jpg)
+![ucak3](../../images/uploads/2014/03/ucak3.jpg)
 
 Otomobil kadar olmasa da günümüzün modern insanı zaman zaman uçak seyahati yapmak durumunda kalır. Hamile iken uçak yolculuğu yapmaksa çoğu kez kadınlarda endişe yaratır. Uçak firmalarının hamile olduğunu beyan eden kadınlardan uçabilir raporu istemesi ise bu korkuları şiddetlendirir. Oysa hamilelikte uçak yolculuğu kanama, şeker hastalığı, yüksek tansiyon ya da erken doğum öyküsü gibi yüksek risk faktörlerinin olmadığı durumlarda son derece güvenlidir.
 

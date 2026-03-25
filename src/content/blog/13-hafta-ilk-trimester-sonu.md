@@ -3,10 +3,11 @@ title: 13. Hafta &#8211; İlk trimester sonu
 pubDate: '2014-03-31T02:52:08'
 slug: 13-hafta-ilk-trimester-sonu
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/13-hafta-ilk-trimester-sonu/
+originalUrl: 'https://www.mumcu.com/13-hafta-ilk-trimester-sonu/'
+readingTime: 2
 ---
 
 Fetus artık giderek daha fazla insana benzemektedir. Gözler kafanın yan taraflarından ortaya doğru kaymaya başlar. Kulaklar normal pozisyonuna doğru hareketlenir. Dışarıdan bakıldığında bebeğin cinsiyeti kolaylıkla saptanabilir. Ancak ultrasonografide cinsiyet tespiti için henüz erkendir.Çok nadiren ve kaliteli cihazlarla bu haftada da cinsiyet saptamak mümkün olmaktadır.Bebeğin boyu biraz daha uzar. Bu hafta ilk trimesterin son haftasıdır ve bebeğin bütün organları oluşmuştur. Bundan sonra bu organların gelişmesi ve olgunlaşması süreci başlar.

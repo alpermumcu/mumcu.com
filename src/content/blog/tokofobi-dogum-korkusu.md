@@ -3,11 +3,11 @@ title: Tokofobi doğum korkusu
 pubDate: '2017-03-28T08:15:18'
 slug: tokofobi-dogum-korkusu
 category:
-  - Güncel Haberler
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/tokofobi-dogum-korkusu/
+originalUrl: 'https://www.mumcu.com/tokofobi-dogum-korkusu/'
+readingTime: 2
 ---
 
 Kadınlar için doğumdan korkmak bir ölçüye kadar normal kabul ediliyor ancak bazı kadınlar için bu korku patolojik boyutlara ulaşabiliyor. Hatta korku o kadar yoğun olabiliyor ki kadın hamile kalmaktan bile kaçınabiliyor.

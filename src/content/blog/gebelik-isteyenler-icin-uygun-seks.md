@@ -3,10 +3,11 @@ title: Gebelik isteyenler için uygun seks
 pubDate: '2014-03-15T14:54:35'
 slug: gebelik-isteyenler-icin-uygun-seks
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-isteyenler-icin-uygun-seks/
+originalUrl: 'https://www.mumcu.com/gebelik-isteyenler-icin-uygun-seks/'
+readingTime: 4
 ---
 
 İstemelerine rağmen gebelik elde edemeyen çiftlerden bazılarında altta yatan problem uygun zamanda ve yeterli sıklıkta ilişkinin olmaması, ya da uygulanan yanlış yöntemler gibi çok basit nedenler olabilir.

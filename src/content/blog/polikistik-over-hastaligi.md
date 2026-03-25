@@ -3,10 +3,11 @@ title: Polikistik over hastalığı
 pubDate: '2014-03-26T16:54:08'
 slug: polikistik-over-hastaligi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/polikistik-over-hastaligi/
+originalUrl: 'https://www.mumcu.com/polikistik-over-hastaligi/'
+readingTime: 6
 ---
 
 Stein-Leventhal sendromu ya da yaygın olarak bilinen adı ile polikstik over sendromu (PKOS), en sık 30 yaş altı kadınlarda görülen ve overde kalın bir over dokusu içinde iyi huylu birçok kist ile karakterize bir hastalıktır.

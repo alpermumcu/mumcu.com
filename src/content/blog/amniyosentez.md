@@ -3,10 +3,11 @@ title: Amniyosentez
 pubDate: '2014-03-15T21:23:34'
 slug: amniyosentez
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/amniyosentez/
+originalUrl: 'https://www.mumcu.com/amniyosentez/'
+readingTime: 10
 ---
 
 **Amniyosentez nedir?**  
@@ -37,7 +38,7 @@ Bebeğin amniyon sıvısından örnek almak için en uygun zaman son adet tarihi
 **Amniyosentez nasıl yapılır?**  
 Amniyosentez işlemi esnasında çok ince bir iğne ile bebeğin içinde yüzdüğü amniyon kesesine girilir ve sıvı çekilir. İşlemden önce detaylı bir ultrason incelemesi yapılarak bebeğin durumu ve pozisyonu değerlendirilir. Daha sonra amniyosentez için uygun bir alana karar verilerek hazırlıklara başlanır. İşlem sırasında iğnenin bebeğin plasentasından geçmeyeceği bebekten uzakta bir bir alan bulmak önemlidir.
 
-![amniyo189](/wp-content/uploads/2014/03/amniyo189.jpg)İşlemden önce hamile kadın ultrason masasında sırtüstü uzanır. İğnenin girileceği alan antiseptik solüsyonlar ile temizlendikten sonra karın steril örtü ile örtülür. Bir doktor ultrason ile işlemi gerçekleştirecek olan doktora rehberlik eder. İşlem tek kişi ile yapılacak ise özel tasarlanmış ultrson guide’ları kullanılmalıdır. İşlemi yapacak olan kişi ultrason görüntüsü altında iğneyi karın üzerinden yerleştirir ve önce karın katlarını daha sonra rahim kasını geçerek amniyon kesesine girer. İğnenin ucunu ultrasonda gördükten sonra arkasına bir enjektör takarak yaklaşık 20 mililitre sıvı alır.Bu aşamada bebeğin tüm amniyon sıvısının miktarı yaklaşık 200-300 mililitredir. Alınan sıvının kanlı olmaması gerekir. Yeterli miktarda sıvı alındıktan sonra iğne tek bir hamlede çıkarılır ve işlem tamamlanmış olur. Alınan sıvıyı bebek 1-2 saat içinde yeniden üretir
+![amniyo189](../../images/uploads/2014/03/amniyo189.jpg)İşlemden önce hamile kadın ultrason masasında sırtüstü uzanır. İğnenin girileceği alan antiseptik solüsyonlar ile temizlendikten sonra karın steril örtü ile örtülür. Bir doktor ultrason ile işlemi gerçekleştirecek olan doktora rehberlik eder. İşlem tek kişi ile yapılacak ise özel tasarlanmış ultrson guide’ları kullanılmalıdır. İşlemi yapacak olan kişi ultrason görüntüsü altında iğneyi karın üzerinden yerleştirir ve önce karın katlarını daha sonra rahim kasını geçerek amniyon kesesine girer. İğnenin ucunu ultrasonda gördükten sonra arkasına bir enjektör takarak yaklaşık 20 mililitre sıvı alır.Bu aşamada bebeğin tüm amniyon sıvısının miktarı yaklaşık 200-300 mililitredir. Alınan sıvının kanlı olmaması gerekir. Yeterli miktarda sıvı alındıktan sonra iğne tek bir hamlede çıkarılır ve işlem tamamlanmış olur. Alınan sıvıyı bebek 1-2 saat içinde yeniden üretir
 
 Daha sonra ultrasonografi ile bebek ve kalp atımları yeniden değerlendirilir. Hasta 10-15 dakika dinlendirildikten sonra evine gönderilebilir. Alınan sıvı oda sıcaklığında muhafaza edilerek laboratuvara gönderilir. Tüm işlem 1-2 dakika kadar sürer.
 

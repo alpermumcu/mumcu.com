@@ -3,10 +3,11 @@ title: Gebelikte sigara dumanına maruz kalmak riskli
 pubDate: '2017-06-30T00:27:55'
 slug: gebelikte-sigara-dumanina-maruz-kalmak-riskli
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-sigara-dumanina-maruz-kalmak-riskli/
+originalUrl: 'https://www.mumcu.com/gebelikte-sigara-dumanina-maruz-kalmak-riskli/'
+readingTime: 1
 ---
 
 Erişkin insanlardaki akciğer hastalıklarına olan yatkınlığın anne karnında sigara dumanına maruz kalma ile alakalı olabileceği ileri sürülüyor.

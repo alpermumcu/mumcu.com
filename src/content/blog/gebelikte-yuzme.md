@@ -3,10 +3,11 @@ title: Hamileler yüzebilir mi
 pubDate: '2014-03-17T02:42:07'
 slug: gebelikte-yuzme
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-yuzme/
+originalUrl: 'https://www.mumcu.com/gebelikte-yuzme/'
+readingTime: 3
 ---
 
 Sıcak yaz günlerinde hemen hepimizin aklını tatil hayalleri meşgul eder. Tatil deyince de insanın aklına ilk olarak güneş, kum ve deniz geliyor.

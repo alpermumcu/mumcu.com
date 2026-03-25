@@ -3,10 +3,11 @@ title: TSH yüksekliği erken doğumu tetikliyor
 pubDate: '2016-10-04T05:00:43'
 slug: tsh-yuksekligi-erken-dogumu-tetikliyor
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/tsh-yuksekligi-erken-dogumu-tetikliyor/
+originalUrl: 'https://www.mumcu.com/tsh-yuksekligi-erken-dogumu-tetikliyor/'
+readingTime: 2
 ---
 
 Hafif tiroid yetmezliği olarak da adlandırılan subklinik hipotiroidizm kanda dolaşan tiroid hormon düzeyi normal olmakla birlikte TSH düzeylerinin hafifçe yükseldiği durumları tanımlar.

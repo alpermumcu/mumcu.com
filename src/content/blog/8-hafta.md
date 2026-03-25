@@ -3,10 +3,11 @@ title: 8. Hafta &#8211; Kollar ve bacaklar oluşuyor
 pubDate: '2014-03-31T04:10:39'
 slug: 8-hafta
 category:
-  - Hafta Hafta Gebelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/8-hafta/
+originalUrl: 'https://www.mumcu.com/8-hafta/'
+readingTime: 2
 ---
 
 Terminolojik açıdan bebeğiniz hala daha embryo olarak adlandırılmaktadır. Bunun nedeni alt kısmında kuyruğa benzer bir çıkıntının olmasıdır. Gelişmekte olan bebeğinizde küçülen tek bölüm bu çıkıntıdır. Diğer bölümler ise süratle büyümeye devam etmektedir. Günlük büyüme hızı yaklaşık 1 milimetre kadardır.

@@ -3,10 +3,11 @@ title: Diş tedavileri ne zaman yapılmalıdır?
 pubDate: '2014-03-16T18:58:00'
 slug: dis-tedavileri-ne-zaman-yapilmalidir
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dis-tedavileri-ne-zaman-yapilmalidir/
+originalUrl: 'https://www.mumcu.com/dis-tedavileri-ne-zaman-yapilmalidir/'
+readingTime: 2
 ---
 
 Gebelikte sık karşılaşılan sorunlardan birisi de diş ve dişeti hastalıkalarıdır. Ağız içi florasının değişmesi, hormonal düzendeki dalgalanmalar, bağışıklık sisteminde ortaya çıkan baskılanma, gebeliğe bağlı kusmaların ağız içine taşıdığı asitler ve benzeri faktörler hamile kadınları diş hastalıklarına karşı daha duyarlı hale getirir.

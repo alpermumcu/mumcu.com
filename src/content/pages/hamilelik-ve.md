@@ -17,48 +17,48 @@ Ancak bu özel dönem süresince kadın ister istemez neredeyse yaşantısındak
 > 
 > [Hamilelikte ve bebe aspirini ve progesteron](?p=280)
 > 
-> [Hamilelikte yapılabilecek en iyi 5 egzersiz](?p=2292)
+> [Hamilelikte yapılabilecek en iyi 5 egzersiz](/blog/hamilelikte-yapilabilecek-en-iyi-5-egzersiz/)
 > 
-> [Gebelikte yapılan egzersiz anne hem de bebek için yararlı](?p=2580)
+> [Gebelikte yapılan egzersiz anne hem de bebek için yararlı](/blog/gebelikte-yapilan-egzersiz-anne-hem-de-bebek-icin-yararli/)
 > 
-> [Gebelik sırasında egzersiz yapmak zararlı değil](?p=2812)
+> [Gebelik sırasında egzersiz yapmak zararlı değil](/blog/gebelik-sirasinda-egzersiz-yapmak-zararli-degil/)
 > 
-> [Gebelik ve egzersiz konusunda yeni Kanada rehberi](?p=3182)
+> [Gebelik ve egzersiz konusunda yeni Kanada rehberi](/blog/gebelik-ve-egzersiz-konusunda-yeni-kanada-rehberi/)
 > 
-> [Hamilelik ve vejeteryanizm](?p=696)
+> [Hamilelik ve vejeteryanizm](/blog/hamilelik-ve-vejeteryanizm/)
 > 
 > [Hamilelik ve İlaç-aşı kullanımı](?p=698)
 > 
-> [Hamilelik ve sivilce ilaçları](?p=700)
+> [Hamilelik ve sivilce ilaçları](/blog/hamilelik-ve-sivilce-ilaclari/)
 > 
 > [Hamilelik ve Stress](?p=702)
 > 
-> [Hamilelik ve Sigara](?p=704)
+> [Hamilelik ve Sigara](/blog/hamilelik-ve-sigara/)
 > 
 > [Hamilelik ve Bilgisayar](?p=706)
 > 
 > [Hamilelik ve Yüzme](?p=708)
 > 
-> [Hamilelik ve Yüksek ateş](?p=710)
+> [Hamilelik ve Yüksek ateş](/blog/hamilelik-ve-yuksek-ates/)
 > 
-> [Hamilelik ve Uyku](?p=712)
+> [Hamilelik ve Uyku](/blog/hamilelik-ve-uyku/)
 > 
-> [Hamilelik ve anemi](?p=714)
+> [Hamilelik ve anemi](/blog/hamilelik-ve-anemi-kansizlik/)
 > 
 > [Hamilelik ve Cinsel yaşam](?p=716)
 > 
-> [Hamilelik ve şişlikler](?p=718)
+> [Hamilelik ve şişlikler](/blog/hamilelik-ve-sislikler/)
 > 
-> [Hamilelik ve Röntgen](?p=722)
+> [Hamilelik ve Röntgen](/blog/hamilelik-ve-rontgen/)
 > 
-> [Hamilelik ve obesite](?p=724)
+> [Hamilelik ve obesite](/blog/hamilelik-ve-obesite/)
 > 
 > [Hamilelik ve kaşıntılar](?p=726)
 > 
-> [Gebelik ve Oruç](?p=2333)
+> [Gebelik ve Oruç](/blog/gebelik-ve-oruc/)
 > 
-> [Gebelikte alkol kullanımının güvenli sınırı var mı?](?p=2412)
+> [Gebelikte alkol kullanımının güvenli sınırı var mı?](/blog/gebelikte-alkol-kullaniminin-guvenli-siniri-var-mi/)
 > 
-> [Hamilelikte mikrodalga fırın kullanımı güvenli midir?](?p=2997)
+> [Hamilelikte mikrodalga fırın kullanımı güvenli midir?](/blog/hamilelikte-mikrodalga-firin-kullanimi-guvenli-midir/)
 > 
-> [Yaz ayları ve hamilelik](?p=2583)
+> [Yaz ayları ve hamilelik](/blog/yaz-aylari-ve-hamilelik/)

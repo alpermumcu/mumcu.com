@@ -10,155 +10,155 @@ Jinekoloji ile ilgili aşağıdaki makaleleri inceleyin.
 
 > [Doktorunuzu seçerken nelere dikkat etmelisiniz?](/jinekoloji/?p=149)
 
-> [Jinekolojik muayene](/jinekoloji/?p=1141)
+> [Jinekolojik muayene](/blog/jinekolojik-muayene/)
 
-> [Anatomi](/jinekoloji/?p=1144)
+> [Anatomi](/blog/anatomi/)
 
-> [Kızlık zarı](/jinekoloji/?p=1148)
+> [Kızlık zarı](/blog/kizlik-zari/)
 
-> [Adet Siklusu – Nasıl adet görülür](/jinekoloji/?p=1160)
+> [Adet Siklusu – Nasıl adet görülür](/blog/adet-siklusu/)
 
-> [Adet siklusu (sık sorulanlar)](/jinekoloji/?p=1163)
+> [Adet siklusu (sık sorulanlar)](/blog/adet-siklusu/)
 
-> [Ağrılı adet görme](/jinekoloji/?p=1165)
+> [Ağrılı adet görme](/blog/dismenore-agrili-adet-gorme/)
 
 > [Amenore (Adet görmemek)](/jinekoloji/?p=1582)
 
-> [Adet Öncesi gerginlik](/jinekoloji/?p=1167)
+> [Adet Öncesi gerginlik](/blog/adet-oncesi-gerginlik-sendromu-pms/)
 
-> [PMS ile başa çıkmanın 10 yolu](/jinekoloji/?p=1169)
+> [PMS ile başa çıkmanın 10 yolu](/blog/pms-ile-basa-cikmanin-10-yolu/)
 
-> [Anormal Kanamalar](/jinekoloji/?p=1171)
+> [Anormal Kanamalar](/blog/anormal-vajinal-kanamalar/)
 
 > [Adet kanaması geciktirilebilir mi?](/jinekoloji/?p=1173)
 
-> [Endometriozis](/jinekoloji/?p=1175)
+> [Endometriozis](/blog/endometriozis/)
 
-> [Jinekolojik kanserlerde erken tanı](/jinekoloji/?p=1574)
+> [Jinekolojik kanserlerde erken tanı](/blog/jinekolojik-kanserlerde-erken-tani/)
 
-> [Vulva Kanseri](/jinekoloji/?p=1572)
+> [Vulva Kanseri](/blog/vulva-kanseri/)
 > 
-> [Vajina hakkında bilmeniz gereken 12 önemli konu](/jinekoloji/?p=2973)
+> [Vajina hakkında bilmeniz gereken 12 önemli konu](/blog/vajina-hakkinda-bilmeniz-gereken-12-onemli-konu/)
 
-> [Luteal Faz defekti](/jinekoloji/?p=1584)
+> [Luteal Faz defekti](/blog/luteal-faz-defekti/)
 > 
 > [PCO hakkında genel bilgiler](/jinekoloji/?p=1586)
 > 
-> [Polikistik over sendromu belirtileri](?p=4262)
+> [Polikistik over sendromu belirtileri](/blog/polikistik-over-sendromu-belirtileri/)
 > 
-> [Hiperandrojenizm](/jinekoloji/?p=1588)
+> [Hiperandrojenizm](/blog/hiperandrojenizm/)
 > 
-> [Aşırı Tüylenme](/jinekoloji/?p=1591)
+> [Aşırı Tüylenme](/blog/jinekolojik-muayene/)
 > 
-> [Hiperprolaktinemi](/jinekoloji/?p=1593)
+> [Hiperprolaktinemi](/blog/hiperprolaktinemi/)
 
-> [Yumurtalık kistleri](/jinekoloji/?p=1179)
+> [Yumurtalık kistleri](/blog/yumurtalik-kistleri/)
 > 
-> [Dermoid kist (matür ovarian teratom)](/jinekoloji/?p=1184)
+> [Dermoid kist (matür ovarian teratom)](/blog/dermoid-kist-matur-ovarian-teratom/)
 > 
-> [Adneksiyel kitlelerin değerlendirilmesi](/jinekoloji/?p=1191)
+> [Adneksiyel kitlelerin değerlendirilmesi](/blog/adneksiyal-kitlelerin-degerlendirilmesi/)
 > 
-> [Over torsiyonu (yumurtalık dönmesi)](/jinekoloji/?p=1193)
+> [Over torsiyonu (yumurtalık dönmesi)](/blog/over-torsiyonu-yumurtalik-donmesi/)
 > 
 > [Yumurtalik kanseri hakkinda genel bilgiler ve epitheliyal kanserler](/jinekoloji/?p=1563)
 > 
-> [Germ hücreli tümörler](/jinekoloji/?p=1565)
+> [Germ hücreli tümörler](/blog/germ-hucreli-over-kanserleri/)
 > 
 > [Diğer Tümörler](/jinekoloji/?p=1567)
 > 
-> [Yumurtalık kanseri fısıldar, dinlemesini bilin](/jinekoloji/?p=1550)
+> [Yumurtalık kanseri fısıldar, dinlemesini bilin](/blog/yumurtalik-kanseri-fisildar-dinlemesini-bilin/)
 
-> [Myomlar](/jinekoloji/?p=1195)
+> [Myomlar](/blog/erken-dogum/)
 > 
 > [Myomunuz olabileceğini düşündüren 4 bulgu](/jinekoloji/?p=2933)
 > 
-> [Laparoskopik histerektomi : Kapalı rahim ameliyatı](/jinekoloji/?p=2664)
+> [Laparoskopik histerektomi : Kapalı rahim ameliyatı](/blog/laparoskopi/)
 > 
-> [Rahmin ters durması (retrovert uterus)](/jinekoloji/?p=1199)
+> [Rahmin ters durması (retrovert uterus)](/blog/rahmin-ters-durmasi-retrovert-uterus/)
 > 
-> [Endometrial Hiperplazi](/jinekoloji/?p=1203)
+> [Endometrial Hiperplazi](/blog/endometrial-hiperplazi/)
 > 
-> [Endometrial polip](/jinekoloji/?p=1206)
+> [Endometrial polip](/blog/endometrial-polip/)
 > 
-> [Asherman Sendromu](/jinekoloji/?p=1210)
+> [Asherman Sendromu](/blog/asherman-sendromu-rahim-ici-yapisiklik/)
 > 
-> [Endometrium Kanseri](/jinekoloji/?p=1569)
+> [Endometrium Kanseri](/blog/endometrium-kanseri/)
 > 
 > [Salin İnfüzyon Sonohisterografi (Sulu Ultrason)](/jinekoloji/?p=2402)
 
-> [Servisit](/jinekoloji/?p=1216)
+> [Servisit](/blog/servisit/)
 > 
-> [Rahim ağzında polip (servikal polip)](/?p=3100)
+> [Rahim ağzında polip (servikal polip)](/blog/rahim-agzinda-polip-servikal-polip/)
 > 
-> [Kanserden korunmak (Smear testi)](/jinekoloji/?p=1218)
+> [Kanserden korunmak (Smear testi)](/blog/anormal-smear-testi-varliginda-yaklasim/)
 > 
-> [Anormal Smear testi varlığında yaklaşım](/jinekoloji/?p=1221)
+> [Anormal Smear testi varlığında yaklaşım](/blog/anormal-smear-testi-varliginda-yaklasim/)
 > 
-> [Naboth Kistleri](/jinekoloji/?p=1224)
+> [Naboth Kistleri](/blog/naboth-kistleri/)
 > 
-> [Rahim ağzında yara](/jinekoloji/?p=1228)
+> [Rahim ağzında yara](/blog/rahim-agzinda-yara/)
 > 
 > [CIN (Servikal intraepitel Neoplazi)](/jinekoloji/?p=1556)
 > 
-> [Endometrial Hiperplazi](/jinekoloji/?p=1203)
+> [Endometrial Hiperplazi](/blog/endometrial-hiperplazi/)
 > 
 > [LEEP İşlemi](/jinekoloji/?p=1338)
 > 
-> [Serviks Kanseri](/jinekoloji/?p=1560)
+> [Serviks Kanseri](/blog/serviks-kanseri/)
 
-> [Mantar](/jinekoloji/?p=1283)
+> [Mantar](/blog/kronik-vajinal-mantar-enfeksiyonu/)
 > 
-> [Kronik vajinal mantar enfeksiyonu](?p=4219)
+> [Kronik vajinal mantar enfeksiyonu](/blog/kronik-vajinal-mantar-enfeksiyonu/)
 > 
-> [Trikomonas](/jinekoloji/?p=1286)
+> [Trikomonas](/blog/idrar-yaparken-yanma-ve-nedenleri/)
 > 
-> [Gardnarella](/jinekoloji/?p=1291)
+> [Gardnarella](/blog/bakteriyel-vajinit/)
 > 
-> [İdrar Yolu Enfeksiyonları](/jinekoloji/?p=1294)
+> [İdrar Yolu Enfeksiyonları](/blog/idrar-yolu-enfeksiyonlari/)
 > 
 > [Pevik İltihabi Hastalık (PID)](/jinekoloji/?p=1279)
 > 
-> [Tubo-ovarian abse](/jinekoloji/?p=1281)
+> [Tubo-ovarian abse](/blog/tubo-ovarian-abse/)
 > 
-> [Genital Tüberküloz](/jinekoloji/?p=1296)
+> [Genital Tüberküloz](/blog/genital-tuberkuloz/)
 > 
-> [Toksik şok sendromu](/jinekoloji/?p=1298)
+> [Toksik şok sendromu](/blog/toksik-sok-sendromu/)
 > 
 > [Vajina nasıl temizlenmelidir?](/jinekoloji/?p=2594)
 > 
-> [Vajinal enfeksiyonlardan korunma önerileri](/jinekoloji/?p=1302)
+> [Vajinal enfeksiyonlardan korunma önerileri](/blog/vajinal-enfeksiyonlardan-korunma-onerileri/)
 > 
 > [Bartholin Absesi  
 > ](/jinekoloji/?p=1304)
 > 
-> [Genital bölgede sivilce](/jinekoloji/?p=2920)
+> [Genital bölgede sivilce](/blog/genital-bolgede-sivilce/)
 
-> [Gonore](/jinekoloji/?p=1307)
+> [Gonore](/blog/gonore-bel-soguklugu/)
 > 
-> [Klamidya](/jinekoloji/?p=1310)
+> [Klamidya](/blog/klamidya/)
 > 
-> [Genital Herpes](/jinekoloji/?p=1312)
+> [Genital Herpes](/blog/genital-herpes-ucuk/)
 > 
-> [Sfiliz](/jinekoloji/?p=1315)
+> [Sfiliz](/blog/sfiliz-frengi/)
 > 
-> [Mycoplasma ve ureaplasma enfeksiyonları](/jinekoloji/?p=1317)
+> [Mycoplasma ve ureaplasma enfeksiyonları](/blog/mycoplasma-ve-ureaplasma-enfeksiyonlari/)
 > 
-> [Erkekler cinsel hastalık taşıdıklarını söylemede daha çekingen](/jinekoloji/?p=1319)
+> [Erkekler cinsel hastalık taşıdıklarını söylemede daha çekingen](/blog/erkekler-cinsel-hastalik-tasidiklarini-soylemede-daha-cekingen/)
 
 **HPV (Human Papilloma Virus)**
 
-![hpvvirus](/wp-content/uploads/2014/03/hpvvirus.jpg)
+![hpvvirus](../../images/uploads/2014/03/hpvvirus.jpg)
 
 [Human Papilloma Virüs ya da kısa adı ile HPV son yıllarda giderek daha fazla sıklıkta görülmeye başlayan ve ihmal edildiğinde ölümcül olabilecek sorunlar doğurabilen ciddi bir cinsel yolla bulaşan bir hastalıktır. Bu bölümde HPV enfksiyonları, neden olduğu hastalıklar ve tadavileri ile ilgili bilgilere ulaşabilirsiniz.](/jinekoloji/?p=1346)
 
-> [Lazer ile vajina estetiği ve sıkılaştırma](/jinekoloji/?p=2311) 
+> [Lazer ile vajina estetiği ve sıkılaştırma](/blog/lazer-ile-vajina-estetigi-ve-sikilastirma/) 
 > 
-> [Labioplasti vulva estetigi ve dudakların küçültülmesi](/jinekoloji/?p=2697)
+> [Labioplasti vulva estetigi ve dudakların küçültülmesi](/blog/labioplasti-vulva-estetigi-ve-dudaklarin-kucultulmesi/)
 > 
-> [Vulvodynia Vulva ağrısı](/jinekoloji/?p=1358)
+> [Vulvodynia Vulva ağrısı](/blog/vulvodynia/)
 > 
-> [Kronik Kasık Ağrısı](/jinekoloji/?p=1360)
+> [Kronik Kasık Ağrısı](/blog/kronik-pelvik-agri/)
 > 
-> [Vajinal tampon](/jinekoloji/?p=1362)
+> [Vajinal tampon](/blog/vajinal-tampon/)
 > 
-> [Kegel Egzersizleri](/jinekoloji/?p=1369)
+> [Kegel Egzersizleri](/blog/kegel-egzersizleri/)

@@ -3,11 +3,12 @@ title: Anne ve baba adayının elele tutuşması doğum sırasında ağrı hissi
 pubDate: '2018-04-29T13:00:40'
 slug: anne-ve-baba-adayinin-elele-tutusmasi-dogum-sirasinda-agri-hissini-azaltiyor
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/anne-ve-baba-adayinin-elele-tutusmasi-dogum-sirasinda-agri-hissini-azaltiyor/
+readingTime: 2
 ---
 
 Gözünüzün önünde şiddetli ağrı yaşayan eşinizin can acısını azaltmak için çaresizce bir şeyler yapmaya çalıştığınız durumda sadece sıkıca elini tutmak yeterli olabilir. En azından yeni yayınlanan bir çalışma böyle söylüyor.

@@ -3,11 +3,11 @@ title: Kronik vajinal mantar enfeksiyonu
 pubDate: '2020-09-28T18:22:16'
 slug: kronik-vajinal-mantar-enfeksiyonu
 category:
-  - Jinekoloji
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/kronik-vajinal-mantar-enfeksiyonu/
+originalUrl: 'https://www.mumcu.com/kronik-vajinal-mantar-enfeksiyonu/'
+readingTime: 3
 ---
 
 Çoğu zaman kullanıldığı adıyla mantar enfeksiyonu ya da jinekolojik tanımlamayla, vulvovajinal kandidiyazis oldukça sık karşılaşılan bir sağlık sorunudur.￼￼ Kronik vajinal mantar enfeksiyonu deyimi ise çok sık tekrarlayan atakları tanımlamak için kullanılır.

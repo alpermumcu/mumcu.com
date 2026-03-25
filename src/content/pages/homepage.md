@@ -62,7 +62,7 @@ Histerektomi yani rahim alınması ameliyatları tüm dünyada jinekologların e
 
 [](/kapali-rahim-ameliyati-laparoskopik-histerektomi/)
 
-###### **[Yumurta Dondurma](?p=2305)**
+###### **[Yumurta Dondurma](/blog/yumurta-dondurma-cocuk-sahibi-olma-patansiyelini-korumak/)**
 
 Çeşitli nedenler ile henüz çocuk sahibi olmayı düşünmeyen ancak yaşı ilerlediği için endişe duyan kadınlar yumurtalarını dondurarak anne olma şanslarını koruyabilirler.
 

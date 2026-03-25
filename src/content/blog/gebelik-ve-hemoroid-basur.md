@@ -3,10 +3,11 @@ title: Gebelik ve Hemoroid (Basur)
 pubDate: '2014-04-05T03:23:02'
 slug: gebelik-ve-hemoroid-basur
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-ve-hemoroid-basur/
+originalUrl: 'https://www.mumcu.com/gebelik-ve-hemoroid-basur/'
+readingTime: 4
 ---
 
 Hemoroid ya da halk arasında söylendiği adıyla basur aslında oluş mekanizması ve şekil olarak bacaklarda ya da vücudun diğer kısımlarında görülen varislerden farklı bir patoloji değildir. Temel olarak hemoroid rektum ve anüs çevresindeki toplardamarların genişlemesi ve kanın bu genişlemiş damar yapıları içinde göllenmesidir. Rektumun içinde olabileceği gibi anüsten dışarıya doğru da sarkabilir. Dışarı sarkan bu hemoroidlerin büyüklüğü zaman zaman br üzüm tanesi kadar iri olabilir. Sayıları ise bir yada birden fazla olabilir. Bu dışarı sarkan damar pakeleri dışarıdan yumuşak kitleler olarak hissedilirler. İçeride olup dışarıdan görünmeyenlere internal hemoroid, dışarıya doğru sarkanlara ise eksternal hemoroid adı verilir.

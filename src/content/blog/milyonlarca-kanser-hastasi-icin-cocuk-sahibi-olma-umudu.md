@@ -3,10 +3,11 @@ title: Milyonlarca kanser hastası için çocuk sahibi olma umudu
 pubDate: '2015-06-13T17:47:11'
 slug: milyonlarca-kanser-hastasi-icin-cocuk-sahibi-olma-umudu
 category:
-  - Güncel Haberler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/milyonlarca-kanser-hastasi-icin-cocuk-sahibi-olma-umudu/
+originalUrl: 'https://www.mumcu.com/milyonlarca-kanser-hastasi-icin-cocuk-sahibi-olma-umudu/'
+readingTime: 2
 ---
 
 Genç bir kadın, çocukken ameliyat ile alınıp dondurulan kendi yumurtalık dokusunun yıllar sonra ameliyat ile geri koyulması ile üreme potansiyelinin yeniden sağlanmasını takiben sağlıklı bir bebek dünyaya getiren i̇lk insan olarak tarihe geçti

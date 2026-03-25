@@ -3,10 +3,11 @@ title: Yardımcı Üreme Teknikleri
 pubDate: '2014-03-28T00:41:00'
 slug: yardimci-ureme-teknikleri
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/yardimci-ureme-teknikleri/
+originalUrl: 'https://www.mumcu.com/yardimci-ureme-teknikleri/'
+readingTime: 4
 ---
 
 Bazı çiftler çok kolay ve istedikleri zaman gebe kalabilirken bazı bireylerin üreme potansiyellerinin olmaması yüzyıllardır insanların ilgisini çekmiştir. Bu sorunun çözümü ile ilgili olarak hemen her dönemde pekçok tedavi yaklaşımı ileri sürülmüş, bunlardan bazıları başarılı olurken bazıları infertilite problemi yaşayan çiftlere yarardan çok zarar vermiştir. Özellikle bizim gibi kapalı toplumlarda çoğu zaman kusur olarak nitelendirilen bu durumu tedavi edebilmek maksadı ile her yörede değişik folklorik tedaviler uygulanmaktadır. Antik çağlarda sorunun nedenlerine yönelik pekçok gözlem ve inceleme yapılmış olsa da, olayın nedenini açıklayan ciddi bir teori uzunca bir süre geliştirilememiştir. Gebeliğin oluşması için kadından gelen yumurta ve erkekden gelen sperm hücrelerinin gerekli olduğunun, ve bunların kadının Fallop Tüplerinde karşılaşmaları gerektiğinin fark edilmesi, konu ile ilgilenenler için bir dönüm noktasıdır.Tıp ve teknolojideki gelişmelere paralel olarak infertilitenin nedenleri çok daha iyi anlaşılmış ve altta yatan nedene yönelik tedavi alternatifleri geliştirilmiştir. Ancak tüm bu ilerlemelere rağmen hala daha bir kısım vakada herşey yolunda olmasına rağmen gebeliğin neden elde edilemediği bilinmemektedir. Bu tür vakalar açıklanamayan infertilite olarak sınıflandırılırlar. Geçmişte açıklanamayan infertilite vakalarının tüm vakalara oranı çok daha yüksek iken artan bilgiler sayesinde eskiden açıklanamayan bazı durumlar bugün bilinir hale gelmiştir. Günümüzde infertilite vakalarının %10-15’i bu başlık altında incelenmektedir.

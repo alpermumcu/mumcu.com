@@ -3,10 +3,11 @@ title: Depresyon gebelikte olumsuz etkilere neden olabilir
 pubDate: '2016-06-22T04:38:17'
 slug: depresyon-gebelikte-olumsuz-etkilere-neden-olabilir
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/depresyon-gebelikte-olumsuz-etkilere-neden-olabilir/
+originalUrl: 'https://www.mumcu.com/depresyon-gebelikte-olumsuz-etkilere-neden-olabilir/'
+readingTime: 2
 ---
 
 Yeni yayınlanan bir çalışma gebelik öncesinde depresyon sorunu yaşayan kadınlarda erken doğum, sezaryen ile doğum ve haftasına göre küçük bebek doğurma riskinin daha fazla olduğunu ortaya koydu.

@@ -3,10 +3,11 @@ title: Dehidratasyonun önüne nasıl geçebilirim?
 pubDate: '2014-03-16T20:25:36'
 slug: dehidratasyonun-onune-nasil-gecebilirim
 category:
-  - Makaleler
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dehidratasyonun-onune-nasil-gecebilirim/
+originalUrl: 'https://www.mumcu.com/dehidratasyonun-onune-nasil-gecebilirim/'
+readingTime: 2
 ---
 
 Günlük sıvı gereksiniminizi karşılamak için günde en az 8-10 bardak su içmelisiniz. Yapacağınız hafif egzersiz ve aktivitenin her 1 saati için fazladan 1 bardak daha su içmelisiniz. Meyve suları almanız gereken sıvının bir kısmını oluşturabilir ancak bunalrın yüksek miktarlarda kalori içerdiğini unutmamalısınız. Kahve, kola ve çay gibi kafeinli içecekler sıvı alımı olarak kabul edilmez çünkü bunlar idrar söktürücü etkiye de sahiptirler ve aldığınızdan daha fazla sıvıyı idrar olarak kaybetmenize neden olurlar. Su içmekten çok hoşlanmıyorsanız birkaç bardağının içine limon vs. sıkarak değişik tatlar elde edebilirsiniz. Sıvı alımınız yetersiz olduğunda dehidratasyon tehlikesiyle karşı karşıyasınız demektir.

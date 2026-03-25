@@ -3,10 +3,11 @@ title: Hamilelikte yapılabilecek en iyi 5 egzersiz
 pubDate: '2015-05-11T23:23:02'
 slug: hamilelikte-yapilabilecek-en-iyi-5-egzersiz
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-yapilabilecek-en-iyi-5-egzersiz/
+originalUrl: 'https://www.mumcu.com/hamilelikte-yapilabilecek-en-iyi-5-egzersiz/'
+readingTime: 4
 ---
 
 Bebek bekliyorsunuz. Tebrikler. Şimdi artık arkanıza yaslanıp, ayaklarınızı uzatıp 9 ay boyunca dinlenme zamanıdır…. eğer böyle düşünüyorsanız çok yanılıyorsunuz.

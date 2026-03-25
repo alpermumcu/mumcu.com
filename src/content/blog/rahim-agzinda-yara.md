@@ -3,10 +3,11 @@ title: Rahim ağzında yara
 pubDate: '2014-03-22T20:28:43'
 slug: rahim-agzinda-yara
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/rahim-agzinda-yara/
+originalUrl: 'https://www.mumcu.com/rahim-agzinda-yara/'
+readingTime: 3
 ---
 
 Kadın üreme sistemi pekçok değişik türde hücreden oluşmaktadır. Bu sistemin değişik bölgelerinde faklı yapı ve türde hücreler bulunur. Faklı hücre gruplarının değişik görev ve işlevleri vardır. Bazı hücreler salgı üretirken diğer hücre grupları altında yatan dokuyu dış etkenlere karşı koruma görevi üstlenir.

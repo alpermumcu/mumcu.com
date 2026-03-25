@@ -3,10 +3,11 @@ title: Doğum Kontrolü &#8211; Prezervatif
 pubDate: '2014-03-24T14:24:58'
 slug: dogum-kontrolu-prezervatif
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-kontrolu-prezervatif/
+originalUrl: 'https://www.mumcu.com/dogum-kontrolu-prezervatif/'
+readingTime: 2
 ---
 
 Kondom geri çekme yöntemi dışında erkeklerin kullanabileceği tek geri dönüşümlü yöntemdir.

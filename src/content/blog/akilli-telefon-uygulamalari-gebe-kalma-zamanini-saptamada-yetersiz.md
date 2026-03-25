@@ -3,11 +3,12 @@ title: Akıllı telefon uygulamaları gebe kalma zamanını saptamada yetersiz
 pubDate: '2017-07-07T01:04:40'
 slug: akilli-telefon-uygulamalari-gebe-kalma-zamanini-saptamada-yetersiz
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/akilli-telefon-uygulamalari-gebe-kalma-zamanini-saptamada-yetersiz/
+readingTime: 2
 ---
 
 Modern çağın hayatımıza soktuğu en önemli yeniliklerden bir tanesi de akıllı telefonlar. Günümüzde hemen hemen herkesin bir akıllı telefonu var. Akıllı telefonların olmazsa olmazı ise aplikasyonlar. Aklınıza gelecek hemen her konuda akıllı telefonlarda ya da tabletlerde kullanılabilecek uygulamalar mevcut.

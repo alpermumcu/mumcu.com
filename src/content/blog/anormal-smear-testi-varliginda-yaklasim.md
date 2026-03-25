@@ -3,10 +3,11 @@ title: Anormal Smear testi varlığında yaklaşım
 pubDate: '2014-03-22T20:25:30'
 slug: anormal-smear-testi-varliginda-yaklasim
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/anormal-smear-testi-varliginda-yaklasim/
+originalUrl: 'https://www.mumcu.com/anormal-smear-testi-varliginda-yaklasim/'
+readingTime: 7
 ---
 
 Yapılan PAP test sonucu normal olarak değerlendirildiğinde ek bir yakınma yoksa yılda bir defa yapılan kontroller yeterlidir. Anormal sonuç varlığında ise ileri tetkik gerekli olmaktadır.

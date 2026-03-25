@@ -3,12 +3,12 @@ title: Çocuk sahibi olmak isteyenler yaşam tarzlarını gözden geçirmeli
 pubDate: '2017-02-09T13:31:34'
 slug: cocuk-sahibi-olmak-isteyenler-yasam-tarzlarini-gozden-gecirmeli
 category:
-  - Güncel Haberler
-  - Infertilite
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/cocuk-sahibi-olmak-isteyenler-yasam-tarzlarini-gozden-gecirmeli/
+readingTime: 3
 ---
 
 1 yıldan uzun süreli korunmasız ilişkiye rağmen istenildiği halde çocuk sahibi olamamak şeklinde tanımlanan kısırlık (infertilite), ırk ve coğrafi konumdan bağımsız olarak tüm dünyada üreme çağındaki çiftlerin yaklaşık %10-15’ini etkileyen bir sorundur.

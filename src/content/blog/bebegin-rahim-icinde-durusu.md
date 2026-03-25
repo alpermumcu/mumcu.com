@@ -3,10 +3,11 @@ title: Bebeğin rahim içinde duruşu
 pubDate: '2014-03-20T17:28:57'
 slug: bebegin-rahim-icinde-durusu
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/bebegin-rahim-icinde-durusu/
+originalUrl: 'https://www.mumcu.com/bebegin-rahim-icinde-durusu/'
+readingTime: 2
 ---
 
 Normal doğumu anlayabilmek için öncelikle bazı tanımları bilmek ve anlamlarını kavramak gereklidir. Bu kavramlardan belki de en önemlisi bebeğin rahim içindeki duruşudur. Çünkü bu duruş bebeğin normal yoldan dünyaya gelip gelemeyeceği konusunda önemli ipuçları verir.

@@ -3,10 +3,11 @@ title: Hamilelik ve güvenlik kontrolleri
 pubDate: '2014-03-17T23:29:30'
 slug: hamilelik-ve-guvenlik-kontrolleri
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-guvenlik-kontrolleri/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-guvenlik-kontrolleri/'
+readingTime: 2
 ---
 
 Hamile kadınların özellikle erken dönemde sık sordukları sorulardan birisi de güvenlik kontrollerindeki kapılardan geçmelerinin bir sakıncası olup olmadığıdır.

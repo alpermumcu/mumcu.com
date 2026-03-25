@@ -3,10 +3,11 @@ title: Mol gebelik
 pubDate: '2014-03-15T20:18:32'
 slug: mol-gebelik
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/mol-gebelik/
+originalUrl: 'https://www.mumcu.com/mol-gebelik/'
+readingTime: 3
 ---
 
 Gestasyonel trofoblastik hastalıklar başlığı altında incelenen bu hastalıklar grubu embryonik dönemde bebeğin plasentasını ve zarını oluşturan hücrelerden köken alan hastalıklardır. Molar gebelik yada hidatiform mol olarak adlandırılan formu en sık görülen şeklidir.Komplet ve inkomplet olmak üzere 2 türü vardır.

@@ -3,10 +3,11 @@ title: Epidural anestezi
 pubDate: '2014-03-20T17:52:25'
 slug: dogumda-vakum-kullanilmasi-2
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogumda-vakum-kullanilmasi-2/
+originalUrl: 'https://www.mumcu.com/dogumda-vakum-kullanilmasi-2/'
+readingTime: 7
 ---
 
 **Ağrı nedir?**  

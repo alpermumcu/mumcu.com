@@ -3,10 +3,11 @@ title: Doğum Kontrolü &#8211; Doğum Kontrol Hapları
 pubDate: '2014-03-24T13:52:28'
 slug: dogum-kontrolu-dogum-kontrol-haplari
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-kontrolu-dogum-kontrol-haplari/
+originalUrl: 'https://www.mumcu.com/dogum-kontrolu-dogum-kontrol-haplari/'
+readingTime: 9
 ---
 
 Doğum kontrol hapları ya da bilimsel adıyla oral kontraseptifler (OK) tüm dünyada yaygın şekilde kullanılan ve ucuz. basit ve oldukça yüksek etkili ilaçlardır. İçinde hormon olduğunun bilinmesi kadın sağlığı açısından son derece yararlı olduğu bilinen bu ilaç grubu hakkında pekçok yanlış bilgi ve inanışın doğmasına neden olmuştur. Sırf bu yanlış inanışlar nedeni ile pekçok kadın doğum kontrol hapı kullanımından endişe duymaktadır. Yazının tamamını okuduğunuzda bu mucizevi ilaçlar ile ilgili bilimsel gerçekleri bilecek ve anlayacaksınız.

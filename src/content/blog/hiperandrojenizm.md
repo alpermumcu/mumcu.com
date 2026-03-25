@@ -3,10 +3,11 @@ title: Hiperandrojenizm
 pubDate: '2014-03-26T16:54:53'
 slug: hiperandrojenizm
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hiperandrojenizm/
+originalUrl: 'https://www.mumcu.com/hiperandrojenizm/'
+readingTime: 3
 ---
 
 Kadında androjen (erkeklik hormonlarının tümü) yapımının artması ve/veya androjen aktivitesinin artışına hiperandrojenizm adı verilir.Hipernadrojenizm tek başına bir mekanizma ile olmaz. Yapımın artışı, bu hormonların etkilediği dokuların duyarlılığının fazlalaşması, hormonları yıkan enzim aktivitelerinin değişmesi ve kanda bu hormonları taşıyan maddelerin azalması androjenizme neden olur.Yani hiperandrojenizm tablosunun ortaya çıkması için multlaka yapımda fazlalık olması gerekmez.

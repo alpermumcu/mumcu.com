@@ -3,10 +3,11 @@ title: Anne adayının kilosu embryo gelişimini etkiliyor
 pubDate: '2014-11-25T23:32:15'
 slug: anne-adayinin-kilosu-embryo-gelisimini-etkiliyor
 category:
-  - Güncel Haberler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/anne-adayinin-kilosu-embryo-gelisimini-etkiliyor/
+originalUrl: 'https://www.mumcu.com/anne-adayinin-kilosu-embryo-gelisimini-etkiliyor/'
+readingTime: 2
 ---
 
 Human Reproduction dergisinde yayınlanan bir çalışmaya göre fazla kilolu ya da obez olan kadınların embryolarının gebeligin erken donemindeki gelişimi sağlıklı kilodaki kadınların embryolarına göre farklılık gösteriyor.

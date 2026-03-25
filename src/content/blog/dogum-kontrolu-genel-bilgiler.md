@@ -3,10 +3,11 @@ title: Doğum Kontrolü- Genel bilgiler
 pubDate: '2014-03-24T13:45:17'
 slug: dogum-kontrolu-genel-bilgiler
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-kontrolu-genel-bilgiler/
+originalUrl: 'https://www.mumcu.com/dogum-kontrolu-genel-bilgiler/'
+readingTime: 3
 ---
 
 Çağlar boyunca insanlar istenmeyen gebelikleri ya da doğumları önlemek için değişik yöntemlere başvurdular. Bunların bir çoğu zaman zaman annenin yaşamına mal olmaktaydı. Özellikle 2. Dünya savaşı sonrasında bilimsel çalışmalar sonucu geliştirilen yöntemler bu ilkel ve can alıcı eski yöntemlerin yerini almaya başladı. Günümüzde hem kadınlar için hem de erkekler için geliştirilmiş, son derece güvenilir ve etkili metodlar mevcuttur. Gelişen tıp modern insanın kulanımına çok değişik ve her bireyin kendi ihiyacına yönelik yöntemler sunmaktadır.Buna rağmen dünyada ve ülkemizdeki çiftlerin oldukça büyük bir kısmı hala daha geleneksel, etkinliği ve güvenilirliği düşük ve hatta sağlk açısından sakıncalı yöntemlerle doğum kontrolü uygulamaya çalışmaktadır. Bu duruma neden olan faktörlerden en önemlileri çiftlerin doğum kontrolü hakkında yeterli bilgiye sahip olmamaları ve hatta kulaktan dolma yanlış bilgiler ile bu modern ve güvenilir yöntemlerden uzaklaşmalarıdır.

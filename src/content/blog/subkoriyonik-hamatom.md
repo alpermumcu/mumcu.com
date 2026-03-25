@@ -3,10 +3,11 @@ title: Subkoriyonik hamatom
 pubDate: '2016-04-17T14:32:21'
 slug: subkoriyonik-hamatom
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/subkoriyonik-hamatom/
+originalUrl: 'https://www.mumcu.com/subkoriyonik-hamatom/'
+readingTime: 2
 ---
 
 Gebe olduğunu öğrenen kadınların en büyük korkularından biri kanama yaşamaktır. Gerçekten de erken gebeliklerin yaklaşık %25-50’sinde lekelenmeden adet kanaması şekline kadar değişik miktarlarda kanama görülebilmektedir.

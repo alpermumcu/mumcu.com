@@ -3,10 +3,11 @@ title: Amniyon sıvı embolisi
 pubDate: '2014-03-20T18:11:45'
 slug: amniyon-sivi-embolisi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/amniyon-sivi-embolisi/
+originalUrl: 'https://www.mumcu.com/amniyon-sivi-embolisi/'
+readingTime: 4
 ---
 
 Amniyon sıvı embolisi doğum bilminde karşılaşılabilecek en tehlikeli ve tedavi edilmesi en güç durumdur.

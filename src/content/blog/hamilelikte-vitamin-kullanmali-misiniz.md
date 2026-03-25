@@ -3,10 +3,11 @@ title: Hamilelikte vitamin kullanmalı mısınız?
 pubDate: '2014-03-16T19:34:07'
 slug: hamilelikte-vitamin-kullanmali-misiniz
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-vitamin-kullanmali-misiniz/
+originalUrl: 'https://www.mumcu.com/hamilelikte-vitamin-kullanmali-misiniz/'
+readingTime: 3
 ---
 
 Hamilelik genelde tüm vücut gereksinimlerinin belirli oranlarda artış gösterdiği bir dönemdir. Bu nedenle hamile olan ya da hamile kalmayı planlayan kadınların genelde pekçok vitamini ve minerali birarada içeren preparatları kullanmaları doktorları tarafından önerilir. Prenatal vitamin desteği olarak adlandırılan bu durum bilimsel çevrelerde hala daha kesin ortak bir karar verilememiş bir konudur. Amerika Birleşik Devletlerinde ilaç ve gıda kullanımını düzenleyen resmi kurum (FDA) ve en büyük bilimsel derneklerden biri olan Amerikan Obstetrisyenler ve Jinekologlar birliği (ACOG) da hamilelikte vitamin kullanımı ile ilgili herhangi bir kılavuz yayınlamamışlardır.

@@ -3,10 +3,11 @@ title: Fast food kandaki fitalat düzeyini arttırıyor
 pubDate: '2018-04-15T13:01:45'
 slug: fast-food-kandaki-fitalat-duzeyini-arttiriyor
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/fast-food-kandaki-fitalat-duzeyini-arttiriyor/
+originalUrl: 'https://www.mumcu.com/fast-food-kandaki-fitalat-duzeyini-arttiriyor/'
+readingTime: 2
 ---
 
 Geçtiğimiz günlerde yayınlanan yeni bir çalışma restoranlarda, fastfood dükkanlarında ya da kafeteryalarda yenilen burger ve benzeri yiyeceklerin yüksek fitalat düzeylerine neden olduğunu gösterdi.

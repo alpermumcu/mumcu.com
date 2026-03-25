@@ -3,10 +3,11 @@ title: Gebelikte diş beyazlatma işlemleri güvenli midir
 pubDate: '2016-04-07T08:32:56'
 slug: gebelikte-dis-beyazlatma-islemleri-guvenli-midir
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-dis-beyazlatma-islemleri-guvenli-midir/
+originalUrl: 'https://www.mumcu.com/gebelikte-dis-beyazlatma-islemleri-guvenli-midir/'
+readingTime: 1
 ---
 
 İnsanı pekçok diğer canlıdan ayıran önemli özelliklerden birisi de gülmek. Hayvanlar aleminde mutlu olduğunda gülümseyen canlılar buunmakla birlikte bu çoğu zaman insanlara atfedilen bir eylemdir. Güzel ve güçlü bir gülüşün sırrı da beyaz dişlerde saklıdır.

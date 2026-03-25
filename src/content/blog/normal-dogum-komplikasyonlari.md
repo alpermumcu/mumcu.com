@@ -3,10 +3,11 @@ title: Normal doğum komplikasyonları
 pubDate: '2014-03-20T18:21:55'
 slug: normal-dogum-komplikasyonlari
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/normal-dogum-komplikasyonlari/
+originalUrl: 'https://www.mumcu.com/normal-dogum-komplikasyonlari/'
+readingTime: 4
 ---
 
 **Distosi (zor doğum)**  

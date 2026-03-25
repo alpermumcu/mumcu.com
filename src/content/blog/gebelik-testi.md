@@ -3,10 +3,11 @@ title: Gebelik testi
 pubDate: '2014-03-28T00:32:07'
 slug: gebelik-testi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-testi/
+originalUrl: 'https://www.mumcu.com/gebelik-testi/'
+readingTime: 2
 ---
 
 Embryo transferinden 12 gün sonra hasta gebelik testi için yeniden kliniğe çağırılır. Burada ilk önce idrarda daha sonra ise kanda gebelik testi (beta-hCG) yapılır. Kanda yapılan testin sonucuna göre gebelik olup olmadığına karar verilir. Test pozitif olanlar 2 gün sonra yeniden kanda gebelik testi için çağırılır. İki testin sonuçları arasındaki ilişki değerlendirilerek gebeliğin sağlıklı olup olmadığına karar verilir. Sağlıklı bir gebelikte iki gün sonra kan beta-hCG değeri yaklaşık 2 kat artmalıdır.

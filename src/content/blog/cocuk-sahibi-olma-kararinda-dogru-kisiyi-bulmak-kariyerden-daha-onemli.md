@@ -3,11 +3,12 @@ title: Çocuk sahibi olma kararında doğru kişiyi bulmak kariyerden daha önem
 pubDate: '2016-09-15T05:55:00'
 slug: cocuk-sahibi-olma-kararinda-dogru-kisiyi-bulmak-kariyerden-daha-onemli
 category:
-  - Güncel Haberler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/cocuk-sahibi-olma-kararinda-dogru-kisiyi-bulmak-kariyerden-daha-onemli/
+readingTime: 3
 ---
 
 Teknolojideki değişim ve gelişmelerin özellikle son 10 yılda gündelik hayatımızda yarattığı değişim inkar edilemez. Akıllı telefonlardan televizyonlara, kendi kendine park eden otomobillerden akıllı evlere ve ev aletlerine kadar geçmişte sadece bilim kurgu filmlerinde gördüğümüz pek çok şey artık gerçek.

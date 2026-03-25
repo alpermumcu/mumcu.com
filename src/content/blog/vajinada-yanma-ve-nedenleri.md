@@ -3,10 +3,11 @@ title: Vajinada yanma ve nedenleri
 pubDate: '2018-09-17T00:04:52'
 slug: vajinada-yanma-ve-nedenleri
 category:
-  - Jinekoloji
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/vajinada-yanma-ve-nedenleri/
+originalUrl: 'https://www.mumcu.com/vajinada-yanma-ve-nedenleri/'
+readingTime: 5
 ---
 
 Kadınlarda genital bölgede ve özellikle vajinada yanma nadir karşılaşılmayan yakınmalardandır. Vajinada yanmaya neden olabilen, irritasyondan enfeksiyona kadar pek çok durum söz konusudur. Bu duruma yol açabilen her nedenin beraberinde farklı yakınmaları ve farklı tedavileri mevcuttur.

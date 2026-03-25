@@ -3,10 +3,11 @@ title: Gebelikte ilaç kullanımında FDA sınıflaması
 pubDate: '2014-03-16T04:38:45'
 slug: gebelikte-ilac-kullaniminda-fda-siniflamasi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-ilac-kullaniminda-fda-siniflamasi/
+originalUrl: 'https://www.mumcu.com/gebelikte-ilac-kullaniminda-fda-siniflamasi/'
+readingTime: 2
 ---
 
 Amerika Birleşik Devletlerinde ilaçlar ve bunların kullanımı ile ilgili en üst yetkili kurum olan Gıda ve İlaç Dairesi (FDA) tüm ilaçları gebelik sırasında kullanımlarının yaratacağı riskler bakımından 5 kategoriye ayırmıştır.

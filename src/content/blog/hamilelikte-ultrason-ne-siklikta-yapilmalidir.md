@@ -3,10 +3,11 @@ title: Hamilelikte ultrason ne sıklıkta yapılmalıdır?
 pubDate: '2014-03-18T01:18:04'
 slug: hamilelikte-ultrason-ne-siklikta-yapilmalidir
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-ultrason-ne-siklikta-yapilmalidir/
+originalUrl: 'https://www.mumcu.com/hamilelikte-ultrason-ne-siklikta-yapilmalidir/'
+readingTime: 2
 ---
 
 Hamile bir kadının tüm hamileliği boyunca kaç kere ultrasonografi incelemesine girmesi gerektiği konusunda katı kurallar yoktur. Ultrasonografinin son yıllar içinde gösterdiği gelişme hem cihazların boyutlarının küçülmesine hem de ücretlerinin ucuzlayarak daha fazla kullanıcıya ulaşabilmesine olanak sağlamıştır. Bu gelişmenin sonucunda günümüzde nerdeyse artık her muayenehanede bile değişik kalitede ultrason cihazları buylunur hale gelmiş hatta bazı merkez ve özel muayenehanelerde 3 boyutlu ultrason cihazları da yerini almıştır.

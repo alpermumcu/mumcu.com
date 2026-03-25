@@ -3,10 +3,11 @@ title: Doğum Sonrası Perine Bakımı
 pubDate: '2014-03-27T15:34:21'
 slug: dogum-sonrasi-perine-bakimi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-sonrasi-perine-bakimi/
+originalUrl: 'https://www.mumcu.com/dogum-sonrasi-perine-bakimi/'
+readingTime: 2
 ---
 
 Perine bölgesi denildiğinde vajina girişi ile makat arasında kalan bölge anlaşılır. Doğum esnasında ve doğumdan sonra büyük öneme sahiptir. Normal doğum esnasında bölgede kontrolsüz yırtıkların olmaması için doktor tarafından bir kesi yapılır. Bu kesiye epizyotomi adı verilir.Doğum sonrası perine bakımı bu bölgenin daha kolay iyileşmesi ve enfeksiyon kapmaması için yapılması gerekenlerin tümünü kapsar. Bakım yaklaşık 1-3 hafta sürer.

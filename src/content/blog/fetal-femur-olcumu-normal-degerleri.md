@@ -3,13 +3,14 @@ title: Fetal femur ölçümü normal değerleri
 pubDate: '2014-03-18T01:40:07'
 slug: fetal-femur-olcumu-normal-degerleri
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/fetal-femur-olcumu-normal-degerleri/
+originalUrl: 'https://www.mumcu.com/fetal-femur-olcumu-normal-degerleri/'
+readingTime: 1
 ---
 
-![fl16](/wp-content/uploads/2014/03/fl16.jpg)
+![fl16](../../images/uploads/2014/03/fl16.jpg)
 
 **Hafta**
 

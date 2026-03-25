@@ -3,10 +3,11 @@ title: Amniyon sıvısının fazla olması
 pubDate: '2014-03-15T20:44:14'
 slug: amniyon-sivisinin-fazla-olmasi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/amniyon-sivisinin-fazla-olmasi/
+originalUrl: 'https://www.mumcu.com/amniyon-sivisinin-fazla-olmasi/'
+readingTime: 3
 ---
 
 **Amniyon sıvısı nedir?  
@@ -17,7 +18,7 @@ Hamilelerin %7’sinde amniyon sıvısının miktarında normalden sapmalar göz
 **Polihidramniyos nedir?**  
 Amniyon sıvısının normalden fazla olması hidramniyos ya da polihidramniyos olarak adlandırılır. Sıvının 2 litreden fazla olması patolojiktir. Literatürde 15 litre amniyon sıvısı bildirilen olgular vardır.
 
-![polyhidr1](/wp-content/uploads/2014/03/polyhidr1.gif)
+![polyhidr1](../../images/uploads/2014/03/polyhidr1.gif)
 
 **Polihidramniyos nedenleri nelerdir?**  
 Polihidramniyos anne ya da bebeğe bağlı nedenler ile ortaya çıkabilir. Anneden kaynaklanan en önemli neden şeker hastalığı yani diabettir. Bebekten kaynaklanan nedenler ise:

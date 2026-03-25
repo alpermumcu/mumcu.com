@@ -3,10 +3,11 @@ title: PMS ile başa çıkmanın 10 yolu
 pubDate: '2014-03-22T17:41:45'
 slug: pms-ile-basa-cikmanin-10-yolu
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/pms-ile-basa-cikmanin-10-yolu/
+originalUrl: 'https://www.mumcu.com/pms-ile-basa-cikmanin-10-yolu/'
+readingTime: 2
 ---
 
 Adet öncesi gerginlik sendromu ya da bilimsel adı ile premenstrüel sendrom kadınların hemen hepsini az ya da çok etkilemektedir. Belirtiler hafif sıvı tutulumu ve şişkinlikten şiddetli mizaç değişikliklerine hatta depresyona kadar değişebilir. PMS ile başa çıkmak için birkaç basit önlemi deneyebilirsiniz.

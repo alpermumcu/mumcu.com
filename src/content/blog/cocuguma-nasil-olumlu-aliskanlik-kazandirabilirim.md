@@ -3,10 +3,11 @@ title: Çocuğuma nasıl olumlu alışkanlık kazandırabilirim?
 pubDate: '2014-03-20T18:21:21'
 slug: cocuguma-nasil-olumlu-aliskanlik-kazandirabilirim
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/cocuguma-nasil-olumlu-aliskanlik-kazandirabilirim/
+originalUrl: 'https://www.mumcu.com/cocuguma-nasil-olumlu-aliskanlik-kazandirabilirim/'
+readingTime: 4
 ---
 
 Sevgili anne;  

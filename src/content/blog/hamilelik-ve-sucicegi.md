@@ -3,10 +3,11 @@ title: Hamilelik ve Suçiçeği
 pubDate: '2014-03-18T00:06:47'
 slug: hamilelik-ve-sucicegi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-sucicegi/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-sucicegi/'
+readingTime: 8
 ---
 
 Herpes grubu viruslerin neden olduğu bir enfeksiyon olan su çiçeği ya da bilimsel adı ile varicella çocukluk çağı hastalıklarından birisidir. Herpes vürusler insanda temel olarak suçiçeği ve uçuğa neden olurlar. Çocukluk çağı hastalığı olmakla birlikte su çiçeği nadiren erişkinlerde de görülebilir. Erişkinlerde görülen hastalığın çocuklardakinden farkı çok dha ciddi seyretmesi, hatta ölümcül olabilmesidir. Erişkinler içinde hastalığı en ağır geçirenler hamilelerdir.

@@ -3,11 +3,12 @@ title: Erkekler cinsel hastalık taşıdıklarını söylemede daha çekingen
 pubDate: '2014-03-24T12:44:28'
 slug: erkekler-cinsel-hastalik-tasidiklarini-soylemede-daha-cekingen
 category:
-  - Makaleler
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/erkekler-cinsel-hastalik-tasidiklarini-soylemede-daha-cekingen/
+readingTime: 1
 ---
 
 Fransa’da 2002 yilinda yapılan bir araştırma erkeklerin kadınlara göre cinsel yolla bulaşan hastalık taşıdıklarını söylemede daha çekingen davrandıklarını ortaya koydu.

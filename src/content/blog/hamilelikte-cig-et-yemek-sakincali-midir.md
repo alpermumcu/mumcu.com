@@ -3,13 +3,14 @@ title: Hamilelikte çiğ et yemek sakıncalı mıdır?
 pubDate: '2014-03-16T20:22:08'
 slug: hamilelikte-cig-et-yemek-sakincali-midir
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-cig-et-yemek-sakincali-midir/
+originalUrl: 'https://www.mumcu.com/hamilelikte-cig-et-yemek-sakincali-midir/'
+readingTime: 2
 ---
 
-![cigkofte](/wp-content/uploads/2014/03/cigkofte.jpg)
+![cigkofte](../../images/uploads/2014/03/cigkofte.jpg)
 
 Evet hamilelik döneminde çiğ ya da az pişmiş et yemek kesinlikle sakıncalıdır. Bunun en önemli nedeni toksoplazma ve salmonella başta olmak üzere bazı bakteri ve parazitlerin bulaşma olasılığıdır.
 

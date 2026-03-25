@@ -3,10 +3,11 @@ title: Rahim ağzında polip (servikal polip)
 pubDate: '2018-08-12T11:50:40'
 slug: rahim-agzinda-polip-servikal-polip
 category:
-  - Jinekoloji
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/rahim-agzinda-polip-servikal-polip/
+originalUrl: 'https://www.mumcu.com/rahim-agzinda-polip-servikal-polip/'
+readingTime: 2
 ---
 
 Rahim boynunda, rahimin iç boşluğu ile vajina arasındaki kanalda büyüyen doku parçaları servikal polip olarak adlandırılır.

@@ -3,11 +3,11 @@ title: Bebek planlayanların işine yarayabilecek 7 öneri
 pubDate: '2016-05-22T11:04:47'
 slug: bebek-planlayanlarin-isine-yarayabilecek-7-oneri
 category:
-  - Gündelik Konular
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/bebek-planlayanlarin-isine-yarayabilecek-7-oneri/
+originalUrl: 'https://www.mumcu.com/bebek-planlayanlarin-isine-yarayabilecek-7-oneri/'
+readingTime: 4
 ---
 
 Eğer yakın zamanda bebek sahibi olmayı planlıyorsanız bazı alışkanlıklarınızı gözden geçirmenizin hedefinize ulaşma yolunda olumlu etkilerinin olacağını bilmelisiniz

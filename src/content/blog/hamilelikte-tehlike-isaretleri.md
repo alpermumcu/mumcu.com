@@ -3,10 +3,11 @@ title: Hamilelikte tehlike işaretleri
 pubDate: '2014-03-17T01:46:13'
 slug: hamilelikte-tehlike-isaretleri
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-tehlike-isaretleri/
+originalUrl: 'https://www.mumcu.com/hamilelikte-tehlike-isaretleri/'
+readingTime: 3
 ---
 
 Hamilelik pek çok kadın için heyecan verici olduğu kadar aynı zamanda endişe uyandırıcı bir dönemdir. Anne adaylarının çoğu hamile olduklarını öğrendikleri günden itibaren çoğu zaman itiraf etmeselerde bebeklerinin sağlıklarından endişe duyarlar, bebeklerini kucaklarına alana kadar tamamen sağlıklı bir bebek dünyaya getirdiklerine inanamazlar. “Elleri ayakları sağlam mı” sorusu doğumdan sonra doktora sorulan ilk sorudur.

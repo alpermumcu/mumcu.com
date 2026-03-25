@@ -3,10 +3,11 @@ title: Diş tedavilerinde lokal anestezi
 pubDate: '2014-03-16T18:56:53'
 slug: dis-tedavilerinde-lokal-anestezi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dis-tedavilerinde-lokal-anestezi/
+originalUrl: 'https://www.mumcu.com/dis-tedavilerinde-lokal-anestezi/'
+readingTime: 1
 ---
 
 Bölgesel uyuşma sağlayan lokal anestezik ilaçlar diş hekimleri tarafından tedavide sıkça kullanılmaktadır. Günümüzde kullanılan lokal anesteziklerin hemen hepsi son derece güvenli ve alerjik reaksiyona neden olmayan ilaçlardır.

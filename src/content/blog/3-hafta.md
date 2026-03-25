@@ -3,10 +3,11 @@ title: 3. Hafta &#8211;  Hayatın başladığı andasınız
 pubDate: '2014-03-31T04:12:23'
 slug: 3-hafta
 category:
-  - Hafta Hafta Gebelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/3-hafta/
+originalUrl: 'https://www.mumcu.com/3-hafta/'
+readingTime: 3
 ---
 
 Yumurtalıklardan atılan yumurta hücresi ile erkekden gelen sperm fallop tüplerinde karşılaşır. Pekçok sperm, yumurta etrafında kümelenmesine rağmen bunlardan sadece 1 tanesi yumurtanın zarını geçerek içine girer ve kendi genetik materyali ile yumurtanın genetik materyali birleşir. Bu döllenmedir. Döllenme ile birlikte adına yaşam denilen mucize başlar. Fertilizasyon yani döllenme tek bir spermin yumurta hücresinin içine girmesi ile başlar ve zigot adı verilen oluşumun ortaya çıkması ile sonlanır. Fertilizasyon süreci yaklaşık 24 saat kadardır.Bir sperm yaklaşık 48 saat canlı kalabilir. İlişki esnasında vajina içine yaklaşık 300 milyon sperm bırakılır.Spermlerin sadece %1’i yani 3 milyon kadarı rahim içine girebilir. Rahim içine giren spermler kadının üreme organları içinde ilerleyerek tüplere kadar ulaşırlar. 10 saat süren bu seyahat sonunda yumurta hücresine kadar gelen spermleri başka bir görev beklemektedir. Yumurta hücresinin kabuğunu kırarak içine girmek. Yumurta hücresi zona pellucida adı verilen bir zar ile çevrilirdir. Spermlerden sadece 1 tanesi bu zarı delerek yumurtanın içine girebilir. Penetrasyon adı verilen bu işlem 20 dakika kadar sürer ve bir sperm penetre olduktan sonra zona pellucida tamamen kapanarak başka bir spermin girişine izin vermez. Sperm ve yumurta hücrelerinin çekirdeklerinin birleşmesi ile zigot ortaya çıkar ve döllenme sona erer.

@@ -3,10 +3,11 @@ title: Kolposkopi
 pubDate: '2014-03-24T12:59:42'
 slug: kolposkopi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/kolposkopi/
+originalUrl: 'https://www.mumcu.com/kolposkopi/'
+readingTime: 5
 ---
 
 Serviks yani rahim ağzı kanseri kadın üreme sistemi kanserleri arasında sık görülen ancak önlenebilir kanserlerden birisidir. Önlenebilir olmasının temel nedeni düzenli yapılan PAP smear incelemeleri ile hastalığın çok erken dönemlerde fark edilebilmesidir. Buna karşılık PAP smear temelde tanı koyduran bir test değildir. Şüpheli durumların fark edilerek kesin tanı koyduran testlerin yapılaması gerektiğini işaret eden bir tarama testidir.

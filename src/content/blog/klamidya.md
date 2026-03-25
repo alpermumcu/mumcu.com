@@ -3,10 +3,11 @@ title: Klamidya
 pubDate: '2015-02-08T12:41:22'
 slug: klamidya
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/klamidya/
+originalUrl: 'https://www.mumcu.com/klamidya/'
+readingTime: 7
 ---
 
 Klamidya enfeksiyonu chlamydia trachomatis adı verilen bakterinin sorumlu olduğu bir hastalıktır ve özellikle gelişmiş ülkelerde cinsel yolla bulaşabilen hastalıkların en sık görülenidir.

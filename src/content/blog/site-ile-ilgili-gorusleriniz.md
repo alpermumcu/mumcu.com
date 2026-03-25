@@ -3,10 +3,11 @@ title: Site ile ilgili görüşleriniz
 pubDate: '2014-03-16T23:08:02'
 slug: site-ile-ilgili-gorusleriniz
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/site-ile-ilgili-gorusleriniz/
+originalUrl: 'https://www.mumcu.com/site-ile-ilgili-gorusleriniz/'
+readingTime: 1
 ---
 
 mumcu.com kadın sağlığı ve gebelik sitesi ve Dr. Alper Mumcu ile ilgili olumlu yada olumsuz her türlü görüşünüzü bu formu kullanarak iletebilirsiniz 

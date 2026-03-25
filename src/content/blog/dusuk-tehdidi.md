@@ -3,10 +3,11 @@ title: Düşük tehdidi
 pubDate: '2014-03-15T19:42:47'
 slug: dusuk-tehdidi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dusuk-tehdidi/
+originalUrl: 'https://www.mumcu.com/dusuk-tehdidi/'
+readingTime: 4
 ---
 
 Gebeliğin erken dönemlerinde görülen vajinal kanamalar düşük tehdidi olarak adlandırılır. Düşük tehdidinin en önemli özelliği rahim ağzında bir açılma veya herhangi bir değişiklik olmamasıdır.

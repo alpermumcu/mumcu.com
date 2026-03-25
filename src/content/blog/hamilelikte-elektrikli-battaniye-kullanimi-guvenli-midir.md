@@ -3,11 +3,12 @@ title: Hamilelikte elektrikli battaniye kullanımı güvenli midir?
 pubDate: '2017-11-09T15:25:45'
 slug: hamilelikte-elektrikli-battaniye-kullanimi-guvenli-midir
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/hamilelikte-elektrikli-battaniye-kullanimi-guvenli-midir/
+readingTime: 2
 ---
 
 Avrupa ve kuzey Amerika ülkeleri kadar yaygın olmasa da ülkemizde de kış aylarında elektrikli battaniye kullanımı giderek artış göstermektedir.

@@ -3,13 +3,14 @@ title: Çocuk sahibi olmak ömrü uzatıyor olabilir
 pubDate: '2017-04-06T00:01:12'
 slug: cocuk-sahibi-olmak-omru-uzatiyor-olabilir
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/cocuk-sahibi-olmak-omru-uzatiyor-olabilir/
+originalUrl: 'https://www.mumcu.com/cocuk-sahibi-olmak-omru-uzatiyor-olabilir/'
+readingTime: 2
 ---
 
-![](/wp-content/uploads/2017/04/family.jpg)
+![](../../images/uploads/2017/04/family.jpg)
 
 Uykusuz uzun geceler ve anne baba olmanın getirdiği stres uzun bir yaşamın sırrı gibi görünmüyor olabilir, ancak yayınlanan yeni bir çalışmanın sonuçlarına göre çocuk sahibi olmak anne babaların yaşam süresine fazladan birkaç yıl ekliyor olabilir.
 

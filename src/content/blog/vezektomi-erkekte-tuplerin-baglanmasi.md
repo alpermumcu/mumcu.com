@@ -3,15 +3,16 @@ title: Vezektomi Erkekte tüplerin bağlanması
 pubDate: '2014-03-24T14:33:51'
 slug: vezektomi-erkekte-tuplerin-baglanmasi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/vezektomi-erkekte-tuplerin-baglanmasi/
+originalUrl: 'https://www.mumcu.com/vezektomi-erkekte-tuplerin-baglanmasi/'
+readingTime: 4
 ---
 
 Erkek üreme sisteminin ana organı olan testislerin temel görevi gebelik için gerekli olan spermlerin üretilmesidir. Üretilen spermler vas deferens adı verilen kanallar tarafından taşınarak penis ucuna açılan ürethraya kadar ulaşır. Bu yolculuk sırasında prostat bezinden salgılanan sıvı içine karışarak orgazm sırasında penis dışına atılır. Orgazm sırasında erkekten boşalan sıvı testisler tarafından değil prostat bezi tarafından üretilir.
 
-![vaz_1](/wp-content/uploads/2014/03/vaz_1.gif)
+![vaz_1](../../images/uploads/2014/03/vaz_1.gif)
 
 Spermin üretim yeri olan testislerden ürehtraya kadar taşınmasının önünde bulunan bir engel menide hiç sperm bulunmaması yani azospermi ile sonuçlanır. Obstrüktif yani tıkanma nedenli azospermi olarak adlandırılan bu durum erkek kısırlığının nedenlerinden birisidir ve tedavisi cerrahi olarak sperm aramayı takiben mikroenjeksiyondur. Bu tıkanıklığın istenmeyen gebelikleri engellemek amacıyla bilinçli olarak cerrahi yöntemler ile yapılması ise vazektomi olarak adlandırılır.
 
@@ -41,7 +42,7 @@ Vazektominin etkinliği teorik olarak %100 olmakla birlikte teorikte bu oran bir
 **İşlem nasıl yapılır?**  
 Vezektomi işlemi lokal anestezi altında ve muayenehane şartlarında üroloji uzmanları tarafından yapılır. Oldukça kolay ve güvenli bir işlemdir. Testisler erkek vücudu dışında skrotum adı verilen torbaların içinde bulunur. Lokal anestezi yapılmasını takiben skrotum derisi üzerinde kçük bir kesi yapılarak vas deferensler bulunur, cilt dışına alınıp bağlandıktan sonra kısa bir parça kesilir ve kalan uçlar koter ile yakılarak tahrip edilir. Cilde kendiliğinden eriyen dikiş konur. NonScapel Vasectomy (NSV) adı verien teknikte ise bistüri ile kesi yapılmadan ince ve sivri uçlu aletler ile skrotum derisinde delik açılarak işlem tamamlanır. NSV tekniğinde işlem sonrası ağrı çok daha az olmaktadır. İşlem yaklaşık 30 dakika sürer ve hastanede yatmayı ya da istirahati gerektirmez. Takip eden dönemde ağızdan ağrıkesici almayı gerektirecek şiddette ağrı olabilir.
 
-![vaz_2](/wp-content/uploads/2014/03/vaz_2.gif)
+![vaz_2](../../images/uploads/2014/03/vaz_2.gif)
 
 **Riskler ve komplikasyonlar**  
 Her cerrahi işlemde olduğu gibi vazektomi de bir takım komplikasyonların görülme riski vardır:

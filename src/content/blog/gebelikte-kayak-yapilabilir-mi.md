@@ -3,10 +3,11 @@ title: Gebelikte kayak yapılabilir mi
 pubDate: '2014-03-17T23:39:46'
 slug: gebelikte-kayak-yapilabilir-mi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-kayak-yapilabilir-mi/
+originalUrl: 'https://www.mumcu.com/gebelikte-kayak-yapilabilir-mi/'
+readingTime: 2
 ---
 
 Gebelik sırasında kayak yapmak söz konusu olduğunda birden çok faktörü gözönüne almak gerekir.

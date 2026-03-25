@@ -3,10 +3,11 @@ title: Embryo Transferi
 pubDate: '2014-03-28T00:49:21'
 slug: embryo-transferi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/embryo-transferi/
+originalUrl: 'https://www.mumcu.com/embryo-transferi/'
+readingTime: 2
 ---
 
 Elde edilen döllenmiş yumurtalar embryo olarak adlandırılır. Embryolar iki hücreli aşamadan çok hücreli blastokist aşamasına kadar herhangi bir dönemde transfer edilebilmekle beraber, en sık tercih edilen transfer zamanı 4-8 hücreli aşamadır. Embryolar bu aşamaya genellikle 2 ya da üçüncü günde ulaşmaktadırlar. Embryo trasnferi 2-6. günler arasında yapılabilir.
@@ -23,6 +24,6 @@ Embryo transferi işlemi ağrılı bir işlem değildir ve anestezi gerektirmez.
 
 Embryo transferi sonrası 12. günde hasta gebelik testi için çağırılır.
 
-![amelhan](/wp-content/uploads/2014/03/amelhan.jpg)
+![amelhan](../../images/uploads/2014/03/amelhan.jpg)
 
 Transfer işleminin yapıldığı ameliyathane

@@ -3,14 +3,15 @@ title: Gebelikte hayvansal gıdaların yetersiz alınması erken doğuma neden o
 pubDate: '2017-01-29T08:50:45'
 slug: gebelikte-hayvansal-gidalarin-yetersiz-alinmasi-erken-doguma-neden-olabilir
 category:
-  - Güncel Haberler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/gebelikte-hayvansal-gidalarin-yetersiz-alinmasi-erken-doguma-neden-olabilir/
+readingTime: 2
 ---
 
-![](/wp-content/uploads/2017/01/et.jpg)
+![](../../images/uploads/2017/01/et.jpg)
 
 Değişik ülkelerden 11.216 hamile kadının incelendiği Norveç kaynaklı bir çalışmada yeteri kadar hayvansal gıda almayan hamile kadınların erken doğum yapma risklerinin arttığı ortaya konuldu.
 

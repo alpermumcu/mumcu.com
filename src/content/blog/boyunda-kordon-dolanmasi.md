@@ -3,15 +3,16 @@ title: Boyunda kordon dolanması
 pubDate: '2014-03-15T21:54:39'
 slug: boyunda-kordon-dolanmasi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/boyunda-kordon-dolanmasi/
+originalUrl: 'https://www.mumcu.com/boyunda-kordon-dolanmasi/'
+readingTime: 3
 ---
 
 Bebeklerin bir kısmı göbek kordonları boyunlarına dolanmış şekilde dünyaya gelirler. Kordon dolanması şeklinde adlandırılan bu durum halk arasında yaygın olarak bilinmektedir. Pekçok anne baba adayı doğumu düşünürken bebeklerinin boynunda kordon dolanması olup olmadığını merak ederler ve bundan endişe duyarlar. Özellikle problemli seyreden ve sonucunda bebekte sekel meydana gelen doğum öyküleri hamile kadınların en sık duyduğu öykülerdendir. Çoğu zaman çocuktaki kalıcı problemin nedeni olarak boynunda kordon dolanmış olması gösterilir. Oysa gerçek her zaman böyle değildir.
 
-![boyun](/wp-content/uploads/2014/03/boyun.jpg)
+![boyun](../../images/uploads/2014/03/boyun.jpg)
 
 **Kordon dolanması ne sıklıkta görülür?**  
 Kordon dolanması nadir karşılaşılan bir durum değildir. Bebeklerin yaklaşık %20-25’inde doğum sırasında, kordonun boyuna bir kere dolandığı görülür. Her 500 doğumdan birinde ise kordon boyuna iki kere dolanmış olarak izlenir. Literatürde boyuna dolanmış daha fazla sayıda kordon halkasının olduğu da bildirilmektedir. benim bu konudaki kişisel deneyimim 5 halkadır. Sezaryen ile doğum yapan bir annenin bebeğinde kordon 5 kez boyuna bir kez de bebeğin gövdesine dolanmıştı. Halen sorunsuz şekilde yaşamını devam ettiren bu bebek çok nadir karşılaşılan bir durumun örneğidir.
@@ -24,7 +25,7 @@ Bunun belirli bir nedeni yoktur. Hamileliğin erken dönemlerinde örneğin 18-1
 **Tanı**  
 Kordon dolanmasının tanısı en sık doğum sırasında bebeğin kafası çıktığı anda konur. Bazı durumlarda ise 36. hafta civarında ultarsonografide saptanabilir.
 
- ![usg_nuchal](http://www.mumcu.com/wp-content/uploads/2014/03/usg_nuchal.jpg)
+ ![usg_nuchal](http://www.mumcu.com../../images/uploads/2014/03/usg_nuchal.jpg)
 
 Doppler ultrasonda boyun etrafında  
 izlenen göbek kordonu
@@ -32,7 +33,7 @@ izlenen göbek kordonu
 **Kordon dolanması sorun yaratır mı?**  
 Bebeğin boynunun etrafında kordon dolanmış olması genellikle ciddi sorun yaratmaz. Kordonun özel yapısı içindeki damarların ve kordonun sıkışmasını engeller. Bu nedenle bebekler bu durumu kolaylıkla tolere edebilirler.
 
- ![kor_dog](/wp-content/uploads/2014/03/kor_dog.jpg)
+ ![kor_dog](../../images/uploads/2014/03/kor_dog.jpg)
 
 Sezaryende saptanan boynuna kordon dolanmış bir bebek
 

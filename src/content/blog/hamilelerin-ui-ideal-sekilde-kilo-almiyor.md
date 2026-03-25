@@ -3,10 +3,11 @@ title: Hamilelerin %75&#8217;i ideal şekilde kilo almıyor
 pubDate: '2017-06-15T06:40:06'
 slug: hamilelerin-ui-ideal-sekilde-kilo-almiyor
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelerin-ui-ideal-sekilde-kilo-almiyor/
+originalUrl: 'https://www.mumcu.com/hamilelerin-ui-ideal-sekilde-kilo-almiyor/'
+readingTime: 1
 ---
 
 Asya Amerika ve Avrupa’da yapılan geniş kapsamlı bir çalışmanın sonuçları hamile kadınların %23’ünün yeteri kadar kilo almadığını, buna karşılık %50’den fazlasının erken doğum ve sezeryan riskini arttıracak derecede çok fazla kilo aldığını ortaya koydu.

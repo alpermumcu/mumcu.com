@@ -3,11 +3,11 @@ title: Doğum odasında biraz daha sabır
 pubDate: '2014-03-17T01:14:37'
 slug: dogum-odasinda-biraz-daha-sabir
 category:
-  - Güncel Haberler
-  - Haberler | Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-odasinda-biraz-daha-sabir/
+originalUrl: 'https://www.mumcu.com/dogum-odasinda-biraz-daha-sabir/'
+readingTime: 3
 ---
 
 6 Mart 2014

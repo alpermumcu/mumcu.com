@@ -3,10 +3,11 @@ title: Hasta Hakları
 pubDate: '2012-03-27T15:36:44'
 slug: hasta-haklari
 category:
-  - Gündelik Konular
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hasta-haklari/
+originalUrl: 'https://www.mumcu.com/hasta-haklari/'
+readingTime: 2
 ---
 
 \[box\] Hasta ve hasta yakını olarak haklarınzı bilin ve sahip çıkın \[/box\]

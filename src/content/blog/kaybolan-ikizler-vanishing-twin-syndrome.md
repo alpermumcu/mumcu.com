@@ -3,10 +3,11 @@ title: Kaybolan ikizler (Vanishing twin syndrome)
 pubDate: '2014-03-17T01:55:27'
 slug: kaybolan-ikizler-vanishing-twin-syndrome
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/kaybolan-ikizler-vanishing-twin-syndrome/
+originalUrl: 'https://www.mumcu.com/kaybolan-ikizler-vanishing-twin-syndrome/'
+readingTime: 4
 ---
 
 Ultrasonun yaygın kullanıma girmesi ile hamilelikler 5-6 hafta gibi son derece erken sayılabilecek bir dönemde saptanabilmekte, hatta gebeliğin gidişatı ile ilgili fikir elde edilebilmektedir. Ultrasonun bu yaygın kullanımı çok ilgi çekici bir durumun varlığının farkına varılmasına aracı olmuştur. Hamileliklerin bir kısmı çok erken dönemde birden fazla fetus içerecek şekilde yani ikiz ya da üçüz olarak başlamakta ancak daha sonraki kontrollerde bu bebeklerden ya da daha doğru bir deyişle gebelik keselerinden biri hiçbir iz bırakmadan kaybolmaktadır. Bu durum “kaybolan ikiz” (vanishing twin) sendromu olarak adlandırılır.

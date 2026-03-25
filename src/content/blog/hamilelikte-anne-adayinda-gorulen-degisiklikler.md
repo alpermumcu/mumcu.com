@@ -3,10 +3,11 @@ title: Hamilelikte anne adayında görülen değişiklikler
 pubDate: '2014-03-15T16:05:57'
 slug: hamilelikte-anne-adayinda-gorulen-degisiklikler
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-anne-adayinda-gorulen-degisiklikler/
+originalUrl: 'https://www.mumcu.com/hamilelikte-anne-adayinda-gorulen-degisiklikler/'
+readingTime: 3
 ---
 
 Gebelik kadının hayatında yaşadığı en önemli deneyimlerden birisidir. Hem duygusal hem de fizyolojik olarak pekçok değişikliği beraberinde getirir. Kendisini nelerin beklediğini bilmeyen gebe bu duruma uyum sağlamada güçlük yaşayabilir. Bu değişimlerin iyi anlaşılması normal ve anormal ayrımının sağlıklı yapılabilmesi için son derece önemlidir. Bu değişimlerin çok büyük bir kısmı fetus ve plasentadan gelen hormonlara bağlı olarak ortaya çıkar.

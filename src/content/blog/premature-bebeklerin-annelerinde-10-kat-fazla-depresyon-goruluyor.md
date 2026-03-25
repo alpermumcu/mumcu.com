@@ -3,11 +3,12 @@ title: Prematüre bebeklerin annelerinde 10 kat fazla depresyon görülüyor
 pubDate: '2016-08-01T00:34:17'
 slug: premature-bebeklerin-annelerinde-10-kat-fazla-depresyon-goruluyor
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/premature-bebeklerin-annelerinde-10-kat-fazla-depresyon-goruluyor/
+readingTime: 2
 ---
 
 Yapılan bir çalışmaya göre zamanında doğan sağlıklı bebeklerin ebeveynleri ile karşılaştırıldığında ileri derecede prematüre bebeği olan anne babalarda 10 kat daha fazla depresyon görülüyor.

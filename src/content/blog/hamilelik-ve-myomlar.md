@@ -3,10 +3,11 @@ title: Hamilelik ve miyomlar
 pubDate: '2014-03-17T01:49:11'
 slug: hamilelik-ve-myomlar
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-myomlar/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-myomlar/'
+readingTime: 6
 ---
 
 Halk arasında ur olarak da tanımlanan myomlar kadın üreme sisteminde en sık karşılaşılan kitlelerdir. Her 4-5 kadından birisinde myom olmakla birlikte hastaların dörtte üçü herhangi bir belirti vermediği için kendisinde myom olduğundan habersizidir.
@@ -36,7 +37,7 @@ Rahim içinde olan myomlarda uygun olan tedavi şekli histeroskopi adı verilen 
 
 Gebelikte myomların neden olabileceği sorunlar myomun yerleşim yerine, büyüklüğüne ve sayısına bağlıdır. Örneğin rahimin içine doğru büyüyen ya da kendisi rahim içinde olan myomlar tekrarlayan düşüklere neden olabilirler.
 
-![Sezaryen sırasında çıkardığımız en büyüğü 15 cm olan miyomlar ](/wp-content/uploads/2014/03/miyom300.jpg)
+![Sezaryen sırasında çıkardığımız en büyüğü 15 cm olan miyomlar ](../../images/uploads/2014/03/miyom300.jpg)
 
 Sezaryen sırasında çıkardığımız en büyüğü 15 cm olan miyomlar
 
@@ -69,7 +70,7 @@ Eğer myomların yerleşimi çok derin değilse, myomlar sezaryen ile aynı kesi
 
 Rahimin yüzeyinde bulunan 1 santimetre civarındaki myomlar ise koter adı verilen bir cihaz yardımı ile ısı uygulanarak tahrip edilebilir.
 
-![sec_miy_1](/wp-content/uploads/2014/03/sec_miy_1.jpg)
+![sec_miy_1](../../images/uploads/2014/03/sec_miy_1.jpg)
 
 Sezaryen sırasında myomu çıkartıp çıkartmamak o esnada cerrahın verebileceği bir karardır. Resimde sezaryen sırasında tek bir hastadan çıkarttığımız ve büyüklükleri 1-10 santimetre arasında değişen toplamn 11 adet myom görülmektedir.
 

@@ -3,10 +3,11 @@ title: Acil Kontrasepsiyon
 pubDate: '2014-03-24T14:36:54'
 slug: acil-kontrasepsiyon
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/acil-kontrasepsiyon/
+originalUrl: 'https://www.mumcu.com/acil-kontrasepsiyon/'
+readingTime: 5
 ---
 
 Korunmasız girilen bir cinsel ilişkiden hemen sonra istenmeyen bir gebeliğin önüne geçilmesi amacıyla uygulanan doğum kontrol yöntemleri acil kontrasepsiyon olarak adlandırılır.Günümüzde bu amaçla kullanılan iki yöntem hormonal kontrasepisyon ya da rahim içi araç (RİA) (spiral) yerleştirilmesidir. En sık bilinçli olark girilen korunmasız bir ilişki sonrasında kullanılmakla birlikte örneğin prezervatfin yırtılması gibi beklenmeyen durumların ortaya çıkması halinde de kullanılmaktadır. Bir diğer uygulama alanı ise tecavüz mağdurlarıdır.

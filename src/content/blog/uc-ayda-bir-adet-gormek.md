@@ -3,10 +3,11 @@ title: Üç ayda bir adet görmek
 pubDate: '2014-03-24T14:09:22'
 slug: uc-ayda-bir-adet-gormek
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/uc-ayda-bir-adet-gormek/
+originalUrl: 'https://www.mumcu.com/uc-ayda-bir-adet-gormek/'
+readingTime: 5
 ---
 
 Adet görmek her kadın için farklı bir anlam içerir. Bazı kadınlar için bu bir sağlık belirtisiyken özellikle bu dönemlerini sorunlu yaşayanlar için kabus halini alabilir. Tüm dünyada yapılan anketlerin pekçoğunda kadınların büyük kısmının daha az sıklıkta adet görmekten hoşnut olacaklarını belirtmektedirler.

@@ -3,10 +3,11 @@ title: Stres çocuk sahibi olmayı geciktirebiliyor
 pubDate: '2014-12-09T22:43:31'
 slug: stres-cocuk-sahibi-olmayi-geciktirebiliyor
 category:
-  - Güncel Haberler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/stres-cocuk-sahibi-olmayi-geciktirebiliyor/
+originalUrl: 'https://www.mumcu.com/stres-cocuk-sahibi-olmayi-geciktirebiliyor/'
+readingTime: 2
 ---
 
 Stresin kalp hastalıkları ve depresyon gibi durumlara neden olduğu çok uzun zamandır bilinen bir gerçek ancak yapılan son bir araştırmada stresin gebe kalma konusunda zorluk yaşayan kadınlar da altta yatan sebeplerden biri olabileceği gösterilmiş

@@ -3,10 +3,11 @@ title: Anormal vajinal kanamalar
 pubDate: '2014-03-22T17:42:16'
 slug: anormal-vajinal-kanamalar
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/anormal-vajinal-kanamalar/
+originalUrl: 'https://www.mumcu.com/anormal-vajinal-kanamalar/'
+readingTime: 4
 ---
 
 Her kadın zaman zaman adet duzeninde sapmalar, gecikmeler ya da ara kanamalar yaşayabilir. Normal insan hayatında yaşanılan stresler, sıkıntılar, ani kilo değişiklikleri, spor, üzüntüler gibi pekçok faktör adet düzenini etkileyebilir ve adeta bir saat gibi işleyen bu mekanizmada sapmalara neden olabilir. Adet düzenindeki sapmaların hiçbir türlüsü normal değildir ve araştırılması gerekir. Çünkü kadın üreme sistemindeki hemen hemen bütün patolojilerin en sık verdiği belirti adet düzensizlikleridir. Her adet duzensizliği anormal olmasına rağmen herzaman bir patolojiyi, kisti, myomu ya da en korkuncu kanseri işaret etmez. Altta yatan anatomik bir patoloji olmadığı halde normal adet düzeninde meydana gelen anormal kanamalara disfonksiyonel uterin kanama (DUK) adı verilir.Burada önemli olan nokta kanama bozukluğunu açıklayacak organik bir lezyonun bulunmamasıdır. İlk kez 1927 yılında tanımlanan bu tabloya methropathia hemorrhagica ya da başka bir deyişle metropatik uterus adı verilmiştir, günümüzde ise disfonksiyonel uterin kanamalar başlığı altında incelenmektedir.

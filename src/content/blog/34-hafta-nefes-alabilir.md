@@ -3,10 +3,11 @@ title: 34. Hafta &#8211; Nefes alabilir
 pubDate: '2014-03-30T21:12:49'
 slug: 34-hafta-nefes-alabilir
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/34-hafta-nefes-alabilir/
+originalUrl: 'https://www.mumcu.com/34-hafta-nefes-alabilir/'
+readingTime: 2
 ---
 
 Bebeğinizin akciğerlerinde büyük bir olasılıkla artık surfaktan adı verilen madde vardır. Surfaktan, akciğerlerde havalanmayı sağlayan alveollerin içindeki havayı boşalttıktan sonra duvararının birbirine yapışmasını önleyen maddedir. Zamanından çok önce doğan bebeklerde yoğun bakımda surfaktan dışarıdan verilir. Bebeğinizin akciğerlerinde surfaktan olması doğum durumunda solunum problemi yaşama olasılığının çok azaldığı anlamına gelir.

@@ -3,10 +3,11 @@ title: 6. Hafta &#8211; Yüzü oluşuyor
 pubDate: '2014-03-31T04:11:22'
 slug: 6-hafta
 category:
-  - Hafta Hafta Gebelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/6-hafta/
+originalUrl: 'https://www.mumcu.com/6-hafta/'
+readingTime: 3
 ---
 
 Belki de hala daha gebe olduğunuzu size fark ettirecek şikayetleriniz yok. Gebelik öncesi yaşantınız ile hiçbir fark göremiyorsunuz. Bilmelisiniz ki içinizde bir fabrika var ve hayal bile edemeyeceğiniz kadar hızlı çalışıyor. Embryonun tek tek her hücresi sürekli faaliyet halinde. Bu faliyetin sonucu olarak bazı şikayetlerde yavaş yavaş ortaya çıkmaya başlıyor. Pek çok kadın gibi sizde özelikle sabahları uyandığınızda midenizin bulandığını fark edebilir hatta kusabilirsiniz. Eskiden sizi cezbeden yemek kokuları artık size tiksinti veriyor ya da eşinizin o çok sevdiğiniz parfümünün birden bire aslında hiç de güzel olmadığını fark ettiniz. İş arkadaşınızın sigarası hiç sizi bu kadar rahatsız etmemişti. Aslında tüm bu kokular yine eskisi gibi. Değişen sizsiniz. Gebelik hormonlarının beyninizdeki bulantı merkezini uyarması neticesinde olan bu durum emesis gravidarum olarak adlandırılır. Eğer bulantı ve kusmalar sizin yaşantınızı ve beslenmenizi etkileyecek kadar şiddetli olur ise hiperemesis gravidarum tablosu gelişti demektir.Bu durumda ilaç kullanmanız gerekebilir.

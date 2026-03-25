@@ -3,10 +3,11 @@ title: Hamilelik ve yüksek ateş
 pubDate: '2014-03-17T02:42:41'
 slug: hamilelik-ve-yuksek-ates
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-yuksek-ates/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-yuksek-ates/'
+readingTime: 5
 ---
 
 Halk arasında ateş olarak da tanımlanan vücut sıcaklığının anormal derecede yükselmesi “**hipertermi**” olarak adlandırılır. İnsanlardaki normal vücut sıcaklığı 37 santigrad derecedir.Bu değerin 38.9 santigrad derecenin üstüne çıkması ve belirli bir süre bu değerde kalması hamile bir kadında sorunlara neden olabilir. Hipertermi enfeksiyonlar, sıcak banyolar, egzersiz, sauna gibi nedenlere bağlı olarak gelişebilir.

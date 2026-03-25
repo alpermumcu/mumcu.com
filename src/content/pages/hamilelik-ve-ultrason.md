@@ -6,40 +6,40 @@ parent: 0
 menuOrder: 0
 ---
 
-> [Ultrason Hakkında genel bilgiler](?p=873)
+> [Ultrason Hakkında genel bilgiler](/blog/hamilelikte-ultrason-neden-yapilir/)
 > 
 > [Ultrasonun tarihçesi](?p=875)
 > 
 > [Hamilelikle ultrason zararlı mıdır?](?p=877)
 > 
-> [Hamilelikte ultrason neden yapılır?](?p=879)
+> [Hamilelikte ultrason neden yapılır?](/blog/hamilelikte-ultrason-neden-yapilir/)
 > 
-> [Erken gebelik ultrasonografisi](?p=881)
+> [Erken gebelik ultrasonografisi](/blog/erken-gebelik-ultrasonografisi/)
 > 
-> [Rutin gebelik ultrasonografisi](?p=884)
+> [Rutin gebelik ultrasonografisi](/blog/rutin-gebelik-ultrasonografisi/)
 > 
-> [Detaylı Ultrasonografi](?p=887)
+> [Detaylı Ultrasonografi](/blog/detayli-ultrasonografi/)
 > 
-> [Hamilelikte ultrason ne sıklıkta yapılmalıdır?](?p=889)
+> [Hamilelikte ultrason ne sıklıkta yapılmalıdır?](/blog/hamilelikte-ultrason-ne-siklikta-yapilmalidir/)
 > 
-> [Cinsiyet tespiti](?p=891)
+> [Cinsiyet tespiti](/blog/13-hafta-ilk-trimester-sonu/)
 > 
-> [Doppler ultrasonografi](?p=895)
+> [Doppler ultrasonografi](/blog/doppler-ultrasonografi/)
 > 
-> [3 ve 4 boyutlu ultrasonografi](?p=899)
+> [3 ve 4 boyutlu ultrasonografi](/blog/3-ve-4-boyutlu-ultrason/)
 > 
-> [Ultrason resimleri](?p=902)
+> [Ultrason resimleri](/blog/ultrason-resimleri/)
 > 
-> [3 Boyutlu ultrason resimleri](?p=926)
+> [3 Boyutlu ultrason resimleri](/blog/3-boyutlu-ultrason-resimleri/)
 > 
-> [Gebelik kesesi](?p=940)
+> [Gebelik kesesi](/blog/gebelik-kesesi-olcumu-normal-degerleri/)
 > 
-> [Baş popo mesafesi](?p=943)
+> [Baş popo mesafesi](/blog/bas-popo-mesafesi-olcumu-normal-degerleri/)
 > 
 > [Kafa çapı](?p=946)
 > 
-> [Femur uzunluğu](?p=949)
+> [Femur uzunluğu](/blog/buyume-grafikleri/)
 > 
-> [Karın çevresi](?p=952)
+> [Karın çevresi](/blog/fetal-karin-cevresi-olcumunun-normal-degerleri/)
 > 
-> [Büyüme grafikleri](?p=955)
+> [Büyüme grafikleri](/blog/buyume-grafikleri/)

@@ -3,13 +3,14 @@ title: Gebelik ve Alkol Kullanımı
 pubDate: '2014-03-16T19:25:50'
 slug: gebelik-ve-alkol-kullanimi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-ve-alkol-kullanimi/
+originalUrl: 'https://www.mumcu.com/gebelik-ve-alkol-kullanimi/'
+readingTime: 4
 ---
 
-**![sarap](/wp-content/uploads/2014/03/sarap.jpg)Hamilelikte alkol ne zaman ve ne kadar?**
+**![sarap](../../images/uploads/2014/03/sarap.jpg)Hamilelikte alkol ne zaman ve ne kadar?**
 
 Hamile kadınların “ara sıra alkol alabilir miyim?” sorusuyla sık sık karşılaşıyoruz. Bu soruya verilebilecek çok net bir cavap yok, çünkü hiç kimse hangi sıklıkta ve ne miktarda alkolün gelişmekte olan bebeğe zarar verebileceğini tam olarak bilmiyor. Bu nedenle ben de dahil olmak üzere pek çok uzman, hamile kadınların mümkün olduğunca alkolden uzak durmalarını öneriyoruz.
 
@@ -25,7 +26,7 @@ Alkolün bebek üzerindeki etkileri birden fazla mekanizmayla ortaya çıkar. Ö
 
 Amerikan Obstetrisyen ve Jinekologlar Cemiyeti günde iki kadehten daha fazla alkol kullanımını “**ağır alkol kullanımı**” olarak tanımlamaktadır. Bu tür kadınların alkolden etkilenmiş bebek dünyaya getirme riskleri çok daha yüksektir.Bu etkilerin en şiddetlisi **fetal alkol sendromu**dur (FAS). FAS durumunda bebekte yüz ve kalpte anomaliler bulunduğu gibi zeka ve gelişme geriliği de görülür.Ayrıca bu bireylerde davranış bozuklukları oldukça yaygındır. FAS’lı bebeklerin önemli bir kısmında hafıza bozukluğu bulunur. Bu bebeklerde motor bozukluklara da sıkça rastlanır. Özellikle el ve göz arasındaki koordinasyon bozulmuştur. FAS’nun bir başka belirtiside bu hastalığa sahip bireylerin karar verme ve muahkeme yeteneklerindeki azalmadır.
 
- ![fas1](/wp-content/uploads/2014/03/fas1.jpg)
+ ![fas1](../../images/uploads/2014/03/fas1.jpg)
 
 **FAS’da görülen yüz defektleri**
 

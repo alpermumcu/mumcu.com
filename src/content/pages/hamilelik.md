@@ -6,215 +6,215 @@ parent: 0
 menuOrder: 0
 ---
 
-> ##### ![sorunsuz](/wp-content/uploads/2014/03/sorunsuz.jpg)**Hamile kalmaya karar verdiğinizde…**
+> ##### ![sorunsuz](../../images/uploads/2014/03/sorunsuz.jpg)**Hamile kalmaya karar verdiğinizde…**
 > 
-> [Sağlıklı bir hamilelik dönemi geçirmek, sağlıklı ve rahat bir doğum yapmak ve sağlıklı bir bebeğe sahip olmak için hamile kalmaya karar verdiğinizde doktorunuzla görüşmeniz önemlidir.](/hamilelik/?p=159)
+> [Sağlıklı bir hamilelik dönemi geçirmek, sağlıklı ve rahat bir doğum yapmak ve sağlıklı bir bebeğe sahip olmak için hamile kalmaya karar verdiğinizde doktorunuzla görüşmeniz önemlidir.](/blog/hamile-kalmaya-karar-verdiginizde/)
 
-> ##### ![cinsellik](/wp-content/uploads/2014/03/cinsellik.jpg)**Hamile Kalmak İsteyenler İçin Cinsellik**
+> ##### ![cinsellik](../../images/uploads/2014/03/cinsellik.jpg)**Hamile Kalmak İsteyenler İçin Cinsellik**
 > 
-> [İstemelerine rağmen gebelik elde edemeyen çiftlerden bazılarında altta yatan problem uygun zamanda ve yeterli sıklıkta ilişkinin olmaması, ya da uygulanan yanlış yöntemler gibi çok basit nedenler olabilir.](/hamilelik/?p=167)
+> [İstemelerine rağmen gebelik elde edemeyen çiftlerden bazılarında altta yatan problem uygun zamanda ve yeterli sıklıkta ilişkinin olmaması, ya da uygulanan yanlış yöntemler gibi çok basit nedenler olabilir.](/blog/gebelik-isteyenler-icin-uygun-seks/)
 
-> [Anne ve Yenidoğan Hakları](/hamilelik/?p=1691)
+> [Anne ve Yenidoğan Hakları](/blog/anne-ve-yenidogan-haklari/)
 > 
-> [Sorunsuz hamileliğe hazırlanmak](/hamilelik/?p=184)
+> [Sorunsuz hamileliğe hazırlanmak](/blog/sorunsuz-hamilelige-hazirlanmak/)
 > 
-> [Fertiliteyi koruma ve arttırma önerileri](/hamilelik/?p=187)
+> [Fertiliteyi koruma ve arttırma önerileri](/blog/fertiliteyi-koruma-ve-arttirma-onerileri/)
 > 
-> [Yumurta Dondurma-Çocuk sahibi olma patansiyelini korumak](/hamilelik/?p=2305) 
+> [Yumurta Dondurma-Çocuk sahibi olma patansiyelini korumak](/blog/yumurta-dondurma-cocuk-sahibi-olma-patansiyelini-korumak/) 
 > 
-> [Doğum öncesi izni](/hamilelik/?p=190)
+> [Doğum öncesi izni](/blog/dogum-oncesi-izni/)
 > 
-> [İleri yaşta gebelik](/hamilelik/?p=195)
+> [İleri yaşta gebelik](/blog/ileri-yasta-gebelik/)
 > 
-> [Folik asit](/hamilelik/?p=199)
+> [Folik asit](/blog/folik-asit/)
 > 
-> [Hamilelikte karın büyümesi](/hamilelik/?p=203)
+> [Hamilelikte karın büyümesi](/blog/hamilelikte-karin-buyumesi/)
 > 
-> [Bebeğin zekasını annenin genleri belirliyor](/hamilelik/?p=2719) 
+> [Bebeğin zekasını annenin genleri belirliyor](/blog/bebegin-zekasini-annenin-genleri-belirliyor/) 
 > 
 > [Endometrial scratch (rahim zarının çizilmesi) gebelik oranlarını arttırabilir](/hamilelik/?p=2566)
 > 
-> [Gebe kalmak isteyenler için beslenme önerileri](/hamilelik/?p=2057) 
+> [Gebe kalmak isteyenler için beslenme önerileri](/blog/gebe-kalmak-isteyenler-icin-beslenme-onerileri/) 
 > 
 > [Yiyecekler ve üreme potansiyeli. Gebe kalmak isteyen kadınlar neler yemeli?](/yiyecekler-ve-ureme-potansiyeli-gebe-kalmak-isteyen-kadinlar-neler-yemeli/)
 > 
-> [Bebek planlayanların işine yarayabilecek 7 öneri](/hamilelik/?p=2504 "Edit “Bebek planlayanların işine yarayabilecek 7 öneri”")
+> [Bebek planlayanların işine yarayabilecek 7 öneri](/blog/bebek-planlayanlarin-isine-yarayabilecek-7-oneri/)
 > 
-> [Çocuk sahibi olmak isteyenler yaşam tarzlarını gözden geçirmeli](/hamilelik/?p=2784)
+> [Çocuk sahibi olmak isteyenler yaşam tarzlarını gözden geçirmeli](/blog/cocuk-sahibi-olmak-isteyenler-yasam-tarzlarini-gozden-gecirmeli/)
 > 
-> [Hamile kalma şansınızı arttıracak 11 küçük hatırlatma](/hamilelik/?p=2877)
+> [Hamile kalma şansınızı arttıracak 11 küçük hatırlatma](/blog/hamile-kalma-sansinizi-arttiracak-11-kucuk-hatirlatma/)
 > 
 > [Yumurtalık rezervi testleri gebe kalma şansını yansıtmıyor](/hamilelik/?p=2987)
 > 
-> [İnfertilite ve depresyon](/hamilelik/?p=3195)
+> [İnfertilite ve depresyon](/blog/infertilite-ve-depresyon/)
 
-> [İdrarda yapılan gebelik testleri](/hamilelik/?p=207)
+> [İdrarda yapılan gebelik testleri](/blog/idrarda-yapilan-gebelik-testleri/)
 > 
-> [Hamileliğin belirtileri](/hamilelik/?p=211)
+> [Hamileliğin belirtileri](/blog/hamileligin-belirtileri/)
 > 
-> [Gebelikte doktor takipleri](/hamilelik/?p=214)
+> [Gebelikte doktor takipleri](/blog/gebelikte-doktor-takipleri/)
 > 
-> [Gebelik takiplerinde yapılan incelemeler (Prenatal testler)](/hamilelik/?p=218)
+> [Gebelik takiplerinde yapılan incelemeler (Prenatal testler)](/blog/gebelik-takiplerinde-yapilan-incelemeler-prenatal-testler/)
 > 
-> [Hamilelikte anne adayında görülen değişiklikler](/hamilelik/?p=221)
+> [Hamilelikte anne adayında görülen değişiklikler](/blog/hamilelikte-anne-adayinda-gorulen-degisiklikler/)
 > 
-> [Erken gebelikte sık karşılaşılan sorunlar](/hamilelik/?p=225)
+> [Erken gebelikte sık karşılaşılan sorunlar](/blog/erken-gebelikte-sik-karsilasilan-sorunlar/)
 > 
-> [Hamilelikte bulantı ve kusma (hiperemesis gravidarum)](/hamilelik/?p=228)
+> [Hamilelikte bulantı ve kusma (hiperemesis gravidarum)](/blog/hamilelikte-bulanti-ve-kusma-hiperemesis-gravidarum/)
 > 
-> [Gebelikte bulantı ve kusma ile başa çıkma önerileri](/hamilelik/?p=2234)
+> [Gebelikte bulantı ve kusma ile başa çıkma önerileri](/blog/gebelikte-bulanti-ve-kusma-ile-basa-cikma-onerileri/)
 > 
-> [Bulantı ve kusma iyi giden gebeliğin habercisi](/hamilelik/?p=2723)
+> [Bulantı ve kusma iyi giden gebeliğin habercisi](/blog/bulanti-ve-kusma-iyi-giden-gebeligin-habercisi/)
 > 
-> [Hamilelikte aşırı tükürük salgısı](/hamilelik/?p=231)
+> [Hamilelikte aşırı tükürük salgısı](/blog/hamilelikte-asiri-tukuruk-salgisi/)
 > 
-> [Gebelikte cilt değişiklikleri](/hamilelik/?p=233)
+> [Gebelikte cilt değişiklikleri](/blog/gebelikte-cilt-degisiklikleri/)
 > 
-> [Bebeğin ilk hareketi](/hamilelik/?p=240)
+> [Bebeğin ilk hareketi](/blog/bebegin-ilk-hareketi/)
 > 
-> [Bebeğin Hareketleri](/hamilelik/?p=251)
+> [Bebeğin Hareketleri](/blog/bebegin-hareketleri/)
 > 
-> [Gebeliğin son dönemleri](/hamilelik/?p=244)
+> [Gebeliğin son dönemleri](/blog/gebeligin-son-donemleri/)
 > 
-> [Anne karnında bebeğin duyularının gelişimi](/hamilelik/?p=247)
+> [Anne karnında bebeğin duyularının gelişimi](/blog/anne-karninda-bebegin-duyularinin-gelisimi/)
 > 
-> [Emzirirken yeniden gebe kalmak](/hamilelik/?p=254)
+> [Emzirirken yeniden gebe kalmak](/blog/emzirirken-yeniden-gebe-kalmak/)
 
-> [Düşük (Abortus)](/hamilelik/?p=257)
+> [Düşük (Abortus)](/blog/dusuk-abortus/)
 > 
-> [Boş gebelik](/hamilelik/?p=261)
+> [Boş gebelik](/blog/bos-gebelik/)
 > 
-> [Düşük tehdidi](/hamilelik/?p=265)
+> [Düşük tehdidi](/blog/dusuk-tehdidi/)
 > 
-> [Tekrarlayan Düşükler (Habitüel Abortus)](/hamilelik/?p=268)
+> [Tekrarlayan Düşükler (Habitüel Abortus)](/blog/tekrarlayan-dusukler-habituel-abortus/)
 > 
-> [Septik Abortus – Anne ölümlerinin önemli bir nedeni](/hamilelik/?p=271)
+> [Septik Abortus – Anne ölümlerinin önemli bir nedeni](/blog/anne-olumleri/)
 > 
-> [Kürtaj](/hamilelik/?p=274)
+> [Kürtaj](/blog/kurtaj/)
 > 
-> [Düşük Hapı (RU486)](/hamilelik/?p=1378)
+> [Düşük Hapı (RU486)](/blog/dusuk-hapi-ru486-2/)
 > 
-> [Hamilelikte aspirin ve progesteron kullanımı](/hamilelik/?p=280)
+> [Hamilelikte aspirin ve progesteron kullanımı](/blog/hamilelikte-aspirin-ve-progesteron-kullanimi/)
 > 
-> [Progesteron tekrarlayan gebelik kayıplarında yarar sağlamıyor](/hamilelik/?p=2389)
+> [Progesteron tekrarlayan gebelik kayıplarında yarar sağlamıyor](/blog/progesteron-tekrarlayan-gebelik-kayiplarinda-yarar-saglamiyor/)
 > 
-> [Anti fosfolipid sendrom](/hamilelik/?p=283)
+> [Anti fosfolipid sendrom](/blog/anti-fosfolipid-sendrom/)
 > 
-> [Düşükten sonra hemen gebe kalmak sağlıklı bebek şansını arttırıyor](/hamilelik/?p=2420)
+> [Düşükten sonra hemen gebe kalmak sağlıklı bebek şansını arttırıyor](/blog/dusukten-sonra-hemen-gebe-kalmak-saglikli-bebek-sansini-arttiriyor/)
 
-> [Dış gebelik](/hamilelik/?p=288)
+> [Dış gebelik](/blog/dis-gebelik/)
 > 
-> [Mol gebelik](/hamilelik/?p=291)
+> [Mol gebelik](/blog/mol-gebelik/)
 > 
-> [Yeri bilinmeyen gebelik](/hamilelik/?p=2001)
+> [Yeri bilinmeyen gebelik](/blog/yeri-bilinmeyen-gebelik/)
 
-> [Plasenta Previa](/hamilelik/?p=294)
+> [Plasenta Previa](/blog/plasenta-previa/)
 > 
-> [Placenta accreata](/hamilelik/?p=2472)
+> [Placenta accreata](/blog/placenta-accreata/)
 > 
-> [Abruptio placenta (plasentanın erken ayrılması, dekolman)](/hamilelik/?p=298)
+> [Abruptio placenta (plasentanın erken ayrılması, dekolman)](/blog/abruptio-placenta-plasentanin-erken-ayrilmasi-dekolman/)
 > 
-> [Gebelikte vajinal kanama](/hamilelik/?p=2183)
+> [Gebelikte vajinal kanama](/blog/gebelikte-vajinal-kanama/)
 > 
-> [Subkoriyonik hematom](/hamilelik/?p=2480)
+> [Subkoriyonik hematom](/blog/aspirin-subkoriyonik-hematom-riskini-arttiriyor/)
 
-> [Amniyon sıvısının fazla olması](/hamilelik/?p=318)
+> [Amniyon sıvısının fazla olması](/blog/amniyon-sivisinin-fazla-olmasi/)
 > 
-> [Amniyon sıvısının azalması](/hamilelik/?p=325)
+> [Amniyon sıvısının azalması](/blog/amniyon-sivisinin-azalmasi/)
 > 
 > [Oligihidramniyos](/hamilelik/?p=2501)
 > 
-> [Rahim içi gelişme geriliği](/hamilelik/?p=328)
+> [Rahim içi gelişme geriliği](/blog/rahim-ici-gelisme-geriligi/)
 > 
-> [Fetal gelişme kısıtlılığı](/hamilelik/?p=2497 "Edit “Fetal gelişme kısıtlılığı”")
+> [Fetal gelişme kısıtlılığı](/blog/fetal-gelisme-kisitliligi/)
 > 
-> [Zarların erken açılması](/hamilelik/?p=331)
+> [Zarların erken açılması](/blog/zarlarin-erken-acilmasi/)
 > 
-> [Erken Doğum](/hamilelik/?p=335)
+> [Erken Doğum](/blog/erken-dogum/)
 > 
-> [Gün aşımı](/hamilelik/?p=337)
+> [Gün aşımı](/blog/gun-asimi/)
 
-> [Amniyosentez](/hamilelik/?p=341)
+> [Amniyosentez](/blog/amniyosentez/)
 > 
-> [Koryon villus biopsisi](/hamilelik/?p=345)
+> [Koryon villus biopsisi](/blog/non-invazif-prenatal-testler/)
 > 
-> [Alfa feto protein (AFP)](/hamilelik/?p=347)
+> [Alfa feto protein (AFP)](/blog/alfa-feto-protein-afp/)
 > 
 > [Non invazif prenatal testler (cffDNA testi, cell free fetal DNA testi)](/hamilelik/?p=2349)
 > 
-> [İkili test (11-14 testi) ve fetal ense kalınlığı (NT)](/hamilelik/?p=349)
+> [İkili test (11-14 testi) ve fetal ense kalınlığı (NT)](/blog/ikili-test-11-14-testi-ve-fetal-ense-kalinligi/)
 > 
-> [Üçlü test](/hamilelik/?p=355)
+> [Üçlü test](/blog/uclu-test-triple-test/)
 > 
-> [Dörtlü test](/hamilelik/?p=357)
+> [Dörtlü test](/blog/dortlu-test/)
 > 
-> [NST](/hamilelik/?p=359)
+> [NST](/blog/38-hafta-artik-cok-az-kaldi/)
 > 
-> [CST](/hamilelik/?p=361)
+> [CST](/blog/dogumun-izlenmesi/)
 > 
 > [Biyofizik profil](/hamilelik/?p=363)
 
-> [Plasenta](/hamilelik/?p=372)
+> [Plasenta](/blog/372/)
 > 
 > [Plasenta Previa (önde gelen plasenta)](/hamilelik/plasenta-previa)
 > 
-> [Placenta accreata](/hamilelik/?p=2472)
+> [Placenta accreata](/blog/placenta-accreata/)
 > 
-> [Göbek kordonu](/hamilelik/?p=378)
+> [Göbek kordonu](/blog/gobek-kordonu/)
 > 
-> [Boyunda kordon dolanması](/hamilelik/?p=382)
+> [Boyunda kordon dolanması](/blog/boyunda-kordon-dolanmasi/)
 > 
-> [Göbek kordonunda düğüm](/hamilelik/?p=387)
+> [Göbek kordonunda düğüm](/blog/gobek-kordonunda-dugum/)
 > 
-> [Doğumda kordon sıkışması](/hamilelik/?p=391)
+> [Doğumda kordon sıkışması](/blog/dogumda-kordon-sikismasi/)
 > 
-> [Kordon sarkması](/hamilelik/?p=394)
+> [Kordon sarkması](/blog/kordon-sarkmasi/)
 > 
-> [Kordon kazaları (anne karnında bebek ölümü)](/hamilelik/?p=398)
+> [Kordon kazaları (anne karnında bebek ölümü)](/blog/kordon-kazalari-anne-karninda-bebek-olumu/)
 > 
-> [Kordon kanı saklanması](/hamilelik/?p=400)
+> [Kordon kanı saklanması](/blog/kordon-kani-saklanmasi/)
 
 > [Normal beta hCG değerleri](/hamilelik/?p=424)
 > 
-> [Karpal tünel sendromu](/hamilelik/?p=429)
+> [Karpal tünel sendromu](/blog/karpal-tunel-sendromu/)
 > 
 > [Gebelik ve astım](/hamilelik/?p=437)
 > 
-> [Bebek kız mı olsun erkek mi](/hamilelik/?p=440)
+> [Bebek kız mı olsun erkek mi](/blog/bebek-kiz-mi-olsun-erkek-mi/)
 
-> [Hamilelikte nefes darlığı](/hamilelik/?p=442)
+> [Hamilelikte nefes darlığı](/blog/hamilelikte-nefes-darligi/)
 > 
-> [Hamilelikte karın ağrıları](/hamilelik/?p=447)
+> [Hamilelikte karın ağrıları](/blog/hamilelikte-karin-agrilari/)
 > 
-> [Hamilelikte kabızlık](/hamilelik/?p=449)
+> [Hamilelikte kabızlık](/blog/hamilelikte-kabizlik/)
 > 
-> [Hamilelik ve göbek deliğinde ağrı](/hamilelik/?p=451)
+> [Hamilelik ve göbek deliğinde ağrı](/blog/hamilelik-ve-gobek-deliginde-agri/)
 > 
-> [Gebelik ve Hemoroid (Basur)](/hamilelik/?p=453)
+> [Gebelik ve Hemoroid (Basur)](/blog/gebelik-ve-hemoroid-basur/)
 > 
-> [Gebelikte burun kanaması](/hamilelik/?p=455)
+> [Gebelikte burun kanaması](/blog/gebelikte-burun-kanamasi/)
 > 
-> [Gebelik ve Hashimoto hastalığı](/hamilelik/?p=2357)
+> [Gebelik ve Hashimoto hastalığı](/blog/gebelik-ve-hashimoto-hastaligi/)
 > 
-> [Hamilelikte tansiyon düşüklüğü](/hamilelik/?p=3048)
+> [Hamilelikte tansiyon düşüklüğü](/blog/hamilelikte-tansiyon-dusuklugu/)
 
-> [Amniyotik band sendromu](/hamilelik/?p=457)
+> [Amniyotik band sendromu](/blog/amniyotik-band-sendromu/)
 > 
-> [Spina bifida](/hamilelik/?p=461)
+> [Spina bifida](/blog/spina-bifida/)
 > 
-> [Down sendromu](/hamilelik/?p=465)
+> [Down sendromu](/blog/anne-yasina-gore-bebekte-down-sendromu-gorulme-riski/)
 > 
-> [Anne yaşına göre bebekte down sendromu görülme riski](/hamilelik/?p=469)
+> [Anne yaşına göre bebekte down sendromu görülme riski](/blog/anne-yasina-gore-bebekte-down-sendromu-gorulme-riski/)
 
-> [Hamilelik ve Diş Sağlığı](/hamilelik/?p=511)
+> [Hamilelik ve Diş Sağlığı](/blog/hamilelik-ve-dis-sagligi/)
 > 
-> [Hamilelikte dişeti hastalıkları](/hamilelik/?p=513)
+> [Hamilelikte dişeti hastalıkları](/blog/hamilelikte-diseti-hastaliklari/)
 > 
-> [Diş röntgeni güvenli midir](/hamilelik/?p=515)
+> [Diş röntgeni güvenli midir](/blog/dis-rontgeni-guvenli-midir/)
 > 
-> [Diş tedavilerinde lokal anestezi](/hamilelik/?p=517)
+> [Diş tedavilerinde lokal anestezi](/blog/dis-tedavilerinde-lokal-anestezi/)
 > 
-> [Diş tedavileri ne zaman yapılmalıdır?](/hamilelik/?p=519)
+> [Diş tedavileri ne zaman yapılmalıdır?](/blog/dis-tedavileri-ne-zaman-yapilmalidir/)
 
 İKİNCİ BİR GÖRÜŞ ALIN
 

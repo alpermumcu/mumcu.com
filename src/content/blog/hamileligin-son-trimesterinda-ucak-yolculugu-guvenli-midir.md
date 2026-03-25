@@ -3,14 +3,15 @@ title: Hamileliğin son trimesterında uçak yolculuğu güvenli midir?
 pubDate: '2014-03-17T03:33:22'
 slug: hamileligin-son-trimesterinda-ucak-yolculugu-guvenli-midir
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/hamileligin-son-trimesterinda-ucak-yolculugu-guvenli-midir/
+readingTime: 1
 ---
 
-![ucak2](/wp-content/uploads/2014/03/ucak2.jpg)
+![ucak2](../../images/uploads/2014/03/ucak2.jpg)
 
 Pek çok havayolu şirketi kabul edilebilir nedenlerle hamileliğinin son dönemlerini yaşayan kadınları taşımayı istememektedir.Bunun en önemli nedeni anne ya da bebeğe yüklenen risk değil havada gerçekleşecek bir doğumun yaratacağı güçlüklerdir. Bu konuda her havayolu şirketinin kendi kuralları vardır.
 

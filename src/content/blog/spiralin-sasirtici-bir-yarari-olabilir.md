@@ -3,13 +3,14 @@ title: Spiralin şaşırtıcı bir yararı olabilir.
 pubDate: '2017-11-13T01:40:52'
 slug: spiralin-sasirtici-bir-yarari-olabilir
 category:
-  - Güncel Haberler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/spiralin-sasirtici-bir-yarari-olabilir/
+originalUrl: 'https://www.mumcu.com/spiralin-sasirtici-bir-yarari-olabilir/'
+readingTime: 2
 ---
 
-![](/wp-content/uploads/2017/11/spiral.jpg)
+![](../../images/uploads/2017/11/spiral.jpg)
 
 Dünyada istenmeyen gebeliklerin engellenmesi amacıyla en fazla kullanılan yöntemlerden biri olan rahim içi araç yani Türkçede kullandığımız şekliyle “spiral” doğum kontrolü dışında bir başka olumlu etkisi ile son dönemlerde gündemde.
 

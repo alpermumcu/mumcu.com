@@ -3,10 +3,11 @@ title: Cerrahlar empati kurmayı öğrenebilir mi?
 pubDate: '2015-04-18T05:55:15'
 slug: cerrahlar-empati-kurmayi-ogrenebilir-mi
 category:
-  - Gündelik Konular
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/cerrahlar-empati-kurmayi-ogrenebilir-mi/
+originalUrl: 'https://www.mumcu.com/cerrahlar-empati-kurmayi-ogrenebilir-mi/'
+readingTime: 5
 ---
 
 Cerrahlar olarak ameliyat yapmaktan çok hoşlandığımız bir gerçek bunu inkar etmenin bir anlamı yok. Pek çoğumuz için ameliyathane kendimizi en rahat hissettiğimiz ortam. Her sabah ameliyatlar başlamadan önceki sohbetler, ayak üzeri ufak atışmalar cerrahlar olarak en hoşumuza giden aktivitelerden.

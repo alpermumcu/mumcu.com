@@ -3,11 +3,12 @@ title: Gebelik takiplerinde yapılan incelemeler (Prenatal testler)
 pubDate: '2014-03-15T16:02:06'
 slug: gebelik-takiplerinde-yapilan-incelemeler-prenatal-testler
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/gebelik-takiplerinde-yapilan-incelemeler-prenatal-testler/
+readingTime: 13
 ---
 
 Gebelik takipleri sırasında düzenli aralıklarla doktor kontrollerine gitmeniz önerilir. Bu kontrollerde hem sizin genel sağlık durumunuz, hem de bebeğinizin büyüme ve gelişmesi kontrol edilirek olası bir problem saptanmaya çalışılır. Saptanan bir problem varlığında da uygun şekilde giderilmesi amacıyla gerekli tedaviler uygulanır.Gebelik takipleri sırasında yapılan rutin ve risk faktörü saptanması durumunda yapılan ileri incelemeler çok çeşitlidir.

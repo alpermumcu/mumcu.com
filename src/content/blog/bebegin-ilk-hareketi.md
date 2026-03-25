@@ -3,10 +3,11 @@ title: Bebeğin ilk hareketi
 pubDate: '2014-03-15T17:21:06'
 slug: bebegin-ilk-hareketi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/bebegin-ilk-hareketi/
+originalUrl: 'https://www.mumcu.com/bebegin-ilk-hareketi/'
+readingTime: 3
 ---
 
 Gebe bir kadının karnındaki bebeğin hareketlerini ilk kez hissetmesine quickening denir. Bu hareket pekçok gebe tarafından baloncuklar, kelebeğin kanat çırpması ya da karnın içinde gaz dolaşması olarak algılanır.

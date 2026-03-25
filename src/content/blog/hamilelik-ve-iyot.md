@@ -3,10 +3,11 @@ title: Hamilelik ve İyot
 pubDate: '2014-03-16T19:13:21'
 slug: hamilelik-ve-iyot
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-iyot/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-iyot/'
+readingTime: 3
 ---
 
 İyot vücudumuzun az miktarlarda gereksinim duyduğu metal olmayan eser elementlerden birisidir. Tiroid hormonlarının üretimi için gereklidir. İyot eksikliği tüm dünyada önemli bir sağlık sorunudur. Ülkemizde ise özellikle Karadeniz bölgesinde görülmektedir. İyot’un dünya üzerinde en fazla bulunduğu bölüm okyanuslardır.

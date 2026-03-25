@@ -3,11 +3,12 @@ title: Gebelikte sigara kullanımı bebekte işitme sorunlarına neden olabilir.
 pubDate: '2017-02-15T03:48:20'
 slug: gebelikte-sigara-kullanimi-bebekte-isitme-sorunlarina-neden-olabilir
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/gebelikte-sigara-kullanimi-bebekte-isitme-sorunlarina-neden-olabilir/
+readingTime: 3
 ---
 
 Sigara ve benzeri tütün ürünlerinin kullanımı pek çok sağlık riski ve doğum komplikasyonları İle ilişkilidir. Yeni yapılan bir çalışma doğum öncesinde ve sonrasında nikotine maruz kalmanın çocukta işitme problemleri neden olabileceğini düşündürüyor.

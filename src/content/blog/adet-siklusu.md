@@ -3,10 +3,11 @@ title: Adet siklusu
 pubDate: '2014-03-22T17:39:12'
 slug: adet-siklusu
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/adet-siklusu/
+originalUrl: 'https://www.mumcu.com/adet-siklusu/'
+readingTime: 6
 ---
 
 Adet siklusu (döngüsü) ilk adetten (menarş) son adete (menopoz) kadar süren, adet kanaması ile karakterize, amacı üreme ile soyun devamı olan ve tüm vücudu etkileyen olaylar zinciridir.
@@ -52,7 +53,7 @@ Adet kanaması ile birlikte yeni bir siklus başlar. Folikül gelişimi ile birl
 
 Korpus luteumun ömrü kısmen sabit olduğu için (14. gün) adet süklusunun süresini belirleyen ovülasyon öncesi dönem yani folliküler fazdır.
 
-![adet_dongu2](/wp-content/uploads/2014/03/adet_dongu2.jpg)
+![adet_dongu2](../../images/uploads/2014/03/adet_dongu2.jpg)
 
 **Adet görmek için gerekli şartlar**  
 1\. Beyinden hormon salgılanmalı  

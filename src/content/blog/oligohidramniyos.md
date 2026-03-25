@@ -3,10 +3,11 @@ title: Oligohidramniyos
 pubDate: '2016-05-15T10:00:05'
 slug: oligohidramniyos
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/oligohidramniyos/
+originalUrl: 'https://www.mumcu.com/oligohidramniyos/'
+readingTime: 5
 ---
 
 Oligohidramniyos yani daha anlaşılır bir ifade ile bebeğin suyunun azalması, bebeğin içinde bulunduğu amniyotik sıvının gebelik yaşına göre beklenilenden daha az olmasıdır. Tanı sadece ultrason incelemesi ile konabilir Tıbbı olarak bakıdığında herhangi bir ölçüm yapılmadan sadece azalmış olarak tanımlanabileceği gibi daha doğru bir yaklaşım ölçümler yaparak Amniyotik Fluid İndex (AFI) hesaplamaktır. Buna göre AFI 5 den az ise oligohidramniyos, AFI 5 ile 8 arasında ise sınırda oligohidromniyosdan soz edilir.

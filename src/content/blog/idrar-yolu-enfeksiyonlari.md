@@ -3,10 +3,11 @@ title: İdrar yolu enfeksiyonları
 pubDate: '2014-03-24T12:25:17'
 slug: idrar-yolu-enfeksiyonlari
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/idrar-yolu-enfeksiyonlari/
+originalUrl: 'https://www.mumcu.com/idrar-yolu-enfeksiyonlari/'
+readingTime: 7
 ---
 
 Her beş kadından biri hayatının herhangi bir döneminde idrar yolu enfeksiyonuna (İYE) yakalanır.  

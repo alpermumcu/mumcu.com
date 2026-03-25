@@ -3,10 +3,11 @@ title: A Vitamini
 pubDate: '2014-03-16T19:07:43'
 slug: a-vitamini
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/a-vitamini/
+originalUrl: 'https://www.mumcu.com/a-vitamini/'
+readingTime: 2
 ---
 
 A vitamini ilgili pekçok maddeye verilen genel ortak bir isimdir. Retinol ve retinal A vitamini öncülü maddelerdir. Retinal insan vücudunda bir A vitamini formu olan retinoik aside çevrilir. Beta karoten ve diğer karotenoidler ise provitamin A olarak adlandırılırlar ve vücutta retinole dönüştürülürler. Bitkilerde yüzlerce çeşit karotenioid üretilmesine rağmen bunların sadece %10’u provitamin A olarak kullanılabilir.

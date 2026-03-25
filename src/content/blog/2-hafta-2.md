@@ -3,10 +3,11 @@ title: 2. Hafta &#8211;  Yumurtlama zamanı
 pubDate: '2014-03-31T04:12:40'
 slug: 2-hafta-2
 category:
-  - Hafta Hafta Gebelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/2-hafta-2/
+originalUrl: 'https://www.mumcu.com/2-hafta-2/'
+readingTime: 2
 ---
 
 Anne adayının yumurtalıklarında yumurta hücresi gelişimi devam etmektedir. Bu esnada endometrium adı verilen rahim zarı da kalınlaşmaya başlamıştır. Bu kalınlaşmanın amacı döllenme meydana geldikten sonra oluşacak embryonun rahim içinde rahatlıkla tutunmasını sağlamaktır. Yeni gelişecek olan canlının ihtiyaçlarını karşılamak üzere vücudun bu kısmında kanlanma artar. Bu haftanın sonunda gelişen yumurta çatlayarak yumurtalıktan atılır. Yani yumurtlama meydana gelir.Bir adet döneminde kadında sadece 1 yumurta üretilir ve çatlar.  

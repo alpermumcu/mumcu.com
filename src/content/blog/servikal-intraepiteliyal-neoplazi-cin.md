@@ -3,10 +3,11 @@ title: Servikal intraepiteliyal neoplazi (CIN)
 pubDate: '2014-03-26T16:26:58'
 slug: servikal-intraepiteliyal-neoplazi-cin
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/servikal-intraepiteliyal-neoplazi-cin/
+originalUrl: 'https://www.mumcu.com/servikal-intraepiteliyal-neoplazi-cin/'
+readingTime: 3
 ---
 
 Rahim ağzı yani serviksin dış yüzü birkaç değişik hücre tabakasından meydana gelmektedir. Bu tabakaların altında bazal membran adı verilen bir duvar bulunur. Bu duvarın altında ise serviks başlar. Bazal membranın üstündeki tabakaları oluşturan hücrelerin yapısında ve şeklinde olan değişiklikler servikal intaepitheliyal neoplazi (CIN) ya da servikal intraepitheliyal lezyon (SIL) olarak adlandırılırlar.CIN hafif orta ve şiddetli olarak üçe ayrılır. Bunlara sırası ile CIN 1, CIN 2 ve CIN 3 denir. Servikste olay genellikle rahimin içini döşeyen zar ile serviksi kaplayan tabakanın birleştiği yerde başlar ve yayılır. Bu yayılma hem yanlara doğru hem de derinlere doğru olur.

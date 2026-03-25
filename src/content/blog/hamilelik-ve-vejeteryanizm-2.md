@@ -3,13 +3,14 @@ title: Hamilelik ve vejeteryanizm
 pubDate: '2014-03-17T02:37:37'
 slug: hamilelik-ve-vejeteryanizm-2
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-vejeteryanizm-2/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-vejeteryanizm-2/'
+readingTime: 5
 ---
 
-![vejeteryan2](/wp-content/uploads/2014/03/vejeteryan2.jpg)
+![vejeteryan2](../../images/uploads/2014/03/vejeteryan2.jpg)
 
 Vejeteryan diet denildiğinde hayvansal gıdaların dahil olmadığı bir beslenme şekli anlaşılır. Son zamanlarda bazı çevrelerde giderek popülerite kazanan bu beslenme tarzını benimseyen kadınlar hamilelikleri süresince de buna devam etmeyi isterler. Ancak vejeteryan beslenme şeklinin hamilelikteki etkileri konusunda çeşitli görüşler vardır. Genel kanı bilinçli şekilde ve uygun kombinasyonlar ile uygulandığında hamilelik açısından çok büyük bir risk oluşturmayacağıdır.
 

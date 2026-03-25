@@ -3,10 +3,11 @@ title: 'Kapalı rahim ameliyati: Laparoskopik histerektomi'
 pubDate: '2016-08-09T00:35:53'
 slug: kapali-rahim-ameliyati-laparoskopik-histerektomi
 category:
-  - Jinekoloji
+  - Cerrahi İşlemler
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/kapali-rahim-ameliyati-laparoskopik-histerektomi/
+originalUrl: 'https://www.mumcu.com/kapali-rahim-ameliyati-laparoskopik-histerektomi/'
+readingTime: 2
 ---
 
 Histerektomi yani rahim alınması ameliyatları tüm dünyada jinekologların en fazla gerçekleştirdikleri ameliyatların başıda gelmektedir.

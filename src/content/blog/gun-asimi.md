@@ -3,10 +3,11 @@ title: Gün aşımı
 pubDate: '2014-12-09T21:18:56'
 slug: gun-asimi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gun-asimi/
+originalUrl: 'https://www.mumcu.com/gun-asimi/'
+readingTime: 14
 ---
 
 Gebeliğin son zamanları neredeyse geçmek bilmez. Hem annenin cüsse olarak giderek büyümesi, hem de artık bebeğine kavuşma isteği haftalar ilerledikçe anne-baba adaylarını sabırsız eder. Beklenen doğum tarihi gelip çatıp da bebekte hala daha bir kıpırdanma yoksa hem sabırsızlık hem de endişe ister istemez artar.

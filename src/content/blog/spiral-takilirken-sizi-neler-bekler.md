@@ -3,10 +3,11 @@ title: Spiral takılırken sizi neler bekler
 pubDate: '2014-03-24T14:14:41'
 slug: spiral-takilirken-sizi-neler-bekler
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/spiral-takilirken-sizi-neler-bekler/
+originalUrl: 'https://www.mumcu.com/spiral-takilirken-sizi-neler-bekler/'
+readingTime: 3
 ---
 
 Herhangi bir doğum kontrol yöntemi uygulamaya karar verdiğinizde yöntem seçerken arkadaşlarınıza ya da çevrenizdekilere değil mutlaka jinekoloğunuza danışmalısınız. Eğer jinekoloğunuz sizi uzun zamandır tanıyorsa size uygun yöntemi önerecektir. Eğer aklınızadaki yöntem spiral ise ve ilk defa jinekoloğa gidiyorsanız doktorunuz sizin tıbbi geçmişiniz, önceden kullandığınız doğum kontrol yöntemleri ve cinsel hayatınız ile ilgili bazı sorular soracaktır. Bu sorulara doğru cevaplar gereklidir. Bu sayede jinekoloğunuz spiralin (RİA, rahim içi araç) sizin için uygun bir yöntem olup olmadığına karar verebilir.

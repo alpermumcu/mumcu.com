@@ -3,10 +3,11 @@ title: 2009 H1N1 enfeksiyonu (Domuz Gribi)
 pubDate: '2014-03-18T00:13:05'
 slug: 2009-h1n1-enfeksiyonu-domuz-gribi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/2009-h1n1-enfeksiyonu-domuz-gribi/
+originalUrl: 'https://www.mumcu.com/2009-h1n1-enfeksiyonu-domuz-gribi/'
+readingTime: 8
 ---
 
 Bu sayfada yer alan bilgiler temel olarak Amerikan Hastalık Kontrol ve Önleme Merkezinin web sitesinden alınmaktadır

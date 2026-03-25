@@ -3,10 +3,11 @@ title: 22. Hafta &#8211; Artık duyabiliyor
 pubDate: '2014-03-30T22:49:15'
 slug: 22-hafta-artik-duyabiliyor
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/22-hafta-artik-duyabiliyor/
+originalUrl: 'https://www.mumcu.com/22-hafta-artik-duyabiliyor/'
+readingTime: 2
 ---
 
 Bu haftaya ulaştığınızda bebeğinizle konuşabilir, ona birşeyler okuyabilir ya da şarkı söyleyebilirsiniz. Çünkü artık o sizi duyabilir. Hatta duymakla kalmaz seslere tepki de verebilir. Bu nedenle bebek gelişimi için yapılmış müzik CD’leri dinletebilirsiniz. Anne karnında klasik müzik dinlemenin ruhsal gelişime olumlu yönde etkisi olduğunu iddia eden çalışmalar mevcut. Bunlar doğru olmasa bile minik bebeğinizle birlikte biraz müzik dinlemenin, şarkı söylemenin ya da kitap okumanın ne zararı olabilir ki? Hatta bazı çalışmalar bebeğiniz doğmadan önce ona okuduğunuz kitapları, doğduktan sonra emzirirken yeniden okuduğunuzda minik yavrunuzun daha güçlü emeceğini iddia ediyorlar. Fantastik, değil mi?

@@ -3,10 +3,11 @@ title: 15. Hafta &#8211; Parmak emiyor
 pubDate: '2014-03-31T00:49:04'
 slug: 15-hafta-ikinci-trimester
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/15-hafta-ikinci-trimester/
+originalUrl: 'https://www.mumcu.com/15-hafta-ikinci-trimester/'
+readingTime: 2
 ---
 
 Bu haftanın sürpriz haberi: Bebeğinizin saçı çıkıyor. Gelişmekte olan bebeğin kafası üzerinde lanugo adı verilen ince ve ipeksi tüyler belirmeye başlar. Bu ilkel saçlar doğumda kaybolurlar.

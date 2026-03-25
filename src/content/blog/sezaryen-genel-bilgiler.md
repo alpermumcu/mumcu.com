@@ -3,13 +3,14 @@ title: Sezaryen &#8211; genel bilgiler
 pubDate: '2014-03-20T17:58:51'
 slug: sezaryen-genel-bilgiler
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/sezaryen-genel-bilgiler/
+originalUrl: 'https://www.mumcu.com/sezaryen-genel-bilgiler/'
+readingTime: 11
 ---
 
-![sez6](/wp-content/uploads/2014/03/sez6.jpg)
+![sez6](../../images/uploads/2014/03/sez6.jpg)
 
 Herkesin bildiği gibi hamile bir kadında bebeğin vajinal yoldan değil de karın boşluğunun cerrahi olarak açılarak doğurtulması işlemi sezaryen olarak adlandırılır. Sezaryen son zamanlarda tüm dünyada en çok gerçekleştirilen operasyonların başında gelmektedir ve sezaryen ile doğum oranları giderek artmaktadır.
 
@@ -36,7 +37,7 @@ Küçük bir not; ülkemizde anne ve bebeğin her ikisinin de yaşamını devam 
 
 Zaman içerisinde hem cerrahi hem de anestezi tekniklerindeki değişimler, ilaç sektöründeki buluşlar ve dikiş malzemeleri gibi pekçok faktörün etkisi ile sezaryen günümüzde son derece güvenli ve kolay bir ameliyat haline gelmiştir.
 
-![sectior](/wp-content/uploads/2014/03/sectior.jpg)
+![sectior](../../images/uploads/2014/03/sectior.jpg)
 
 **Hangi durumlarda sezaryen gereklidir?**  
 Pekçok durumda doğumun sezaryen ile yapılması gerekli olabilir. Genel olarak normal doğumun olanaksız ya da çok tehlikeli olduğu durumlarda anne adayı ve/veya bebeğin hayatını kurtarmak, ya da normal doğum eyleminin güvenli olmadığı hallerde sezaryen önerilir. Bazı endikasyonlar sadece anne adayının bazıları da sadece bebeğin iyiliği için, diğerleri ise hem anne adayı hem de bebeğin iyiliği içindir.

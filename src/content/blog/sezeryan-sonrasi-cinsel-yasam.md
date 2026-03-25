@@ -3,10 +3,11 @@ title: Sezeryan sonrası cinsel yaşam
 pubDate: '2018-09-09T07:11:12'
 slug: sezeryan-sonrasi-cinsel-yasam
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/sezeryan-sonrasi-cinsel-yasam/
+originalUrl: 'https://www.mumcu.com/sezeryan-sonrasi-cinsel-yasam/'
+readingTime: 2
 ---
 
 Sezeryan sonrası cinsel yaşantıya yeniden başlamak için pek çok kadın doktorunun doğum sonrası kontrolü takiben bunu güvenli bularak izin vermesini bekler.

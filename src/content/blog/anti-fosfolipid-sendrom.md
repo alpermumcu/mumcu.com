@@ -3,10 +3,11 @@ title: Anti fosfolipid sendrom
 pubDate: '2014-03-15T19:53:11'
 slug: anti-fosfolipid-sendrom
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/anti-fosfolipid-sendrom/
+originalUrl: 'https://www.mumcu.com/anti-fosfolipid-sendrom/'
+readingTime: 5
 ---
 
 Anti fosfolipid sendrom (APL) vücudun bağışıklık sistemini etkileyen sistemik bir hastalıktır. Vücudun bakteri ve virusler başta olmak üzere yabancı maddelere karşı olan savunma sistemi antikor (antibody) adı verilen maddeler tarafından sağlanır. Antikorlar vücuda yabancı olan proteinleri tanıyarak bunları etkisi hale getirmeye yarayan moleküllerdir. Bazı durumlarda ise bu antikorlar bilinmeyen bir nedenden dolayı bireyin kendi proteinlerini de sanki yabancı ve mücadele edilmesi gereken maddeler olarak görürler ve bunları da etkisiz hale getirmeye çalışırlar. Vücudun kendi yapıtaşlarına karşı olan bu durumlar otoimmün hastalıklar olarak adlandırılırlar. Otoimmün hastalıkların çok değişik türleri vardır. Bu hastalıklardan birisi de antifosfolipid sendrom olarak adlandırılan tablodur.

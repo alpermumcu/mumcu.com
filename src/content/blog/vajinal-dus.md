@@ -3,10 +3,11 @@ title: Vajinal Duş
 pubDate: '2014-03-24T12:28:36'
 slug: vajinal-dus
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/vajinal-dus/
+originalUrl: 'https://www.mumcu.com/vajinal-dus/'
+readingTime: 3
 ---
 
 **Vajinal duş nedir?**  

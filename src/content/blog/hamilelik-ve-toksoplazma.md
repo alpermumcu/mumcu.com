@@ -3,10 +3,11 @@ title: Hamilelik ve toksoplazma
 pubDate: '2014-03-18T00:08:04'
 slug: hamilelik-ve-toksoplazma
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-toksoplazma/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-toksoplazma/'
+readingTime: 6
 ---
 
 Pek çok kişi etraflarında bir kadının kediden bulaşan bir hastalık yüzünden düşük ya da ölü doğum yaptığı öykülerini duymuştur. Bu öyküler nedeni ile hamile kadınlar genelde kedi köpek gibi evcil hayvanlardan uzak durmaya çalışırlar. Hatta hamilelik öncesinde evlerinde bu tür evcil hayvan besleyenler ya bu dostlarını ebediyen terk ederler ya da bir tanıdıklarına vermeye çalışırlar. Hamilelikleri sırasında da kedi ya da köpek beslenen evlere pek uğramazlar.

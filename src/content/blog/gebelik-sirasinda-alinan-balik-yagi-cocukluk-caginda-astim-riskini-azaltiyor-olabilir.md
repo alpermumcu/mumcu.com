@@ -6,11 +6,12 @@ pubDate: '2017-01-09T00:07:23'
 slug: >-
   gebelik-sirasinda-alinan-balik-yagi-cocukluk-caginda-astim-riskini-azaltiyor-olabilir
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/gebelik-sirasinda-alinan-balik-yagi-cocukluk-caginda-astim-riskini-azaltiyor-olabilir/
+readingTime: 2
 ---
 
 Omega 3 yağ asitlerinin kalp hastalığını azaltmaktan bilişsel fonksiyonları korumaya sağlık açısından pek çok yararının olduğu biliniyor. Balık ve keten tohumunda bolca bulunan Omega 3 yağ asitleri piyasada satılan balık yağı kapsülleri ile de alınabiliyor.

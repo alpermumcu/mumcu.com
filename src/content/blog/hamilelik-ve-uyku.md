@@ -3,10 +3,11 @@ title: Hamilelik ve uyku
 pubDate: '2014-03-17T02:43:24'
 slug: hamilelik-ve-uyku
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-uyku/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-uyku/'
+readingTime: 5
 ---
 
 Gebeliğin ilk haftalarında anne olma düşüncesi ve heyecanı kadınların çoğunda uykusuzluğa yol açar. Aradan bir miktar zaman geçtikten sonra ise uyku hamile kadın için vazgeçilmez bir istek haline dönüşür. Sabah akşam sürekli uyuma isteği vardır. Hele gebelik bulantı ve kusmaları varsa, uyku esnasında bu şikayetler çok belirgin olmadığından kişi sürekli uyumak ister. Çoğu kadının eşi ve ailesi onun nasıl bu kadar çok uyuyabildiğini anlayamaz. İlk 6 ay bu şekilde gelip geçer.

@@ -3,13 +3,14 @@ title: NST (Non Stress Test)
 pubDate: '2014-03-15T21:32:15'
 slug: nst-non-stress-test
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/nst-non-stress-test/
+originalUrl: 'https://www.mumcu.com/nst-non-stress-test/'
+readingTime: 3
 ---
 
-![nst_1](/wp-content/uploads/2014/03/nst_1.jpg)
+![nst_1](../../images/uploads/2014/03/nst_1.jpg)
 
 Tipik olarak anne karnındaki bebeğin hareketleri fetal kalp atım hızında geçici bir artışı beraberinde getirir. Bu olay non stress test yani NST’nin temelini oluşturur.Normalde bebeğin kalp atım hızı sabit değildir. Saniyeler içersinde değişim gösterir. Buna atım variabilitesi adı verilir. Bu variabilitenin kaybı bebeğin oksijen seviyesinin kalp atım hızını düzenleyen merkezi sinir sitemi kısmının içindeki hücrelerde fonksiyon kaybına neden olabilecek düzeyin altına düştüğünü gösterir. Bu durum fetusun strese olan direncinin en alt seviyede olduğunun belirtisidir.
 
@@ -46,6 +47,6 @@ NST’de hatalı negatif oranı %1’den azdır. Hatalı negatifden kastedilen r
 **Fetal yaş ve NST**  
 32-34 haftalar arası NST’nin güvenilirliği kanıtlanmış olmasına rağmen 32. hafta öncesi güvenilirlik şüphelidir. 28-32. haftalar arasında test nonreaktif çıkar ise diğer bazı yöntemler ile bebeğin yeniden değerlendirilmesi önerilir.
 
- ![nstht6](/wp-content/uploads/2014/03/nstht6.jpg)
+ ![nstht6](../../images/uploads/2014/03/nstht6.jpg)
 
 Normal bir NST görünümü: Üstteki çizgiler kalp atımlarını alttaki çizgiler uterus kontraksiyonlarını göstermektedir. Kalp atımlarındaki sivrilikler atım hızındaki artışlardır.

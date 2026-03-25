@@ -3,10 +3,11 @@ title: Yumurtlama dönemindeki hemcinslerinizden sakının
 pubDate: '2014-04-09T13:04:01'
 slug: yumurtlama-donemindeki-hemcinslerinizden-sakinin
 category:
-  - Güncel Haberler
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/yumurtlama-donemindeki-hemcinslerinizden-sakinin/
+originalUrl: 'https://www.mumcu.com/yumurtlama-donemindeki-hemcinslerinizden-sakinin/'
+readingTime: 2
 ---
 
 26 Mart 2014

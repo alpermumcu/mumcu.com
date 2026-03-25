@@ -3,10 +3,11 @@ title: Zarların erken açılması
 pubDate: '2014-03-15T21:12:36'
 slug: zarlarin-erken-acilmasi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/zarlarin-erken-acilmasi/
+originalUrl: 'https://www.mumcu.com/zarlarin-erken-acilmasi/'
+readingTime: 3
 ---
 
 Normalde gebelik ürünü bir zar tabakası tarafından kaplanalan bir kese içinde bulunur. Bu keseye amniyon kesesi, çevreleyen zara amniyon zarı, içindeki sıvıya da amniyon mayii adı verilir.

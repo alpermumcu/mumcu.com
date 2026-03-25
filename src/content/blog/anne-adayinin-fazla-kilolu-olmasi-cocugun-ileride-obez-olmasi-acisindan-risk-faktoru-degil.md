@@ -6,11 +6,12 @@ pubDate: '2017-01-26T23:11:53'
 slug: >-
   anne-adayinin-fazla-kilolu-olmasi-cocugun-ileride-obez-olmasi-acisindan-risk-faktoru-degil
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/anne-adayinin-fazla-kilolu-olmasi-cocugun-ileride-obez-olmasi-acisindan-risk-faktoru-degil/
+readingTime: 1
 ---
 
 Gebelik sırasında fazla kilolu ya da obez olan kadınların iri bebek doğduğu bilinen bir gerçek. Ancak bu bebeklerin ergenlikte ya da yaşamlarının ileri dönemlerinde fazla kilolu ya da obez olup olmadıkları konusunda elde yeterli veri yok.

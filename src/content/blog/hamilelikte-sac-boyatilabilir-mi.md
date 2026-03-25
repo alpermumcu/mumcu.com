@@ -3,10 +3,11 @@ title: Hamilelikte saç boyatılabilir mi ?
 pubDate: '2014-03-17T23:32:19'
 slug: hamilelikte-sac-boyatilabilir-mi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-sac-boyatilabilir-mi/
+originalUrl: 'https://www.mumcu.com/hamilelikte-sac-boyatilabilir-mi/'
+readingTime: 2
 ---
 
 Hamileyken saçlarımı boyatabilir miyim?

@@ -3,10 +3,11 @@ title: Suların gelmesi
 pubDate: '2014-03-20T17:24:49'
 slug: sularin-gelmesi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/sularin-gelmesi/
+originalUrl: 'https://www.mumcu.com/sularin-gelmesi/'
+readingTime: 2
 ---
 
 Bir restoranda yemek yerken, alışveriş yaparken ya da başka uygunsuz bir zamanda amniyon kesesinin açılması ve suların gelmesi sadece filmlerde görülen bir olay değildir. Günlük yaşamda bu gibi durumlara sıkça rastlanmaktadır.

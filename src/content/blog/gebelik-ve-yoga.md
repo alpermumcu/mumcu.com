@@ -3,10 +3,11 @@ title: Gebelik ve Yoga
 pubDate: '2015-04-12T05:18:31'
 slug: gebelik-ve-yoga
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-ve-yoga/
+originalUrl: 'https://www.mumcu.com/gebelik-ve-yoga/'
+readingTime: 7
 ---
 
 Modern çağ insanının en önemli kronik sorunlarından biri, belki de ilki stress. Bu o kadar büyük bir sorun ki sadece iş yaşantısını değil özel yaşantıyı da zaman zaman içinden çıkılmaz bir hale getirebiliyor.

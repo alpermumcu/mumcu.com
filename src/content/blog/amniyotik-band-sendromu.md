@@ -3,10 +3,11 @@ title: Amniyotik band sendromu
 pubDate: '2014-03-16T03:26:17'
 slug: amniyotik-band-sendromu
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/amniyotik-band-sendromu/
+originalUrl: 'https://www.mumcu.com/amniyotik-band-sendromu/'
+readingTime: 3
 ---
 
 Amniyotik band sendromu üzücü sonuçlara yol açabilen ancak oldukça nadir görülen bir tablodur. Görülme sıklığı değişik kaynaklarda farklı olarak verilmektedir. Bazı yazarlar 1200 canlı doğumda bir görüldüğünü ileri sürmektedirler bu oldukça yüksek bir orandır. Sendromun gerçek görülme sıklığı ise 5000 ile 10.000 canlı doğumda bir olarak kabul edilmektedir.
@@ -17,7 +18,7 @@ Oldukça nadir görülmekle birlikte genelde sonuçları dramatiktir. Tanım ola
 
 Örneğin eğer band bebeğin bir dirseğine dolanırsa, olayın şiddetine göre ya kolun dirsekten aşağı kısmı hiçbüyümez (otoamputasyon) ya da deformite oluşur.Eğer oluşan fibröz band fetusun boynuna ya da hayati öneme sahip kısımlarından birine dolanırsa bebek anne karnında kaybedilebilir.
 
-![_0007](/wp-content/uploads/2014/03/0007.jpg)
+![_0007](../../images/uploads/2014/03/0007.jpg)
 
 Çok hafif olan durumlarda ise parmaklarda yapışıklık gibi doğum sonrası ameliyat ile düzeltilebilecek düzeyde anomaliler görülür. Sendromun en sık görülen formunda ise bebek doğduktan etkilemiş kısımlarda sanki çok sıkı bir lastik geçirilmiş gibi oluklar görülür.
 
@@ -31,7 +32,7 @@ Amniyotik band sendromunda tanı ultrasonografik inceleme esnasında duvardan ba
 
 Ayırıcı tanıda ise band gibi görülen amniyon zarı katlantılarına dikkat edilmelidir.
 
-![band_111](/wp-content/uploads/2014/03/band_111.jpg)
+![band_111](../../images/uploads/2014/03/band_111.jpg)
 
 Tedavi konusunda yapılabilecek fazlaca birşey yoktur. Hastalığın ileri formlarında durum fark edildiğinde gebeliğin sonlandırılması düşünülebilir. Hafif formlarda ise anne karnında cerrahi girişim ile bu bandların kesilmesi deneysel aşamada devam etmektedir.
 

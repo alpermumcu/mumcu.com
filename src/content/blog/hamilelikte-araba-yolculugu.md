@@ -3,13 +3,14 @@ title: Hamilelikte araba yolculuğu
 pubDate: '2014-03-17T03:56:01'
 slug: hamilelikte-araba-yolculugu
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-araba-yolculugu/
+originalUrl: 'https://www.mumcu.com/hamilelikte-araba-yolculugu/'
+readingTime: 3
 ---
 
-![yol](/wp-content/uploads/2014/03/yol.jpg)
+![yol](../../images/uploads/2014/03/yol.jpg)
 
 Otomobil günümüz insan hayatının vazgeçilmez ögelerinden biri. Bir düşünün arabaya, miniüse ya da benzeri bir kara nakil aracına binmediğiniz kaç gün var. Sadece evden hiç dışarı çıkmadığınız ya da sadece yakın çevrenizde yürüyüş yapmak için çıktığınız günlerde arabadan uzak kalıyorsunuz. İnsanların önemli bir kısmı hergün ya kendi arabalarına, ya taksiye ya da arkadaşlarının arabalarına biniyorlar. Hamilelik normal yaşantıda ciddi değişiklikler gerektirmediğine göre hamile kadınların otomobile binmeleri de kaçınılmazdır.
 

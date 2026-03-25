@@ -3,10 +3,11 @@ title: Hangi vitamin ve mineralden ne kadar almanız gerekli
 pubDate: '2014-03-16T19:33:00'
 slug: hangi-vitamin-ve-mineralden-ne-kadar-almaniz-gerekli
 category:
-  - Makaleler
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hangi-vitamin-ve-mineralden-ne-kadar-almaniz-gerekli/
+originalUrl: 'https://www.mumcu.com/hangi-vitamin-ve-mineralden-ne-kadar-almaniz-gerekli/'
+readingTime: 1
 ---
 
 Hamilelik sırasında bazı vitamin ve minerallerin önerilen günlük dozları şu şekildedir.

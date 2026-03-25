@@ -3,10 +3,11 @@ title: Erken gebelik ultrasonografisi
 pubDate: '2014-03-18T01:14:45'
 slug: erken-gebelik-ultrasonografisi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/erken-gebelik-ultrasonografisi/
+originalUrl: 'https://www.mumcu.com/erken-gebelik-ultrasonografisi/'
+readingTime: 7
 ---
 
 Adet gecikmesi yaşayan ve gebelk testi olumlu olan bir kadının en büyük endişesi doğal olarak hamileliğinin normal olup olmadığıdır. Geçmişte bu soruya gebeliğin ilerleyen dönemlerine kadar cevap vermek mümkün değilken ultrasonografi tekniklerinde yaşanan hızlı gelişmeler sayesinde günümüzde erken gebelik ultarsonografisi ile gebeliğin gelişimi çok net bir şekilde izlenebilmekte ve normal gebelikler ile anormal gebeliklerin ayrımı net bir şekilde çok erken dönemlerde yapılabilmektedir.
@@ -63,7 +64,7 @@ Gestasyonel kese çapı 16-18 milimetreye ulaştığında embryo görülebilir h
 
 Gebelik kesesi 20 milimetreden büyük olduğu halde embryonun görülmemesi olumsuz bir bulgudur ve erken gebelik kaybı ile ilişkili olabileceği düşünülmektedir.
 
-![Image3](/wp-content/uploads/2014/03/Image3.jpg)
+![Image3](../../images/uploads/2014/03/Image3.jpg)
 
 **Yukarıdaki resimde 8 hafta 5 günlük bir gebelikte yolk kesesi  
 embryo ve amniyon zarı net bir sekilde görülmekte**

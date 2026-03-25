@@ -3,10 +3,11 @@ title: Klamidya aşısı yolda
 pubDate: '2016-07-29T00:30:07'
 slug: klamidya-asisi-yolda
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/klamidya-asisi-yolda/
+originalUrl: 'https://www.mumcu.com/klamidya-asisi-yolda/'
+readingTime: 2
 ---
 
 Cinsel yolla bulaşan hastalıların en sık görülenlerinden bir olan klamidya enfeksiyonları sessiz seyretmesi ve bulgu vermemesi nedeni ile çoğu zaman tanı konulmadığı için tedavi edilemez. Oysa bu enfeksiyon fallop tüplerde hasar yaratarak çocuk sahibi olmada güçlüğe yanı kısırlığa neden olabilir.

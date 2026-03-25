@@ -3,10 +3,11 @@ title: Hamilelikte solaryum ya da güneşlenmek zararlı mıdır?
 pubDate: '2014-03-17T23:32:48'
 slug: hamilelikte-solaryum-ya-da-guneslenmek-zararli-midir
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-solaryum-ya-da-guneslenmek-zararli-midir/
+originalUrl: 'https://www.mumcu.com/hamilelikte-solaryum-ya-da-guneslenmek-zararli-midir/'
+readingTime: 2
 ---
 
 Cilt hastalıkları uzmanları hamile olun ya da olmayın güneşte ya da yapay olarak bornzlaşmanın sağlık açısından zararlı sonuçları olabileceği konusunda hem fikirdirler. Bronzlaşmak cildinizin ultraviyole ışınlarının zararlı etkilerine karşı kendisini korumak için gerçekleştirdiği bir cevaptır. Eldeki bilimsel veriler ultraviyole ışınlarına uzun süre maruz kalmanın yaşlanmanın etkilerini arttırmanın yanı sıra malign melanoma adı verilen bir tür cilt kanserinin gelişimini de hızlandırdığını göstermektedir.

@@ -3,13 +3,14 @@ title: Hamilelik ve kafein
 pubDate: '2014-03-16T19:27:14'
 slug: hamilelik-ve-kafein
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-kafein/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-kafein/'
+readingTime: 8
 ---
 
-![Photo by: Alper Mumcu 2014](/wp-content/uploads/2014/03/kahve.jpg)
+![Photo by: Alper Mumcu 2014](../../images/uploads/2014/03/kahve.jpg)
 
 Kafein hemen hepimizin hergün düzenli olarak tükettiği bir madde. Özellikle gelişmiş toplumlarda kafein tüketimi oldukça yüksek. Yapılan araştırmalarda bir Amerikalı’nın günde ortalama 300 miligram kafein tükettiğini gösteriyor. Bir açıdan bakıldığında kafein dünyada en çok kullanılan ve bağımlılık yaratan ilaç ya da madde olarak kabul edilebilir.
 

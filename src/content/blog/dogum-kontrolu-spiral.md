@@ -3,10 +3,11 @@ title: Doğum Kontrolü &#8211; Spiral
 pubDate: '2014-03-24T14:12:32'
 slug: dogum-kontrolu-spiral
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-kontrolu-spiral/
+originalUrl: 'https://www.mumcu.com/dogum-kontrolu-spiral/'
+readingTime: 8
 ---
 
 Rahim içi araç (RİA) ya da halk arasında yaygın şekilde kullanılan adıyla SPİRAL tüm dünyada en fazla tercih edilen geri dönüşümlü doğum kontrol yöntemidir.
@@ -26,7 +27,7 @@ Rahim içi araç geri dönebilir doğum kontrolü sağlayan ve ana yapısı kıv
 
 Temel yapı T şeklinde olmakla birlikte piyasada değişik marka ve yapılarda pek çok RİA bulunmaktadır. Bunların etkinlik açısından birbirlerine üstünlükleri yoktur. Toplumumuzda ithal spiral şeklinde bir tabir bulunmaktadır. Hastalar kendilerine ithal spiral takılmasını talep etmektedirler oysa Türk malı bir spiral zaten piyasada yoktur.
 
-![rialar](/wp-content/uploads/2014/03/rialar.jpg)
+![rialar](../../images/uploads/2014/03/rialar.jpg)
 
 Piyasada en sık bulunan RİA türleri
 
@@ -89,15 +90,15 @@ RİA takılmadan yarım saat kadar önce basit bir ağrı kesici alınması işl
 
 Jinekolojik muayenede olduğu gibi spekulum takılarak serviks görünür hale getirilir ve antiseptik solüsyon ile silinerek temizlik yapılır.Serviks tenekulum adı verilen bir alet ile tutularak çekilir ve uterus düz pozisyona gelir. Daha sonra histerometri adı verilen bir alet serviks ağzından rahim içine itilerek rahimin boyu ölçülür.
 
-![riains_1](/wp-content/uploads/2014/03/riains_1.jpg)
+![riains_1](../../images/uploads/2014/03/riains_1.jpg)
 
 Aplikatör tüp içinde bulunan spiral rahim ağzından geçirilerek rahim içine yerleştirilir ve rahimin tepe noktasına deyinceye kadar ittirilir.Bundan önce tüp üzerindeki işaret histerometri ile ölçülen mesafeye getirilerek tepe noktasından daha öne ya da arkaya ittirilmesi engellenmiş olur.
 
-![riains_2](/wp-content/uploads/2014/03/riains_2.jpg)
+![riains_2](../../images/uploads/2014/03/riains_2.jpg)
 
 Tüpün içindeki piston ileri doğru itilerek RİA’nın tüpün içinden çıkması sağlanır.
 
-![riains_3](/wp-content/uploads/2014/03/riains_3.jpg)
+![riains_3](../../images/uploads/2014/03/riains_3.jpg)
 
 Daha sonra tüp dikkatli bir şekilde uterus dışına alınır. Spiral artık tamamı ile içeridedir. Resimde doğru şekilde yerleştirilmiş bir spiral görülmektedir. RİA’nın ipi 0.5-1 cm dışarıda kalacak şekilde kesilir.
 
@@ -114,7 +115,7 @@ RİA takıldıktan hemen sonra yada takılması sırasında hafif kramp tarzınd
 **KONTROLLER**  
 RİA takılmasını takiben ilk adet kanamanızdan sonra mutlaka ilk kontrolünüze gitmelisiniz. Bu kontrolde spiralinizin yerinde olup olmadığına ve herhangi bir enfeksiyon bulunup bulunmadığına bakılacaktır. Herşey yolundaysa yılda birkez kontrole gitmeniz yeterlidir. Bu kontrolde çaok daha önemli bir test olan [PAP smear](http://www.mumcu.com/html/article.php?sid=10) testiniz de yapılabilir.
 
-![icer_ria](/wp-content/uploads/2014/03/icer_ria.jpg)  
+![icer_ria](../../images/uploads/2014/03/icer_ria.jpg)  
 Ultrasonda normal görülen RİA
 
 **KENDİ KENDİNE RİA KONTROLÜ**  

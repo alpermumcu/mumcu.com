@@ -3,10 +3,11 @@ title: '19. Hafta &#8211; Doğal krem: Verniks'
 pubDate: '2014-03-31T00:37:39'
 slug: 19-hafta-dogal-krem-verniks
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/19-hafta-dogal-krem-verniks/
+originalUrl: 'https://www.mumcu.com/19-hafta-dogal-krem-verniks/'
+readingTime: 2
 ---
 
 Eğer hala daha gebeliğinizi hafta olarak değil de ay olarak hesaplıyorsanız bu haftadan itibaren beşinci ayınıza girdiğinizi söyleyebilirsiniz.Eski kıyafetlerinizin hemen hemen hiçbirinin üzerinize olmadığını fark edeceksiniz. Gebe kıyafetlerinin her kadına çok yakıştığını unutmayın. Fark edeceğiniz başka bir değişiklik ise memelerinizdeki kahverengi alanın gidrek büyümeye başlamasıdır. Areola adı verilen bu bölge memenin yarısını kaplayabilir. Bu normal bir durumdur ve doğumdan sonra onikinci aya kadar devam edebilir. Pekçok çalışan gebe kadın öğle aralarında yarım saat kadar yürmenin kendilerine çok iyi geldiğini söylemekte. Sizde bunu deneyebilirsiniz. Yürüyüş hem bünyeniz hem de psikolojik durumunuz için yararlıdır. Ayrıca bu haftalarda karnınızda kaşınmalar hissetmeye başlayabilirsiniz. Bol su içmek cildin elestikiyetini arttıracak ve kaşıntıları azaltmaya yardımcı olacaktır. Yine bu haftalarda cildinizde ve özellkle yüzünüzde renk koyulaşması fark edebilirsiniz.

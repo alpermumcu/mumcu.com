@@ -3,10 +3,11 @@ title: 'Rahimağzı doğuma hazır mı?: Bishop Skorlaması'
 pubDate: '2014-03-20T17:25:22'
 slug: rahimagzi-doguma-hazir-mi-bishop-skorlamasi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/rahimagzi-doguma-hazir-mi-bishop-skorlamasi/
+originalUrl: 'https://www.mumcu.com/rahimagzi-doguma-hazir-mi-bishop-skorlamasi/'
+readingTime: 2
 ---
 
 Beklenen doğum tarihiniz geçtiğinde ya da sizi ya da bebeğinizi ilgilendiren bir risk varlığında doktorunuz doğum sancılarını başlatmak yani indüksiyon uygulamak gereği duyabilir. Ne yazik ki doğumu yapay yollarla başlatmak yani indüksiyonun başarılı olması her zaman mümkün olmayabilir. Yapılan tüm girişimlere rağmen doğum sancıları başlamayabilir.

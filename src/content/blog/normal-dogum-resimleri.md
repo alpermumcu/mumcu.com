@@ -3,10 +3,11 @@ title: Normal doğum fotoğrafları
 pubDate: '2014-03-20T18:50:50'
 slug: normal-dogum-resimleri
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/normal-dogum-resimleri/
+originalUrl: 'https://www.mumcu.com/normal-dogum-resimleri/'
+readingTime: 1
 ---
 
 **DİKKAT!**

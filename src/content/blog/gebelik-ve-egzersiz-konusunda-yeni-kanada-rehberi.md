@@ -3,11 +3,11 @@ title: Gebelik ve egzersiz konusunda yeni Kanada rehberi
 pubDate: '2018-12-16T02:13:01'
 slug: gebelik-ve-egzersiz-konusunda-yeni-kanada-rehberi
 category:
-  - Güncel Haberler
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-ve-egzersiz-konusunda-yeni-kanada-rehberi/
+originalUrl: 'https://www.mumcu.com/gebelik-ve-egzersiz-konusunda-yeni-kanada-rehberi/'
+readingTime: 2
 ---
 
 Kanada’da yayınlanan yeni rehber egzersizin gebelik açısından çok önemli olduğunu bir kez daha ortaya koyuyor.

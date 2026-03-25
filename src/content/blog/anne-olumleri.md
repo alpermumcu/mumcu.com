@@ -3,10 +3,11 @@ title: Anne Ölümleri
 pubDate: '2014-03-20T18:11:06'
 slug: anne-olumleri
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/anne-olumleri/
+originalUrl: 'https://www.mumcu.com/anne-olumleri/'
+readingTime: 6
 ---
 
 Dünya Sağlık Örgütünün yaptığı en son tanımlamaya göre “Gebelik süresi ve yerleştiği yerden bağımsız şekilde, gebelik, gebelik tarafından olumsuz yönde etkilenen bir neden ya da bu durumun tedavisine bağlı olarak gebelik sırasında ya da gebeliğin sonlanmasından sonraki ilk 42 günde görülen kadın ölümleri anne ölümü (maternal mortalite) olarak tanımlanır. Kaza sonucu olan ya da başka bir hastalık ve duruma bağlı görülen ölümler anne ölümü tanımlamasının dışında kalır.

@@ -3,10 +3,11 @@ title: Sorunsuz hamileliğe hazırlanmak
 pubDate: '2014-03-15T15:30:35'
 slug: sorunsuz-hamilelige-hazirlanmak
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/sorunsuz-hamilelige-hazirlanmak/
+originalUrl: 'https://www.mumcu.com/sorunsuz-hamilelige-hazirlanmak/'
+readingTime: 4
 ---
 
 Sağlıklı ve sorunsuz bir hamilelik süreci geçirmek tüm kadınların hayalidir. Bu hayal hamilelik öncesinde ve sırasında alınacak bazı basit önlemlerle çoğu zaman kolayca gerçekleştirilebilir. Bir kadının beslenme durumu, genel sağlığı ve günlük rutin yaşantısı bebeğin dokuz ay boyunca gelişeceği ortamı olumlu ya da olumsuz şekilde etkileyebilir.

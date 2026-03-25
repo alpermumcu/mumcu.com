@@ -3,15 +3,16 @@ title: Endometrial polip
 pubDate: '2014-03-22T20:19:46'
 slug: endometrial-polip
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/endometrial-polip/
+originalUrl: 'https://www.mumcu.com/endometrial-polip/'
+readingTime: 6
 ---
 
 Polipler küçük ve çoğu zaman iyi huylu küçük tümoral oluşumlardır. Vücutta rahim ağzı, rahimin içi (endometrium), ses telleri ve barsaklar gibi pekçok değişik bölgede görülebilir.
 
-![001](/wp-content/uploads/2014/03/001.gif)
+![001](../../images/uploads/2014/03/001.gif)
 
 Endometrial polip rahimin içini döşeyen zar tabakasından köken alır. Bu dokunun bazı bölümleri normalden fazla büyüyerek rahim boşluğuna doğru itildiğinde polip ortaya çıkar. İtilmiş olan bu doku endometrium ile bağlantısını kaybetmez. Eğer bu bağlantı çok ince ise buna saplı polip adı verilir. Bazı durumlarda ise endometrium ile polip arasındaki bağlantı daha geniş bir alana yayılır ve geniş tabanlı polipler ortaya çıkar. Saplı polipler zaman içinde rahim ağzından dışarıya doğru sarkabilirler.
 
@@ -58,7 +59,7 @@ Histerosalpingografi büyük poliplerin saptanmasında yardımcı olabilir ancak
 
 Polip tanısı büyük oranda transvajinal ultrasonografi ile konur. Ancak yalancı polipler ile karışabilir. Rutin ultrason incelemesi yerine rahim iç boşluğunu daha iyi gösteren sulu ultrasonografi (sonohisterografi) polip tanısında en etkili yöntemlerden birisidir. Rutin transvajinal ultrasonografinin polipleri saptamadaki duyarlılığı %66 iken sonohisterografinin duyarlılığı %100’dür.
 
-![002](/wp-content/uploads/2014/03/002.gif)
+![002](../../images/uploads/2014/03/002.gif)
 
 Sonohisterografide endometrial polipin görünüşü
 

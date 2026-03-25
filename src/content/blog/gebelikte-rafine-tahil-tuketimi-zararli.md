@@ -3,10 +3,11 @@ title: Gebelikte rafine tahıl tüketimi zararlı
 pubDate: '2017-06-17T07:59:03'
 slug: gebelikte-rafine-tahil-tuketimi-zararli
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-rafine-tahil-tuketimi-zararli/
+originalUrl: 'https://www.mumcu.com/gebelikte-rafine-tahil-tuketimi-zararli/'
+readingTime: 2
 ---
 
 American Journal of Clinical nutrition dergisinde yayınlanan yeni bir çalışmada gebeliğe bağlı şeker hastalığı olan kadınlar eğer fazla miktarda rafine tahıl tüketiyorlarsa, bunların bebekleri yedi yaşına geldiğinde rafine tahıl tüketmeyen annelerin bebekleri ile kıyaslandığında obezite riskinin çok daha fazla olduğu ortaya konmuş.

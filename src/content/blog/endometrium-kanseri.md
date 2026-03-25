@@ -3,10 +3,11 @@ title: Endometrium Kanseri
 pubDate: '2014-03-26T16:35:34'
 slug: endometrium-kanseri
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/endometrium-kanseri/
+originalUrl: 'https://www.mumcu.com/endometrium-kanseri/'
+readingTime: 3
 ---
 
 Endometirum kanseri özellikle son yıllarda gelişmiş ülkelerde artış göstermektedir.Hastalığın %95’i 40 yaşın üzerinde görülür.

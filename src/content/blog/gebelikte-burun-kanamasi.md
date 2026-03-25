@@ -3,10 +3,11 @@ title: Gebelikte burun kanaması
 pubDate: '2014-04-06T03:23:52'
 slug: gebelikte-burun-kanamasi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-burun-kanamasi/
+originalUrl: 'https://www.mumcu.com/gebelikte-burun-kanamasi/'
+readingTime: 3
 ---
 
 Gebe bir kadının günün herhangi bir anında ortada hiçbirşey yokken birden burnunun kanamaya başlaması çok da nadir karşılaşılmayan bir durumdur.Bu kanamalar birkaç damla olabileceği gibi zaman zaman çok daha şiddetli olabilir. Kanamalar bazı kadınlarda ara sıra görülürken bazı kadınlar ise hemen hemen hergün benzer kanama atakları yaşayabilirler. Tekrarlayan burun kanamaları gebelikte çok sık karşılaşılan yakınmalardan birisidir ve can sıkıcı olmasına karşın çoğu zaman anne adayı ve bebek açısından zararsızdır.

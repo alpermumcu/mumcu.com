@@ -3,10 +3,11 @@ title: Rahmin ters durması (retrovert uterus)
 pubDate: '2014-03-22T20:15:49'
 slug: rahmin-ters-durmasi-retrovert-uterus
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/rahmin-ters-durmasi-retrovert-uterus/
+originalUrl: 'https://www.mumcu.com/rahmin-ters-durmasi-retrovert-uterus/'
+readingTime: 4
 ---
 
 Herhangi bir neden ile yapılan jinekolojik muayene sonrası doktor tarafından rahmin ters durduğunun söylemesi kadınlarda büyük şaşkınlık yaratır. Kısa bir süre sonra ise şaşkınlık yerini endişe ve korkuya bırakır. Acaba bu durum ileride sorun yaratacak mıdır ya da rahim tersken hamile kalınabilir mi?
@@ -25,7 +26,7 @@ Tek başına olan retrovert uterus durumu olguların çoğunda herhangi bir beli
 **TANI**  
 Retrovert uterusun tanısı herhangi bir nedenle yapılan jinekolojik muayenede tesadüfen konur
 
-![ters](/wp-content/uploads/2014/03/ters.jpg)
+![ters](../../images/uploads/2014/03/ters.jpg)
 
 **TEDAVİ**  
 Retrovert uterus varlığında herhangi bir tedavi gerekmez. Bazı hekimler kronik kasık ağrısı nedeni ile vajinal pesser uygulamayı tercih etseler de bu kalıcı bir çözüm sağlamaz. **Ters duran rahim muayenede herhangi bir şekilde öne doğru döndürülemez**. Bu amaçla yapılabilecek ameliyatlar olmakla birlikte modern jinekolojide hiçbir kullanım alanı yoktur ve hastaya zarar veren girişimlerdir. Ameliyat sonrası oluşacak yapışıklıklar hem kısırlığa neden olabilir hem de kasık ağrısının artmasına yol açabilir.

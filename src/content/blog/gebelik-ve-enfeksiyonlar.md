@@ -3,10 +3,11 @@ title: Gebelik ve enfeksiyonlar
 pubDate: '2014-03-17T01:44:51'
 slug: gebelik-ve-enfeksiyonlar
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-ve-enfeksiyonlar/
+originalUrl: 'https://www.mumcu.com/gebelik-ve-enfeksiyonlar/'
+readingTime: 4
 ---
 
 Enfeksiyonlar normal hayatın bir parçasıdır. hemen hepimiz zaman zaman öksürük, soğuk algınlığı gibi enfeksiyonlara yakalanırız. Özellikle kadınların büyük bir kısmı hayatlarının herhangi bir döneminde sistit vajinit gibi enfeksiyolar geçirirler. Gebelik bazı enfeksiyonların normalden daha sık geçirildiği bir dönemdir. Bu enfeksiyonlar zaman zaman anne adayı ve gelişmekte olan bebekte problem yaratabilirler. Bu bölümde gebelikte sık görülen enfeksiyonlar incelenmektedir.

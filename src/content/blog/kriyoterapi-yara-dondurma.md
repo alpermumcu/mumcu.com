@@ -3,10 +3,11 @@ title: Kriyoterapi (yara dondurma)
 pubDate: '2014-03-24T13:00:15'
 slug: kriyoterapi-yara-dondurma
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/kriyoterapi-yara-dondurma/
+originalUrl: 'https://www.mumcu.com/kriyoterapi-yara-dondurma/'
+readingTime: 6
 ---
 
 Kriyoterapi ya da halk arasında bilinen adı ile dondurma tedavisi anormal dokuları dondurarak tahrip etmek esasına dayana bir tedavi şeklidir. Prob adı verilen bir enstrüman dondurulacak dokuya (rahim ağzı gibi) temas ettirildikten sonra dondurma işleminde kullanılacak olan gaz prob içinden geçirilir ve probun ucunun aşırı derecede soğumasına (yaklaşık -90 derece) neden olur. Burada yatan mantık şudur: Soğutmada kullanılan gaz basınç ile probun ucuna itildiğinde gaz aniden hacim olarak genişler ve etraftan ısı çekerken probun ucu soğur. Doku prob ile temas halinde olduğu için donar. Bu amaçla sıvı nitrojen ya da karbon dioksit kullanılabilir. Dondurma genelde 3-4 dakika kadar sürer. Ancak işlem 1-2 sefer tekrarlanacağı için yaklaşık 15 dakika kadar alır.

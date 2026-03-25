@@ -3,11 +3,12 @@ title: Babanın depresyonu bebeğin ilerki yaşantısını etkileyebilir.
 pubDate: '2015-04-17T02:49:36'
 slug: babanin-depresyonu-bebegin-ilerki-yasantisini-etkileyebilir
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/babanin-depresyonu-bebegin-ilerki-yasantisini-etkileyebilir/
+readingTime: 2
 ---
 
 Yapılan yeni bir çalışmaya göre bebeğin doğumunu takiben ilk yılda babanın yaşadığı depresyon tıpkı annenin yaşadığı depresyon gibi çocuğun ilerki dönemde vurma, yalan söyleme, anksiyete, hüzün gibi birtakım davranış bozuklukları geliştirmesine neden olabilir.

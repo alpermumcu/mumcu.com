@@ -3,11 +3,12 @@ title: Progesteron tekrarlayan gebelik kayıplarında yarar sağlamıyor
 pubDate: '2015-11-26T07:45:24'
 slug: progesteron-tekrarlayan-gebelik-kayiplarinda-yarar-saglamiyor
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/progesteron-tekrarlayan-gebelik-kayiplarinda-yarar-saglamiyor/
+readingTime: 3
 ---
 
 Dünyanın en prestijli tıp dergilerinden biri olan New England Journal of Medicine’de bugün yayınlanan çok merkezli, çift-kör, plasebo kontrollü bir çalışmaya göre, hiç bir nedene bağlanamayan tekrarlayan düşükleri olan kadınlara gebeliğin erken dönemlerinde vajinal yoldan progesteron vermenin gebeliğin seyri üzerinde hiçbir olumlu etkisi yok ve bu tedavi canlı doğum oranlarını değiştirmiyor.

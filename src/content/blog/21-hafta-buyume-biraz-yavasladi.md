@@ -3,10 +3,11 @@ title: 21. Hafta &#8211; Büyüme biraz yavaşladı
 pubDate: '2014-03-30T22:51:03'
 slug: 21-hafta-buyume-biraz-yavasladi
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/21-hafta-buyume-biraz-yavasladi/
+originalUrl: 'https://www.mumcu.com/21-hafta-buyume-biraz-yavasladi/'
+readingTime: 2
 ---
 
 Yirmibirinci haftaya ulaşıldığında bebekteki hızlı büyüme biraz yavaşlar. Bu haftada en önemli olay kalp kasının güçlenmesidir. Bebeğinizin kalbi, kanı çok daha etkili şekilde pompalamaya başlamıştır.

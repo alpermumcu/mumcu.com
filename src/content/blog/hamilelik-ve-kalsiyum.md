@@ -3,13 +3,14 @@ title: Hamilelik ve Kalsiyum
 pubDate: '2014-03-16T19:11:18'
 slug: hamilelik-ve-kalsiyum
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-kalsiyum/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-kalsiyum/'
+readingTime: 5
 ---
 
-![peynir3](/wp-content/uploads/2014/03/peynir3.jpg)
+![peynir3](../../images/uploads/2014/03/peynir3.jpg)
 
 **Kalsiyum nedir?**
 

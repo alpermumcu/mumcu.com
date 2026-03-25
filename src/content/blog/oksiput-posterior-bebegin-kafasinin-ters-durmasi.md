@@ -3,10 +3,11 @@ title: 'Oksiput Posterior: Bebeğin kafasının ters durması'
 pubDate: '2014-04-08T01:56:57'
 slug: oksiput-posterior-bebegin-kafasinin-ters-durmasi
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/oksiput-posterior-bebegin-kafasinin-ters-durmasi/
+originalUrl: 'https://www.mumcu.com/oksiput-posterior-bebegin-kafasinin-ters-durmasi/'
+readingTime: 4
 ---
 
 Doğum sırasında bebeklerin %95’inde fazlasında önde gelen kısım bebeğin kafasıdır. Ancak bebeğin kafasıın pelvik çatı içinde duruş şekli de doğum üzerinde önemli bir etkiye sahiptir. Baş geliş bebeklerin önemli bir kısmında bebeğin kafasının oksiput adı verilen arka kısmı annenin önüne (anterior) doğrudur. Olması gereken geliş şekli occuput anterior adı verilen bu pozisyondur. Eğer bebebğin yüzü annenin karnına yani önüne doğru bakıyorsa bu durumda kafasıını arka kısmı anne adayının sırtına doğru demektir ve bu durum oksioput posterior geliş olarak adlandırıır.

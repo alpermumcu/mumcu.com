@@ -3,10 +3,11 @@ title: HPV sorular- cevaplar
 pubDate: '2014-03-24T12:56:56'
 slug: hpv-sorular-cevaplar
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hpv-sorular-cevaplar/
+originalUrl: 'https://www.mumcu.com/hpv-sorular-cevaplar/'
+readingTime: 3
 ---
 
 **HPV nedir?**  

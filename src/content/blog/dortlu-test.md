@@ -3,10 +3,11 @@ title: Dörtlü test
 pubDate: '2014-03-15T21:30:31'
 slug: dortlu-test
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dortlu-test/
+originalUrl: 'https://www.mumcu.com/dortlu-test/'
+readingTime: 5
 ---
 
 En sık rastlanılan doğumsal anomalilerden birisi olan Down sendromunun anne karnında gebeliğpin erken dönemlerinde ve yüksek başarıyla tanınması doğum ile ilgilenen hekimlerin ortak düşlerinden birisidir.

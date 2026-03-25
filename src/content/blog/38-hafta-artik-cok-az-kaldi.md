@@ -3,10 +3,11 @@ title: 38. Hafta-Artık çok az kaldı
 pubDate: '2014-03-30T20:54:08'
 slug: 38-hafta-artik-cok-az-kaldi
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/38-hafta-artik-cok-az-kaldi/
+originalUrl: 'https://www.mumcu.com/38-hafta-artik-cok-az-kaldi/'
+readingTime: 2
 ---
 
 **Eğer planlı sezaryen olacaksanız bu haftadan sonra herhangi bir günde güvenle doğumunuzu yapabilirsiniz. Bazı durumlarda normal doğum planlanan gebelerde doktorunuz suni sancı vererek doğumunuzu gerçekleştirebilir.**

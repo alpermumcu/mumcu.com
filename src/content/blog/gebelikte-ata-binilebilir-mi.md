@@ -3,10 +3,11 @@ title: Gebelikte ata binilebilir mi?
 pubDate: '2014-03-17T23:40:25'
 slug: gebelikte-ata-binilebilir-mi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-ata-binilebilir-mi/
+originalUrl: 'https://www.mumcu.com/gebelikte-ata-binilebilir-mi/'
+readingTime: 1
 ---
 
 Ülkemizde yaygın olmamakla birlikte binicilik dünyada sık yapılan sporlardan birisidir.

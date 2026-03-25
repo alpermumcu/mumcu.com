@@ -3,10 +3,11 @@ title: Alkol ve fertilite
 pubDate: '2014-03-27T13:26:37'
 slug: alkol-ve-fertilite
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/alkol-ve-fertilite/
+originalUrl: 'https://www.mumcu.com/alkol-ve-fertilite/'
+readingTime: 2
 ---
 
 Özellikle batı toplumlarında Alkol oldukça yaygın şekilde kullanılmaktadır. Ülkemizde de alkol tüketimi giderek artmaktadır. Alkolizm yani alkol bağımlılığı bütün toplumlarda önemli bir sorun olarak karşımıza çıkmaktadır. Dozunu kaçırmamak kaydı ile alkol tüketiminin özellikle vücudun yağ dengeleri üzerinde olumlu etkileri olduğunu ileri süren bilimsel çalışmalar da mevcuttur. Sosyal düzeyde olan alkol tüketimi de kabul edilebilir bir davranışdır. Ancak bebek isteği ön plana çıktığında alkol kullanımı ile ilgili bazı gerçekler söz konusu olmaktadır.

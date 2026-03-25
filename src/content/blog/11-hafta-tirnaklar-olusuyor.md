@@ -3,10 +3,11 @@ title: 11. Hafta &#8211;  Tırnaklar oluşuyor
 pubDate: '2014-03-31T04:05:46'
 slug: 11-hafta-tirnaklar-olusuyor
 category:
-  - Hafta Hafta Gebelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/11-hafta-tirnaklar-olusuyor/
+originalUrl: 'https://www.mumcu.com/11-hafta-tirnaklar-olusuyor/'
+readingTime: 2
 ---
 
 Bu haftadan başlayarak artık içinizdeki bebeğiniz embryo olarak adlandırılmaz. O artık kocaman bir FETUS ve boyu yaklaşık 4-5 santimetre.Gebeliğin en kritik dönemi artık sona erdi. Bu haftada beyin hızla büyümesini sürdürmektedir ve fetusun boyunun yarısını kafa oluşturmaktadır. Fetusun gözleri kapalıdır ve bu göz kapaklarının altında iris tabakası olgunlaşmasına devem etmektedir. Böbreklerde idrar üretimi başladığından içinde yüzdüğü amniyon sıvısının da miktarı artmaya başlar ve bu haftada yaklaşık 50 ml olur.

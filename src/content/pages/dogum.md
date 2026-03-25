@@ -6,110 +6,110 @@ parent: 0
 menuOrder: 0
 ---
 
-> [Doğum hakkında genel bilgiler](/dogum/?p=973)
+> [Doğum hakkında genel bilgiler](/blog/dogum-hakkinda-genel-bilgiler/)
 > 
-> [Doğumu anlamak](/dogum/?p=975)
+> [Doğumu anlamak](/blog/dogumu-anlamak/)
 > 
-> [Yaklaşan doğumun belirtileri](/dogum/?p=983)
+> [Yaklaşan doğumun belirtileri](/blog/yaklasan-dogumun-belirtileri/)
 > 
-> [Braxton Hicks kasılmaları](/dogum/?p=985)
+> [Braxton Hicks kasılmaları](/blog/braxton-hicks-kasilmalari/)
 > 
-> [Nişan Gelmesi](/dogum/?p=987)
+> [Nişan Gelmesi](/blog/nisan-gelmesi/)
 > 
-> [Suların gelmesi](/dogum/?p=989)
+> [Suların gelmesi](/blog/sularin-gelmesi/)
 > 
 > [Rahimağzı doğuma hazır mı?- Bishop Skorlaması](/dogum/?p=991)
 > 
-> [Elektronik Fetal Monitör](/dogum/?p=993)
+> [Elektronik Fetal Monitör](/blog/dogumun-izlenmesi/)
 > 
-> [Gün aşımı](/dogum/?p=337)
+> [Gün aşımı](/blog/gun-asimi/)
 > 
-> [Kordon kanı saklanması](/dogum/?p=400)
+> [Kordon kanı saklanması](/blog/kordon-kani-saklanmasi/)
 
-> [ZORUNLU BİR AÇIKLAMA](/dogum/?p=1517)
+> [ZORUNLU BİR AÇIKLAMA](/blog/zorunlu-bir-aciklama/)
 > 
-> [Doğumhane](/dogum/?p=996)
+> [Doğumhane](/blog/dogumhane/)
 > 
-> [Bebeğin rahim içinde duruşu](/dogum/?p=998)
+> [Bebeğin rahim içinde duruşu](/blog/bebegin-rahim-icinde-durusu/)
 > 
-> [Suni sancı](/dogum/?p=1000)
+> [Suni sancı](/blog/suni-sanci/)
 > 
 > [İndüksiyon- Doğumun yapay olarak başlatılması](/dogum/?p=1002)
 > 
-> [Doğumun birinci evresi](/dogum/?p=1004)
+> [Doğumun birinci evresi](/blog/dogumun-birinci-evresi/)
 > 
-> [Doğumun ikinci evresi](/dogum/?p=1007)
+> [Doğumun ikinci evresi](/blog/dogumun-ikinci-evresi/)
 > 
-> [Doğumun üçüncü evresi](/dogum/?p=1012)
+> [Doğumun üçüncü evresi](/blog/dogumun-ucuncu-evresi/)
 > 
-> [Epizyotomi](/dogum/?p=1015)
+> [Epizyotomi](/blog/epizyotomi/)
 > 
-> [Amniyotomi- Doktorun su kesesini açması](/dogum/?p=1017)
+> [Amniyotomi- Doktorun su kesesini açması](/blog/amniyotomi-doktorun-su-kesesini-acmasi/)
 > 
-> [Doğum sırasında bebeğin hareketleri](/dogum/?p=1019)
+> [Doğum sırasında bebeğin hareketleri](/blog/dogum-sirasinda-bebegin-hareketleri/)
 > 
-> [Suda doğum](/dogum/?p=1029)
+> [Suda doğum](/blog/suda-dogum/)
 > 
-> [Acil şartlarda doğum](/dogum/?p=1031)
+> [Acil şartlarda doğum](/blog/acil-sartlarda-dogum/)
 > 
-> [APGAR Skoru](/dogum/?p=1033)
+> [APGAR Skoru](/blog/apgar-skoru/)
 > 
-> [Normal doğum resimleri](/dogum/?p=1108)
+> [Normal doğum resimleri](/blog/normal-dogumdan-kareler/)
 > 
 > [Doğumda vakum kullanılması](/dogumda-vakum-kullanilmasi/)
 
-> [Epidural anestezi](/dogum/?p=1042)
+> [Epidural anestezi](/blog/dogumda-vakum-kullanilmasi-2/)
 > 
-> [Genel Anestezi](/dogum/?p=1044)
+> [Genel Anestezi](/blog/genel-anestezi/)
 > 
-> [Hasta kontrollü ağrı giderimi](/dogum/?p=1048)
+> [Hasta kontrollü ağrı giderimi](/blog/hasta-kontrollu-agri-giderimi/)
 
 > [Sezaryen – Genel bilgiler](/dogum/?p=1051)
 > 
 > [Sezaryen aşamaları](/dogum/?p=1055)
 > 
-> [Sezaryen sonrası normal doğum](/dogum/?p=1069)
+> [Sezaryen sonrası normal doğum](/blog/sezaryen-sonrasi-normal-dogum/)
 > 
-> [Sezaryen ya da normal doğum](/dogum/?p=1129)
+> [Sezaryen ya da normal doğum](/blog/sezaryen-ya-da-normal-dogum/)
 > 
 > [Sezaryen ile doğum evrimi etkiliyor olabilir](/?p=2747)
 > 
 > [Sezaryen sonrası cinsel yaşam](/dogum/?p=3104)
 
-> [Anne Ölümleri](/dogum/?p=1071)
+> [Anne Ölümleri](/blog/anne-olumleri/)
 > 
-> [Amniyon sıvı embolisi](/dogum/?p=1073)
+> [Amniyon sıvı embolisi](/blog/amniyon-sivi-embolisi/)
 > 
-> [Erken Doğum](/dogum/?p=335)
+> [Erken Doğum](/blog/erken-dogum/)
 > 
 > [Normal doğumda komplikasyonlar](/dogum/?p=1094)
 > 
-> [Fetal duruş bozuklukları](/dogum/?p=1076)
+> [Fetal duruş bozuklukları](/blog/fetal-durus-bozukluklari/)
 > 
-> [Makat Geliş- Bebeğin ters durması](/dogum/?p=656)
+> [Makat Geliş- Bebeğin ters durması](/blog/makat-gelis-bebegin-ters-durmasi/)
 > 
 > [Oksiput Posterior- Bebeğin kafasının ters durması](/dogum/?p=680)
 > 
-> [Vajinal doğumun riskleri ile ilgili kadınlar resmi olarak bilgilendirilecek](/dogum/?p=2576)
+> [Vajinal doğumun riskleri ile ilgili kadınlar resmi olarak bilgilendirilecek](/blog/vajinal-dogumun-riskleri-ile-ilgili-kadinlar-resmi-olarak-bilgilendirilecek/)
 
-> [Lohusalık](/dogum/?p=1078)
+> [Lohusalık](/blog/lohusalik/)
 > 
-> [Doğum Sonrası Perine Bakımı](/dogum/?p=1707)
+> [Doğum Sonrası Perine Bakımı](/blog/dogum-sonrasi-perine-bakimi/)
 > 
-> [Doğum Sonrası Depresyon](/dogum/?p=1080)
+> [Doğum Sonrası Depresyon](/blog/dogum-sonrasi-depresyon/)
 > 
-> [Babalık depresyonu](/dogum/?p=2144)
+> [Babalık depresyonu](/blog/babalik-depresyonu/)
 > 
-> [Doğum sonrası cinsel yaşam](/dogum/?p=2070)
+> [Doğum sonrası cinsel yaşam](/blog/dogum-sonrasi-cinsel-yasam/)
 > 
-> [Lazer ile vajina estetiği ve sıkılaştırma](/dogum/?p=2311) 
+> [Lazer ile vajina estetiği ve sıkılaştırma](/blog/lazer-ile-vajina-estetigi-ve-sikilastirma/) 
 > 
-> [Doğum sonrası seks ile ilgili ipuçları](/dogum/?p=2252)
+> [Doğum sonrası seks ile ilgili ipuçları](/blog/dogum-sonrasi-seks-ile-ilgili-ipuclari/)
 > 
-> [Yeni babalara öğütler](/dogum/?p=1082)
+> [Yeni babalara öğütler](/blog/yeni-babalara-ogutler/)
 > 
-> [Bebeğinizi emzirmeniz için 51 neden](/dogum/?p=1084)
+> [Bebeğinizi emzirmeniz için 51 neden](/blog/bebeginizi-emzirmeniz-icin-51-neden/)
 > 
-> [Emzirmenin anneye olan yararları](/dogum/?p=1089)
+> [Emzirmenin anneye olan yararları](/blog/emzirmenin-anneye-olan-yararlari/)
 > 
-> [Çocuğuma nasıl olumlu alışkanlık kazandırabilirim?](/dogum/?p=1092)
+> [Çocuğuma nasıl olumlu alışkanlık kazandırabilirim?](/blog/cocuguma-nasil-olumlu-aliskanlik-kazandirabilirim/)

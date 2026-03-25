@@ -3,10 +3,11 @@ title: HPV tiplemesi
 pubDate: '2014-04-04T12:56:21'
 slug: hpv-tiplemesi
 category:
-  - Makaleler
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hpv-tiplemesi/
+originalUrl: 'https://www.mumcu.com/hpv-tiplemesi/'
+readingTime: 2
 ---
 
 Son zamanlarda HPV’ye bağlı PAP smear değişikliklerinin artan oranda görülmeye başlanması, HPV türlerinin ayrımının yapılabilmesi ve yine teknolojik gelişmeler sayesinde DNA analizlerinin daha kolay ve düşük maliyetlerle karşılanabilmesi sonucunda kadınlarda genital salgıda HPV bakılması giderek artak sıklıkta yapılmaktadır.

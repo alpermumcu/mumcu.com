@@ -3,10 +3,11 @@ title: ABD&#8217;de doğuma bağlı anne ölümleri artıyor
 pubDate: '2016-08-10T08:45:02'
 slug: abdde-doguma-bagli-anne-olumleri-artiyor
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/abdde-doguma-bagli-anne-olumleri-artiyor/
+originalUrl: 'https://www.mumcu.com/abdde-doguma-bagli-anne-olumleri-artiyor/'
+readingTime: 2
 ---
 
 Tüm gelişmiş ülkelerde doğum sırasında hayatını kaybeden kadınların oranında büyük bir düşüş yaşanırken Amerika Birleşik Devletleri’nde son 30 yıl içerisinde yaşanan artış endişe uyandırıyor.

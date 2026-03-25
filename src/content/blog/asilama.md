@@ -3,10 +3,11 @@ title: Aşılama
 pubDate: '2014-03-28T00:42:11'
 slug: asilama
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/asilama/
+originalUrl: 'https://www.mumcu.com/asilama/'
+readingTime: 4
 ---
 
 Yardımcı üreme tekniklerinin ilk adımı aşılama ya da bilimsel adı ile artifisiyel inseminasyondur. Bebek sahibi olmada güçlük çeken ve 1 yıl korunmasız ilişkiye rağmen gebe kalamayanlarda infertilite problemi söz konusudur. Bu problemin araştırılmasında ilk aşama erkekde sperm analizi, kadında hormon tetkikleri ve rahim filmidir. BU tetkiklerin hepsinin ormal çıktığı ve altta yatan bir problemin bulunamadığı genç hastalarda inseminasyon ilk uygulama olmalıdır.

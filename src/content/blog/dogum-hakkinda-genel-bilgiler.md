@@ -3,10 +3,11 @@ title: Doğum hakkında genel bilgiler
 pubDate: '2014-03-20T17:18:24'
 slug: dogum-hakkinda-genel-bilgiler
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-hakkinda-genel-bilgiler/
+originalUrl: 'https://www.mumcu.com/dogum-hakkinda-genel-bilgiler/'
+readingTime: 3
 ---
 
 Bir çocuk sahibi olmaya karar verildiği ilk andan itibaren yaşanan heyecanlar doğum günü yaklaştıkça artmaya başlar ve doğumun ilk işaretleri ile birlikte doruğa ulaşır .Herşey sona erdikten sonra anne ve babanın dünyadaki en önemli eserleri olan bebek kucağa alındığında ise yaşanan bütün sıkıntılar, çekilen bütün ağrılar yerini tarifi imkansız bir huzur ve mutluluğa bırakır.

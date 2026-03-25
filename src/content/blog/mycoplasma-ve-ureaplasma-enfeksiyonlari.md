@@ -3,10 +3,11 @@ title: Mycoplasma ve ureaplasma enfeksiyonları
 pubDate: '2014-03-24T12:43:34'
 slug: mycoplasma-ve-ureaplasma-enfeksiyonlari
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/mycoplasma-ve-ureaplasma-enfeksiyonlari/
+originalUrl: 'https://www.mumcu.com/mycoplasma-ve-ureaplasma-enfeksiyonlari/'
+readingTime: 4
 ---
 
 Mycoplasma ve ureoplasma doğada yaşayan bilinen en küçük tekhücrelilerdir. Diğer mikroorganizmalardan farklı olarak bir hücre duvarı içermezler. Bu özellikleri nedeniyle etkileri genellikle hücre duvarı üzerinde olan pek çok antibiyotiğe karşı dirençlidirler. Yine aynı özellik nedeni ile mikrobiyolojik incelemelerde kullanılan gram boyması gibi bazı laboratuvar incelemeleri bu mikroorganizmalar üzerinde uygulanamaz.

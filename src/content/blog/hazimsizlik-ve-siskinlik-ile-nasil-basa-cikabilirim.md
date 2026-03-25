@@ -3,10 +3,11 @@ title: Hazımsızlık ve şişkinlik ile nasıl başa çıkabilirim?
 pubDate: '2014-03-16T20:21:14'
 slug: hazimsizlik-ve-siskinlik-ile-nasil-basa-cikabilirim
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hazimsizlik-ve-siskinlik-ile-nasil-basa-cikabilirim/
+originalUrl: 'https://www.mumcu.com/hazimsizlik-ve-siskinlik-ile-nasil-basa-cikabilirim/'
+readingTime: 2
 ---
 
 Hamilelikte sıkça rastlanılan hazımsızlık ve şişkinilik genellikle östrojen ve progesteron hormonlarındaki artışa bağlıdır. Bu hormonlar sindirim sistemi de dahil olmak üzere tüm düz kaslarınızda gevşemeye neden olur. Sindirim sistemini oluşturan kaslardaki gevşeme sindirim işlemini yavaşlatır. Sonuçta özellikle fazla yenen yemeklerden sonra şişkinlik, hazımsızlık ve karın bölgesinde rahatsızlığa neden olur.

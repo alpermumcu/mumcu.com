@@ -3,12 +3,11 @@ title: Doğum kontrol haplarının yan etkileri
 pubDate: '2018-09-12T00:17:59'
 slug: dogum-kontrol-haplarinin-yan-etkileri
 category:
-  - Gündelik Konular
-  - Jinekoloji
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-kontrol-haplarinin-yan-etkileri/
+originalUrl: 'https://www.mumcu.com/dogum-kontrol-haplarinin-yan-etkileri/'
+readingTime: 3
 ---
 
 Doğum kontrol hapları bütün dünyada çok yaygın olarak kullanılan ve doğru kullanıldığında istenmeyen gebelikleri engellemede çok yüksek etkiye sahip ilaçlardır.

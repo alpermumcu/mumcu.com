@@ -3,10 +3,11 @@ title: Salin İnfüzyon Sonografi
 pubDate: '2015-12-14T16:49:37'
 slug: salin-infuzyon-sonografi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/salin-infuzyon-sonografi/
+originalUrl: 'https://www.mumcu.com/salin-infuzyon-sonografi/'
+readingTime: 4
 ---
 
 Kanama bozuklukları, adet öncesi ve hemen sonrasında lekelenme, adet kanamasının miktarının azalması gibi pek çok değişik durum varlığında endometrial kavite adı verilen rahimin iç boşluğunda herhangi bir problem olup olmadığının değerlendirilmesi gerekli olabilir.

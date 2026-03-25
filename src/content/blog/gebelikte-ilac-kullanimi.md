@@ -3,13 +3,14 @@ title: Gebelikte ilaç kullanımı
 pubDate: '2014-03-17T02:38:29'
 slug: gebelikte-ilac-kullanimi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-ilac-kullanimi/
+originalUrl: 'https://www.mumcu.com/gebelikte-ilac-kullanimi/'
+readingTime: 2
 ---
 
-![ilac](/wp-content/uploads/2014/03/ilac.jpg)
+![ilac](../../images/uploads/2014/03/ilac.jpg)
 
 Annenin aldığı bir ilacın fetusu etkilemesi için plasentadan geçmesi gerekir. Büyük moleküllü ilaçlar dışında hemen hemen her ilaç plasentadan belirli ölçüde geçer.
 

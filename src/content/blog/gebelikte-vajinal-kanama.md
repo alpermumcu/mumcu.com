@@ -3,10 +3,11 @@ title: Gebelikte vajinal kanama
 pubDate: '2015-01-11T18:28:54'
 slug: gebelikte-vajinal-kanama
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-vajinal-kanama/
+originalUrl: 'https://www.mumcu.com/gebelikte-vajinal-kanama/'
+readingTime: 8
 ---
 
 Gebelik çoğu kadın için ister istemez stresli bir durumdur. Bebeğin iyi olup olmadığı, normal şekilde büyüyüp büyümediği, doğumun ne şekilde olacağı gibi pekçok değişik faktör bu stresin kaynağıdır. Ancak hemen hiçbir durum bir anne adayını vajinal kanama kadar korkutup endişelendiremez. Oysa vajinal kanamalar gebelikte oldukça çok karşılaşılan durumlardır.

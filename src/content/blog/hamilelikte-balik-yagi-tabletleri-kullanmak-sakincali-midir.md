@@ -3,14 +3,15 @@ title: Hamilelikte balık yağı tabletleri kullanmak sakıncalı mıdır?
 pubDate: '2014-03-16T04:53:08'
 slug: hamilelikte-balik-yagi-tabletleri-kullanmak-sakincali-midir
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/hamilelikte-balik-yagi-tabletleri-kullanmak-sakincali-midir/
+readingTime: 2
 ---
 
-![Photo by: Alper Mumcu Montreal 2014](/wp-content/uploads/2014/03/balikyagi.jpg)
+![Photo by: Alper Mumcu Montreal 2014](../../images/uploads/2014/03/balikyagi.jpg)
 
 Son zamanlarda ülkemizde de giderek popülarite kazanan konulardan birisi de Omega 3 olarak adlandırılan yağlardır. Omega 3 genel olarak piyasada balık yağı içeren tabletler şeklinde satılan ürünlerin içinde bulunurlar.
 

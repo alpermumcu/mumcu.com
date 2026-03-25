@@ -3,10 +3,11 @@ title: Hiperprolaktinemi
 pubDate: '2014-03-26T16:56:55'
 slug: hiperprolaktinemi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hiperprolaktinemi/
+originalUrl: 'https://www.mumcu.com/hiperprolaktinemi/'
+readingTime: 3
 ---
 
 Prolaktin beyinde hipofiz adı verilen bir bölgeden salgılanan bir hormondur. Kandaki normal değeri 10-25 ng/ml’dir.Vücuttaki asıl görevi süt üretilmesidir. Üretilen sütün meme uçlarından salınmasının sorumlusu ise oksitosin adı verilen başka bir hormondur. Prolaktin hipofiz dışında az miktarlarda endometrium ve myometriumdan da (rahim iç zarı ve rahim kası) salgılanır. Prolaktinin salınımı pek çok faktöre bağlıdır. Ancak asıl olarak dopamin adı verilen bir madde prolaktin salınımından sorumludur. Vücutta 5 değişik türde prolaktin vardır. Bunların herhangi bir andaki bioaktivite ve immunoaktiviteleri farklıdır. Bioaktivite hormonun vücutta etki yaratmasını anlatırken immunoaktivite kabaca yapılan kan testlerinde saptanmasıdır. Bunu şöyle bir örnekle anlatabiliriz. Vücutta fazla olan prolaktin süt salınımına ve adet düzensizliğine neden olur. Bu hormonun biokativitesidir. Ancak klinik olarak yakınmalar olsa bile kan testlerinde hormon düzeyleri normal olarak bulunabilir.Bu örnekte verilen hastada bioaktivite yüksek ancak immunoaktivite düşüktür. Tam tersi durumlar da söz konusu olabilir. Yani kan hormon düzeyleri yüksek olmasına rağmen hastada klinik bir bulgu yoktur. Bu kişide de hormonun immunoaktivitesi yüksek bioaktivitesi düşüktür.

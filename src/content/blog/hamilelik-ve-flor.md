@@ -3,10 +3,11 @@ title: Hamilelik ve Flor
 pubDate: '2014-03-16T19:12:47'
 slug: hamilelik-ve-flor
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-flor/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-flor/'
+readingTime: 2
 ---
 
 Flor vücudumuzun çok az miktarlarda gereksinim duyduğu minerallerden birisidir. En sık sodyum florid şeklinde diş macunalarında bulunur. Doğal haliyle bazı besin maddelerinin içinde bulunan flor özellikle içme sularına sonradan ilave edilir. Piyasada flor desteği için satılan ilaçlar da bulunmaktadır.

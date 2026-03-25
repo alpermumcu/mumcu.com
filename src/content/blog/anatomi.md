@@ -3,10 +3,11 @@ title: Anatomi
 pubDate: '2014-03-22T17:29:41'
 slug: anatomi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/anatomi/
+originalUrl: 'https://www.mumcu.com/anatomi/'
+readingTime: 5
 ---
 
 Tıpta bilgi sahibi olabilmek için ilk adım anatomiyi öğrenmektir. İnsan vücudunu ve onu oluşturan parçaları öğrenmeden ne normal ne de patolojik bir durum anlaşılamaz.Bu nedenle tıp fakültelerinde geleceğin doktorlarına ilk öğretilen ders anatomidir. Yapıyı öğrendikten sonra sıra bu yapıların fonksiyonları ve çalışma mekanizmalarına gelir. Bu mekanizmalara da fizyoloji denir. İnsan da dahil olmak üzere tüm canlılardaki anatomik oluşumlar o tür için aynıdır. Ancak arada küçük farklılıklar bulunabilir. Bu farklılıklara varyasyon adı verilir. Kabaca bir örnek vermek gerekirse bütün insanların eli aynı yapıdadır, aynı yerden köken alır, aynı sayıda kemik ve kas içerir, sinirler aynı yerden gelir, lenf ve damar dolaşımı aynıdır. Ancak baktığınızda kimsenin eli kimseye benzemez. parmakların yapısı, tırnakların şekli değişiktir. İki insanda da el üzerinde aynı damarlar olmasına rağmen kiminin el üstünde bu damar daha yüzeyden geçer ve belirginidir kiminde ise değildir. İşte bu varyasyondur. İnsan vücudu hücrelerden oluşur. Hücreler dokuları, dokular organları, organlar sistemleri ve sistemler de vücudu meydana getirir. Kadın ve erkek anatomileri arasındaki en belirgin fark üreme sistemlerindedir.
@@ -22,7 +23,7 @@ Dış Kadın genital organının tamamına vulva adı verilir. Vulvanın üstün
 **3.Klitoris :** Erkekdeki pensin karşılığı olan erektil dokudur.Dıştan görüne kısmına glans klitoris denir. İçeride mons pubisin iç kesimlerine kadar uzanır.  
 **4.Ürethral orfis:**Mesanenin dış dünyaya açılış yolu olan ürethranın son noktasıdır. İdrar burdan dışarıya atılır.
 
-![dis](/wp-content/uploads/2014/03/dis.gif)
+![dis](../../images/uploads/2014/03/dis.gif)
 
 **5.Vajina:** Kadın üreme siteminin iç kısımları ile dış kısımlarını birbirine bağlayan tüp şeklinde bir dokudur. Ön ve arka duvarları normalde birbiri ile temas halindedir. Bazı yazarlarca iç genital organ olarak tanımlanır.Boyu yaklaşık 9 cm kadardır. Son derece esnak bir dokudur.  
 **6.Hymen (Kızlık zarı):**Vajina girişinde bulunan ince zar şeklinde bir yapıdır. Ortası deliktir ve bu deliğe himenal orifis adı verilir. Görevi vajina ve iç genitalleri dışarıdan gelecek mikroorganizmalara karşı korumak olduğu sanılmaktadır.  
@@ -31,7 +32,7 @@ Dış Kadın genital organının tamamına vulva adı verilir. Vulvanın üstün
 
 **İç Genital Organlar**
 
-![icanat1](/wp-content/uploads/2014/03/icanat1.gif)
+![icanat1](../../images/uploads/2014/03/icanat1.gif)
 
 Pelvis boşluğunun içindeki üreme sistemini oluşturan organlardır. Bunlar sırası ile uterus (Rahim), tuba uterina (fallop tüpleri) ve overlerdir (yumurtalık). Tüpler ve overler her iki yanda ikişer tanedir. Uterus ise ortada ve tek bir tanedir. Embryonik hayatta her iki yandan gelen tüp şeklinde yapılar orta hatta birleşerek uterusu oluşturur. Bu birleşmede meydana gelen aksaklıklar rahimde çift gözlü uterus gibi şekilsel bozukluklara neden olurlar. Bunlara genel olarak Müllerian Füzyon anomalisi adı verilir.
 

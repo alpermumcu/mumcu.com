@@ -3,10 +3,11 @@ title: Kadın prezervatifi
 pubDate: '2014-03-24T14:27:55'
 slug: kadin-prezervatifi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/kadin-prezervatifi/
+originalUrl: 'https://www.mumcu.com/kadin-prezervatifi/'
+readingTime: 5
 ---
 
 Bundan 30 yıl kadar önce kadınlar açısından cinsel devrim dendiğinde kadınların sadece diledikleri zaman hamile kalmaları hakkına sahip olmaları kastediliyordu oysa günümüzde cinsel yolla bulaşan hastalıkların ve özellikle AIDS’in güncelliği kadınlar açısından bu hastalılardan korunmanın da önemini ortaya koymakta.
@@ -27,16 +28,16 @@ Kondomun her iki ucunda yarı sert ve kolay büklebilen bir halka bulunur. Kapal
 **Nasıl kullanılır?**  
 Kadın prezervatifinin yerleştirilmesi diyafram yerleştirilmesine benzer. Kapalı uçtaki halka orta, işaret ve baş parmaklar ile bükülerek vajina içerisine sokulur ve daha sonra işaret parmağı ile sonuna kadar itilir. Bu sırada kondomun kendi etrafında bükülmediğinden emin olmak gerekir. Kondomun dışta kalan kısmı ilişki sırasında genital bölgelerin temas etmesini engellediğinden genital siğilere karşı erkek prezervatifinden daha fazla koruyuculuk sağlar.
 
-![reality1](/wp-content/uploads/2014/03/reality1.gif)  
+![reality1](../../images/uploads/2014/03/reality1.gif)  
 1
 
-![reality2](/wp-content/uploads/2014/03/reality2.gif)  
+![reality2](../../images/uploads/2014/03/reality2.gif)  
 2
 
-![reality3](/wp-content/uploads/2014/03/reality3.gif)  
+![reality3](../../images/uploads/2014/03/reality3.gif)  
 3
 
-![reality4](/wp-content/uploads/2014/03/reality4.gif)  
+![reality4](../../images/uploads/2014/03/reality4.gif)  
 4
 
 İlişki sonrasında kondom dikatli bir şekilde çıkartılmalı ve atılmalıdır. Aynı kondom birden fazla sefer kullanılmamalıdır. Eğer ilişki sırasında dışarıda kalan uç vajina içine kaçarsa ilişkiye hemen son verilmeli, kondom vajinadan çıkartılmalı ve yeni bir kondom taktıktan sonra ilişkiye devam edilmelidir.

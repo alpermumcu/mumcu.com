@@ -3,13 +3,14 @@ title: Gebelik ve Omega 3
 pubDate: '2014-03-16T19:35:38'
 slug: gebelik-ve-omega-3
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-ve-omega-3/
+originalUrl: 'https://www.mumcu.com/gebelik-ve-omega-3/'
+readingTime: 5
 ---
 
-![balik](/wp-content/uploads/2014/03/balik.jpg)
+![balik](../../images/uploads/2014/03/balik.jpg)
 
 Hemen herkes hamilelikte beslenmenin öneminin farkındadır. Sağlıklı bir gebelik dönemi yaşamanın önemli kriterlerinden birisi de uygun ve düzenli şekilde beslenmektir. Burada önemli olan fazla miktarda yemek değil kaliteli beslenmedir. Kaliteden kastedilen ise gebelik sırasında gereksinim duyulan tüm maddeleri yeterli ve uygun miktarlarda almaktır.
 
@@ -65,7 +66,7 @@ Bu balıklar arasında büyük olanlar civa başta olmak üzere bazı kimysal ç
 
 Ülkemiz açısından bakıldığında hamsi ve sardalya çok önemli ve değerli besin maddeleri olarak öne çıkmaktadır.
 
-[![hamsilipilav](/wp-content/uploads/2014/03/hamsilipilav.jpg)](http://www.flickr.com/alpermumcu)
+[![hamsilipilav](../../images/uploads/2014/03/hamsilipilav.jpg)](http://www.flickr.com/alpermumcu)
 
 Omega 3 yağ asitleri balık dışında diğer bazı besin maddlerinde de bulunmaktadır.
 

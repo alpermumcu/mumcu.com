@@ -3,10 +3,11 @@ title: Erken gebelikte sık karşılaşılan sorunlar
 pubDate: '2014-03-15T16:13:46'
 slug: erken-gebelikte-sik-karsilasilan-sorunlar
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/erken-gebelikte-sik-karsilasilan-sorunlar/
+originalUrl: 'https://www.mumcu.com/erken-gebelikte-sik-karsilasilan-sorunlar/'
+readingTime: 5
 ---
 
 Gebelik anne adayının fizyoloji ve psikolojisini değiştiren uzun süreli bir dönemdir. Bu dönemde gerek fizyolojik gerekse patolojik pekçok yakınma anne adayını rahatsız eder. Bunlardan en çok karşılaşılanlar şunlardır.

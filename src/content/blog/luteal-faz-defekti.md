@@ -3,10 +3,11 @@ title: Luteal faz defekti
 pubDate: '2014-03-26T16:53:23'
 slug: luteal-faz-defekti
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/luteal-faz-defekti/
+originalUrl: 'https://www.mumcu.com/luteal-faz-defekti/'
+readingTime: 2
 ---
 
 Normalde her adet döneminde beyin ve yumurtalıklardan salgılanan hormonların etkisi ile endometrium adı verilen rahim iç zarında da değişiklikler olur.

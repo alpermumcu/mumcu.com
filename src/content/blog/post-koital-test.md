@@ -3,10 +3,11 @@ title: Post Koital Test
 pubDate: '2014-03-27T13:33:36'
 slug: post-koital-test
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/post-koital-test/
+originalUrl: 'https://www.mumcu.com/post-koital-test/'
+readingTime: 2
 ---
 
 İnfertilite nedenlerinden birisi de rahim ağzından olan salgı ile sperm arasındaki ilişkinin uygunsuz olmasıdır. Normalde serviks salgısı spermlerin rahim içerisine ilerlemesi için uygun bir ortam hazırlar. Bu ortamın bozuk olduğu durumlarda spermler haraket kabiliyetlerini ve bazen canlılıklarını yitirebilirler. Buna servikal faktör adı verilir. Servikal faktörü değerlendirmek için post koital test yapılır.

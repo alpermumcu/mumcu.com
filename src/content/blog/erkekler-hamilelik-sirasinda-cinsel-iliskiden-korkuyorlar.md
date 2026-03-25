@@ -3,11 +3,12 @@ title: Erkekler hamilelik sırasında cinsel ilişkiden korkuyorlar!
 pubDate: '2014-12-16T23:50:29'
 slug: erkekler-hamilelik-sirasinda-cinsel-iliskiden-korkuyorlar
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/erkekler-hamilelik-sirasinda-cinsel-iliskiden-korkuyorlar/
+readingTime: 2
 ---
 
 Journal of sex and marital therapy dergisinde yayınlanan bir çalışmaya göre erkeklerin çoğu hamilelik sırasında cinsel ilişkinin bebeğe zarar verebileceğinden korkuyorlar.

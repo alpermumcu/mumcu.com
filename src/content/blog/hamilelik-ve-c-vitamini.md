@@ -3,13 +3,14 @@ title: Hamilelik ve C Vitamini
 pubDate: '2014-03-16T19:10:04'
 slug: hamilelik-ve-c-vitamini
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-c-vitamini/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-c-vitamini/'
+readingTime: 4
 ---
 
-![narenciye](/wp-content/uploads/2014/03/narenciye.jpg)
+![narenciye](../../images/uploads/2014/03/narenciye.jpg)
 
 Diğer adı askorbik asit olan C vitamini suda çözünen vitaminlerdendir. Pok çok memeli canlının aksine insan gereksinim duyduğu C vitaminini kendisi üretemez bu nedenle dışarıdan besinler yolu ile almak zorundadır.
 

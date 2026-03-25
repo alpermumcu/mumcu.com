@@ -3,10 +3,11 @@ title: Labioplasti vulva estetigi ve dudakların küçültülmesi
 pubDate: '2016-08-15T00:18:24'
 slug: labioplasti-vulva-estetigi-ve-dudaklarin-kucultulmesi
 category:
-  - Jinekoloji
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/labioplasti-vulva-estetigi-ve-dudaklarin-kucultulmesi/
+originalUrl: 'https://www.mumcu.com/labioplasti-vulva-estetigi-ve-dudaklarin-kucultulmesi/'
+readingTime: 6
 ---
 
 Son dönemlerde kadınlar arasında giderek popülerite kazanan uygulamalardan birisi de dış genital bölgede uygulanan estetik operasyonlardır.

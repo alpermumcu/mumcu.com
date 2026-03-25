@@ -3,10 +3,11 @@ title: Hamilelikte karın ağrıları
 pubDate: '2014-03-16T03:20:25'
 slug: hamilelikte-karin-agrilari
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-karin-agrilari/
+originalUrl: 'https://www.mumcu.com/hamilelikte-karin-agrilari/'
+readingTime: 2
 ---
 
 Karın ağrısı hamilelik süresince hemen her dönemde karşılaşılabilecek bir yakınmadır. Özellikle gebeliğin erken dönemlerinde pekçok kadın karın ağrısından yakınır.

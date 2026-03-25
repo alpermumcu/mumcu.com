@@ -3,11 +3,12 @@ title: Depresyon ve kaygı tüp bebek başarısını olumsuz etkiliyor
 pubDate: '2016-07-22T00:30:50'
 slug: depresyon-ve-kaygi-tup-bebek-basarisini-olumsuz-etkiliyor
 category:
-  - Güncel Haberler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/depresyon-ve-kaygi-tup-bebek-basarisini-olumsuz-etkiliyor/
+readingTime: 1
 ---
 
 İsveç’deki Karolinska Enstitüsünde yapılan bir çalışmada depresyon ve anksiyete (kaygı) varlığının tüp bebek tedavilerinde başarıyı olumsuz yönde etkileyebileceği ileri sürülüyor.

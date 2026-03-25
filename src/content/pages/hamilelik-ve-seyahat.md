@@ -16,30 +16,30 @@ Hatta son zamanlarda Avrupa’da giderek popülarite kazanan bir akım başladı
 
 **İşte tüm hamilelik döneminiz boyunca dilediğiniz gibi güvenle gezmeniz için gerek duyduğunuz tüm bilgi ve ipuçları:**
 
-> [Hamilelikte araba yolculuğu](/hamilelik-ve-seyehat/?p=753)
+> [Hamilelikte araba yolculuğu](/blog/hamilelikte-araba-yolculugu/)
 > 
-> [Hamilelikte uçak yolculuğu](/hamilelik-ve-seyehat/?p=757)
+> [Hamilelikte uçak yolculuğu](/blog/hamilelikte-ucak-yolculugu/)
 > 
-> [Hamilelikte tren ve otobüs yolculuğu](/hamilelik-ve-seyehat/?p=733)
+> [Hamilelikte tren ve otobüs yolculuğu](/blog/hamilelikte-tren-ve-otobus-yolculugu/)
 > 
-> [Hamilelikte gemi yolculuğu (cruise)](/hamilelik-ve-seyehat/?p=729)
+> [Hamilelikte gemi yolculuğu (cruise)](/blog/hamilelikte-gemi-yolculugu-cruise/)
 
-> [Uçak ile seyahat sırasında dikkat edilmesi gereken noktalar](/hamilelik-ve-seyehat/?p=765)
+> [Uçak ile seyahat sırasında dikkat edilmesi gereken noktalar](/blog/ucak-ile-seyahat-sirasinda-dikkat-edilmesi-gereken-noktalar/)
 > 
-> [Gezgin hamilelere öneriler](/hamilelik-ve-seyehat/?p=742)
+> [Gezgin hamilelere öneriler](/blog/gezgin-hamilelere-oneriler/)
 > 
-> [Hamilelikte araçlarda bulunan hava yastıkları güvenli midir?](/hamilelik-ve-seyehat/?p=767)
+> [Hamilelikte araçlarda bulunan hava yastıkları güvenli midir?](/blog/hamilelikte-araclarda-bulunan-hava-yastiklari-guvenli-midir/)
 > 
-> [Hamileliğin son trimesterında uçak yolculuğu güvenli midir?](/hamilelik-ve-seyehat/?p=738)
+> [Hamileliğin son trimesterında uçak yolculuğu güvenli midir?](/blog/hamileligin-son-trimesterinda-ucak-yolculugu-guvenli-midir/)
 > 
-> [Uçaktaki kabin basıncı bebeğime zarar verir mi?](/hamilelik-ve-seyehat/?p=770)
+> [Uçaktaki kabin basıncı bebeğime zarar verir mi?](/blog/ucaktaki-kabin-basinci-bebegime-zarar-verir-mi/)
 > 
-> [Dehidratasyonun önüne nasıl geçebilirim?](/hamilelik-ve-seyehat/?p=604)
+> [Dehidratasyonun önüne nasıl geçebilirim?](/blog/dehidratasyonun-onune-nasil-gecebilirim/)
 > 
-> [Seyahatte kasılmalarım başlarsa ne yapmalıyım?](/hamilelik-ve-seyehat/?p=772)
+> [Seyahatte kasılmalarım başlarsa ne yapmalıyım?](/blog/seyahatte-kasilmalarim-baslarsa-ne-yapmaliyim/)
 > 
-> [Hamilelikte seyahat ederken nasıl giyinmeliyim?](/hamilelik-ve-seyehat/?p=774)
+> [Hamilelikte seyahat ederken nasıl giyinmeliyim?](/blog/hamilelikte-seyahat-ederken-nasil-giyinmeliyim/)
 > 
-> [Rakım değişiklikleri sabah bulantılarımı arttırır mı?](/hamilelik-ve-seyehat/?p=749)
+> [Rakım değişiklikleri sabah bulantılarımı arttırır mı?](/blog/rakim-degisiklikleri-sabah-bulantilarimi-arttirir-mi/)
 > 
-> [Hamile olmam araç tutmasına neden olur mu?](/hamilelik-ve-seyehat/?p=776)
+> [Hamile olmam araç tutmasına neden olur mu?](/blog/hamile-olmam-arac-tutmasina-neden-olur-mu/)

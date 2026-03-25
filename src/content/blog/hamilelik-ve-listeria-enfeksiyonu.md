@@ -3,10 +3,11 @@ title: Hamilelik ve listeria enfeksiyonu
 pubDate: '2014-03-18T00:11:39'
 slug: hamilelik-ve-listeria-enfeksiyonu
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-listeria-enfeksiyonu/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-listeria-enfeksiyonu/'
+readingTime: 4
 ---
 
 Listeriozis besinler yolu ile bulaşan ve _Listeria monocytogenes_ adı verilen bakterinin neden olduğu bir enfeksiyondur. Her yıl Amerika Birleşik Devletlerinde 2.500 civarında kişinin bu hastalığa yakalandığı ve bunlardan beşyüzünün hayatını kaybettiği tahmin edilmektedir. Listeria enfeksiyonu hamile kadınlarda düşük, erken doğum, anne karnında ya da doğum sonrası erken dönemde ölüm gibi ciddi sonuçlar doğurabilir.

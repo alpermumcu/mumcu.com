@@ -3,11 +3,11 @@ title: Hamile kalma şansınızı arttıracak 11 küçük hatırlatma
 pubDate: '2017-04-09T00:00:14'
 slug: hamile-kalma-sansinizi-arttiracak-11-kucuk-hatirlatma
 category:
-  - Hamilelik
-  - Infertilite
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamile-kalma-sansinizi-arttiracak-11-kucuk-hatirlatma/
+originalUrl: 'https://www.mumcu.com/hamile-kalma-sansinizi-arttiracak-11-kucuk-hatirlatma/'
+readingTime: 6
 ---
 
 Pek çok insan için uygun eşi bulup uygun zamanda cinsel ilişkide bulunmak gebe kalmak için yeterli. Ancak bazı kadınlar için bu o kadar da kolay olmuyor.

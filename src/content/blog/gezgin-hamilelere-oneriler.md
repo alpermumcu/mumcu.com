@@ -3,13 +3,14 @@ title: Gezgin hamilelere öneriler
 pubDate: '2014-03-17T03:39:46'
 slug: gezgin-hamilelere-oneriler
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gezgin-hamilelere-oneriler/
+originalUrl: 'https://www.mumcu.com/gezgin-hamilelere-oneriler/'
+readingTime: 4
 ---
 
-![gezgin](/wp-content/uploads/2014/03/gezgin.jpg)
+![gezgin](../../images/uploads/2014/03/gezgin.jpg)
 
 **Endişenizi azaltın**  
 Yolculuğa çıkarken çoğumuz tatlı bir gerginlik yaşarız. Hamile olduğunuzda bu gerginliğin çok daha fazla olduğunu fark edebilirsiniz. Ancak bu stresten kurtulmanın yolu dokuz ay boyunca eve kapanmak değildir. Bazı basit öneriler ile endişelerinizi azaltabilirsiniz.

@@ -3,10 +3,11 @@ title: Yaş ve fertilite
 pubDate: '2014-03-27T13:24:25'
 slug: yas-ve-fertilite
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/yas-ve-fertilite/
+originalUrl: 'https://www.mumcu.com/yas-ve-fertilite/'
+readingTime: 3
 ---
 
 Kişinin yaşı fertilite üzerindedirek etkiye sahiptir. Hemen herkes kadının yaşı ilerledikçe gebe kalma potansiyelinin azaldığından haberdardır. Aynı düzeyde olmasa bile son zamanlarda yapılan çalışmalar erkek yaşının da fertilite üzerinde etkileri olduğunu düşündürmektedir.

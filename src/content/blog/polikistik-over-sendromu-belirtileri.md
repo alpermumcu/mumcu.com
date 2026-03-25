@@ -3,12 +3,11 @@ title: Polikistik over sendromu belirtileri
 pubDate: '2020-10-04T11:35:07'
 slug: polikistik-over-sendromu-belirtileri
 category:
-  - Infertilite
-  - Jinekoloji
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/polikistik-over-sendromu-belirtileri/
+originalUrl: 'https://www.mumcu.com/polikistik-over-sendromu-belirtileri/'
+readingTime: 6
 ---
 
 Polikistikover sendromu ya da kısa söylenişi ile **PCOS￼** temel olarak bakıldığında bir hormonal dengesizlik durumudur. Bu sendroma sahip olan kadınlar normalden daha yüksek androjenlere yani erkeklik hormonlarına sahiptirler.￼ Polikistik over sendromu belirtileri çok değişken olabilmektedir.
@@ -48,7 +47,7 @@ Tek bir hormon değerine bakılarak polikistik over tanısı konamaz. Vücutta s
 
 Polikistik over sendromunda yumurtalıkların görüntüsü çok tipiktir. ￼Ancak bu görüntü tek başına tanı koymakta yeterli değildir çünkü bazı kadınlarda görüntü böyle olmakla birlikte hiçbir klinik belirti ve bulgu saptanmadığı gibi￼ bazı kadınlarda ise tüm bulgular ve yakınmalar olmasına rağmen yumurtalıklar ultrasonda normal görünebilir.￼
 
-![Polikistik over sendromu belirtileri](/wp-content/uploads/2020/10/polikistik.jpg)
+![Polikistik over sendromu belirtileri](../../images/uploads/2020/10/polikistik.jpg)
 
 Polikistik over sendromu belirtileri
 

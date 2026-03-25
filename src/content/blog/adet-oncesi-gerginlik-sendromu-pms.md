@@ -3,10 +3,11 @@ title: Adet Öncesi Gerginlik Sendromu (PMS)
 pubDate: '2014-03-22T17:41:13'
 slug: adet-oncesi-gerginlik-sendromu-pms
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/adet-oncesi-gerginlik-sendromu-pms/
+originalUrl: 'https://www.mumcu.com/adet-oncesi-gerginlik-sendromu-pms/'
+readingTime: 4
 ---
 
 Adet kanaması yaklaşırken kadınların %75’inde değişen hormon düzeylerine bağlı olarak bazı şikayetler ortaya çıkar.Bu kadınların yarısında yakınmalar hafiftir ve kişinin günlük yaşantısını etkilemez. Diğer yarısında ise depresyon da dahil olmak üzere çok daha ciddi şikayetler ortaya çıkar. **(Premenstrüel Sendrom, PMS)**

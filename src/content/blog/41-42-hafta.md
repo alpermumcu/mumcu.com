@@ -3,10 +3,11 @@ title: 41-42. hafta &#8211; Uzatmalardayız
 pubDate: '2014-03-30T13:31:30'
 slug: 41-42-hafta
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/41-42-hafta/
+originalUrl: 'https://www.mumcu.com/41-42-hafta/'
+readingTime: 2
 ---
 
 Bu sayfayı okuduğunuza göre hala daha doğum yapmadınız demektir. Merak etmeyin yalnız değilsiniz. Bazı anne adayları bebeklerini beklenen doğum tarihinden önce dünyaya getirdikleri gibi bazıları da daha sonra doğururlar. Bunda beklenen doğum tarihinin hatalı hesaplanması da rol oynayabilir. Son adet kanamanızın başladığı günden eminseniz ve bebeğinizin ölçümleri de tüm gebeliğiniz boyunca bu tarih ile uyumlu olarak saptandıysa gerçekten bebeğiniz geç kalmış demektir. Unutmamanız gereken bir başka nokta da beklenen doğum tarihinin tahmini bir tarih olduğu ve özelikle ilk bebeğini bekleyen anne adaylarında doğumun gecikebileceğidir.

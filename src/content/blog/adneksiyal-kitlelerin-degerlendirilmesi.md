@@ -3,10 +3,11 @@ title: Adneksiyal kitlelerin değerlendirilmesi
 pubDate: '2014-03-22T20:10:46'
 slug: adneksiyal-kitlelerin-degerlendirilmesi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/adneksiyal-kitlelerin-degerlendirilmesi/
+originalUrl: 'https://www.mumcu.com/adneksiyal-kitlelerin-degerlendirilmesi/'
+readingTime: 4
 ---
 
 Yumurtalıklar ve tüpler birarada adneks olarak adlandırılırar. Tüplerden kaynaklanan kitle ve tümörlen son derece nadir görüldüğü için adneksyel kitle denildiğinde genelde over yani yumurtalık kökenli kitleler anlaşılır. Bu kitleler yumurtalık kistleri olabileceği gibi, değişik tümörler ya da iltihabi büyümeler olabilir. Muayenede ele gelen adneskiyel bir kitlenin yumurtalıktan köken aldığını söylemek her zaman çok kolay olmaz. Bu kitleler over dışında uterus, tüpler hatta barsak veya mesane kökenli de olabilir. Adneksiyel kitle varlığında bu kitlenin kökeni ve yapısını anlayabilmek için muyenenin yanında dikkatli bir öykü ve yardımcı tanı yöntemlerinin doğru ve yerinde kulanılması özellikle tedavi yaklaşımı açısından önemlidir.

@@ -3,10 +3,11 @@ title: Dismenore (Ağrılı adet görme)
 pubDate: '2014-03-22T17:40:37'
 slug: dismenore-agrili-adet-gorme
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dismenore-agrili-adet-gorme/
+originalUrl: 'https://www.mumcu.com/dismenore-agrili-adet-gorme/'
+readingTime: 3
 ---
 
 Adet kanaması esnasında ya da hemen öncesinde kasıklarda ortaya çıkan rahatsızlık ve kramp tarzı ağrılara dismenore ya da menstrüel kramp adı verilir.  

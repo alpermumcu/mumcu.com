@@ -3,11 +3,11 @@ title: Düşükleri önceden bilmek mümkün olabilecek.
 pubDate: '2016-05-16T14:49:06'
 slug: dusukleri-onceden-bilmek-mumkun-olabilecek
 category:
-  - Güncel Haberler
-  - Haberler | Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dusukleri-onceden-bilmek-mumkun-olabilecek/
+originalUrl: 'https://www.mumcu.com/dusukleri-onceden-bilmek-mumkun-olabilecek/'
+readingTime: 2
 ---
 
 Hamile olduğunu öğrenen kadınların yaşadıkları ilk ve en büyük korku kuşkusuz düşük yapmaktır. İstenilen bir gebeliğin erken dönemde kaybı çoğu zaman ciddi bir psikolojik travma nedenidir.

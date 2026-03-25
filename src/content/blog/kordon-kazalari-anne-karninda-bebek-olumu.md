@@ -3,10 +3,11 @@ title: Kordon kazaları (anne karnında bebek ölümü)
 pubDate: '2014-03-15T22:01:40'
 slug: kordon-kazalari-anne-karninda-bebek-olumu
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/kordon-kazalari-anne-karninda-bebek-olumu/
+originalUrl: 'https://www.mumcu.com/kordon-kazalari-anne-karninda-bebek-olumu/'
+readingTime: 4
 ---
 
 Bebek bekleyen bir anne adayı için en korkunç ve dramatik olay doğuma az bir süre kala bebeğin kaybedilmesidir. Hiç arzu edilmeyen bu durum ne yazik ki zaman zaman karşılaştığımız bir gerçektir. Her yıl sadece Amerika Birleşik Devletlerinde 26.000 ölü doğum olgusu yaşanmaktadır.

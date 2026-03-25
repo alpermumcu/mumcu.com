@@ -3,10 +3,11 @@ title: Uzaktan konsültasyon
 pubDate: '2020-09-05T20:26:57'
 slug: uzaktan-konsultasyon
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/uzaktan-konsultasyon/
+originalUrl: 'https://www.mumcu.com/uzaktan-konsultasyon/'
+readingTime: 2
 ---
 
 **Neden ikinci görüş almalıyım??**

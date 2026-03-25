@@ -3,16 +3,15 @@ title: Yumurtalık rezervini gösteren testler bebek sahibi olma şansını yans
 pubDate: '2017-10-15T02:54:04'
 slug: yumurtalik-rezervini-gosteren-testler-bebek-sahibi-olma-sansini-yansitmiyor
 category:
-  - Güncel Haberler
-  - Infertilite
-  - Jinekoloji
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/yumurtalik-rezervini-gosteren-testler-bebek-sahibi-olma-sansini-yansitmiyor/
+readingTime: 3
 ---
 
-![](/wp-content/uploads/2017/10/bloodtest.jpg)
+![](../../images/uploads/2017/10/bloodtest.jpg)
 
 Kadınların hayatlarının erken döneminde kafalarını kurcalayan en önemli konulardan bir tanesi çocuğum olacak mı sorusudur?
 

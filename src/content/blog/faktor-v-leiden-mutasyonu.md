@@ -3,10 +3,11 @@ title: Faktör V Leiden Mutasyonu
 pubDate: '2014-03-17T01:47:45'
 slug: faktor-v-leiden-mutasyonu
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/faktor-v-leiden-mutasyonu/
+originalUrl: 'https://www.mumcu.com/faktor-v-leiden-mutasyonu/'
+readingTime: 9
 ---
 
 Geçtiğimiz 10 yıl içinde bazı kadınların hamilelik ya da doğum kontrol hapı kullanımı sırasında neden kanlarında pıhtılaşmaya karşı bir eğilim gösterdiği konusu dikkati çekti. Bu konu üzerinda yapılan araştırmaların sonucunda kandaki bazı pıhtlışma faktörleri ile ilgili genlerde bir bozukluk olduğu ortaya kondu.

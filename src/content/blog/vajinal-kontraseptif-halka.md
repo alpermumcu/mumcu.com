@@ -3,10 +3,11 @@ title: Vajinal kontraseptif halka
 pubDate: '2014-03-24T14:18:30'
 slug: vajinal-kontraseptif-halka
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/vajinal-kontraseptif-halka/
+originalUrl: 'https://www.mumcu.com/vajinal-kontraseptif-halka/'
+readingTime: 4
 ---
 
 İstenmeyen gebeliklerin önlenmesinde kullanılan yeni yöntemlerden birisi de vajinaya yerleştirilen halkadır.

@@ -3,10 +3,11 @@ title: Emzirirken yeniden gebe kalmak
 pubDate: '2014-04-07T17:33:37'
 slug: emzirirken-yeniden-gebe-kalmak
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/emzirirken-yeniden-gebe-kalmak/
+originalUrl: 'https://www.mumcu.com/emzirirken-yeniden-gebe-kalmak/'
+readingTime: 9
 ---
 
 Bebek sahibi olmak yani anne olmak istisnaları olsa da pekçok kadın için hayatının bir döneminde mutlaka isteyeceği bir durumdur. Bu kararı vermek bundan belki 30-40 yıl önce çok daha kolayken kadınların çalışma hayatı içinde daha fazla yer almaları, toplumsal değişimler, çocukların ailelerinden uzak şehirlerde yaşamaları gibi değişik nedenler ile çocuk sahibi olmaya karar vermek güçleşmekte. Dahası günümüz yaşam koşulları çoğu evli çiftin sadece tek çocuk yapmak istemesinde önemli rol oynamakta. Bununla birlikte anne baba olan çiftlerin oldukça önemli bir kısmı çocuklarının kardeş diye dayatması, sosyal yaşamları ya da bebek sahibi olmanın getirdiği keyif ve mutluluğu yeniden yaşamak için birden fazla sayıda çocuk sahibi olmayı düşünüyorlar.

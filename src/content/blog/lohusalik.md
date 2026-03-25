@@ -3,10 +3,11 @@ title: Lohusalık
 pubDate: '2014-03-20T18:13:58'
 slug: lohusalik
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/lohusalik/
+originalUrl: 'https://www.mumcu.com/lohusalik/'
+readingTime: 6
 ---
 
 Doğumdan sonraki 6 hafta lohusalık olarak adlandırılır. Bu dönemde gebeliğin kadında yarattığı fizyolojik ve psikolojik değişimler gebelik önceki haline döner. Her organ ve sistemin gebelik öncesi haline dönmesi farklı zamanlar alır. Bu nedenle halk arasında “lohusanın mezarı 40 gün açık kalır” sözü yaygın olarak kullanılır. Bu söz gerçekleri yansıtmaktadır. Çünkü doğum ve lohusalık döneminde ortaya çıkan hastalıklar hayatı tehdit eder boyutta olabilir.

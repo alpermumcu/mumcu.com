@@ -3,10 +3,11 @@ title: Gebelik ve bilgisayar kullanımı
 pubDate: '2014-03-17T02:41:21'
 slug: gebelik-ve-bilgisayar-kullanimi
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-ve-bilgisayar-kullanimi/
+originalUrl: 'https://www.mumcu.com/gebelik-ve-bilgisayar-kullanimi/'
+readingTime: 5
 ---
 
 Şu anda bu yazıyı okuyabildiğinize göre siz de bilgisayar kullanıyorsunuz ve belki de hamilesiniz. Peki bilgisayar ekranı karşısında durmak veya çalışmak bebeğinize ya da size zarar verir mi? 1970’lerin 2. yarısından itibaren video display terminal adı verilen monitörler yaygın olarak kullanılmaya başlandı. İnternet ve bilgisayarların kullanımındaki son 5 yıldaki inanılması güç artış bu teknolojik cihazları neredeyse yaşamımızın vazgeçilmez bir parçası haline soktu. Şu anda sedece A.B.D’de 50 milyon bilgisayar kullanıcısı olduğu, ve bunların en az yarısının üreme çağındaki kadınlardan oluştuğu tahmin ediliyor. Gelecekte hemen herşeyin bilgisayar yardımı ile yapılacağı düşünülürse konunun önemi daha belirginleşiyor.

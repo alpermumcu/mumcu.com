@@ -3,10 +3,11 @@ title: Bebeğin zekasını annenin genleri belirliyor
 pubDate: '2016-09-28T04:11:16'
 slug: bebegin-zekasini-annenin-genleri-belirliyor
 category:
-  - Güncel Haberler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/bebegin-zekasini-annenin-genleri-belirliyor/
+originalUrl: 'https://www.mumcu.com/bebegin-zekasini-annenin-genleri-belirliyor/'
+readingTime: 3
 ---
 
 Zeki bir çocuk sahibi olmak isteyen bekar kadınların bunun için çok zeki bir baba adayı bulmalarına ya da yasal olarak serbest olan ülkelerde sperm bankalarına yüzlerce dolar yatırmalarına aslında gerek yok.

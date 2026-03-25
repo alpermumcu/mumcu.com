@@ -3,10 +3,11 @@ title: 23. Hafta &#8211; Çok hareketli
 pubDate: '2014-03-30T22:42:43'
 slug: 23-hafta-cok-hareketli
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/23-hafta-cok-hareketli/
+originalUrl: 'https://www.mumcu.com/23-hafta-cok-hareketli/'
+readingTime: 2
 ---
 
 Bebeğiniz artık tamamen minyatür bir insan görünümündedir. Kulak içinde yer akan minik kemikler tamemen sertleştiği için bebek çok iyi duyabilir. Dudakları iyice belirginleşir, ultrasonografide gülümsemesi fark edilebilir. Boyu 17-18 santimetre kadar olmuştur, kilosu ise 600 gram civarındadır. Gözleri tamamen gelişmiş olmasına rağmen renkli kısmı olan iris daha pigmente değildir, yani göz rengi belli değildir. Pakreas tam manası ile olmasa bile insülin salgılamaya başlamıştır.
@@ -15,7 +16,7 @@ Sizde ise yavaş ama sürekli bir kilo artışı söz konusudur. Bu dönemde aş
 
 Bir başka güzel olay ise artık bebeğinizin hareketlerini eşinizinde hissedebilecek olmasıdır. Eşiniz elini karnınıza koyduğunda bebeğinizin hareketlerini çok rahat hissedebilir, hatta bu hareketler dışarıdan gözle bile fark edilebilir. Bunun nedeni bebeğin içinde bulunduğu amniyon svısının göreceli olarak fazla olmasıdır. Yani bebeğin hareket etmesi için çok geniş bir alan vardır. Bebeğiniz sanki içeride taklalar atarmışcasına özgürce hareket eder!..Hareketler bebeğin motor gelişimi yani kas güçlenmesi için çok önemlidir. Bu haftalarda yapılan ultrason incelemelerinde bebek makat gelişken çok kısa bir süre sonra baş gelişe dönebilir. Bebeğin ters durması fazlaca önemli değildir.
 
-![23haf1half](/wp-content/uploads/2014/03/23haf1half.jpg)  
+![23haf1half](../../images/uploads/2014/03/23haf1half.jpg)  
 23 haftalık doğan bir bebek
 
 \[third\]

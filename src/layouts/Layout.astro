@@ -18,7 +18,7 @@ const { title } = Astro.props;
 <html lang="tr">
   <head>
     <meta charset="UTF-8" />
-    <meta name="description" content="Alper Mumcu'nun kişisel web sitesi" />
+    <meta name="description" content="Dr. Alper Mumcu'nun 25 yılı aşkın tecrübesiyle hazırlanan, güncel ve bilimsel kadın sağlığı, hamilelik ve tüp bebek bilgilendirme platformu." />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
@@ -26,6 +26,7 @@ const { title } = Astro.props;
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   </head>
   <body>
     <TopBar />
@@ -43,22 +44,27 @@ const { title } = Astro.props;
 
 <style is:global>
   :root {
-    --bg-main: 210 40% 98%;
-    --bg-card: 0 0% 100%;
-    --accent: 221 83% 53%;
-    --accent-light: 221 83% 85%;
+    --primary: 181 61% 15%;
+    --secondary: 142 14% 92%; /* Muted Green Tint */
+    --accent: 190 64% 34%; /* Deep Teal for CTA */
+    --accent-light: 190 64% 94%;
     --accent-gradient: linear-gradient(
       135deg,
       hsl(var(--accent)),
-      hsl(217 91% 60%)
+      hsl(190 74% 28%)
     );
-    --text-main: 222 47% 11%;
-    --text-muted: 215 16% 47%;
-    --glass: rgba(255, 255, 255, 0.82);
-    --glass-border: rgba(0, 0, 0, 0.08);
+    --bg-main: 60 11% 97%;
+    --bg-card: 0 0% 100%;
+    --text-main: 188 44% 9%;
+    --text-muted: 220 9% 46%;
+    --glass: rgba(255, 255, 255, 0.9);
+    --glass-border: rgba(15, 61, 62, 0.1);
     --shadow-sm: 0 4px 6px -1px rgb(0 0 0 / 0.05);
     --shadow-md: 0 10px 15px -3px rgb(0 0 0 / 0.1);
-    --whatsapp: 142 69% 49%;
+    --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.08);
+    --whatsapp: 142 63% 32%; /* Darker green for ethical feel */
+    --link: 191 67% 25%;
+    --border: 188 15% 91%;
   }
   * {
     box-sizing: border-box;

@@ -3,10 +3,11 @@ title: Hamilelikte mikrodalga fırın kullanımı güvenli midir?
 pubDate: '2017-11-06T10:46:08'
 slug: hamilelikte-mikrodalga-firin-kullanimi-guvenli-midir
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-mikrodalga-firin-kullanimi-guvenli-midir/
+originalUrl: 'https://www.mumcu.com/hamilelikte-mikrodalga-firin-kullanimi-guvenli-midir/'
+readingTime: 2
 ---
 
 Yaşadığımız dünya son yüzyıl içerisinde, hatta bu son yüzyılın belkide son 50 yılında inanılmaz bir teknolojik değişime sahne oldu.  

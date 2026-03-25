@@ -3,13 +3,14 @@ title: Gebelik kesesi ölçümü normal değerleri
 pubDate: '2014-03-18T01:36:58'
 slug: gebelik-kesesi-olcumu-normal-degerleri
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-kesesi-olcumu-normal-degerleri/
+originalUrl: 'https://www.mumcu.com/gebelik-kesesi-olcumu-normal-degerleri/'
+readingTime: 1
 ---
 
-![gs17](/wp-content/uploads/2014/03/gs17.jpg)
+![gs17](../../images/uploads/2014/03/gs17.jpg)
 
 **Hafta**
 

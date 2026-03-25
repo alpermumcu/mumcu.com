@@ -3,10 +3,11 @@ title: 5. Hafta &#8211;  Kalp atışları
 pubDate: '2014-03-31T04:11:40'
 slug: 5-hafta
 category:
-  - Hafta Hafta Gebelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/5-hafta/
+originalUrl: 'https://www.mumcu.com/5-hafta/'
+readingTime: 3
 ---
 
 Salgılanan hormonların etkisi ile erken gebelik belirtilerini hissedeceksiniz. Memelerde dolgunluk ve hassasiyet bu haftada en sık karşılaşılan yakınmadır.Sürekli uyku hali ve halsizlik genelde görülen bulgulardandır. Uterusunuzdaki büyüme mesanenizin kapasitesini azalltığı için sık sık tuvalete gitme ihtiyacı duyabilirsiniz. Eğer hala daha doktorunuza gitmediyseniz br an önce gidin çünkü içinizdeki canlı ile tanışma zamanı geldi.Doktorunuz vajinal ultrasonografi ile gebelik kesesini uterus içinde size gösterecektir. Eğer ultrasonda kese görülemez ise bu bir dış gebelik olabilir.Dış gebelik hayati tehlike yaratabilen ciddi bir durumdur, bu nedenle ilk kontrolünüzü geciktirmemeniz kendi menfaatiniz icabıdır

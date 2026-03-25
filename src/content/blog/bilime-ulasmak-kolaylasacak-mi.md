@@ -3,10 +3,11 @@ title: Bilime ulaşmak kolaylaşacak mı?
 pubDate: '2014-11-26T09:04:36'
 slug: bilime-ulasmak-kolaylasacak-mi
 category:
-  - Gündelik Konular
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/bilime-ulasmak-kolaylasacak-mi/
+originalUrl: 'https://www.mumcu.com/bilime-ulasmak-kolaylasacak-mi/'
+readingTime: 1
 ---
 
 Doktorluk mesleğinin en önemli özelliklerinden birisi sürekli devam eden eğitimdir bu eğitimin en önemli ögesi ise dünyanın hemen her yerinde yapılan ve bilimsel dergilerde yayınlanan makalelerdir. Bizler bu makaleleri takip ederek hastalarimiza en güncel bilimsel tedavileri uygulamaya çalışırız.  

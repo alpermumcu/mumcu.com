@@ -3,10 +3,11 @@ title: 7. Hafta &#8211; Bebeğin beyni oluşuyor
 pubDate: '2014-03-31T04:11:04'
 slug: 7-hafta
 category:
-  - Hafta Hafta Gebelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/7-hafta/
+originalUrl: 'https://www.mumcu.com/7-hafta/'
+readingTime: 3
 ---
 
 Siz hala dışarıdan birşey fark etmesenizde embryonuzda hummalı faliyet devam etmektedir. Bu haftanın sonunda bebeğinizin boyu bir fasülye tanesi kadar olacaktır. Eğer rahimin içine direk olarak bakma ya da bir kamera yerleştirme şansınız olsa idi göreceğiniz tıpkı bir fasülye tanesi gibi bir cisim olacaktı.

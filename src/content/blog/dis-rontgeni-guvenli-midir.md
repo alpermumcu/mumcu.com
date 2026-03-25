@@ -3,10 +3,11 @@ title: Diş röntgeni güvenli midir?
 pubDate: '2014-03-16T18:56:06'
 slug: dis-rontgeni-guvenli-midir
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dis-rontgeni-guvenli-midir/
+originalUrl: 'https://www.mumcu.com/dis-rontgeni-guvenli-midir/'
+readingTime: 2
 ---
 
 Hamilelik sırasında diş ve dişeti hastalıkları sık görülen problemlerdir. Bu problemler çoğu zaman bir dişhekiminin yardımı olmadan kendiliğinden geçmezler.

@@ -3,11 +3,12 @@ title: Baba adayının yeme alışkanlıkları çocukların sağlığını etkil
 pubDate: '2016-08-03T00:22:55'
 slug: baba-adayinin-yeme-aliskanliklari-cocuklarin-sagligini-etkiliyor-olabilir
 category:
-  - Güncel Haberler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/baba-adayinin-yeme-aliskanliklari-cocuklarin-sagligini-etkiliyor-olabilir/
+readingTime: 2
 ---
 
 Çin ve kuzey Amerika’da birbirinden bağımsız iki farklı araştırmanın sonuçları baba adayının uyguladığı diyetin doğacak çocuğun doğum ağırlığı ve ileriki yaşantısındaki genel sağlığı üzerinde etkisi olabileceğini ortaya koydu.

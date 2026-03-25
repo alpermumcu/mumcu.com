@@ -3,10 +3,11 @@ title: Lateks alerjisi
 pubDate: '2014-03-24T14:25:37'
 slug: lateks-alerjisi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/lateks-alerjisi/
+originalUrl: 'https://www.mumcu.com/lateks-alerjisi/'
+readingTime: 4
 ---
 
 **Lateks nedir?**  

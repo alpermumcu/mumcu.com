@@ -3,13 +3,14 @@ title: Endometriozis tedavisinde yeni bir ilaç
 pubDate: '2018-07-29T08:58:18'
 slug: endometriozis-tedavisinde-yeni-bir-ilac
 category:
-  - Güncel Haberler
+  - Cerrahi İşlemler
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/endometriozis-tedavisinde-yeni-bir-ilac/
+originalUrl: 'https://www.mumcu.com/endometriozis-tedavisinde-yeni-bir-ilac/'
+readingTime: 2
 ---
 
-![](/wp-content/uploads/2018/07/kasend.jpg)
+![](../../images/uploads/2018/07/kasend.jpg)
 
 Oyuncu ve yazar Lena Dunham geçtiğimiz aylarda endometriozis hastası olduğunu ve bundan dolayı çok ağrı duyduğunu ve gündelik yaşantısı ile meslek yaşantısının bu durumdan olumsuz etkilendiğini açıkladığında medyanın gözü yine kadınları etkileyen bu sinsi hastalığa yöneldi.
 

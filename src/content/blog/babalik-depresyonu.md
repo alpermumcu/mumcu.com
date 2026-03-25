@@ -3,10 +3,11 @@ title: Babalık depresyonu
 pubDate: '2014-12-15T00:22:20'
 slug: babalik-depresyonu
 category:
-  - Doğum
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/babalik-depresyonu/
+originalUrl: 'https://www.mumcu.com/babalik-depresyonu/'
+readingTime: 4
 ---
 
 Doğum sonrası depresyon son zamanlarda sık sık gündeme gelen, hatta ünlü yazarlar tarafından kitapları bile yazılan bir konu ve büyük olasılıkla çok duyduğunuz bir kavram. Ancak paternal postnatal depresyon konusuna yabancı olduğunuzu düşünüyorum zira bu daha yeni yeni araştırılan ve üzerinde konuşulmaya başlanan bir konu ve tahmin edebileceğiniz gibi doğum yapan kadını değil onunla bereber aynı kaderi paylaşan babayı ilgilendiren depresyon durumu.Eve yeni bir birey katılması hem anne hem baba hem de aile büyükleri ve diğer akrabalar kısacası herkes için çok ama çok mutluluk verici bir olay. Hele ilk defe anne, baba, dede, büyükanne, hala, dayı, teyze olanlar için unutulmaz ve doyumsuz bir keyif. Ancak bebek aynı zamanda büyük sorumluluk, yorgunluk ve stres nedeni. Yükün büyük kısmı yeni annenin üzerinde olduğu için bütün dikkatler de doğal olarak onun üzerine yoğunlaşıyor oysa son zamanlarda yapılan araştırmalar gösteriyor ki her 4 yeni babadan biri doğum sonrası ciddi bir depresyon yaşıyor ve çoğu zaman bu durum gözden kaçıyor.

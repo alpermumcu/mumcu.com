@@ -3,13 +3,14 @@ title: Hamilelikte tren ve otobüs yolculuğu
 pubDate: '2014-03-17T03:21:51'
 slug: hamilelikte-tren-ve-otobus-yolculugu
 category:
-  - Hamilelik
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelikte-tren-ve-otobus-yolculugu/
+originalUrl: 'https://www.mumcu.com/hamilelikte-tren-ve-otobus-yolculugu/'
+readingTime: 3
 ---
 
-![tren](/wp-content/uploads/2014/03/tren.jpg)
+![tren](../../images/uploads/2014/03/tren.jpg)
 
 Ülkemiz açısından bakıldığında şehirlerarası yolculuklarda en fazla kullanılan ulaşım aracı otobüslerdir. Tren ise daha çok Avrupa ülkelerinde tercih edilmektedir. Bununla birlikte özellikle Ankara-İstanbul gibi büyük şehirlerimiz arasında da tren ile yolculuk yapmak mümkündür.
 

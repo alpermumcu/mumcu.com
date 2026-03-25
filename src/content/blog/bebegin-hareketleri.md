@@ -3,10 +3,11 @@ title: Bebeğin Hareketleri
 pubDate: '2014-03-15T17:32:15'
 slug: bebegin-hareketleri
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/bebegin-hareketleri/
+originalUrl: 'https://www.mumcu.com/bebegin-hareketleri/'
+readingTime: 4
 ---
 
 Hamileliğin belki de en zevkli kısmı karnınızdaki bebeğin hareket etttiğini hissetmek ve onun canlı bir varlık olarak gelişimini sürdürdüğünü bu sayede bilmektir. Bebeğin ilk hareketlerini hissetmek tüm anneleri heyecanlandıran keyifli bir olaydır. Karnınızdaki bebek hamileliğin 7-8. haftaları gibi çok erken bir dönemde hareket etmeye başlamasına ve anne adayı olarak bunu ultrasonda görebilmenize rağmen onun hareketlerini genelde 16-22. haftalar civarında bir dönemde hissetmeye başlarsınız.

@@ -3,10 +3,11 @@ title: 'İndüksiyon: Doğumun yapay olarak başlatılması'
 pubDate: '2014-03-20T17:33:20'
 slug: induksiyon-dogumun-yapay-olarak-baslatilmasi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/induksiyon-dogumun-yapay-olarak-baslatilmasi/
+originalUrl: 'https://www.mumcu.com/induksiyon-dogumun-yapay-olarak-baslatilmasi/'
+readingTime: 7
 ---
 
 Doğum eylemi kendiliğinden başlamadan önce, bilinçli olarak ve bazı yöntemler kullanılarak başlatılması doğum eyleminin indüksiyonu ya da kısaca indüksiyon olarak adlandırılır.

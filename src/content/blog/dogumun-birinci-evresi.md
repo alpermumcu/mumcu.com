@@ -3,10 +3,11 @@ title: Doğumun birinci evresi
 pubDate: '2014-03-20T17:34:20'
 slug: dogumun-birinci-evresi
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogumun-birinci-evresi/
+originalUrl: 'https://www.mumcu.com/dogumun-birinci-evresi/'
+readingTime: 6
 ---
 
 Bir bebeği vajina yoluyla uterus yani rahim içinden dış dünyaya gönderme amacıyla kadın vücudundaki değişik organların birarada yürüttüğü çabaya eylem ya da travay adı verilir. İdeal ve uygun bir eylemin sonucu bebeğin doğmasıdır.
@@ -38,7 +39,7 @@ Bununla birlikte birinci evre bir saatten daha kısa ya da 24 saatten daha uzun 
 *   bebek ile annenin çatısı arasındaki oranlar
 *   Bebeğin ve önde gelen kısmın duruşu
 
-![birevgraf](/wp-content/uploads/2014/03/birevgraf.gif)
+![birevgraf](../../images/uploads/2014/03/birevgraf.gif)
 
 **Doğumun birinci evresinde sizi neler bekliyor  
 **Doğum eyleminin başladığına yapılan muayene ve monitör incelemesi ile karar verilir. Monitörde düzenli rahim kasılmalarının izlenmesi siz herhangi bir ağrı hissetmeseniz bile eylemin başladığı şeklinde yorumlanır. Muayenede ise rahim ağzında açıklık ve incelme olması tanıyı destekler. Bazı durumlarda hiçbir belirti olmasa bile rutin muayenede rahim ağzında 1-2 santimetre açıklık saptanabilir.

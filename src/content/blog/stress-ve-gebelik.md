@@ -3,10 +3,11 @@ title: Stress ve Gebelik
 pubDate: '2014-03-17T02:40:09'
 slug: stress-ve-gebelik
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/stress-ve-gebelik/
+originalUrl: 'https://www.mumcu.com/stress-ve-gebelik/'
+readingTime: 6
 ---
 
 Hamilelik süreci hem kadın hem de ailesi için özel ve farklı bir dönemdir. Bu dönemde hamile kadının vücudunda, duygularında, ve yaşam tarzında değişiklikler meydana gelir. Bu değişiklikler yaşam kavgası içinde iş ve aile yaşantısında pek çok zorluk yaşayan kadına yeni stressler ekler.

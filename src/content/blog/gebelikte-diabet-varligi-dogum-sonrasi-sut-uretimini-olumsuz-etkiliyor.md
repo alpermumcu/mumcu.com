@@ -3,11 +3,12 @@ title: Gebelikte diabet varlığı doğum sonrası süt üretimini olumsuz etkil
 pubDate: '2016-08-05T00:30:16'
 slug: gebelikte-diabet-varligi-dogum-sonrasi-sut-uretimini-olumsuz-etkiliyor
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/gebelikte-diabet-varligi-dogum-sonrasi-sut-uretimini-olumsuz-etkiliyor/
+readingTime: 1
 ---
 
 Breastfeeding Medicine dergisinin Şubat 2016 sayısında yayınlanan bir makaleye göre gebelikleri sırasında diabet ortaya çıkan kadınlarda doğum sonrası süt üretimi normalden düşük oluyor.

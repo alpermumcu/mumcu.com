@@ -3,12 +3,12 @@ title: Gebelikte yapılan egzersiz anne hem de bebek için yararlı
 pubDate: '2016-07-12T13:52:44'
 slug: gebelikte-yapilan-egzersiz-anne-hem-de-bebek-icin-yararli
 category:
-  - Güncel Haberler
-  - Haberler | Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/gebelikte-yapilan-egzersiz-anne-hem-de-bebek-icin-yararli/
+readingTime: 3
 ---
 
 Geleneksel görüş erken doğum riskini arttırbileceği endişesiyle gebeliğin son dönemlerinde egzersizden kaçınmak şeklindeydi. Oysa son dönemlerde bu görüş yavaş yavaş terkediliyor. Konu ile ilgili yapılmış bütün çalışmaları bir arada değerlendiren yeni bir derleme gebelik sırasında yapılan egzersizin hem anne adayı hem de bebek açısından pek çok yararları olduğunu ortaya koydu.

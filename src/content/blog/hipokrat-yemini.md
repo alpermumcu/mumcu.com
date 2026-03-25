@@ -3,11 +3,11 @@ title: Hipokrat yemini
 pubDate: '2010-03-14T18:37:26'
 slug: hipokrat-yemini
 category:
-  - Bizden Haberler
-  - Gündelik Konular
+  - Jinekoloji & Kadın Sağlığı
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hipokrat-yemini/
+originalUrl: 'https://www.mumcu.com/hipokrat-yemini/'
+readingTime: 4
 ---
 
 Hekimlik ve hekimler ile ilgili olarak olumsuz herhangi bir düşünce ileri sürüldüğü zaman kullanılan klasik bir tabir vardır: “Hipokrat yemini etmiş”. Bu tabir nedir ? Nerden gelmektedir ? Gerçekten bütün hekimler Hipokrat yemini ederler mi ? Bu yeminin bağlayıcılığı var mıdır ?

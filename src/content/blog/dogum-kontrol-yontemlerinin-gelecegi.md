@@ -3,10 +3,11 @@ title: Doğum kontrol yöntemlerinin geleceği
 pubDate: '2014-03-24T13:47:24'
 slug: dogum-kontrol-yontemlerinin-gelecegi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/dogum-kontrol-yontemlerinin-gelecegi/
+originalUrl: 'https://www.mumcu.com/dogum-kontrol-yontemlerinin-gelecegi/'
+readingTime: 5
 ---
 
 Dünya üzerinde her yıl milyonlarca kadın istenmeyen ya da plansız hamileliklerle karşı karşıya kalmaktadır. Bu hamileliklerin küçük bir kısmı doğum ile sonuçlanırken çok büyük bir kısmında gebelik sonlandırılmaktadır. İstenmeyen gebeliklerin sonlandırılması hem maddi açıdan ekonomiye büyük bir yük oluşturmakta hem de komplikasyon riski nedeni ile özellikle geri kalmış ya da gelişmekte olan ülkelerde istenmeyen sağlık problemlerine neden olabilmektedir. İstenmeyen gebeliklerin önlenmesi hem kolay hem de ucuz bir yoldur. Tüm dünyada pekçok araştırmacı yeni doğum kontrol yöntemleri geliştirme konusunda büyük bir efor sarfetmektedir.

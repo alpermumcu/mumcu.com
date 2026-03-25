@@ -3,10 +3,11 @@ title: Vajinal kuruluk ve kayganlaştırıcılar
 pubDate: '2014-03-24T16:39:15'
 slug: vajinal-kuruluk-ve-kayganlastiricilar
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/vajinal-kuruluk-ve-kayganlastiricilar/
+originalUrl: 'https://www.mumcu.com/vajinal-kuruluk-ve-kayganlastiricilar/'
+readingTime: 4
 ---
 
 Cinsel yönden aktif olan her kadın zaman zaman vajinal kuruluk problemi yaşar. Vajinal kuruluk varlığında cinsel ilişki bir keyif kaynağından çok acı ve stress nedeni haline gelir. Kadınlar erotik uyarılara bazı cevaplar verirler. Nefes alış verişin hızlı ve derin hale gelmesi, ciltte sıcaklık hissi ve kızarma, meme uçlarının belirginleşmesi, klitoris ve vulvada şişme cinsel uyarı karşısında ortaya çıkan değişikliklerdir. Kadınların pek çoğu erotik uyarılar karşısında vajialarında da bazı değişiklikler hissederler. Uyarı ile birlikte vajina yukarıya doğru kalkar ve boyu hafifce uzar. Ayrıca vajina duvarlarında “terleme” yani salgı olur.

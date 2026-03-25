@@ -3,11 +3,11 @@ title: Gebelik öncesi alınan vitaminler zararlı olabilir mi?
 pubDate: '2014-03-17T01:36:14'
 slug: gebelik-oncesi-alinan-vitaminler-zararli-olabilir-mi
 category:
-  - Güncel Haberler
-  - Haberler | Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-oncesi-alinan-vitaminler-zararli-olabilir-mi/
+originalUrl: 'https://www.mumcu.com/gebelik-oncesi-alinan-vitaminler-zararli-olabilir-mi/'
+readingTime: 2
 ---
 
 6 Mart 2014

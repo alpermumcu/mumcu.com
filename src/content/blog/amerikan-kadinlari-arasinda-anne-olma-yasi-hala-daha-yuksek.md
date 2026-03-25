@@ -3,11 +3,12 @@ title: Amerikan kadınları arasında anne olma yaşı hala daha yüksek
 pubDate: '2017-07-04T00:31:17'
 slug: amerikan-kadinlari-arasinda-anne-olma-yasi-hala-daha-yuksek
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/amerikan-kadinlari-arasinda-anne-olma-yasi-hala-daha-yuksek/
+readingTime: 2
 ---
 
 Amerika Birleşik Devletleri nüfus sayımının fertilite raporu geçtiğimiz haftalarda yayınlandı.

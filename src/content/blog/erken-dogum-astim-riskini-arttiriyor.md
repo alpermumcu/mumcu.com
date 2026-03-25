@@ -3,11 +3,11 @@ title: Erken doğum astım riskini arttırıyor
 pubDate: '2014-03-17T01:10:23'
 slug: erken-dogum-astim-riskini-arttiriyor
 category:
-  - Güncel Haberler
-  - Haberler | Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/erken-dogum-astim-riskini-arttiriyor/
+originalUrl: 'https://www.mumcu.com/erken-dogum-astim-riskini-arttiriyor/'
+readingTime: 2
 ---
 
 29 Ocak 2014

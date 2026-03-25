@@ -3,10 +3,11 @@ title: 31. Hafta- Daha fazla kalsiyum
 pubDate: '2014-03-30T22:13:58'
 slug: 31-hafta-daha-fazla-kalsiyum
 category:
-  - Hafta Hafta Gebelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/31-hafta-daha-fazla-kalsiyum/
+originalUrl: 'https://www.mumcu.com/31-hafta-daha-fazla-kalsiyum/'
+readingTime: 1
 ---
 
 Bebeğinizin beyni hızla olgunlaşmasına devam ediyor. Hızla gelişen bir başka bölüm ise bebeğin kemikleri. Bebeğiniz bu haftalarda her zamankinden daha fazla kalsiyuma gereksinim duyuyor. Bu nedenle süt ve süt ürünlerini bolca tüketmeli ve doktorunuz gerek gördüğü taktirde kalsiyum ilaçları kullanmalısınız. Bebeğinizin göz bebeği ışığa reaksiyon vererek açılıp kapanmaya başladı bile.

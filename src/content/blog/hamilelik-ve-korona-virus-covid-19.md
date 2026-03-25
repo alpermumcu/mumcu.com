@@ -3,10 +3,11 @@ title: HAMİLELİK VE KORONA VİRÜS (COVID-19)
 pubDate: '2020-09-18T16:57:33'
 slug: hamilelik-ve-korona-virus-covid-19
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-korona-virus-covid-19/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-korona-virus-covid-19/'
+readingTime: 3
 ---
 
 2019 yılının son günlerinde Çin’in Wuhan kentinde ortaya çıkan ve buradan bütün dünyaya yayılarak pek çok kişinin hayatını kaybetmesine neden olan Corona virüs grubundan SARS-CoV-2 virüsünün neden olduğu COVİD-19 adı verilen enfeksiyon hayatımızı deyim yerindeyse kökten değiştirdi.

@@ -3,10 +3,11 @@ title: İnfertilite nedir?
 pubDate: '2014-03-27T13:11:18'
 slug: infertilite-nedir
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/infertilite-nedir/
+originalUrl: 'https://www.mumcu.com/infertilite-nedir/'
+readingTime: 7
 ---
 
 İnfertilite, yani istenildiği halde çocuk sahibi olamama pekçok toplumda önemli bir sorun olarak karşımıza çıkmaktadır. İnfertilite görülme sıklığı toplumlar arasında büyük farklılıklar göstermez. Tüm dünyada çiftlerin yaklaşık yüzde onbeşi infertilite nedeni yardımla üreme tekniklerine başvurmak zorunda kalmaktadır. Bu çiftlerin büyük bir kısmında gebe kalamamanın nedenini açıklayacak sebepler bulunabilirken, yaklaşık yüzde 10-12’sinde herhangi bir patoloji tespit edilemez. Bu çiftler açıklanamayan infertilite olarak adlandırılırlar.

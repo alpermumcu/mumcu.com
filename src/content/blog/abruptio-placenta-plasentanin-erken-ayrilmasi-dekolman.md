@@ -1,12 +1,13 @@
 ---
-title: Abruptio placenta (plasentanın erken ayrılması, dekolman)
+title: 'Abruptio placenta (plasentanın erken ayrılması, dekolman)'
 pubDate: '2014-03-15T20:23:30'
 slug: abruptio-placenta-plasentanin-erken-ayrilmasi-dekolman
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/abruptio-placenta-plasentanin-erken-ayrilmasi-dekolman/
+originalUrl: 'https://www.mumcu.com/abruptio-placenta-plasentanin-erken-ayrilmasi-dekolman/'
+readingTime: 7
 ---
 
 Abrubtio placenta hamileliğin, nadir görülen ancak hem anne hem de bebek hayatını tehlikeye atabilen çok ciddi bir komplikasyonudur. Tanım olarak plasentanın doğumdan önce rahim duvarından ayrılmasıdır. Gebeliğin son dönemlerinde görülen bebek ölümlerinin en önemli ve en sık görülen gelen nedenidir. Dekolman olarak da tanımlanan abrubtio placentaya bağlı anne ölümleri modern takip yaklaşımları sayesinde günümüzde %1’in de altına düşmüştür.

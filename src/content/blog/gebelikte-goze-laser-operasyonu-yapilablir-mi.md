@@ -3,10 +3,11 @@ title: Gebelikte göze Laser operasyonu yapılablir mi?
 pubDate: '2016-05-03T14:22:44'
 slug: gebelikte-goze-laser-operasyonu-yapilablir-mi
 category:
-  - Hamilelik
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelikte-goze-laser-operasyonu-yapilablir-mi/
+originalUrl: 'https://www.mumcu.com/gebelikte-goze-laser-operasyonu-yapilablir-mi/'
+readingTime: 1
 ---
 
 Gebelik ve emzirme dönemi sırasında yaşanan hormonal değişimlerin gözler ve görme üzerinde de etkisi vardır ve bu etki LASIK adı verilen lazer ile kırma kusuru giderme ameliyatlarının sonuçlarını etkileyebilir. Bu değişimler aynı zamanda LASIK sonrası iyileşme süreci üzerinde de olumsuz etki yaratabilir.

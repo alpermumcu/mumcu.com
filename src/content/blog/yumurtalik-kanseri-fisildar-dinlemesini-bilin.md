@@ -1,12 +1,13 @@
 ---
-title: Yumurtalık kanseri fısıldar, dinlemesini bilin
+title: 'Yumurtalık kanseri fısıldar, dinlemesini bilin'
 pubDate: '2014-04-09T15:35:24'
 slug: yumurtalik-kanseri-fisildar-dinlemesini-bilin
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/yumurtalik-kanseri-fisildar-dinlemesini-bilin/
+originalUrl: 'https://www.mumcu.com/yumurtalik-kanseri-fisildar-dinlemesini-bilin/'
+readingTime: 6
 ---
 
 **Jinekolojik kanserler içinde en korkulanı yıllardır “sessiz katil” sloganı ile anılan yumurtalık kanseridir. Ancak son yıllarda bu slogan “Yumurtalık kanseri fısıldar, dinlemesini bilin” şeklinde değiştirilmiştir.**
@@ -37,7 +38,7 @@ Kesin tanı ve hastalığın evrelemesi ancak cerrahi ile mümkündür. Yumurtal
 
 Literatürdeki son yayınlara göre evre 1 iken yakalanması ve tedavi edilmesi durumunda 5 yıllık yaşam şansı %93 civarındadır fakat ne yazık ki hastalık kendine özgü yakınmalara neden olmadığından hastaların %70’inde tanı konulduğunda kanser pelvis dışına yayılmış durumdadır. Yoğun cerrahi ve kemoterapiye rağmen Evre 3 hastalarda 5 yıllık yaşam şansı %23-41, Evre 4 kanser varlığında ise sadece %5-11 arasında değişmektedir. İşte bundan dolayı yumurtalık kanseri yıllardır sessiz katil olarak bilinmektedir ve son dönemlerde bu gerçeği kırmaya yönelik pekçok çalışma yapılmaktadır. Tüm kanserlerde erken tanı hayat kurtarır ancak yumurtalık kanserinde bu çok daha fazla önemlidir. İşte bu nedenle yapılan tüm araştırmalar bu sessiz katilin fısıltılarını duyup doğru şekilde yorumlamaya yöneliktir.
 
-![ekipfoto](/wp-content/uploads/2014/03/ekipfoto.jpg)
+![ekipfoto](../../images/uploads/2014/03/ekipfoto.jpg)
 
 Montreal’deki McGıll üniversitesinde yürütülen ve benim de 2014 yılının başında dahil olduğum projenin amacı da İngiltere ve Amerika Birleşik Devletleri başta olmak üzere pekçok gelişmiş ülkede yurtülen çalışmalar gibi bu sinsi kanserin erken dönemde tanınmasına yardım edecek bir yöntem geliştirmektir.
 

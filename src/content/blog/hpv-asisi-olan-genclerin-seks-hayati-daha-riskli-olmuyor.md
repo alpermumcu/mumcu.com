@@ -3,11 +3,12 @@ title: HPV aşısı olan gençlerin seks hayatı daha riskli olmuyor
 pubDate: '2016-08-11T07:08:09'
 slug: hpv-asisi-olan-genclerin-seks-hayati-daha-riskli-olmuyor
 category:
-  - Güncel Haberler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/hpv-asisi-olan-genclerin-seks-hayati-daha-riskli-olmuyor/
+readingTime: 2
 ---
 
 Halk arasında rahim ağzı kanseri aşısı olarak da bilinen Human Papillomavirüs (HPV) aşısının gençlerde güvensiz seks yapma riskini arttırmadığı gösterildi.

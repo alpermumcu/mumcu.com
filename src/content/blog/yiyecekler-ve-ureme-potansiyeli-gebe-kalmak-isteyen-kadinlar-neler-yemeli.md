@@ -3,14 +3,15 @@ title: Yiyecekler ve üreme potansiyeli. Gebe kalmak isteyen kadınlar neler yem
 pubDate: '2019-02-01T05:24:07'
 slug: yiyecekler-ve-ureme-potansiyeli-gebe-kalmak-isteyen-kadinlar-neler-yemeli
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
 originalUrl: >-
   https://www.mumcu.com/yiyecekler-ve-ureme-potansiyeli-gebe-kalmak-isteyen-kadinlar-neler-yemeli/
+readingTime: 5
 ---
 
-![](/wp-content/uploads/2019/01/foodandfertility.jpg)
+![](../../images/uploads/2019/01/foodandfertility.jpg)
 
 Artık bir bebek sahibi olmak istediğine karar veren ve bu nedenle kontrol için doktora giden çiftlerin her şeyin yolunda olduğunu öğrendikten sonra genelde ilk sordukları soru hamile kalmayı kolaylaştırmak ve sağlıklı bir şekilde hazırlanmak için neler yiyip içmeleri gereklidir.
 

@@ -3,10 +3,11 @@ title: Serviks Kanseri
 pubDate: '2014-03-26T16:28:57'
 slug: serviks-kanseri
 category:
-  - Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/serviks-kanseri/
+originalUrl: 'https://www.mumcu.com/serviks-kanseri/'
+readingTime: 4
 ---
 
 İnvazif serviks kanseri (yayılım gösteren rahim ağzı kanseri) uzun yıllar Dünya’da en fazla görülen kadın genital sistem kanseri olmuştur. Ancak smear gibi tarama yöntemlerinin yaygınlaşması ile görülme sıklığı giderek azalmaktadır.20 ile 80 yaş arasında bütün kadınlarda görülebilir.En çok Kolombiya’lılarda en az ise İsrail’lilerde görülür.

@@ -3,10 +3,11 @@ title: Gebelik ve Grip Aşısı
 pubDate: '2014-03-18T00:10:24'
 slug: gebelik-ve-grip-asisi
 category:
-  - Makaleler
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/gebelik-ve-grip-asisi/
+originalUrl: 'https://www.mumcu.com/gebelik-ve-grip-asisi/'
+readingTime: 4
 ---
 
 Influenza yani grip salgınları kış aylarında sık görülen ve sadece Amerika Birleşik Devletlerinde her yıl 20.000’den fazla insanın hayatını kaybetmesine neden olan ciddi enfeksiyonlardır. Bu hastaların büyük bir kısmı 65 yaşından büyük kişilerdir. Hastalık çocuklarda daha sık görülmekle birlikte ciddi komplikasyonlar ve ölüm 65 yaş üzerinde daha fazladır.

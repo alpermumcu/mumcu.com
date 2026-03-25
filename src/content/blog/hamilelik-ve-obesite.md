@@ -3,10 +3,11 @@ title: Hamilelik ve obesite
 pubDate: '2014-03-17T02:52:51'
 slug: hamilelik-ve-obesite
 category:
-  - Hamilelik
+  - Tüp Bebek & İnfertilite
 tags: []
 status: publish
-originalUrl: https://www.mumcu.com/hamilelik-ve-obesite/
+originalUrl: 'https://www.mumcu.com/hamilelik-ve-obesite/'
+readingTime: 6
 ---
 
 Gelişmiş toplumların en önemli sağlık sorunlarından biri olan obesite ya da Türkçe söylenişi ile şişmanlık sadece genel bir sorun olmakla kalmamakta, hamilelik sürecini de yüksek riskli sınıfına sokmaktadır.

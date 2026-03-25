@@ -8,42 +8,42 @@ menuOrder: 0
 
 #### YÜKSEK RİSKLİ GEBELİKLER
 
-> [Servikal yetmezlik ve serklaj](/riskli-gebelikler/?p=646)
+> [Servikal yetmezlik ve serklaj](/blog/servikal-yetmezlik-ve-serklaj-rahim-agzina-dikis-atilmasi/)
 > 
-> [Kan Uyuşmazlığı](/riskli-gebelikler/?p=648)
+> [Kan Uyuşmazlığı](/blog/kan-uyusmazligi/)
 > 
-> [Preeklempsi](/riskli-gebelikler/?p=650)
+> [Preeklempsi](/blog/27-hafta-goz-kirpiyor/)
 > 
-> [HELLP Sendromu](/riskli-gebelikler/?p=652)
+> [HELLP Sendromu](/blog/hellp-sendromu/)
 > 
-> [Enfeksiyonlar](/riskli-gebelikler/?p=654)
+> [Enfeksiyonlar](/blog/gebelik-ve-enfeksiyonlar/)
 > 
-> [Makat Geliş- Bebeğin ters durması](/riskli-gebelikler/?p=656)
+> [Makat Geliş- Bebeğin ters durması](/blog/makat-gelis-bebegin-ters-durmasi/)
 > 
-> [Oksiput Posterior: Bebeğin kafasının ters durması](/riskli-gebelikler/?p=680)
+> [Oksiput Posterior: Bebeğin kafasının ters durması](/blog/oksiput-posterior-bebegin-kafasinin-ters-durmasi/)
 > 
-> [Hamilelikte tehlike işaretleri](/riskli-gebelikler/?p=658)
+> [Hamilelikte tehlike işaretleri](/blog/hamilelikte-tehlike-isaretleri/)
 > 
-> [Hamilelikte yatak istirahati](/riskli-gebelikler/?p=660)
+> [Hamilelikte yatak istirahati](/blog/hamilelikte-yatak-istirahati/)
 > 
-> [Faktör V Leiden Mutasyonu](/riskli-gebelikler/?p=662)
+> [Faktör V Leiden Mutasyonu](/blog/faktor-v-leiden-mutasyonu/)
 > 
 > [Hamilelik ve myomlar](/riskli-gebelikler/?p=664)
 > 
-> [Gebelikte vajinal kanama](/riskli-gebelikler/?p=2183)
+> [Gebelikte vajinal kanama](/blog/gebelikte-vajinal-kanama/)
 > 
-> [Gebelik ve Hashimoto hastalığı](/riskli-gebelikler/?p=2357)
+> [Gebelik ve Hashimoto hastalığı](/blog/gebelik-ve-hashimoto-hastaligi/)
 
 #### ÇOĞUL GEBELİKLER
 
-> [Çoğul gebelikler](/riskli-gebelikler/?p=668)
+> [Çoğul gebelikler](/blog/cogul-gebelikler/)
 > 
-> [Çoğul gebelikler hakkında enteresan istatistikler](/riskli-gebelikler/?p=672)
+> [Çoğul gebelikler hakkında enteresan istatistikler](/blog/cogul-gebelikler-hakkinda-enteresan-istatistikler/)
 > 
-> [Yapışık İkizler (Siyam İkizleri)](/riskli-gebelikler/?p=674)
+> [Yapışık İkizler (Siyam İkizleri)](/blog/yapisik-ikizler-siyam-ikizleri/)
 > 
-> [Kaybolan ikizler](/riskli-gebelikler/?p=676)
+> [Kaybolan ikizler](/blog/kaybolan-ikizler-vanishing-twin-syndrome/)
 > 
-> [İkizden ikize transfüzyon sendromu (TTTS)](/riskli-gebelikler/?p=678)
+> [İkizden ikize transfüzyon sendromu (TTTS)](/blog/ikizden-ikize-transfuzyon-sendromu-ttts/)
 > 
 > Üçüz gebelikler
