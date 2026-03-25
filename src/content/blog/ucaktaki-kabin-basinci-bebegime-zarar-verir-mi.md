@@ -3,7 +3,7 @@ title: Uçaktaki kabin basıncı bebeğime zarar verir mi?
 pubDate: '2014-03-17T04:19:36'
 slug: ucaktaki-kabin-basinci-bebegime-zarar-verir-mi
 category:
-  - Jinekoloji & Kadın Sağlığı
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/ucaktaki-kabin-basinci-bebegime-zarar-verir-mi/'
