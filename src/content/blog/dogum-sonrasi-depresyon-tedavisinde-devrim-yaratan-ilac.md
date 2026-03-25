@@ -1,6 +1,7 @@
 ---
 title: Doğum sonrası depresyon tedavisinde devrim yaratan ilaç
-pubDate: '2019-04-13T10:07:54'
+heroImage: '/images/blog/postpartum-depression.png'
+pubDate: '2019-04-13T07:07:54'
 slug: dogum-sonrasi-depresyon-tedavisinde-devrim-yaratan-ilac
 category:
   - Gebelik & Doğum

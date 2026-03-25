@@ -1,6 +1,7 @@
 ---
 title: Gebelik ve egzersiz konusunda yeni Kanada rehberi
-pubDate: '2018-12-16T02:13:01'
+heroImage: '/images/blog/postpartum-care-v2.png'
+pubDate: '2018-12-15T23:13:01'
 slug: gebelik-ve-egzersiz-konusunda-yeni-kanada-rehberi
 category:
   - Gebelik & Doğum
