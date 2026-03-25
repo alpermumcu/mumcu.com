@@ -3,7 +3,7 @@ title: 11. Hafta &#8211;  Tırnaklar oluşuyor
 pubDate: '2014-03-31T04:05:46'
 slug: 11-hafta-tirnaklar-olusuyor
 category:
-  - Tüp Bebek & İnfertilite
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/11-hafta-tirnaklar-olusuyor/'

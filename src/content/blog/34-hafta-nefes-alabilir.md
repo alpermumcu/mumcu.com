@@ -3,7 +3,7 @@ title: 34. Hafta &#8211; Nefes alabilir
 pubDate: '2014-03-30T21:12:49'
 slug: 34-hafta-nefes-alabilir
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/34-hafta-nefes-alabilir/'

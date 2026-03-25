@@ -3,7 +3,7 @@ title: 7. Hafta &#8211; Bebeğin beyni oluşuyor
 pubDate: '2014-03-31T04:11:04'
 slug: 7-hafta
 category:
-  - Tüp Bebek & İnfertilite
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/7-hafta/'

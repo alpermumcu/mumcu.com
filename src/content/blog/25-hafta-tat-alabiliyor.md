@@ -3,7 +3,7 @@ title: 25. Hafta &#8211; Tat alabiliyor
 pubDate: '2014-03-30T22:36:29'
 slug: 25-hafta-tat-alabiliyor
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/25-hafta-tat-alabiliyor/'

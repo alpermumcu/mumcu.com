@@ -3,7 +3,7 @@ title: 27. Hafta &#8211; Göz kırpıyor
 pubDate: '2014-03-30T22:25:45'
 slug: 27-hafta-goz-kirpiyor
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/27-hafta-goz-kirpiyor/'

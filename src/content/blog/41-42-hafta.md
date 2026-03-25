@@ -3,7 +3,7 @@ title: 41-42. hafta &#8211; Uzatmalardayız
 pubDate: '2014-03-30T13:31:30'
 slug: 41-42-hafta
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/41-42-hafta/'

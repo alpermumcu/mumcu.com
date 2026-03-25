@@ -3,7 +3,7 @@ title: 3. Hafta &#8211;  Hayatın başladığı andasınız
 pubDate: '2014-03-31T04:12:23'
 slug: 3-hafta
 category:
-  - Tüp Bebek & İnfertilite
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/3-hafta/'

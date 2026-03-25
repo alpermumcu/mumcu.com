@@ -3,7 +3,7 @@ title: 36. Hafta- Yanakları dolgunlaştı
 pubDate: '2014-03-30T21:08:37'
 slug: 36-hafta-yanaklari-dolgunlasti
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/36-hafta-yanaklari-dolgunlasti/'

@@ -3,7 +3,7 @@ title: 38. Hafta-Artık çok az kaldı
 pubDate: '2014-03-30T20:54:08'
 slug: 38-hafta-artik-cok-az-kaldi
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/38-hafta-artik-cok-az-kaldi/'

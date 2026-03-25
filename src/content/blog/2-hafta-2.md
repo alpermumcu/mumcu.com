@@ -3,7 +3,7 @@ title: 2. Hafta &#8211;  Yumurtlama zamanı
 pubDate: '2014-03-31T04:12:40'
 slug: 2-hafta-2
 category:
-  - Tüp Bebek & İnfertilite
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/2-hafta-2/'

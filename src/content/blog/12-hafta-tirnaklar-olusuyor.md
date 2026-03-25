@@ -3,7 +3,7 @@ title: 12. Hafta &#8211; Ses çıkarabilir
 pubDate: '2014-03-31T02:54:19'
 slug: 12-hafta-tirnaklar-olusuyor
 category:
-  - Estetik Jinekoloji
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/12-hafta-tirnaklar-olusuyor/'

@@ -3,7 +3,7 @@ title: 28. Hafta &#8211; Üçüncü Trimester
 pubDate: '2014-03-30T22:22:13'
 slug: 28-hafta-ucuncu-trimester
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/28-hafta-ucuncu-trimester/'

@@ -3,7 +3,7 @@ title: 23. Hafta &#8211; Çok hareketli
 pubDate: '2014-03-30T22:42:43'
 slug: 23-hafta-cok-hareketli
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/23-hafta-cok-hareketli/'

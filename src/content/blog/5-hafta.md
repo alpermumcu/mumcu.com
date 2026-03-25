@@ -3,7 +3,7 @@ title: 5. Hafta &#8211;  Kalp atışları
 pubDate: '2014-03-31T04:11:40'
 slug: 5-hafta
 category:
-  - Tüp Bebek & İnfertilite
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/5-hafta/'

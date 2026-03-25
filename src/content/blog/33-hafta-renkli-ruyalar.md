@@ -3,7 +3,7 @@ title: 33. Hafta &#8211; Renkli Rüyalar
 pubDate: '2014-03-30T21:14:09'
 slug: 33-hafta-renkli-ruyalar
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/33-hafta-renkli-ruyalar/'

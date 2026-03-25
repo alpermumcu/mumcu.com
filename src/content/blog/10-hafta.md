@@ -3,7 +3,7 @@ title: 10. Hafta &#8211;  Cinsiyet farklılaşması başladı
 pubDate: '2014-03-31T04:09:41'
 slug: 10-hafta
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/10-hafta/'

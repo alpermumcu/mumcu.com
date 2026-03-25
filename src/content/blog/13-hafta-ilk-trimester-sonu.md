@@ -3,7 +3,7 @@ title: 13. Hafta &#8211; İlk trimester sonu
 pubDate: '2014-03-31T02:52:08'
 slug: 13-hafta-ilk-trimester-sonu
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/13-hafta-ilk-trimester-sonu/'

@@ -3,7 +3,7 @@ title: 31. Hafta- Daha fazla kalsiyum
 pubDate: '2014-03-30T22:13:58'
 slug: 31-hafta-daha-fazla-kalsiyum
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/31-hafta-daha-fazla-kalsiyum/'

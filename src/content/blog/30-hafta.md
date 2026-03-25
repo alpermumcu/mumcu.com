@@ -3,7 +3,7 @@ title: 30. Hafta- Burası hep karanlık değil
 pubDate: '2014-03-30T22:14:23'
 slug: 30-hafta
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/30-hafta/'

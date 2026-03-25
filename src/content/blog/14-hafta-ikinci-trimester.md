@@ -3,7 +3,7 @@ title: 14. Hafta &#8211; İkinci trimester
 pubDate: '2014-03-31T02:48:26'
 slug: 14-hafta-ikinci-trimester
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/14-hafta-ikinci-trimester/'

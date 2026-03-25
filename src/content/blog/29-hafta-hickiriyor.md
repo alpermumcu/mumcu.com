@@ -3,7 +3,7 @@ title: 29. Hafta &#8211; Hıçkırıyor
 pubDate: '2014-03-30T22:19:07'
 slug: 29-hafta-hickiriyor
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/29-hafta-hickiriyor/'

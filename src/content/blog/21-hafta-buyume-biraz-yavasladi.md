@@ -3,7 +3,7 @@ title: 21. Hafta &#8211; Büyüme biraz yavaşladı
 pubDate: '2014-03-30T22:51:03'
 slug: 21-hafta-buyume-biraz-yavasladi
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/21-hafta-buyume-biraz-yavasladi/'

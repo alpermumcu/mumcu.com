@@ -3,7 +3,7 @@ title: 17. Hafta &#8211;  Yağlar birikmeye başladı
 pubDate: '2014-03-31T00:42:38'
 slug: 17-hafta-yaglar-birikmeye-basladi
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/17-hafta-yaglar-birikmeye-basladi/'

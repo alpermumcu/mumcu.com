@@ -3,7 +3,7 @@ title: 4. Hafta &#8211; Anne olacağım
 pubDate: '2014-03-31T04:11:56'
 slug: 4-hafta
 category:
-  - Tüp Bebek & İnfertilite
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/4-hafta/'

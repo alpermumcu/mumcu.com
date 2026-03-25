@@ -3,7 +3,7 @@ title: 37. Hafta- Artık hazır
 pubDate: '2014-03-30T20:57:27'
 slug: 37-hafta-artik-hazir
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/37-hafta-artik-hazir/'

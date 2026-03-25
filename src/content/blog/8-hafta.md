@@ -3,7 +3,7 @@ title: 8. Hafta &#8211; Kollar ve bacaklar oluşuyor
 pubDate: '2014-03-31T04:10:39'
 slug: 8-hafta
 category:
-  - Tüp Bebek & İnfertilite
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/8-hafta/'

@@ -3,7 +3,7 @@ title: 22. Hafta &#8211; Artık duyabiliyor
 pubDate: '2014-03-30T22:49:15'
 slug: 22-hafta-artik-duyabiliyor
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/22-hafta-artik-duyabiliyor/'

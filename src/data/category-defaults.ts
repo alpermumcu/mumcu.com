@@ -19,6 +19,10 @@ export const categoryDefaults: Record<string, string[]> = {
     '/images/stock/estetik-1.png',
     '/images/stock/estetik-2.png'
   ],
+  'Hafta Hafta Gebelik': [
+    '/images/stock/gebelik-1.png',
+    '/images/stock/gebelik-2.png'
+  ],
   'Default': [
     '/images/stock/genel-1.png',
     '/images/stock/genel-2.png',

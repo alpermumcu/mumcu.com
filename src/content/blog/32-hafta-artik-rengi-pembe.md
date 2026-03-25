@@ -3,7 +3,7 @@ title: 32. Hafta &#8211; Artık rengi pembe
 pubDate: '2014-03-30T21:15:27'
 slug: 32-hafta-artik-rengi-pembe
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/32-hafta-artik-rengi-pembe/'

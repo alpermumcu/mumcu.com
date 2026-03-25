@@ -3,7 +3,7 @@ title: 6. Hafta &#8211; Yüzü oluşuyor
 pubDate: '2014-03-31T04:11:22'
 slug: 6-hafta
 category:
-  - Tüp Bebek & İnfertilite
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/6-hafta/'

@@ -3,7 +3,7 @@ title: 15. Hafta &#8211; Parmak emiyor
 pubDate: '2014-03-31T00:49:04'
 slug: 15-hafta-ikinci-trimester
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/15-hafta-ikinci-trimester/'

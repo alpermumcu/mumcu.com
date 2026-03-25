@@ -3,7 +3,7 @@ title: 26. Hafta &#8211; Akciğerler olgunlaşıyor
 pubDate: '2014-03-30T22:32:51'
 slug: 26-hafta-akcigerler-olgunlasiyor
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/26-hafta-akcigerler-olgunlasiyor/'

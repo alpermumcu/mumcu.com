@@ -3,7 +3,7 @@ title: 35. Hafta- Artık doğabilir
 pubDate: '2014-03-30T21:11:17'
 slug: 35-hafta-artik-dogabilir
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/35-hafta-artik-dogabilir/'

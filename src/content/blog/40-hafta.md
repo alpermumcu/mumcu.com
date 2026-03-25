@@ -3,7 +3,7 @@ title: 40. Hafta-Muhteşem final
 pubDate: '2014-03-30T13:56:16'
 slug: 40-hafta
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/40-hafta/'

@@ -3,7 +3,7 @@ title: '24. Hafta &#8211; Viabilite: Yaşam Sınırı'
 pubDate: '2014-03-30T22:39:57'
 slug: 24-hafta-viabilite-yasam-siniri
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/24-hafta-viabilite-yasam-siniri/'

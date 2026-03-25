@@ -3,7 +3,7 @@ title: '19. Hafta &#8211; Doğal krem: Verniks'
 pubDate: '2014-03-31T00:37:39'
 slug: 19-hafta-dogal-krem-verniks
 category:
-  - Gebelik & Doğum
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/19-hafta-dogal-krem-verniks/'

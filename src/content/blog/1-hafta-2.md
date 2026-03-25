@@ -3,7 +3,7 @@ title: 1. Hafta &#8211;  Gebe kalmaya karar verdiniz
 pubDate: '2014-03-31T04:13:01'
 slug: 1-hafta-2
 category:
-  - Tüp Bebek & İnfertilite
+  - Hafta Hafta Gebelik
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/1-hafta-2/'
