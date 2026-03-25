@@ -5,6 +5,13 @@ import FAQAccordion from '../components/FAQAccordion.astro';
 import { getCollection } from 'astro:content';
 import doctorPhoto from '../images/uploads/2020/08/alper-mumcu-photo.jpg';
 
+// Category Images
+import imgGebelik from '../images/categories/gebelik.png';
+import imgJinekoloji from '../images/categories/jinekoloji.png';
+import imgTupBebek from '../images/categories/tup-bebek.png';
+import imgCerrahi from '../images/categories/cerrahi.png';
+import imgEstetik from '../images/categories/estetik.png';
+
 const posts = (await getCollection('blog'))
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
 	.slice(0, 3);
@@ -75,35 +82,35 @@ const faqItems = [
 						href="/category/gebelik-dogum/" 
 						title="Gebelik & Doğum" 
 						description="Hafta hafta gebelik takibi ve modern doğum yöntemleri."
-						icon="🤰"
+						image={imgGebelik.src}
 						count={303}
 					/>
 					<CategoryCard 
 						href="/category/jinekoloji/" 
 						title="Jinekoloji" 
 						description="Rutin kontroller, HPV takibi ve kadın sağlığı çözümleri."
-						icon="🩺"
+						image={imgJinekoloji.src}
 						count={235}
 					/>
 					<CategoryCard 
 						href="/category/tup-bebek-infertilite/" 
 						title="Tüp Bebek & İnfertilite" 
 						description="Üreme sağlığı ve modern tüp bebek teknolojileri."
-						icon="🐣"
+						image={imgTupBebek.src}
 						count={51}
 					/>
 					<CategoryCard 
 						href="/category/cerrahi-islemler/" 
 						title="Cerrahi İşlemler" 
 						description="Laparoskopik ve minimal invaziv cerrahi teknikler."
-						icon="✂️"
+						image={imgCerrahi.src}
 						count={5}
 					/>
 					<CategoryCard 
 						href="/category/estetik-jinekoloji/" 
 						title="Estetik Jinekoloji" 
 						description="Lazer uygulamaları ve genital estetik çözümleri."
-						icon="💎"
+						image={imgEstetik.src}
 						count={3}
 					/>
 				</div>
