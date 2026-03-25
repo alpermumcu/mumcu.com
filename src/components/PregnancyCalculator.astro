@@ -1,136 +1,132 @@
 ---
 ---
 
-<section class="ultimate-calculator py-28 px-4 relative overflow-hidden bg-white" id="hesaplayici">
+<section class="ultimate-calculator" id="hesaplayici">
   {/* Advanced SVG Particle Background */}
-  <div class="absolute inset-0 pointer-events-none opacity-40">
-    <div class="particle-container absolute inset-0"></div>
-    <div class="absolute -top-40 -left-20 w-[600px] h-[600px] bg-primary/5 rounded-full blur-[150px] animate-pulse"></div>
-    <div class="absolute -bottom-40 -right-20 w-[600px] h-[600px] bg-secondary/5 rounded-full blur-[150px]"></div>
+  <div class="particle-overlay">
+    <div class="particle-glow-top"></div>
+    <div class="particle-glow-bottom"></div>
   </div>
 
-  <div class="max-w-6xl mx-auto relative z-10">
-    <div class="text-center mb-20">
-      <div class="inline-flex items-center gap-3 py-2 px-5 rounded-full bg-slate-50 border border-slate-100 mb-6 group cursor-default">
-        <span class="w-2 h-2 rounded-full bg-primary animate-ping"></span>
-        <span class="text-[10px] font-black uppercase tracking-[0.25em] text-slate-400 group-hover:text-primary transition-colors">Digital Health Lab</span>
+  <div class="calc-wrapper">
+    <div class="calc-header">
+      <div class="badge-digital">
+        <span class="ping-dot"></span>
+        <span class="badge-text">Digital Health Lab</span>
       </div>
-      <h2 class="text-5xl md:text-6xl font-display font-black text-gray-900 mb-8 tracking-tight leading-[1.1]">
+      <h2 class="calc-title">
         Büyüleyici Bir Yolculuk:<br/>
         <span class="text-gradient">Tahmini Doğum Takvimi</span>
       </h2>
-      <p class="text-xl text-gray-400 max-w-2xl mx-auto font-medium leading-relaxed">
-        Bebeğinizin gelişim basamaklarını ve kavuşacağınız günü <br class="hidden md:block"/> en zarif detaylarıyla keşfedin.
+      <p class="calc-subtitle">
+        Bebeğinizin gelişim basamaklarını ve kavuşacağınız günü <br class="hide-mobile"/> en zarif detaylarıyla keşfedin.
       </p>
     </div>
 
-    <div class="grid lg:grid-cols-12 gap-12 items-stretch">
+    <div class="calc-grid">
       {/* Input Module */}
-      <div class="lg:col-span-4 flex flex-col">
-        <div class="premium-glass p-10 rounded-[2.5rem] border border-white bg-white/40 backdrop-blur-3xl shadow-2xl shadow-primary/5 flex-grow">
-          <div class="mb-10">
-            <label for="lmp-date" class="block text-[11px] font-black text-primary uppercase tracking-[0.2em] mb-6">
+      <div class="input-sidebar">
+        <div class="premium-glass input-card">
+          <div class="field-container">
+            <label for="lmp-date" class="field-label">
               Son Adet Başlangıç Tarihi
             </label>
-            <div class="relative group">
+            <div class="input-relative">
               <input 
                 type="date" 
                 id="lmp-date" 
-                class="w-full h-20 px-8 rounded-3xl border-2 border-slate-100 bg-white shadow-inner focus:border-primary focus:ring-[15px] focus:ring-primary/5 outline-none transition-all text-2xl font-black text-gray-800"
+                class="premium-input"
               />
-              <div class="absolute right-6 top-1/2 -translate-y-1/2 text-slate-300 group-focus-within:text-primary transition-colors">
+              <div class="input-icon">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
               </div>
             </div>
           </div>
 
-          <button 
-            id="calculate-btn"
-            class="w-full h-20 bg-gray-950 text-white font-black rounded-3xl shadow-2xl shadow-gray-950/20 hover:bg-primary hover:-translate-y-2 active:scale-95 transition-all duration-500 overflow-hidden relative group"
-          >
-            <span class="relative z-10 text-xl tracking-tight">Hesaplamayı Başlat</span>
-            <div class="absolute inset-0 bg-primary translate-y-full group-hover:translate-y-0 transition-transform duration-500 ease-expo"></div>
+          <button id="calculate-btn" class="calculate-trigger">
+            <span class="trigger-text">Hesaplamayı Başlat</span>
+            <div class="trigger-hover-bg"></div>
           </button>
         </div>
 
-        <div class="mt-8 p-8 rounded-[2rem] bg-slate-50 border border-slate-100 group">
-          <p class="text-sm text-gray-500 font-medium leading-[1.8] italic group-hover:text-gray-700 transition-colors">
+        <div class="info-note">
+          <p class="note-text">
             "Naegele kuralına göre yapılan bu hesaplama standart bir gebelik süresini (280 gün) temel alır. Her bebek ve her gebelik kendine özeldir."
           </p>
         </div>
       </div>
 
       {/* Dynamic Result Module */}
-      <div class="lg:col-span-8">
-        <div id="master-panel" class="relative h-full min-h-[580px] rounded-[3rem] bg-slate-50 overflow-hidden shadow-inner border border-slate-100 group">
+      <div class="result-main">
+        <div id="master-panel" class="master-panel">
           
           {/* Empty State Art */}
-          <div id="empty-view" class="absolute inset-0 flex flex-col items-center justify-center p-20 text-center transition-all duration-1000">
-            <div class="relative w-40 h-40 mb-10 flex items-center justify-center">
-              <div class="absolute inset-0 bg-primary/10 rounded-full blur-3xl animate-pulse"></div>
-              <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="text-primary opacity-50"><path d="M12 21a9 9 0 0 0 0-18 9 9 0 0 0 0 18z"/><path d="M12 8v4m0 4h.01"/></svg>
+          <div id="empty-view" class="view-state empty-state">
+            <div class="empty-icon-box">
+              <div class="icon-glow"></div>
+              <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-svg"><path d="M12 21a9 9 0 0 0 0-18 9 9 0 0 0 0 18z"/><path d="M12 8v4m0 4h.01"/></svg>
             </div>
-            <h4 class="text-2xl font-black text-gray-900 mb-4">Bir Tarih Seçin</h4>
-            <p class="text-gray-400 max-w-sm mx-auto font-medium">Büyük günü ve bebeğinizin şu anki büyüklüğünü görmek için formu doldurun.</p>
+            <h4 class="state-title">Bir Tarih Seçin</h4>
+            <p class="state-desc">Büyük günü ve bebeğinizin şu anki büyüklüğünü görmek için formu doldurun.</p>
           </div>
 
           {/* Premium Result View */}
-          <div id="result-view" class="hidden opacity-0 p-10 md:p-16 h-full flex flex-col transition-all duration-1000 translate-y-12">
+          <div id="result-view" class="view-state result-state hidden opacity-0">
             
             {/* Header: Date & Trimester */}
-            <div class="flex flex-wrap items-end justify-between gap-6 mb-16">
-              <div class="space-y-2">
-                <span class="text-[11px] font-black text-primary uppercase tracking-[0.3em]">Tahmini Kavuşma Günü</span>
-                <h3 id="res-date" class="text-5xl md:text-7xl font-display font-black text-gray-950 tracking-tighter"></h3>
+            <div class="result-header">
+              <div class="date-group">
+                <span class="label-mini">Tahmini Kavuşma Günü</span>
+                <h3 id="res-date" class="main-date"></h3>
               </div>
-              <div id="trimester-badge" class="py-3 px-6 rounded-2xl bg-gray-950 text-white text-xs font-black uppercase tracking-[0.2em] shadow-xl shadow-gray-900/10">
+              <div id="trimester-badge" class="trimester-tag">
                 1. Trimester
               </div>
             </div>
 
             {/* Growth Journey Area */}
-            <div class="grid md:grid-cols-2 gap-12 mb-16">
-              <div class="growth-card p-10 rounded-[2.5rem] bg-white border border-gray-100 shadow-sm relative overflow-hidden group">
-                <div class="absolute top-0 right-0 p-8 text-slate-100 group-hover:text-primary/10 transition-colors">
+            <div class="growth-stats-grid">
+              <div class="growth-card premium-glass">
+                <div class="growth-bg-icon">
                   <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L9 9H2l5.5 4L5 21l7-5 7 5-2.5-8L22 9h-7l-3-7z"/></svg>
                 </div>
-                <span class="block text-[11px] font-black text-slate-400 uppercase tracking-widest mb-6">Bebeğiniz Şuan...</span>
-                <div class="flex items-center gap-6">
-                  <div id="fruit-icon" class="text-5xl">🍒</div>
-                  <div>
-                    <h4 id="fruit-name" class="text-3xl font-black text-gray-950 mb-1">Bir Kiraz</h4>
-                    <p class="text-slate-400 font-medium">büyüklüğünde</p>
+                <span class="label-mini muted">Bebeğiniz Şuan...</span>
+                <div class="fruit-container">
+                  <div id="fruit-icon" class="fruit-emoji">🍒</div>
+                  <div class="fruit-info">
+                    <h4 id="fruit-name" class="fruit-label">Bir Kiraz</h4>
+                    <p class="fruit-sub">büyüklüğünde</p>
                   </div>
                 </div>
               </div>
 
-              <div class="stats-card space-y-4">
-                <div class="flex items-center justify-between p-6 rounded-2xl bg-white border border-gray-50">
-                  <span class="text-[11px] font-black text-slate-400 uppercase tracking-widest">Hafta Bilgisi</span>
-                  <span id="res-weeks" class="text-xl font-black text-gray-950"></span>
+              <div class="stats-sidebar">
+                <div class="stat-item">
+                  <span class="label-mini muted">Hafta Bilgisi</span>
+                  <span id="res-weeks" class="stat-value"></span>
                 </div>
-                <div class="flex items-center justify-between p-6 rounded-2xl bg-white border border-gray-50">
-                  <span class="text-[11px] font-black text-slate-400 uppercase tracking-widest">Kalan Gün</span>
-                  <span id="res-days" class="text-xl font-black text-gray-950"></span>
+                <div class="stat-item">
+                  <span class="label-mini muted">Kalan Gün</span>
+                  <span id="res-days" class="stat-value"></span>
                 </div>
               </div>
             </div>
 
             {/* Visual Timeline */}
-            <div class="mt-auto">
-              <div class="flex justify-between text-[10px] font-black text-slate-300 uppercase tracking-[0.2em] mb-6">
+            <div class="timeline-container">
+              <div class="timeline-labels">
                 <span>Başlangıç</span>
-                <span class="text-gray-900">Mevcut Durum</span>
+                <span class="active-marker">Mevcut Durum</span>
                 <span>Doğum</span>
               </div>
-              <div class="relative h-6 bg-white rounded-full p-1 shadow-inner border border-slate-100">
-                <div id="res-progress" class="h-full bg-gradient-to-r from-primary via-secondary to-primary rounded-full transition-all duration-1000 ease-expo shadow-lg shadow-primary/20" style="width: 10%"></div>
+              <div class="timeline-track">
+                <div id="res-progress" class="timeline-fill"></div>
               </div>
             </div>
 
-            <div class="mt-12 flex items-center justify-between">
-              <p class="text-[10px] font-black text-slate-300 uppercase tracking-widest">Loki Digital Health System</p>
-              <button id="reset-btn" class="flex items-center gap-2 text-primary font-black text-[10px] uppercase tracking-widest hover:gap-4 transition-all">
+            <div class="result-footer">
+              <p class="footer-tag">Loki Digital Health System</p>
+              <button id="reset-btn" class="reset-trigger">
                 Yeni Hesaplama <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
               </button>
             </div>
@@ -142,43 +138,464 @@
 </section>
 
 <style>
+  /* Layout & Container */
+  .ultimate-calculator {
+    padding: 7rem 1rem;
+    position: relative;
+    overflow: hidden;
+    background: #ffffff;
+    font-family: 'Inter', sans-serif;
+  }
+
+  .calc-wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 10;
+  }
+
+  .calc-header {
+    text-align: center;
+    margin-bottom: 5rem;
+  }
+
+  .calc-grid {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 3rem;
+    align-items: stretch;
+  }
+
+  @media (max-width: 1024px) {
+    .calc-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  /* Badge styling */
+  .badge-digital {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.5rem 1.25rem;
+    border-radius: 9999px;
+    background: #f8fafc;
+    border: 1px solid #f1f5f9;
+    margin-bottom: 1.5rem;
+  }
+
+  .ping-dot {
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    background: hsl(var(--primary));
+    animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.5; transform: scale(1.5); }
+  }
+
+  .badge-text {
+    font-size: 10px;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+    color: #94a3b8;
+  }
+
+  /* Typography */
+  .calc-title {
+    font-family: 'Outfit', sans-serif;
+    font-size: clamp(2.5rem, 5vw, 3.75rem);
+    font-weight: 900;
+    color: #111827;
+    margin-bottom: 2rem;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+  }
+
+  .calc-subtitle {
+    font-size: 1.25rem;
+    color: #94a3b8;
+    max-width: 42rem;
+    margin: 0 auto;
+    font-weight: 500;
+    line-height: 1.6;
+  }
+
   .text-gradient {
-    background: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--secondary)));
+    background: linear-gradient(135deg, hsl(var(--accent)), hsl(var(--primary)));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    background-clip: text;
   }
 
-  .ease-expo {
-    transition-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+  /* Sidebars */
+  .input-sidebar {
+    grid-column: span 4;
+    display: flex;
+    flex-direction: column;
   }
 
-  .premium-glass {
-    box-shadow: 
-      0 20px 40px -10px rgba(var(--color-primary-rgb), 0.05),
-      0 10px 20px -5px rgba(0,0,0,0.02);
+  @media (max-width: 1024px) {
+    .input-sidebar {
+      grid-column: 1 / -1;
+    }
   }
 
-  input[type="date"]::-webkit-calendar-picker-indicator {
-    cursor: pointer;
-    opacity: 0;
-    position: absolute;
-    inset: 0;
+  .input-card {
+    padding: 2.5rem;
+    border-radius: 2.5rem;
+    background: rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(24px);
+    border: 1px solid #ffffff;
+    box-shadow: 0 25px 50px -12px rgba(var(--primary), 0.05);
+    flex-grow: 1;
+  }
+
+  .field-container {
+    margin-bottom: 2.5rem;
+  }
+
+  .field-label {
+    display: block;
+    font-size: 11px;
+    font-weight: 900;
+    color: hsl(var(--primary));
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    margin-bottom: 1.5rem;
+  }
+
+  .input-relative {
+    position: relative;
+  }
+
+  .premium-input {
     width: 100%;
-    height: 100%;
+    height: 5rem;
+    padding: 0 2rem;
+    border-radius: 1.5rem;
+    border: 2px solid #f1f5f9;
+    background: #ffffff;
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: #1f2937;
+    outline: none;
+    transition: all 0.3s;
+    box-shadow: inset 0 2px 4px rgba(0,0,0,0.02);
   }
 
-  #master-panel {
+  .premium-input:focus {
+    border-color: hsl(var(--primary));
+    box-shadow: 0 0 0 15px hsla(var(--primary), 0.05);
+  }
+
+  .input-icon {
+    position: absolute;
+    right: 1.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #cbd5e1;
+    pointer-events: none;
+  }
+
+  .calculate-trigger {
+    width: 100%;
+    height: 5.5rem;
+    background: #030712;
+    color: white;
+    font-weight: 900;
+    font-size: 1.15rem;
+    border-radius: 1.5rem;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+    box-shadow: 0 20px 40px -10px rgba(0,0,0,0.2);
+  }
+
+  .calculate-trigger:hover {
+    background: hsl(var(--accent));
+    transform: translateY(-5px);
+  }
+
+  .calculate-trigger:active {
+    transform: scale(0.95);
+  }
+
+  /* Result Area */
+  .result-main {
+    grid-column: span 8;
+  }
+
+  @media (max-width: 1024px) {
+    .result-main {
+      grid-column: 1 / -1;
+    }
+  }
+
+  .master-panel {
+    position: relative;
+    height: 100%;
+    min-height: 580px;
+    border-radius: 3rem;
+    background: #f8fafc;
+    border: 1px solid #f1f5f9;
+    overflow: hidden;
+    box-shadow: inset 0 2px 4px rgba(0,0,0,0.02);
+    /* Pattern background */
     background-image: radial-gradient(circle at 2px 2px, rgba(0,0,0,0.02) 1px, transparent 0);
     background-size: 40px 40px;
   }
+
+  .view-state {
+    padding: 4rem;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    transition: all 1s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .empty-state {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .empty-icon-box {
+    position: relative;
+    width: 10rem;
+    height: 10rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2.5rem;
+  }
+
+  .icon-glow {
+    position: absolute;
+    inset: 0;
+    background: hsla(var(--primary), 0.1);
+    border-radius: 50%;
+    filter: blur(30px);
+    animation: pulse 3s infinite;
+  }
+
+  .icon-svg {
+    color: hsl(var(--primary));
+    opacity: 0.5;
+  }
+
+  /* Result Styling */
+  .result-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin-bottom: 4rem;
+  }
+
+  .label-mini {
+    display: block;
+    font-size: 11px;
+    font-weight: 900;
+    color: hsl(var(--primary));
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    margin-bottom: 0.5rem;
+  }
+
+  .label-mini.muted {
+    color: #94a3b8;
+  }
+
+  .main-date {
+    font-family: 'Outfit', sans-serif;
+    font-size: clamp(2.5rem, 6vw, 4.5rem);
+    font-weight: 900;
+    color: #030712;
+    letter-spacing: -0.05em;
+    line-height: 1;
+  }
+
+  .trimester-tag {
+    background: #030712;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 1.25rem;
+    font-size: 12px;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  }
+
+  .growth-stats-grid {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr;
+    gap: 3rem;
+    margin-bottom: 4rem;
+  }
+
+  @media (max-width: 640px) {
+    .growth-stats-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .growth-card {
+    position: relative;
+    padding: 2.5rem;
+    border-radius: 2.5rem;
+    background: white;
+    border: 1px solid #f1f5f9;
+    overflow: hidden;
+    animation: float 6s ease-in-out infinite;
+  }
+
+  .growth-bg-icon {
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    color: #f1f5f9;
+  }
+
+  .fruit-container {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    position: relative;
+    z-index: 5;
+  }
+
+  .fruit-emoji {
+    font-size: 3rem;
+  }
+
+  .fruit-label {
+    font-size: 1.875rem;
+    font-weight: 900;
+    color: #030712;
+    margin-bottom: 0.25rem;
+  }
+
+  .fruit-sub {
+    color: #94a3b8;
+    font-weight: 500;
+  }
+
+  .stats-sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .stat-item {
+    padding: 1.5rem;
+    background: white;
+    border-radius: 1.5rem;
+    border: 1px solid #f8fafc;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .stat-value {
+    font-weight: 900;
+    font-size: 1.25rem;
+    color: #030712;
+  }
+
+  /* Timeline */
+  .timeline-container {
+    margin-top: auto;
+  }
+
+  .timeline-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+    font-weight: 900;
+    color: #cbd5e1;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    margin-bottom: 1.5rem;
+  }
+
+  .active-marker {
+    color: #030712;
+  }
+
+  .timeline-track {
+    height: 1.5rem;
+    background: white;
+    border-radius: 9999px;
+    padding: 0.25rem;
+    border: 1px solid #f1f5f9;
+    box-shadow: inset 0 2px 4px rgba(0,0,0,0.02);
+  }
+
+  .timeline-fill {
+    height: 100%;
+    background: linear-gradient(to right, hsl(var(--accent)), hsl(var(--primary)));
+    border-radius: 9999px;
+    transition: width 1.5s cubic-bezier(0.16, 1, 0.3, 1);
+    box-shadow: 0 5px 15px hsla(var(--primary), 0.3);
+  }
+
+  /* Footer */
+  .result-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 3rem;
+  }
+
+  .footer-tag {
+    font-size: 10px;
+    font-weight: 900;
+    color: #cbd5e1;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+  }
+
+  .reset-trigger {
+    background: none;
+    border: none;
+    color: hsl(var(--primary));
+    font-weight: 900;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    cursor: pointer;
+    transition: all 0.3s;
+  }
+
+  .reset-trigger:hover {
+    gap: 1rem;
+  }
+
+  /* Helper Classes */
+  .hidden { display: none; }
+  .opacity-0 { opacity: 0; }
+  .translate-y-12 { transform: translateY(3rem); }
 
   @keyframes float {
     0%, 100% { transform: translateY(0); }
     50% { transform: translateY(-10px); }
   }
 
-  .growth-card {
-    animation: float 6s ease-in-out infinite;
+  .hide-mobile { display: block; }
+  @media (max-width: 768px) {
+    .hide-mobile { display: none; }
   }
 </style>
 
@@ -224,8 +641,8 @@
     calculateBtn.addEventListener('click', () => {
       const val = lmpInput.value;
       if (!val) {
-        lmpInput.parentElement?.classList.add('shake');
-        setTimeout(() => lmpInput.parentElement?.classList.remove('shake'), 500);
+        lmpInput.classList.add('shake');
+        setTimeout(() => lmpInput.classList.remove('shake'), 500);
         return;
       }
 
@@ -251,7 +668,7 @@
 
       // Render
       if (emptyView && resultView && displayDate && displayWeeks && displayDays && progressBar && displayFruitName && displayFruitIcon) {
-        emptyView.classList.add('opacity-0', 'scale-95');
+        emptyView.classList.add('opacity-0');
         setTimeout(() => {
           emptyView.classList.add('hidden');
           resultView.classList.remove('hidden');
@@ -276,7 +693,7 @@
         setTimeout(() => {
           resultView.classList.add('hidden');
           emptyView.classList.remove('hidden');
-          setTimeout(() => emptyView.classList.remove('opacity-0', 'scale-95'), 50);
+          setTimeout(() => emptyView.classList.remove('opacity-0'), 50);
         }, 500);
       }
     });
