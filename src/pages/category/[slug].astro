@@ -89,8 +89,8 @@ const { category, posts } = Astro.props;
   }
   .posts-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 2rem;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 1.5rem;
   }
   .post-card {
     background: white;
@@ -102,7 +102,7 @@ const { category, posts } = Astro.props;
     overflow: hidden;
   }
   .post-image {
-    height: 180px;
+    height: 140px;
     width: 100%;
     overflow: hidden;
     background: hsl(var(--secondary) / 0.3);
@@ -117,7 +117,7 @@ const { category, posts } = Astro.props;
     transform: scale(1.1);
   }
   .post-content {
-    padding: 1.5rem;
+    padding: 1rem;
     flex-grow: 1;
     display: flex;
     flex-direction: column;
@@ -135,8 +135,8 @@ const { category, posts } = Astro.props;
     margin-bottom: 1rem;
   }
   h3 {
-    font-size: 1.15rem;
-    margin-bottom: 1.5rem;
+    font-size: 1rem;
+    margin-bottom: 0.75rem;
     line-height: 1.4;
     color: hsl(var(--text-main));
     font-family: 'Outfit', sans-serif;
