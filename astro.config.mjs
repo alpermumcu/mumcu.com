@@ -1,9 +1,6 @@
 import { defineConfig } from 'astro/config';
-import mdx from '@astrojs/mdx';
-import sitemap from '@astrojs/sitemap';
-
+// SADECE astro ve site tanımlayın, sitemap'i kaldırın
 export default defineConfig({
-  site: 'https://mumcu.com/',
-  trailingSlash: 'always',
-  integrations: [mdx(), sitemap()],
+  site: 'https://mumcu.com', // BU SATIR MUTLAKA OLMALI
+  integrations: [] // sitemap'i geçici olarak kaldırın
 });
