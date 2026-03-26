@@ -4,6 +4,14 @@ import CategoryCard from '../../components/CategoryCard.astro';
 import { getCollection } from 'astro:content';
 import { categories } from '../../data/categories';
 
+// Category Images
+import imgGebelik from '../../images/categories/gebelik.png';
+import imgJinekoloji from '../../images/categories/jinekoloji.png';
+import imgTupBebek from '../../images/categories/tup-bebek.png';
+import imgCerrahi from '../../images/categories/cerrahi.png';
+import imgEstetik from '../../images/categories/estetik.png';
+import imgHaftaHafta from '../../images/categories/hafta-hafta.png';
+
 const allPosts = await getCollection('blog');
 const posts = allPosts.sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -12,12 +20,13 @@ const posts = allPosts.sort(
 // Function to count posts per category
 const getCount = (name: string) => allPosts.filter(p => p.data.category?.includes(name)).length;
 
-const categoryIcons: Record<string, string> = {
-  "Gebelik & Doğum": "🤰",
-  "Jinekoloji & Kadın Sağlığı": "🩺",
-  "Tüp Bebek & İnfertilite": "🐣",
-  "Cerrahi İşlemler": "✂️",
-  "Estetik Jinekoloji": "💎"
+const categoryImages: Record<string, any> = {
+  "Gebelik & Doğum": imgGebelik,
+  "Jinekoloji & Kadın Sağlığı": imgJinekoloji,
+  "Tüp Bebek & İnfertilite": imgTupBebek,
+  "Cerrahi İşlemler": imgCerrahi,
+  "Estetik Jinekoloji": imgEstetik,
+  "Hafta Hafta Gebelik": imgHaftaHafta
 };
 
 const categoryDescriptions: Record<string, string> = {
@@ -25,7 +34,8 @@ const categoryDescriptions: Record<string, string> = {
   "Jinekoloji & Kadın Sağlığı": "Rutin kontroller, jinekolojik sorunlar ve çözümler.",
   "Tüp Bebek & İnfertilite": "İnfertilite nedenleri ve modern tedavi yöntemleri.",
   "Cerrahi İşlemler": "Kapalı ameliyatlar ve cerrahi uzmanlık alanları.",
-  "Estetik Jinekoloji": "Genital estetik ve lazer uygulamaları hakkında bilgiler."
+  "Estetik Jinekoloji": "Genital estetik ve lazer uygulamaları hakkında bilgiler.",
+  "Hafta Hafta Gebelik": "Bebeğinizin ve vücudunuzun gelişimini 40 hafta boyunca takip edin."
 };
 ---
 
@@ -44,7 +54,7 @@ const categoryDescriptions: Record<string, string> = {
 						href={`/category/${cat.slug}/`}
 						title={cat.name}
 						description={categoryDescriptions[cat.name]}
-						icon={categoryIcons[cat.name]}
+						image={categoryImages[cat.name]?.src}
 						count={getCount(cat.name)}
 					/>
 				))}
