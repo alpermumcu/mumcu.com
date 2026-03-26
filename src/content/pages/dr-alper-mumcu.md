@@ -26,7 +26,7 @@ Takip eden dönemde McGill Üniversitesi Tıp Fakültesi Araştırma Enstitüsü
 
 Nisan 2015’de Türkiye’ye geri döndü.
 
-Halen İstanbul Amerikan Hastanesi’nde ve Nişantaşı’nda özel muayenehanesinde hasta kabul etmektedir.
+Halen Nişantaşı’nda bulunan özel muayenehanesinde hasta kabul etmektedir.
 
 Alper Mumcu’nun yurtiçi ve yurtdışı dergilerde yayınlanmış bilimsel makaleleri ve ulusal/uluslararası kongrelerde tebliğ edilmiş bildirileri bulunmaktadır.
 

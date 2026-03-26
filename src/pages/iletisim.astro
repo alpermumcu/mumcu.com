@@ -3,7 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 
 const title = "İletişim";
-const description = "Dr. Alper Mumcu Muayenehanesi ve Amerikan Hastanesi iletişim bilgileri, adres ve yol tarifi.";
+const description = "Dr. Alper Mumcu Muayenehanesi iletişim bilgileri, adres ve yol tarifi.";
 
 const clinicInfo = {
   name: "MUAYENEHANE",
@@ -13,12 +13,6 @@ const clinicInfo = {
   whatsapp: "905333246898",
   mapUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.303254530863!2d28.98553817666244!3d41.05154501676839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab750bfac5c89%3A0x2d1492b6c19d57c3!2sLotus%20Ni%C5%9Fanta%C5%9F%C4%B1!5e0!3m2!1str!2str!4v1742851054366!5m2!1str!2str",
   directionsUrl: "https://www.google.com/maps/dir//Lotus+Ni%C5%9Fanta%C5%9F%C4%B1,+Halaskargazi,+Halaskargazi+Cd.+38-66,+34371+%C5%9Ei%C5%9Fli%2F%C4%B0stanbul/"
-};
-
-const hospitalInfo = {
-  name: "Amerikan Hastanesi",
-  address: "Güzelbahçe Sk. No:20 Nişantaşı, 34365 İstanbul",
-  phone: "444 3 777"
 };
 
 const workingHours = [
@@ -63,22 +57,6 @@ const workingHours = [
           </div>
         </div>
 
-        <!-- Amerikan Hastanesi Card -->
-        <div class="contact-card">
-          <div class="card-header">
-            <i class="fa-solid fa-hospital icon"></i>
-            <h2>{hospitalInfo.name}</h2>
-          </div>
-          <div class="card-body">
-            <p class="address">
-              <i class="fa-solid fa-location-dot"></i>
-              {hospitalInfo.address}
-            </p>
-            <a href={`tel:${hospitalInfo.phone}`} class="phone-link">
-              <i class="fa-solid fa-phone"></i> {hospitalInfo.phone}
-            </a>
-          </div>
-        </div>
 
         <!-- Working Hours Card -->
         <div class="contact-card hours">
