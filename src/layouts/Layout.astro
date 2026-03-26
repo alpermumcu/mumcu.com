@@ -45,45 +45,41 @@ const { title, description = "Dr. Alper Mumcu'nun 25 yılı aşkın tecrübesiyl
 
 <style is:global>
   :root {
-    --primary: 210 40% 50%;
-    --secondary: 210 40% 95%;
-    --accent: 330 80% 60%;
-    --accent-light: 330 80% 95%;
+    --primary: 181 61% 15%;
+    --secondary: 142 14% 92%; /* Muted Green Tint */
+    --accent: 190 64% 34%; /* Deep Teal for CTA */
+    --accent-light: 190 64% 94%;
     --accent-gradient: linear-gradient(
       135deg,
       hsl(var(--accent)),
-      hsl(330 90% 50%)
+      hsl(190 74% 28%)
     );
-    --bg-main: 0 0% 100%;
+    --bg-main: 60 11% 97%;
     --bg-card: 0 0% 100%;
-    --text-main: 210 30% 15%;
-    --text-muted: 210 15% 45%;
-    --glass: rgba(255, 255, 255, 0.8);
-    --glass-border: rgba(0, 0, 0, 0.05);
+    --text-main: 188 44% 9%;
+    --text-muted: 220 9% 46%;
+    --glass: rgba(255, 255, 255, 0.9);
+    --glass-border: rgba(15, 61, 62, 0.1);
     --shadow-sm: 0 4px 6px -1px rgb(0 0 0 / 0.05);
     --shadow-md: 0 10px 15px -3px rgb(0 0 0 / 0.1);
     --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.08);
-    --whatsapp: 130 60% 40%;
-    --link: 210 40% 50%;
-    --link-visited: 210 30% 40%;
-    --border: 210 40% 90%;
+    --whatsapp: 142 63% 32%; /* Darker green for ethical feel */
+    --link: 191 67% 25%;
+    --link-visited: 191 50% 20%;
+    --border: 188 15% 91%;
   }
 
   @media (prefers-color-scheme: dark) {
     :root {
-      --primary: 210 40% 60%;
-      --secondary: 210 40% 10%;
-      --accent: 330 80% 70%;
-      --accent-light: 330 80% 15%;
-      --bg-main: 210 30% 5%;
-      --bg-card: 210 30% 8%;
-      --text-main: 0 0% 95%;
-      --text-muted: 210 15% 65%;
-      --glass: rgba(15, 23, 42, 0.8);
+      --bg-main: 188 44% 5%;
+      --bg-card: 188 44% 8%;
+      --text-main: 60 11% 95%;
+      --text-muted: 188 20% 70%;
+      --glass: rgba(11, 31, 34, 0.9);
       --glass-border: rgba(255, 255, 255, 0.1);
-      --border: 210 30% 15%;
-      --link: 210 40% 70%;
-      --link-visited: 210 30% 60%;
+      --border: 188 30% 15%;
+      --link: 190 70% 60%;
+      --link-visited: 190 50% 45%;
     }
   }
   * {
