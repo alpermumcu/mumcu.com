@@ -8,6 +8,7 @@ tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/bas-popo-mesafesi-olcumu-normal-degerleri/'
 readingTime: 1
+coverImage: ../../images/uploads/2014/03/usg_kordo_1.jpg
 ---
 
 ![crl16](../../images/uploads/2014/03/crl16.jpg)
