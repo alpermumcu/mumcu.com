@@ -10,4 +10,3 @@ Mumcu.com web sitesi ile ilgili tespit etmiş olduğunuz aksaklıkları, bağlan
 
 Paylaşmış olduğum verilerin, 6698 sayılı KVKK'ye uygun olarak işlenebilmesini onaylıyorum.  
 
-Δdocument.getElementById( "ak\_js\_1" ).setAttribute( "value", ( new Date() ).getTime() );

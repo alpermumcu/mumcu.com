@@ -28,4 +28,3 @@ Dr. Alper Mumcu
   </label>
 </div>
 
-Δdocument.getElementById( "ak\_js\_6" ).setAttribute( "value", ( new Date() ).getTime() );

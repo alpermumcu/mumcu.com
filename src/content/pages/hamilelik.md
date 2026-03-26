@@ -220,4 +220,3 @@ menuOrder: 0
 
 Paylaşmış olduğum verilerin, 6698 sayılı KVKK'ye uygun olarak işlenebilmesini onaylıyorum.  
 
-Δdocument.getElementById( "ak\_js\_2" ).setAttribute( "value", ( new Date() ).getTime() );

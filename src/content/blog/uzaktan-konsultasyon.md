@@ -41,4 +41,3 @@ Görüşmeler tercihinize göre Türkçe ya da İngilizce olabilir.
 
 *\*Bu ücretli bir danışmanlık hizmetidir.*
 
-Δdocument.getElementById( "ak\_js\_1" ).setAttribute( "value", ( new Date() ).getTime() );

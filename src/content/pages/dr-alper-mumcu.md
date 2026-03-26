@@ -260,4 +260,3 @@ randevu almak için
 
 Paylaşmış olduğum verilerin, 6698 sayılı KVKK'ye uygun olarak işlenebilmesini onaylıyorum.  
 
-Δdocument.getElementById( "ak\_js\_3" ).setAttribute( "value", ( new Date() ).getTime() );
