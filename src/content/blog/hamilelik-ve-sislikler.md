@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/hamilelik-ve-sislikler/'
 readingTime: 4
 ---
 
-![sislik](../../images/uploads/2014/03/sislik.jpg)
+![sislik](/images/uploads/2014/03/sislik.jpg)
 
 Hamile bir kadının günlük su gereksinimi hamile olmayanlara göre daha fazladır. Suyun hamilelikteki görevlerinden birisi de bebek büyürken ona gerekli desteği sağlamak ve aynı zamanda pelvik eklemleri doğuma hazırlamaktır. Bebek bekleyen bir anne adayı herzaman olduğundan daha fazla su içer ve alınan bu sıvının bir kısmı vücutta tutulur. Hamilelik süresince anne adayının aldığı kiloların neredeyse dörtte birinin kaynağı bu sıvı fazlasıdır.
 

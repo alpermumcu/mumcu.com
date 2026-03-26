@@ -37,7 +37,7 @@ Rahim içinde olan myomlarda uygun olan tedavi şekli histeroskopi adı verilen 
 
 Gebelikte myomların neden olabileceği sorunlar myomun yerleşim yerine, büyüklüğüne ve sayısına bağlıdır. Örneğin rahimin içine doğru büyüyen ya da kendisi rahim içinde olan myomlar tekrarlayan düşüklere neden olabilirler.
 
-![Sezaryen sırasında çıkardığımız en büyüğü 15 cm olan miyomlar ](../../images/uploads/2014/03/miyom300.jpg)
+![Sezaryen sırasında çıkardığımız en büyüğü 15 cm olan miyomlar ](/images/uploads/2014/03/miyom300.jpg)
 
 Sezaryen sırasında çıkardığımız en büyüğü 15 cm olan miyomlar
 
@@ -70,7 +70,7 @@ Eğer myomların yerleşimi çok derin değilse, myomlar sezaryen ile aynı kesi
 
 Rahimin yüzeyinde bulunan 1 santimetre civarındaki myomlar ise koter adı verilen bir cihaz yardımı ile ısı uygulanarak tahrip edilebilir.
 
-![sec_miy_1](../../images/uploads/2014/03/sec_miy_1.jpg)
+![sec_miy_1](/images/uploads/2014/03/sec_miy_1.jpg)
 
 Sezaryen sırasında myomu çıkartıp çıkartmamak o esnada cerrahın verebileceği bir karardır. Resimde sezaryen sırasında tek bir hastadan çıkarttığımız ve büyüklükleri 1-10 santimetre arasında değişen toplamn 11 adet myom görülmektedir.
 

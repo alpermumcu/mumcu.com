@@ -21,7 +21,7 @@ Yumurta hücresi overden atıldıktan sonra geride kalan kısıma corpus luteum 
 
 Luteal faz yumurtlamadan bir sonraki adet kanamasına kadar olan zamanı temsil eder.Endometriumun dökülmeden durabilmesi östrojen ve progesteron adlı bu iki hormona bağlıdır.Gebelik oluşmadığında corpus luteumdan olan progesteron salgısı kesilir ve endometriumun desteği ortadan kalktığı için doku dökülmeye başlar. Alttaki küçük kan damarları açığa çıkar ve kanama olur. Bu esnada yumurtalıklarda yeni yumurta gelişimi başlamıştır ve buradan yine östrojen hormonu salgılanmaktadır. Östrojen etkisi ile endometrium hızla iyileşmeye ve yeniden büyümeye başlar. Bu döngüsel değişim menopoza kadar bu şekilde devam eder. Progesteronun bu şekilde östrojeni bloke ederek endometium değişimlerini önlemesine karşılanma adı verilir. Progesteron yokluğunda ancak östrojen varlığındaki durumda görülen etkiye ise karşılanmamış östrojen etkisi denir.
 
-![endomevre](../../images/uploads/2014/03/endomevre.jpg)
+![endomevre](/images/uploads/2014/03/endomevre.jpg)
 
 **Endometrial Hiperplazi**  
 İlk kez 20. yüzyılın başlarında Dünya’da jinekolojinin önemli isimlerinden biri olan Dr. Cullen endometium kanserine dönüşebildiğini saptadığı bir histolojik durum tanımladı. Cullen’in açtığı yoldan ilerleyen diğer araştırmacılar bu tabloya endometiral hiperplazi adını verdiler ve 1947 yılında Dr.Gusberg bu hastalığın sınıflamasını yaptı.

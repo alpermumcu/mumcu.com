@@ -6,11 +6,11 @@ parent: 0
 menuOrder: 0
 ---
 
-> ##### ![sorunsuz](../../images/uploads/2014/03/sorunsuz.jpg)**Hamile kalmaya karar verdiğinizde…**
+> ##### ![sorunsuz](/images/uploads/2014/03/sorunsuz.jpg)**Hamile kalmaya karar verdiğinizde…**
 > 
 > [Sağlıklı bir hamilelik dönemi geçirmek, sağlıklı ve rahat bir doğum yapmak ve sağlıklı bir bebeğe sahip olmak için hamile kalmaya karar verdiğinizde doktorunuzla görüşmeniz önemlidir.](/blog/hamile-kalmaya-karar-verdiginizde/)
 
-> ##### ![cinsellik](../../images/uploads/2014/03/cinsellik.jpg)**Hamile Kalmak İsteyenler İçin Cinsellik**
+> ##### ![cinsellik](/images/uploads/2014/03/cinsellik.jpg)**Hamile Kalmak İsteyenler İçin Cinsellik**
 > 
 > [İstemelerine rağmen gebelik elde edemeyen çiftlerden bazılarında altta yatan problem uygun zamanda ve yeterli sıklıkta ilişkinin olmaması, ya da uygulanan yanlış yöntemler gibi çok basit nedenler olabilir.](/blog/gebelik-isteyenler-icin-uygun-seks/)
 

@@ -16,7 +16,7 @@ Tanısı ultrasonda embryo ve kalp atımları görülmesi gereken haftalarda kes
 
 Boş gebelik ile çok erken dönemdeki normal bir gebeliği ayırdetmenin en önemli yolu kese içinde yolk kesesi adı verilen yapının izlenmesidir. Yolk kesesi varlığı gebeliğin boş gebelik olmadığının en önemli belirtisidir. Öte yandan kesenin ultrasondaki görüntüsü de bu iki durumun ayrımında yol gösterici olabilir. Teorik olarak son adet tarihinden yaklaşık 5 hafta geçen durumlarda transvajinal ultrasonografi ile fetus görülebilmelidir. Bunun gerçekleşmediği durumlarda ise boş gebelik tanısı koymak için aceleci davranmak çok yanlış bir yaklaşım olacaktır. Bu gibi bir durum varlığında en azından bir hafta beklenerek durumun gidişatı hakkında yeterli bilgi edinilmelidir.
 
-![blighted111](../../images/uploads/2014/03/blighted111.jpg)
+![blighted111](/images/uploads/2014/03/blighted111.jpg)
 
 Erken gebelik kayıpları, yani düşüklerin neredeyse yarısından fazlasının sebebi boş gebeliklerdir.
 

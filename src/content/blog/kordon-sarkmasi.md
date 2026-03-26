@@ -15,7 +15,7 @@ Kordon sarkması kadın doğumda karşılaşılabilecek en acil durumlardan biri
 **Kordon sarkması nedir?**  
 Amniyon zarı açılıp suların gelmesi sırasında bebek daha doğum kanalına girmeden önce göbek kordonu rahim ağzından geçerek vajinaya doğru kayar. Bazen vajinayı da geçerek vücut dışına çıkabilir. Oldukça nadir karşılaşılan bir durumdur. Kordonun sarkmasını takiben bebek de doğum kanalına girince kordonu sıkıştırır ve içindeki kan akımını durdurur. Bu durumda bebeğin kaybedilmesi kaçınılmazdır.
 
-![sarkma](../../images/uploads/2014/03/sarkma.gif)
+![sarkma](/images/uploads/2014/03/sarkma.gif)
 
 Kordon sarkması en sık fetal geliş bozukluklarında görülür. Makat geliş ve yan geliş önemli risk faktörleridir. Yine erken doğumlarda ya da bebeğin çok küçük olduğu durumlarda da daha sık görülür. Kordonun normalden uzun ya da amniyon sıvısının fazla olması da risk yaratır.
 
@@ -27,4 +27,4 @@ Kordon sarkması saptandığında çok acil hareket etmek gerekir. Doktor elini 
 
 Su kesesinin hastane dışında açıldığı durumlarda kordon sarkarsa kişi hastaneye ulaşıncaya kadar genelde bebek kaybedilir.
 
-![kor_res](../../images/uploads/2014/03/kor_res.jpg)
+![kor_res](/images/uploads/2014/03/kor_res.jpg)

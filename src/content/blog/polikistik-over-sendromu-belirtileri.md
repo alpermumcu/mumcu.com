@@ -48,7 +48,7 @@ Tek bir hormon değerine bakılarak polikistik over tanısı konamaz. Vücutta s
 
 Polikistik over sendromunda yumurtalıkların görüntüsü çok tipiktir. ￼Ancak bu görüntü tek başına tanı koymakta yeterli değildir çünkü bazı kadınlarda görüntü böyle olmakla birlikte hiçbir klinik belirti ve bulgu saptanmadığı gibi￼ bazı kadınlarda ise tüm bulgular ve yakınmalar olmasına rağmen yumurtalıklar ultrasonda normal görünebilir.￼
 
-![Polikistik over sendromu belirtileri](../../images/uploads/2020/10/polikistik.jpg)
+![Polikistik over sendromu belirtileri](/images/uploads/2020/10/polikistik.jpg)
 
 Polikistik over sendromu belirtileri
 

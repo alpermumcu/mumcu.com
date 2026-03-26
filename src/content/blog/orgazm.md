@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/orgazm/'
 readingTime: 5
 ---
 
-![orgasmscene](../../images/uploads/2014/03/orgasmscene.jpg)
+![orgasmscene](/images/uploads/2014/03/orgasmscene.jpg)
 
 _Meg Ryan’ın sinema tarihine geçen 1989 yapımı When Harry Met Sally filminde orgazm taklidi yaptığı sahne._
 

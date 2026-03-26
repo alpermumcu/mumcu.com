@@ -22,7 +22,7 @@ Her aşamada hücreler spermatogonia, spermatosit,spermatid gibi farklı isimler
 
 Spermatogenez yani sperm üretimi testis içinde seminifer tübül adı verilen yapılar içinde gerçekleşir. Seminifer tübül adından da anlaşılacağı gibi içi boş tüp şeklinde çok ince ve uzun bir dokudur ve seminifer epitel adı verilen bir tabakadan oluşur. Her bir testis içinde yaklaşık 500 seminifer tübül bulunur ve tek bir tübülün uzunluğu 30-70 santimetredir. Seminifer tübüller testis hacminin yaklaşık %80-90’ını oluştururlar. Bu nedenle testis hacmi kabaca sperm üretim potansiyeli hakkında fikir verir.Yumuşak ve küçük bir testis yapısı sperm üretiminin düşük olabileceği izlenimini uyandırır.
 
-![testis_yapi](../../images/uploads/2014/03/testis_yapi.gif)
+![testis_yapi](/images/uploads/2014/03/testis_yapi.gif)
 
 Seminifer epitel 2 tür hücre içerir. Germ hücreleri sperm yapımından sorumluyken Sertoli hücresi adı verilen hücre grubu da germ gücrelerinin etrafında destek dokusunu oluşturur. testislerde bulunan bir diğer hücre türü de erkeklik hormonu olan testosteron yapımını sağlayan Leydig hücrelerdir. Seminifer tübül içinde spermatogenezin tüm aşamalarındaki sperm öncülü hücreler bulunur. Farklılaşma fazını tamamlayan hücreler seminifer tübül içine salınırlar. Bu nedenle testisin farklı kesimlerindeki farklı alanlarda gelişimin değişik evrelerindeki sperm üretimi devam eder.
 

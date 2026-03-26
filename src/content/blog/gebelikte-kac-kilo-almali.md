@@ -16,7 +16,7 @@ Hamile kalan kadınların ilk doktor ziyaterlerinde en sık sorulan soruların b
 
 Örneğin hamile kaldığınızda vücut ağırlığınız normal aralıktaysa (vücut kitle indeksi (VKI) 20-25 arasında) bu durumda hamileliğinizin sonunda 11.5-16 kilo arasında almış olmanız idealdir. Vücut kitle indeksinizi [buradan](http://www.mumcu.com/html/modules.php?name=Bmi) hesaplayabilirsiniz. Hamileliğinizin ilk 12-13 haftasında kilo artışınız çok yavaş olabilir. Hatta bulantı ve kusmalarınız varsa bir kaç kilo kaybetmeniz de normal kabul edilebilir. İkinci trimesterin başlangıcı ile birlikte kilo artışı da hızlanır ve haftada 300-500 gram arasında kilo almanız beklenir (grafiğe bakınız). Boyu kısa olan kadınların kendilerine hedef olarak grafikteki alt sınırı seçmelerini öneririm.
 
- ![prenormwt](../../images/uploads/2014/03/prenormwt.jpg)
+ ![prenormwt](/images/uploads/2014/03/prenormwt.jpg)
 
 Hamilelik öncesi kilosu normal olanlar için (VKI= 20-25) kilo artış eğrisi
 
@@ -24,7 +24,7 @@ Hamilelik öncesi kilosu normal olanlar için (VKI= 20-25) kilo artış eğrisi
 
 Eğer hamilelik öncesi vücut kitle indeksiniz 20’nin altındaysa yani zayıf kabul edilen gruptaysanız hamileliğinizde normal kilolu olanlara göre daha fazla kilo almanız önerilir. Bu durumda tüm hamilelik süresince 13-18 kilo arasında almanız idealdir. İkinci trimesterdan başlayarak haftada 400-600 gram almalısınız.
 
- ![prelowwt](../../images/uploads/2014/03/prelowwt.jpg)
+ ![prelowwt](/images/uploads/2014/03/prelowwt.jpg)
 
 Hamilelik öncesi kilosu düşük olanlar için (VKI < 20) kilo artış eğrisi
 
@@ -32,7 +32,7 @@ Hamilelik öncesi kilosu düşük olanlar için (VKI < 20) kilo artış eğrisi
 
 Hamile kalmadan önce fazla kiloluysanız (VKI = 26-29) bu durumda tüm hamileliğinizde 7-11.5 kilo arasında almanızı öneririm. Eğer aşırı obes kabul edilen ve vücut kitle indeksi 29’dan büyük bir kadınsanız bu durumda tüm gebelik süreniz 7 kilodan fazla artışla bitmemeli. İkinci trimesterdan sonra haftada 300 gramdan daha fazla almamaya özen göstermelisiniz.
 
- ![prehiwt](../../images/uploads/2014/03/prehiwt.jpg)
+ ![prehiwt](/images/uploads/2014/03/prehiwt.jpg)
 
 Hamilelik öncesi kilosu fazla olanlar için (VKI = 26-29) kilo artış eğrisi
 

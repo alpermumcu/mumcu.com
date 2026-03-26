@@ -68,26 +68,26 @@ Bazı araştırmacılar KTS tanısı konduktan sonra tedavinin tam etkili olabil
 
 Önerilen egzersiz şu şekildedir.
 
- ![cts_a](../../images/uploads/2014/03/cts_a.gif)
+ ![cts_a](/images/uploads/2014/03/cts_a.gif)
 
 Kolları ileri doğru uzatın, bilek ve parmakları gererek 5 saniye bu şekilde bekleyin
 
- ![cts_b](../../images/uploads/2014/03/cts_b.gif)
+ ![cts_b](/images/uploads/2014/03/cts_b.gif)
 
 Bilekleri düz konuma getirin ve parmakları gevşetin
 
- ![cts_c](../../images/uploads/2014/03/cts_c.gif)
+ ![cts_c](/images/uploads/2014/03/cts_c.gif)
 
 Her iki elinizi yumruk yapın
 
- ![cts_d](../../images/uploads/2014/03/cts_d.gif)
+ ![cts_d](/images/uploads/2014/03/cts_d.gif)
 
 Elleriniz yumruk şeklindeyken bilekleri aşağı doğru bükün ve 5 saniye bekleyin
 
- ![cts_e](../../images/uploads/2014/03/cts_e.gif)
+ ![cts_e](/images/uploads/2014/03/cts_e.gif)
 
 Bilekleri düz konuma getirin ve parmakları gevşetin
 
- ![cts_f](../../images/uploads/2014/03/cts_f.gif)
+ ![cts_f](/images/uploads/2014/03/cts_f.gif)
 
 Bu egzersizleri 10’ar defa yaptıktan sonra kolları yanda serbest şekilde bırakıp birkaç saniye süreyle hafi hafif sallayın

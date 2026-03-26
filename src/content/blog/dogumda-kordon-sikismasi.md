@@ -14,7 +14,7 @@ Eğer doğum eylemi sırasında göbek kordonu çok fazla sıkışır ya da geri
 
 Kordon sıkışması normal doğumlarda çok sık rastlanılan bir durumdur. Özellikle kordonun kısa olduğu, boyuna dolandığı ya da üzerinde gerçek düğüm olan olgularda daha sık görülür.
 
-![sikisma](../../images/uploads/2014/03/sikisma.jpg)
+![sikisma](/images/uploads/2014/03/sikisma.jpg)
 
 Amniyon sıvısının az olması ya da bebeğin iri olması da kordon sıkışması aşısından risk grubu oluşturur.
 

@@ -32,7 +32,7 @@ Bazı ürünlerin içine yerleştirmeyi kolaylaştırıcı bir uygulama tüpü v
 
 **Tamponu yerleştirmeden önce ellerinizi mutlaka sabunlu suyla iyice yıkayın ve güzelce kurulayın**
 
-![tamp_1](../../images/uploads/2014/03/tamp_1.jpg)
+![tamp_1](/images/uploads/2014/03/tamp_1.jpg)
 
 1\. Tamponu yerleştirirken ayakta durabilir y ada oturabilirsiniz. Pozisyonunuzn rahat olması önemlidir. Bazı kadınlar tuvalet kenarında bir ayakları klozetin üzerindeyken tamponu daha rahat yerleştirirler. Kendinizi en rahat hissettiğiniz pozisyonu bulmaya çalışın.Tamponu yazı yazmak için kulllandığınız elinizi kullanarak yerleştirin, solak iseniz sağ elinizi kullanarak yerleştirmeye çalışmayın.
 
@@ -40,17 +40,17 @@ Aplikatörü başprmak ve orta parmağınızla alt ucuna yakın bir yerden tutun
 
 2\. Diğer elinizle vajinal açıklığının iki yanındaki labiaları birbirinden ayırarak vajina girişinin görünür hale gelmesini sağlayın. Aplikatörün ucunu vajina girişine yerleştirin.
 
-![tamp2](../../images/uploads/2014/03/tamp2.jpg)
+![tamp2](/images/uploads/2014/03/tamp2.jpg)
 
-![tamp3](../../images/uploads/2014/03/tamp3.jpg)
+![tamp3](/images/uploads/2014/03/tamp3.jpg)
 
 3\. Resimde de görüldüğü gibi vajina arkaya ve hafif yukarıya doğru uzanır. Bu nedenle tamponu bu aks doğrultusunda yumuşak hareketlerle itin.. Bu saırada aplikatörü sağa sola döndürerek ittirmeye çalışmayın. Aplikatörün tüpü tamamen vajina içine girinceye ve aplikatörü tutan iki parmağınız vücudunuza değinceye kadar ittirmeye devam edin.
 
 4\. Daha sonra orta parmağınızı kullanarak tamponun ipinin olduğu pistonu ya da tüpü itin. Bu hareket tamponun aplikatör içinden çıkarak vajinaya yerleşmesini sağlayacaktır. Parmağınızı tüpün içinden çekin bu sayede çıkarma ipleri serbest hale gelir.
 
-![tamp4](../../images/uploads/2014/03/tamp4.jpg)
+![tamp4](/images/uploads/2014/03/tamp4.jpg)
 
-![tamp5](../../images/uploads/2014/03/tamp5.jpg)
+![tamp5](/images/uploads/2014/03/tamp5.jpg)
 
 5\. Aplikatörü yavaşça dışarı çekin. 
 

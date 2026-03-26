@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/hamilelik-ve-vejeteryanizm/'
 readingTime: 5
 ---
 
-![vejeteryan](../../images/uploads/2014/03/vejeteryan.jpg)
+![vejeteryan](/images/uploads/2014/03/vejeteryan.jpg)
 
 Vejeteryan diet denildiğinde hayvansal gıdaların dahil olmadığı bir beslenme şekli anlaşılır. Son zamanlarda bazı çevrelerde giderek popülerite kazanan bu beslenme tarzını benimseyen kadınlar hamilelikleri süresince de buna devam etmeyi isterler. Ancak vejeteryan beslenme şeklinin hamilelikteki etkileri konusunda çeşitli görüşler vardır. Genel kanı bilinçli şekilde ve uygun kombinasyonlar ile uygulandığında hamilelik açısından çok büyük bir risk oluşturmayacağıdır.
 

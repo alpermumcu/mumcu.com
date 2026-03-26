@@ -12,7 +12,7 @@ readingTime: 5
 
 Herhangi bir nedenle rahim iç kısmında meydana gelen yapışıklıklar intrauterin sineşi olarak adlandırılırlar. Hastalık, tabloyu ilk kez 1948 yılında “travmatik amenore” ismiyle tanımlayan Dr. Joseph G. Asherman’ın anısına ithafen **Asherman Sendromu** da olarak adlandırılmaktadır.
 
-![0003](../../images/uploads/2014/03/00031.jpg)
+![0003](/images/uploads/2014/03/00031.jpg)
 
 **NEDEN OLUR?**  
 Asherman sendromu gelişmiş ülkelerde çok sık karşılaşılan bir problem değildir. Bu ülkelerde sendroma yol açan en önemli faktör rahim içine uygulanan cerrahi girişimlerdir. Bu girişimlerden en sık uygulanan ise gebelik sonlandırılması yani kürtajdır. Özellikle işlem sırasında bir enfeksiyon varsa, kürtaj sonrası enfeksiyon ortaya çıkarsa ya da içeride parça kalırsa rahim içinde nedbe dokusu oluşma ve yapışıklık meydana gelme riski artar. Özensiz ve eski tekniklere göre uygulanan işlemler de endometrium tabakasının derinliklerine zarar vererek yapışıklık olma riskini arttırır. Yapılan bir çalışmada içeride parça kalması nedeni ile yeniden kürtaj yapılmak zorunda kalan kadınlarda Asherman Sendromu görülme oranının %40’a kadar çıkabileceği gösterilmiştir. Öte yandan myomektomi ve hatta sezaryen gibi operasyonları takiben de asherman sendromunun geliştiği bildirilmiştir.
@@ -30,7 +30,7 @@ Daha önceden herhangi bir yakınması olmayan bir kadında aşağıdaki bulgula
 **TANI**  
 Yukarıdaki yakınmaların varlığında ve öyküde geçirilmiş kürtaj saptanması durumunda Asherman sendromundan şüphelenilir. Jinekolojik muayenede herhangi bir anormal bulguya rastlanmaz. Rutin ultrasonografide endometrium normale yakın görülebilir ancak rahim içine sıvı verilerek yapılan ultrasonografide rahim boşluğu içindeki yapışıklıklar görülebilir. Kesin tanı çekilecek olan bir histerosalpingografi (HSG, rahim filmi) ile konur.
 
-[![0003_2](../../images/uploads/2014/03/0003_2.jpg)](http://www.mumcu.com../../images/uploads/2014/03/0003_2.jpg)![0003_3](../../images/uploads/2014/03/0003_3.jpg)
+[![0003_2](/images/uploads/2014/03/0003_2.jpg)](http://www.mumcu.com/images/uploads/2014/03/0003_2.jpg)![0003_3](/images/uploads/2014/03/0003_3.jpg)
 
 Asherman sendromunun rahim filmindeki ve sulu  
 ultrasonografideki  görünümü
@@ -38,7 +38,7 @@ ultrasonografideki  görünümü
 **TEDAVİ**  
 Asherman sendromu kısırlığa ya da adetlerin kesilmesine neden oluyor ise tedavi edilmelidir. Hastalığın tedavisi cerrahidir ve yapışıklıkların kesilmesi şeklinde uygulanır. Bu işlem ancak histeroskopik yöntem ile mümkündür.
 
-![0003_4](../../images/uploads/2014/03/0003_4.jpg)
+![0003_4](/images/uploads/2014/03/0003_4.jpg)
 
 Histeroskopide rahim içi  
 yapışıklığın görünümü

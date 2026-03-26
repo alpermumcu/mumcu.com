@@ -42,7 +42,7 @@ Gizmo isminde erkek bir siyam kedisi sahibidir.
 
 Alper Mumcu’nun tüm resmi sosyal medya üyeliklerine www.alpermumcu.net adresinden ulaşılabilir instagram hesabından takip edebilirsiniz.
 
-![](../../images/uploads/2020/08/team-member-alper-mumcu.jpg)
+![](/images/uploads/2020/08/team-member-alper-mumcu.jpg)
 
 **ÖZGEÇMİŞ**
 

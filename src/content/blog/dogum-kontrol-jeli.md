@@ -11,7 +11,7 @@ originalUrl: 'https://www.mumcu.com/dogum-kontrol-jeli/'
 readingTime: 3
 ---
 
-![doğum kontrol jeli](../../images/uploads/2020/10/kontroljel.jpg)
+![doğum kontrol jeli](/images/uploads/2020/10/kontroljel.jpg)
 
 Phexxi doğum kontrol jeli ve aplikatörü
 

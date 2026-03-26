@@ -24,6 +24,6 @@ Embryo transferi işlemi ağrılı bir işlem değildir ve anestezi gerektirmez.
 
 Embryo transferi sonrası 12. günde hasta gebelik testi için çağırılır.
 
-![amelhan](../../images/uploads/2014/03/amelhan.jpg)
+![amelhan](/images/uploads/2014/03/amelhan.jpg)
 
 Transfer işleminin yapıldığı ameliyathane

@@ -147,7 +147,7 @@ Jinekoloji ile ilgili aşağıdaki makaleleri inceleyin.
 
 **HPV (Human Papilloma Virus)**
 
-![hpvvirus](../../images/uploads/2014/03/hpvvirus.jpg)
+![hpvvirus](/images/uploads/2014/03/hpvvirus.jpg)
 
 [Human Papilloma Virüs ya da kısa adı ile HPV son yıllarda giderek daha fazla sıklıkta görülmeye başlayan ve ihmal edildiğinde ölümcül olabilecek sorunlar doğurabilen ciddi bir cinsel yolla bulaşan bir hastalıktır. Bu bölümde HPV enfksiyonları, neden olduğu hastalıklar ve tadavileri ile ilgili bilgilere ulaşabilirsiniz.](/jinekoloji/?p=1346)
 

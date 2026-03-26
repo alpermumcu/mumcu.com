@@ -16,7 +16,7 @@ Anne ve baba adayları bebeklerinin sağlık durumundan sonra en fazla kime ve n
 
 Ultrasonun icadından önce de sonra da insanoğlunun en büyük hayallerinden birisi anne karnındaki bebeği 3 boyutlu yani gerçeğe yakın bir şekilde gözlemektir. Bu hayali ilk kez 1980’li yılların ortalarında Japon bir bilimadamı gerçekleştirmiştir. Elde edilen iki boyutlu görüntüler bilgisayar programları tarafından değerlendirilip işlendikten sonra 3 boyutlu bir görüntü yaratılmaktadır.
 
-![4dultramiz](../../images/uploads/2014/03/4dultramiz.jpg)3 boyutlu ultrason adı verilen bu teknolojide kuşkusuz bilgisayar işlemci ve yazılımlarındaki gelişmenin rolü yadsınamaz. 1990’lı yılların başında piyasaya sürülen bu yeni ultrason cihazlarının en önemli dezavantajı gerçek zamanlı yani prob anne adayının karnındayken 3 boyutu görüntü yaratamamaları, bunun için incelemeden sonra 10-15 dakikalık bir süreye gereksinim duymalarıydı.
+![4dultramiz](/images/uploads/2014/03/4dultramiz.jpg)3 boyutlu ultrason adı verilen bu teknolojide kuşkusuz bilgisayar işlemci ve yazılımlarındaki gelişmenin rolü yadsınamaz. 1990’lı yılların başında piyasaya sürülen bu yeni ultrason cihazlarının en önemli dezavantajı gerçek zamanlı yani prob anne adayının karnındayken 3 boyutu görüntü yaratamamaları, bunun için incelemeden sonra 10-15 dakikalık bir süreye gereksinim duymalarıydı.
 
 Son yıllarda ise bu sorun kısmen aşılmış ve 4 boyutlu olarak adlandırılan ultrason cihazları kulanıma girmiştir. Bu en son teknoloji ile donatılmış olan cihazlarda hem karından yapılan hem de vajinal yoldan yapılan ultrasonografi incelemelerinde eş zamanlı 3 boyutlu görüntü elde edilmektedir. Burada 4. boyut olarak tanımlanan zaman faktörüdür ve incelemenin eş zamanlı yapıldığını ifade etmektedir.
 

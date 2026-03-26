@@ -53,7 +53,7 @@ Adet kanaması ile birlikte yeni bir siklus başlar. Folikül gelişimi ile birl
 
 Korpus luteumun ömrü kısmen sabit olduğu için (14. gün) adet süklusunun süresini belirleyen ovülasyon öncesi dönem yani folliküler fazdır.
 
-![adet_dongu2](../../images/uploads/2014/03/adet_dongu2.jpg)
+![adet_dongu2](/images/uploads/2014/03/adet_dongu2.jpg)
 
 **Adet görmek için gerekli şartlar**  
 1\. Beyinden hormon salgılanmalı  

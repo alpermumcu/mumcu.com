@@ -64,7 +64,7 @@ Gestasyonel kese çapı 16-18 milimetreye ulaştığında embryo görülebilir h
 
 Gebelik kesesi 20 milimetreden büyük olduğu halde embryonun görülmemesi olumsuz bir bulgudur ve erken gebelik kaybı ile ilişkili olabileceği düşünülmektedir.
 
-![Image3](../../images/uploads/2014/03/Image3.jpg)
+![Image3](/images/uploads/2014/03/Image3.jpg)
 
 **Yukarıdaki resimde 8 hafta 5 günlük bir gebelikte yolk kesesi  
 embryo ve amniyon zarı net bir sekilde görülmekte**

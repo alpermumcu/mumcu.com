@@ -20,7 +20,7 @@ Yeniden özetleyecek olursak sadece ilk kutuya başlarken adet kanamasının ilk
 
 Kullanımın özellikle ilk 3 ayı içerisinde ilaç almaya devam ederken lekelenme şeklide kanamalar olabilir. Bu kısmen beklenen bir durumdur ve zaman içerisinde geçecektir. Nadiren ilaç içerisindeki östrojen dozu kişiye az geldiğinden bu durum uzayabilir ve başka bir ilaca geçme gereksinimi doğabilir. Böyle bir olay başınıza geldiği taktirde jinekoloğunuzla irtibata geçiniz.
 
-![hap_kullan](../../images/uploads/2014/03/hap_kullan.gif)
+![hap_kullan](/images/uploads/2014/03/hap_kullan.gif)
 
 Yapılan araştırmalarda kadınların %16’sında hap alımında düzensizikler yaşandığı saptanmıştır. Bu nedenle ilaç almayı unutmamak için belirli bir düzen oluşturmak yararlıdır. Örneğin gece yatmadan önce düzenli olarak dişlerini fırçalama alışkanlığı olan bir kişi OK kutusunu diş fırçasının yanına koyabilir. Benzer şekilde her sabah düzenli olarak makyaj yapıyorsanız kutuyu makyaj malzemelerinizin yanına koyabilirsiniz.
 

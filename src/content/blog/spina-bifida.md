@@ -12,7 +12,7 @@ readingTime: 5
 
 Spina Bifida, Nöral tüp defekti adı verilen bir grup doğumsal anomalinin bir çeşididir. Açık omurga olarak da adlandırılmaktadır. Genelde omurga kemiği ve bazen de omuriliği etkiler. Nöral Tüp olarak adlandırılan oluşum, embryonik yaşamda bulunan ve beyin ile omuriliği meydana getiren yapıdır. Bu oluşumun gelişiminde meydana gelen anomaliler de nöral tüp defekti (NTD) olarak adlandırılırlar. NTD’leri en sık görülen doğumsal anomalilerdendir. Yaklaşık 1500-2000 canlı doğumdan birinde, değişik derecelerde NTD bulunur.
 
-![anens](../../images/uploads/2014/03/anens.gif)
+![anens](/images/uploads/2014/03/anens.gif)
 
 Embryonik dönemde bebeğin omurgası ilk oluştuğunda kapalı değildir. her iki yanı açıktır. Dölenmeyi takip eden 29. günde her iki yanda oluşan omurga ortada birleşir ve kapalı bir oluşum haline gelir. Spina bifida da bu kapanma ya hiç olmaz ya da bazı bölgelerde meydana gelmez. Spina bifidanın 3 formu vardır:
 
@@ -22,7 +22,7 @@ Embryonik dönemde bebeğin omurgası ilk oluştuğunda kapalı değildir. her i
 
 **Meningomiyelosel:** Bu hastalığın en ileri formudur. Fıtıklaşan kistin içinde meningoselde bulunan zarların yanısıra sinir kökleri ve omuriliğin kendisi de bulunabilir. Bazen kist olmaz ancak omurilik kendisi tamamen fıtıklaşabilir. Omuriliği çevreleyen sıvı dışarıya kaçabilr. Açıklık cerrahi olarak kapatılmadığı sürece, etkilenmiş bebekler enfeksiyon açısından büyük risk altındadırlar. Cerrahi tedaviye rağmen bazı bebeklerde değişik derecelerde bacak felci, idrar ve gayta tutamama problemleri görülebilir.
 
-![sb1](../../images/uploads/2014/03/sb1.gif)
+![sb1](/images/uploads/2014/03/sb1.gif)
 
 Spina bifida’lı bebeklerin birçoğunda hidrosefali de bulunur. Merkezi sinir sitemi olarak adlandırılan beyin ve omurilik hem koruyucu zarlar ile çevrileridir hem de etraflarında serebrospinal sıvı olarak adlandırılan bir sıvı bulunur. Bu sıvının normal dolaşımını yapamaması sonucu hidrasefali denilen kafa boşluğu içinde sıvı toplanması ortaya çıkar.
 

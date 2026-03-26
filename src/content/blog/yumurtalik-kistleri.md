@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/yumurtalik-kistleri/'
 readingTime: 9
 ---
 
-![](../../images/uploads/2014/03/FullSizeRender-9.jpg)  
+![](/images/uploads/2014/03/FullSizeRender-9.jpg)  
 Genç olsun, yaşlı olsun pekçok kadının sıklıkla yaşadığı korkulardan birisi yumurtalıklarında kist olmasıdır.Gerçekten de düzenli kontrollere gidildiği taktirde hemen hemen her kadında hayatının bir döneminde yumurtalıklarında kist saptanabilir. Çoğu zaman herhangi bir tedavi dahi gerektirmeyen bu lezyonlar büyük olasılıkla hiçbir belirti de vermezler. Genelde masum olmalarına rağmen halk arasında çok korkulacak bir hastalık olarak bilinen over kistleri hep aynı türde değildir.  
 Yumurtalık organı doku olarak çok değişik türde hücreleri bünyesinde barındırır. Kişinin embryonik döneminden başlayarak var olan ve değişim gösteren hücrelerde dahil olmak üzere birçok hormonun etkisi altında olan hücre türleri, yumurtalıkları diğer organlardan farklı kılar. Bu değişik türde hücreler çeşitli faktörlerin etkisi ile büyüyebilir ve kistleşebilirler. Kistler içerdikleri hücre türüne bağlı olarak hormon ya da benzeri maddeler salgılayabilirler.
 
@@ -74,7 +74,7 @@ Tedavisi cerrahidir. Cerrahi esnasında eğer kist tek taraflı ise ve habis gö
 **Müsinöz Kistadenom**  
 İyi huylu yumurtalık tümörlerinin %25 kadarı müsinöz kistadenomlardır. Çift taraflı olma olasılıkları seröz kistadenomlara göre daha düşüktür ve habaset olasılığı azdır. Oluş mekanizması tam olarak bilimemekle birlikte en çok kabul gören teori yumurtalıkların üzerini örten epitel hücrelerinin şekil değiştirerek rahim ağzının içini (serviks) döşeyen epitele dönmesi ve tıpkı rahim ağzında olduğu türde salgılamada bulunmasıdır. Başka bir teoriye göre de embryonik dönemde barsakları oluşturan hücrelerin kalıntılarından köken almaktadır.
 
-![musinoz_adenom](../../images/uploads/2014/03/musinoz_adenom.jpg)İnsanda görülen en büyük kistik yapılardır. Genelde 15-30 santimetre boyutlarında olabilirler ancak 60 santimetreye kadar büyümüş olan müsinöz kistadenomlar literatürde mevcuttur. Kist genellikle içindeki ince zarlar ile pekçok odacığa bölünmüştür.Bu zarlara septa ismi verilir.Kistin içerisinde berrak ancak akışkan olmayan sümüğümsü bir sıvı bulunur.
+![musinoz_adenom](/images/uploads/2014/03/musinoz_adenom.jpg)İnsanda görülen en büyük kistik yapılardır. Genelde 15-30 santimetre boyutlarında olabilirler ancak 60 santimetreye kadar büyümüş olan müsinöz kistadenomlar literatürde mevcuttur. Kist genellikle içindeki ince zarlar ile pekçok odacığa bölünmüştür.Bu zarlara septa ismi verilir.Kistin içerisinde berrak ancak akışkan olmayan sümüğümsü bir sıvı bulunur.
 
 Klinik olarak genelde belirti vermezler. Adet düzensizliği yaratmazlar, ancak boyutları çok büyük olduğu için karında şişlik ve bası bulguları olur. Sık idrara çıkma ya da kabızlık müsinöz kistadenomlarda sık rastlanılan yakınmalardır. Çok büyük oldukları için rüptüre olma olasılıkları (patlama) yüksektir. Böyle bir durum söz konusu olduğunda kist içinden yayılan sıvı karın boşluğuna yayılır ve hücreler burda da yaşamaya devam ederek salgılarını sürdürür. Karnın içi yavaş yavaş jel gibi bir sıvı ile dolar. Biolojik olarak habis olmamasına rağmen davranış olarak habis bir olay olan bu tabloya_pseudomiksoma peritonei_ adı verilir. Karın ağrısı, bulantı, kusma ve şiddetli karın şişliği olur. Sonuçta hastada beslenme bozukluğu ortaya çıkar. Kronik bir hastlıktır ve nihai tedavisi maalesef mevcut değildir.
 
@@ -85,4 +85,4 @@ Rahimin içini döşeyen endometrium adı verilen zar tabakasının yumurtalıkl
 
 **Dermoid kist**
 
-![dermoid_usg](../../images/uploads/2014/03/dermoid_usg.jpg)20 yaşından küçük bayanlarda en sık görülen tümördür. %10 vakada iki taraflı olabilir. Embryonel dönemde meydana gelen olaylardan kaynaklanır. Kitlenin içinde saç, deri, diş, kıkırdak parçaları, kemik, sinir hücreleri gibi her türlü doku görülebilir. Şikayet olarak karın ağrısı yapabilir. Kendi etrafında dönüp akut batın tablossuna neden olabilir. Bazen kısırlığa yol açabilir. Tedavisi cerrahidir.
+![dermoid_usg](/images/uploads/2014/03/dermoid_usg.jpg)20 yaşından küçük bayanlarda en sık görülen tümördür. %10 vakada iki taraflı olabilir. Embryonel dönemde meydana gelen olaylardan kaynaklanır. Kitlenin içinde saç, deri, diş, kıkırdak parçaları, kemik, sinir hücreleri gibi her türlü doku görülebilir. Şikayet olarak karın ağrısı yapabilir. Kendi etrafında dönüp akut batın tablossuna neden olabilir. Bazen kısırlığa yol açabilir. Tedavisi cerrahidir.

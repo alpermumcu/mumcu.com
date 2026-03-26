@@ -47,7 +47,7 @@ Tedavi son derece hızlı ve yaklaşık 10-15 dakika süren bir girişimdir. Ane
 
 Özel silindir şeklinde spekulum vajina içerisine yerleştirilir ve bunun içerisinden yerleştirilen lazer 360 derecelik bir alana uygulama yapar.￼￼
 
-**![Vajinal kuruluk tedavisinde lazer ](../../images/uploads/2020/10/meno.jpg)**
+**![Vajinal kuruluk tedavisinde lazer ](/images/uploads/2020/10/meno.jpg)**
 
 *   Ofis şartlarında yapılır hastaneye gitmeyi gerektirmez
 *   Lokal ya da genel anestezi gerektirmez

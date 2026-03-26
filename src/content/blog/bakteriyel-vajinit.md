@@ -16,7 +16,7 @@ Etkene Gardnerella vajinalis adı da verilir. Cinsel ilişki ile bulaşabilir an
 
 Halk arasında en çok görülen vajinal enfeksiyonun mantar enfeksiyonu olduğu sanılmasına rağmen gerçekte en sık bakteriyel vajinozis yani Gardnarella enfeksiyonu görülür. Kadınların %10-68’inde gardnarelle vajiniti görülür.Genelde üreme çağındaki kadınlarda rastlanır.
 
-![gardnarella](../../images/uploads/2014/03/gardnarella.gif)
+![gardnarella](/images/uploads/2014/03/gardnarella.gif)
 
 Gardnarella vajinlis etkeni
 

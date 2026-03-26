@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/tup-bebek-tedavisi-meme-kanseri-riskini-artt
 readingTime: 3
 ---
 
-![tupbebek](../../images/uploads/2016/07/tupbebek.jpg)
+![tupbebek](/images/uploads/2016/07/tupbebek.jpg)
 
 Doğal yollardan çocuk sahibi olamadıkları için tüp bebek tedavisine başvuran kadınların önemli endişelerinden biri de bu tedavinin kanser riskinde artışa neden olup olmadığıdır.
 

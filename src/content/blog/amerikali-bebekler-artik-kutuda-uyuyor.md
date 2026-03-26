@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/amerikali-bebekler-artik-kutuda-uyuyor/'
 readingTime: 1
 ---
 
-![](../../images/uploads/2017/03/bebek-kutusu2.jpg)
+![](/images/uploads/2017/03/bebek-kutusu2.jpg)
 
 1930’lu yıllarda Finlandiya’da başlayan bir akım günümüzde Amerika Birleşik Devletleri’ne sıçradı.
 

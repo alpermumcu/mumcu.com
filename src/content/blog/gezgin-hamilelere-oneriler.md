@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/gezgin-hamilelere-oneriler/'
 readingTime: 4
 ---
 
-![gezgin](../../images/uploads/2014/03/gezgin.jpg)
+![gezgin](/images/uploads/2014/03/gezgin.jpg)
 
 **Endişenizi azaltın**  
 Yolculuğa çıkarken çoğumuz tatlı bir gerginlik yaşarız. Hamile olduğunuzda bu gerginliğin çok daha fazla olduğunu fark edebilirsiniz. Ancak bu stresten kurtulmanın yolu dokuz ay boyunca eve kapanmak değildir. Bazı basit öneriler ile endişelerinizi azaltabilirsiniz.

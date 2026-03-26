@@ -20,7 +20,7 @@ Virus ilk defa enfeksiyon yarattıktan sonra sinir düğümlerinde sessiz olarak
 **Belirtiler**   
 Herpes bulguları kişiden kişiye değişir. İlk atakta genelde virüs ile tamastan sonra 2 gün 3 hafta arası bir sürelik kuluçka devresini takiben yanma, kaşıntı, bacaklarda ağrı, kalça ve genital bölgede ağrı, vajinal akıntı, karın boşluğunda dolgunluk hissi görülebilir. Bu ilk bulgulardan birkaç gün sonra enfeksiyon alanında uçuk tarzı yaralar ortaya çıkar. Bu yaralar vajinada ve rahim ağzında olabilir. 3-4 gün içinde bu yaralar iz bırakmadan kaybolurlar. Bu aşamadan sonra virus omurilik düzeyinde sinir köklerine giderek yerleşir ve burada inaktive halde beklemeye başlar. Pekçok kişide de periyodik olarak re-enfeksiyona neden olur. Bu reenfeksiyonlar esnasında virusler sinirler boyunca ilerleyerek genelde ilk enfeksiyonu yarattığı alanların yakınında yeni lezyonları yapar.Her enfeksiyon atağı esnasında gözle görülebilen lezyonların bulunması şart değildir. Çoğu zaman fark edilmeyen ataklar olur. Bu dönemlerde vajinal salgılar ile virüs yayılımı olduğundan kadın cinsel partnerine hastalığı bulaştırabilir.
 
-![herpes](../../images/uploads/2014/03/herpes.jpg)
+![herpes](/images/uploads/2014/03/herpes.jpg)
 
 Genital herpes lezyonunun  
 tipik görüntüsü

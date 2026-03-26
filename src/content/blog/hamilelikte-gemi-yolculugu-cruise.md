@@ -10,4 +10,4 @@ originalUrl: 'https://www.mumcu.com/hamilelikte-gemi-yolculugu-cruise/'
 readingTime: 1
 ---
 
-![20100328_nice_0702-copy](../../images/uploads/2014/03/20100328_nice_0702-copy.jpg)
+![20100328_nice_0702-copy](/images/uploads/2014/03/20100328_nice_0702-copy.jpg)

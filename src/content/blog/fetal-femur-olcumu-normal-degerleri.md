@@ -8,10 +8,10 @@ tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/fetal-femur-olcumu-normal-degerleri/'
 readingTime: 1
-heroImage: ../../images/uploads/2014/03/usg_kordo_11.jpg
+heroImage: /images/uploads/2014/03/usg_kordo_11.jpg
 ---
 
-![fl16](../../images/uploads/2014/03/fl16.jpg)
+![fl16](/images/uploads/2014/03/fl16.jpg)
 
 **Hafta**
 

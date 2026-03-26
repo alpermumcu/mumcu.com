@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/dogum-kontrolu-tuplerin-baglanmasi/'
 readingTime: 4
 ---
 
-![tlig_1](../../images/uploads/2014/03/tlig_1.gif)Bir kadında hamilelik oluşabilmesi için erkekten gelen sperm ile kadından gelen yumurtanın fallop tüplerinde biraraya gelmesi ve sperminyumurtayı döllemesi gerekir. Herhangi bir nedenle (enfeksiyon, ameliyat) tüplerde meydana gelen hasarlanma ve tıkanıklık kısırlığa neden olur. Benzer şekilde tüplerin geçirgenliğinin bilinçli olarak engellenmesi ise bir doğum kontrol yöntemidir ve cerrahi sterilizasyon olarak adlandırılır. Bu şekilde sperm yumurtaya ulaşamaz ve onu dölleyemez.
+![tlig_1](/images/uploads/2014/03/tlig_1.gif)Bir kadında hamilelik oluşabilmesi için erkekten gelen sperm ile kadından gelen yumurtanın fallop tüplerinde biraraya gelmesi ve sperminyumurtayı döllemesi gerekir. Herhangi bir nedenle (enfeksiyon, ameliyat) tüplerde meydana gelen hasarlanma ve tıkanıklık kısırlığa neden olur. Benzer şekilde tüplerin geçirgenliğinin bilinçli olarak engellenmesi ise bir doğum kontrol yöntemidir ve cerrahi sterilizasyon olarak adlandırılır. Bu şekilde sperm yumurtaya ulaşamaz ve onu dölleyemez.
 
 Tüp ligasyonu ya da tüplerin bağlanması kalıcı doğum kontrol yöntemlerinden olarak kabul edilir. Daha sonra çocuk isteği ortaya çıkrsa tüplerin yeniden açılması her zaman mümkün olmaya bilir. Tüp ligasyonuna karar verirken bu durumun mutlaka göz önüne alınması gereklidir.
 
@@ -48,7 +48,7 @@ Tüp ligasyonlarının çoğu sezaryen operasyonları sırasında yapılır. Anc
 **Nasıl yapılır?**  
 Bugüne kadar tanımlanmış pekçok tüp ligasyonu tekniği mevcuttur. Tüplerin etrafına sıkı bir plastik halka geçirilebilir, tüplerin süpürgemsi ucu (fimbria) cerrahi olarak çıkarılabilir, tüp yakılıp ortası kesilebilir ya da tüp ortasından bir parça çıkartılarak kalan uçlar bağlanabilir. En son tarif edilen teknik Pomeroy tekniği olarak adlandırılır ve en sık kullanılan tekniktir.
 
-![tlig_2](../../images/uploads/2014/03/tlig_2.gif)
+![tlig_2](/images/uploads/2014/03/tlig_2.gif)
 
 Laparparoskopi genelde son derece basit ve ayaktan yapılan bir işlem olmakla birlikte genel anestezi altında yapılır.Yaklaşık 15 dakika süren işlem sonrası hastanede yatmak gerekmez, 3-4 saatlik dinlenme sonrası hasta evine gidebilir. Takiben 1 günlük dinlenme genelde yeterlidir. İşlem sonrası ilk 24 saat ağızdan ağrıkesici almayı grektirecek şiddette ağrı olabilir.
 

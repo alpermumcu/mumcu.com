@@ -11,7 +11,7 @@ originalUrl: >-
 readingTime: 3
 ---
 
-![](../../images/uploads/2017/10/bloodtest.jpg)
+![](/images/uploads/2017/10/bloodtest.jpg)
 
 Kadınların hayatlarının erken döneminde kafalarını kurcalayan en önemli konulardan bir tanesi çocuğum olacak mı sorusudur?
 

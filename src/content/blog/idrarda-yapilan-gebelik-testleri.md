@@ -49,7 +49,7 @@ Piyasada satılan değişik markalardaki idrar testleri birbirinden farklıdır.
 
 Genelde idrar testlerinde 3 tane pencere bulunur. Bunlardan birine idrar örneği damlatılırken yan yana bulunan iki pencereye bakılarak test yorumlanır. Bu pencerelerden birisi testin doğru şekilde yapılıp yapılmadığınız gösterir (kontrol penceresi). Diğer pencere ise pozitif ya da negatif sonucu verir. Pozitif sonuç varlığında bu penceresinde ya bir çizgi ya da artı işareti çıkar. Sonuç penceresindeki çizginin renginin açık ya da koyu olması anlamını değiştirmez. Bu her durumda pozitif sonuç demektir. Bazı testlerde ise sonuç peceresinde artı ya da eksi işareti belirir. Artı pozitif sonucu yani gebeliği, eksi ise gebelik olmadığını gösterir.
 
-[![pregtest_son](../../images/uploads/2014/03/pregtest_son.gif)](http://www.mumcu.com../../images/uploads/2014/03/pregtest_son.gif)
+[![pregtest_son](/images/uploads/2014/03/pregtest_son.gif)](http://www.mumcu.com/images/uploads/2014/03/pregtest_son.gif)
 
 Gebelik testinin sonucu okunurken testin kullanma kılavuzunda belirtilen zaman süresince beklenmelidir. Bazı durumlarda test negatif olmasına rağmen bir süre daha beklendiğinde hafif bir çizgi ortaya çıkabilir. Bu şüpheli sonucu belirtir. Ya hamile olmanıza rağmen hCG değeri testin saptayabileceği düzeylere ulaşmamıştır ya da hamiel değilsinizdir ancak test reaksiyon vermektedir. Her iki durumda da testin 1-2 gün sonra tekrar edilmesi ya da kanda gebelik testi yapılması uygundur. İdeal olan testin kullanma kılavuzunda belirtilen zaman sonrasında sonucu yorumlamaktır.
 

@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/erken-dogum/'
 readingTime: 4
 ---
 
-![prem](../../images/uploads/2014/03/prem.jpg)
+![prem](/images/uploads/2014/03/prem.jpg)
 
 Uzun zamandır vaktinden önce doğan bebekler prematur olarak adlandırılırdı. Ancak son zamanlarda bu eğilim değişmektedir. Maturite yaşı değil fonksiyonu belirtmektedir. Bu nedenle vaktinden önce doğan bir bebek fonksiyonları normal ise prematür olmayabilir.
 

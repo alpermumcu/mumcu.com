@@ -11,7 +11,7 @@ originalUrl: >-
 readingTime: 2
 ---
 
-![](../../images/uploads/2017/01/et.jpg)
+![](/images/uploads/2017/01/et.jpg)
 
 Değişik ülkelerden 11.216 hamile kadının incelendiği Norveç kaynaklı bir çalışmada yeteri kadar hayvansal gıda almayan hamile kadınların erken doğum yapma risklerinin arttığı ortaya konuldu.
 

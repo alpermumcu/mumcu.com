@@ -23,7 +23,7 @@ Bartholin kistleri kadın dış genital organında en sık karşılaşılan kist
 **Belirtileri**  
 Eğer bartolin kisti çok küçükse ve enfekte değilse hiçbir belirti vermeyebilir. Ancak çoğu hastada vajinanın hemen giriş kısmından içeriye doğru uzanan ağrısız ve yumuşak bir kitle vardır. Bu kitle dolgunluk hissi yaratabileceği gibi cinsel ilişki sırasında da rahatsızlığa neden olabilir. Kistin boyutları sabit kalabileceği gibi zaman içerisinde yavaş bir büyüme de izlenebilir. Kitle küçük bir bilye kadar olabileceği gibi mandalina büyüklüğüne kadar da ulaşabilir.
 
-![bart_1](../../images/uploads/2014/03/bart_1.jpg)
+![bart_1](/images/uploads/2014/03/bart_1.jpg)
 
 Abse ise son derece rahatsızlık verici bir durumdur. Vajina girişinde kızarıklık ve şişlik bulunur. Ancak en önemli sorun şiddetli ağrıdır. Bu ağrı otururken ve yürüken de kendini belli eder ve kişi oturmakta ve yürümekte güçlük çekebilir ve büyük acı yaşayabilir. Dinlenmek ve hareketsiz kalmak ile ağrı çok fazla azalmaz. Ağrının şiddeti absenin büyüklüğü ile direkt orantılı değilir. Küçük bir abse bile çok fazla ağrıya neden olabilir. Ağrının şiddeti zaman ilerledikçe artabilir ve ağrı kesicilere yanıt vermez.
 

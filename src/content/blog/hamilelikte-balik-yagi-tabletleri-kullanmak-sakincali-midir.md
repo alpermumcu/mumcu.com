@@ -11,7 +11,7 @@ originalUrl: >-
 readingTime: 2
 ---
 
-![Photo by: Alper Mumcu Montreal 2014](../../images/uploads/2014/03/balikyagi.jpg)
+![Photo by: Alper Mumcu Montreal 2014](/images/uploads/2014/03/balikyagi.jpg)
 
 Son zamanlarda ülkemizde de giderek popülarite kazanan konulardan birisi de Omega 3 olarak adlandırılan yağlardır. Omega 3 genel olarak piyasada balık yağı içeren tabletler şeklinde satılan ürünlerin içinde bulunurlar.
 
