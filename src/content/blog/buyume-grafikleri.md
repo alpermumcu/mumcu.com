@@ -8,7 +8,7 @@ tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/buyume-grafikleri/'
 readingTime: 1
-coverImage: ../../images/uploads/2014/03/sonuc_grafik.jpg
+heroImage: ../../images/uploads/2014/03/sonuc_grafik.jpg
 ---
 
 Aşağıdaki grafiklerde ultrason takipleri sırasında bebeklerde yapılan ölçümlerin normal seyrini inceleyebilirsiniz. Grafiklerdeki kırmızı çizgiler normalin alt ve üst sınırını, yeşil çizgi ise bebeklerin %50’sinin izlediği yolu göstermektedir. Grafiklerde alttaki sayılar gebelik haftasını göstermektedir.
