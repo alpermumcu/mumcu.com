@@ -1,0 +1,206 @@
+---
+// Academic profile links with brand-accurate colors and animations
+const badges = [
+  {
+    label: 'ORCID',
+    sublabel: '0009-0004-1281-3751',
+    href: 'https://orcid.org/0009-0004-1281-3751',
+    color: '#A6CE39',
+    colorDark: '#7aaa1e',
+    bgColor: 'rgba(166,206,57,0.10)',
+    borderColor: 'rgba(166,206,57,0.35)',
+    icon: `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 24C18.627 24 24 18.627 24 12C24 5.373 18.627 0 12 0C5.373 0 0 5.373 0 12C0 18.627 5.373 24 12 24Z" fill="#A6CE39"/><path d="M15.151 18.29H13.626V11.878C13.626 11.878 13.626 11.235 13.264 10.941C12.902 10.647 12.115 10.686 12.115 10.686C12.115 10.686 10.902 10.647 10.216 11.451V18.29H8.691V8.648H10.216V9.628C10.216 9.628 10.982 8.471 12.478 8.471C14.152 8.471 15.151 9.667 15.151 11.49V18.29Z" fill="white"/><path d="M8.288 7.373C8.288 7.961 7.804 8.432 7.216 8.432C6.628 8.432 6.157 7.961 6.157 7.373C6.157 6.785 6.628 6.314 7.216 6.314C7.804 6.314 8.288 6.785 8.288 7.373Z" fill="white"/></svg>`,
+  },
+  {
+    label: 'Google Scholar',
+    sublabel: 'Yayınlar & Atıflar',
+    href: 'https://scholar.google.com.tr/scholar?as_sdt=2007&q=alper+mumcu&hl=tr',
+    color: '#4285F4',
+    colorDark: '#1a56c4',
+    bgColor: 'rgba(66,133,244,0.10)',
+    borderColor: 'rgba(66,133,244,0.30)',
+    icon: `<svg width="20" height="20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M5.242 13.769L0 9.5L12 0l12 9.5-1.084.533L12 3.769 5.242 9.5v4.269z" fill="#4285F4"/><path d="M12 11.404L.029 17.5 12 24l11.971-6.5L12 11.404z" fill="#34A853"/><path d="M5.25 14.938v3.25L12 21.875v-6.25L5.25 11.813v3.125z" fill="#4285F4"/><path d="M18.75 14.938v3.25L12 21.875v-6.25l6.75-3.813v3.125z" fill="#0F9D58"/></svg>`,
+  },
+  {
+    label: 'PubMed',
+    sublabel: 'NCBI Araştırmaları',
+    href: 'https://pubmed.ncbi.nlm.nih.gov/?term=Alper+Mumcu',
+    color: '#326ea0',
+    colorDark: '#1e4f7a',
+    bgColor: 'rgba(50,110,160,0.10)',
+    borderColor: 'rgba(50,110,160,0.30)',
+    icon: `<svg width="20" height="20" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg" fill="#326ea0"><path d="M 25 2 C 12.317 2 2 12.317 2 25 C 2 37.683 12.317 48 25 48 C 37.683 48 48 37.683 48 25 C 48 12.317 37.683 2 25 2 z M 16 12 L 28 12 C 31.309 12 34 14.691 34 18 C 34 20.2 32.786 22.099 31 23.076 L 31 23.18 C 33.303 23.887 35 26 35 28.5 C 35 31.538 32.538 34 29.5 34 L 16 34 L 16 12 z M 20 16 L 20 21 L 27.5 21 C 28.878 21 30 19.878 30 18.5 C 30 17.122 28.878 16 27.5 16 L 20 16 z M 20 25 L 20 30 L 29 30 C 30.105 30 31 29.105 31 28 C 31 26.895 30.105 26 29 26 L 20 26 z"/></svg>`,
+  },
+];
+---
+
+<div class="academic-badges-bar" role="navigation" aria-label="Akademik profil bağlantıları">
+  <div class="academic-badges-inner">
+    <span class="badges-label">Akademik Profil</span>
+    <div class="badges-list">
+      {badges.map((badge) => (
+        <a
+          href={badge.href}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="academic-badge"
+          style={`--badge-color: ${badge.color}; --badge-bg: ${badge.bgColor}; --badge-border: ${badge.borderColor}; --badge-hover: ${badge.colorDark};`}
+          aria-label={`${badge.label} profilini yeni sekmede aç`}
+        >
+          <span class="badge-icon" set:html={badge.icon} />
+          <span class="badge-text">
+            <span class="badge-label">{badge.label}</span>
+            <span class="badge-sublabel">{badge.sublabel}</span>
+          </span>
+          <svg class="badge-arrow" width="12" height="12" viewBox="0 0 12 12" fill="none">
+            <path d="M2 10L10 2M10 2H4M10 2V8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </a>
+      ))}
+    </div>
+  </div>
+</div>
+
+<style>
+  .academic-badges-bar {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 2rem;
+    animation: fadeInDown 0.6s ease both;
+    animation-delay: 0.2s;
+  }
+
+  .academic-badges-inner {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .badges-label {
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: hsl(var(--text-muted));
+    white-space: nowrap;
+    padding-right: 0.5rem;
+    border-right: 1px solid var(--glass-border);
+  }
+
+  .badges-list {
+    display: flex;
+    gap: 0.625rem;
+    flex-wrap: wrap;
+  }
+
+  .academic-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 0.875rem 0.5rem 0.625rem;
+    border-radius: 99px;
+    background: var(--badge-bg);
+    border: 1px solid var(--badge-border);
+    text-decoration: none;
+    color: var(--badge-color);
+    font-weight: 600;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  .academic-badge::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: var(--badge-color);
+    opacity: 0;
+    transition: opacity 0.25s ease;
+    border-radius: inherit;
+  }
+
+  .academic-badge:hover::before {
+    opacity: 0.08;
+  }
+
+  .academic-badge:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px -4px color-mix(in srgb, var(--badge-color) 30%, transparent);
+    border-color: var(--badge-color);
+    text-decoration: none;
+    color: var(--badge-color);
+  }
+
+  .academic-badge:visited {
+    color: var(--badge-color);
+    text-decoration: none;
+    text-underline-offset: unset;
+    text-decoration-style: unset;
+  }
+
+  .badge-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 22px;
+    height: 22px;
+    flex-shrink: 0;
+    position: relative;
+    z-index: 1;
+  }
+
+  .badge-icon svg {
+    width: 20px;
+    height: 20px;
+  }
+
+  .badge-text {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.1;
+    position: relative;
+    z-index: 1;
+  }
+
+  .badge-label {
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+
+  .badge-sublabel {
+    font-size: 0.65rem;
+    font-weight: 500;
+    opacity: 0.75;
+    font-family: 'Inter', sans-serif;
+  }
+
+  .badge-arrow {
+    position: relative;
+    z-index: 1;
+    opacity: 0;
+    transform: translateX(-4px);
+    transition: all 0.2s ease;
+    flex-shrink: 0;
+  }
+
+  .academic-badge:hover .badge-arrow {
+    opacity: 0.7;
+    transform: translateX(0);
+  }
+
+  @keyframes fadeInDown {
+    from { opacity: 0; transform: translateY(-12px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  @media (max-width: 640px) {
+    .badges-label { display: none; }
+    .badge-sublabel { display: none; }
+    .academic-badges-inner { justify-content: center; gap: 0.5rem; }
+    .academic-badge { padding: 0.45rem 0.75rem; }
+  }
+</style>
