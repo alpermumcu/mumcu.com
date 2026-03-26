@@ -4,49 +4,41 @@ pubDate: '2014-03-15T21:32:15'
 slug: nst-non-stress-test
 category:
   - Gebelik & Doğum
-tags: []
+tags: ["NST", "fetal izlem", "bebek kalp atışları", "reaktif nst", "gebelik takibi"]
 status: publish
 originalUrl: 'https://www.mumcu.com/nst-non-stress-test/'
 readingTime: 3
 ---
 
-![nst_1](../../images/uploads/2014/03/nst_1.jpg)
+Anne karnındaki bebeğin hareketleri, normal şartlarda fetal kalp atım hızında geçici bir artışı beraberinde getirir. Bu biyolojik olay, Non-Stress Test (NST) incelemesinin temelini oluşturur. Bebeğin kalp atım hızı sabit değildir; saniyeler içerisinde küçük değişimler gösterir (Buna "atım variabilitesi" adı verilir). Bu değişkenliğin normal sınırlar içinde olması, bebeğin merkezi sinir sisteminin ve oksijenlenmesinin sağlıklı çalıştığının bir göstergesidir.
 
-Tipik olarak anne karnındaki bebeğin hareketleri fetal kalp atım hızında geçici bir artışı beraberinde getirir. Bu olay non stress test yani NST’nin temelini oluşturur.Normalde bebeğin kalp atım hızı sabit değildir. Saniyeler içersinde değişim gösterir. Buna atım variabilitesi adı verilir. Bu variabilitenin kaybı bebeğin oksijen seviyesinin kalp atım hızını düzenleyen merkezi sinir sitemi kısmının içindeki hücrelerde fonksiyon kaybına neden olabilecek düzeyin altına düştüğünü gösterir. Bu durum fetusun strese olan direncinin en alt seviyede olduğunun belirtisidir.
+**Teknik ve Uygulama**
 
-**Teknik**  
-NST’de amaç bebeğin hareketleri ile birlikte kalp atım hızındaki artışın saptanmasıdır. Bebeğin uykuda olması veya gebeliğin yaşı gibi faktörler bu cevabı etkiler. Bu nedenle 28 haftadan küçük gebelere NST yapılmaz. Test en iyi sonucu vermesi için yemekten 2 saat sonra yapılmalıdır. Annenin karnına 2 adet prob bağlanır. Bunlardan biri rahim sertliğini saptarken diğeri ise kalp atım hızını kağıt üzerine yazar.Bu arada annenin eline verilen bir buton bulunur ve bebek her hareket ettğinde anne bu butona basr. Bu test yapılırken anne yine 2 saat süreyle fiziksel aktivitede bulunmaış ve sigara içmemiş olmalıdır.
+NST’de amaç, bebeğin hareketleri ile birlikte kalp atım hızındaki artışın saptanmasıdır. Bebeğin uyku hali veya gebelik haftası gibi faktörler bu sonuçları etkileyebilir. Genellikle 28. gebelik haftasından itibaren uygulanmaya başlanır.
 
-**Yorumlanması**  
-Test genelde 20 dakika sürer. Bu 20 dakikalık süre içinde en az 15 saniye süren ve dakikada 15 atımlık bir artış bulunan en az 2 adet hızlanma varsa test reaktif olarak kabul edilir. Reaktif NST bebeğin 1 hafta daha anne karnında güvende olacağını gösterir. Eğer istenilen türde artışlar olmaz ise test 40 dakikaya uzatılır. Bu sürenin sonunda hala daha kalp hızlanması saptanmaz ise veya kalp hızında düşüşler saptanırsa test non-reaktif olarak değerlendirilir. Eğer test süresince fetus hiç hareket etmez ise bu kez yetersiz olarak yorumlanır. Bu durumda fetus uykuda olabilir ya da anne adayı aç olabilir. Bir süre bekledikten ve/veya anne adayına yemek yedirdikten sonra test tekrarlanır.
+- **Hazırlık:** Testin en doğru sonucu vermesi için anne adayının yemekten yaklaşık 2 saat sonra teste girmesi önerilir.
+- **Uygulama:** Annenin karnına iki adet prob (alıcı) bağlanır. Bu alıcılardan biri rahim kasılmalarını (sertleşmeyi) takip ederken, diğeri bebeğin kalp atışlarını kaydeder. Bebek her hareket ettiğinde anne adayı elindeki butona basarak bu hareketi işaretler. İşlem yaklaşık 20 dakika sürer.
 
-**Yapıldığı durumlar**  
-NST fetal iyilik halinin değerlendirilmesinde her durumda kullanılan anne ve babeğe zarar vermeyen güvenilir ve ağrısız bir yöntemdir.Bunun dışında bazı riskli gebeliklerde gebelik yaşı belirli bir zamana geldikten sonra düzenli olarak yapılmalıdır. NST’nin ne zaman yapılmaya başlanacağına karar verirken bebeğin anne karnında ölüm riski baz olarak alınmalı ve tıbbi tedavinin mi yoksa gebeliğin sonlandırılmasının mı bebeğe daha fazla yaşam şansı vereceği kararlaştırılmalıdır. NST’nin rutin olarak uygulanmasının fayda getireceği durumlar şu şekilde sırlanabilir.
+**Sonuçların Yorumlanması**
 
-*   Diabet
-*   Gün aşımı
-*   Hipertansiyon
-*   Gelişme geriliği
-*   Ölü doğum öyküsü
-*   Anemi
-*   Fetal hareketlerde azalma
-*   Kalp hastalıkları
-*   Erken doğum tehdidi
-*   Zarların erken açılması
-*   Anne karnında ölümle sonuçlanabilen diğer durumlar
+- **Reaktif NST:** 20 dakikalık süre içinde bebeğin kalp atışlarında belirli bir süreli ve şiddetli en az 2 hızlanma (akselerasyon) saptanması durumudur. Bu, bebeğin iyilik halinin bir göstergesidir.
+- **Non-reaktif NST:** Beklenen hızlanmaların gözlenmediği durumdur. Bu durumda bebek uykuda olabilir veya anne adayı aç olabilir. Test süresi uzatılabilir, anne adayına bir şeyler yedirildikten sonra işlem tekrarlanabilir.
 
-**Yapılmasının sakıncalı olduğu durumlar**  
-YOKTUR
+**Hangi Durumlarda Yapılır?**
 
-**Önemli noktalar**  
-NST eğer reaktif ise ve diabet, gelişme geriliği gibi bebeğin anne karnında aniden kaybedilebileceği durumlar söz konusu değil ise test 7 gün sonra tekrarlanır. 15 saniye veya daha fazla süren kalp atım hızında azalmalar genelde bebeğin suyunun azalması ve kordonun sıkışması ile ilgilidir ve çoğu zaman acil sezaryen gerektirir.Normalde anne karnındaki bebeğin kalp atım hızı yani nabzı 120-160 atım/dakikadır. Bebeğin nabzının 90 dan az olduğu durumlarda fetusun akciğer gelişimi tamam ise acil sezaryen gereklidir.
+NST, fetal iyilik halinin değerlendirilmesinde kullanılan, anneye ve bebeğe zarar vermeyen, ağrısız bir yöntemdir. Özellikle şu durumlarda hekiminiz tarafından istenebilir:
+- Diyabet (Şeker hastalığı),
+- Gebelik süresinin aşılması (Gün aşımı),
+- Yüksek tansiyon (Hipertansiyon),
+- Gelişme geriliği şüphesi,
+- Fetal hareketlerde azalma hissedilmesi,
+- Erken doğum tehdidi veya suların erken gelmesi,
+- Fetal risk oluşturabilecek diğer tıbbi durumlar.
 
-**Hatalı negatif**  
-NST’de hatalı negatif oranı %1’den azdır. Hatalı negatifden kastedilen reaktif test sonrası 1 hafta içinde bebeğin kaybedilmesidir. Reaktif NST sonrası bir hafta içindeki fetal ölümlerin %60’ı önlnemeyen nedenlerden dolayı gerçekleşmektedir. En sık sebepler kordon sıkışması, plasentanın ayrılması, annenin metabolik ya da fizyolojik durumunda ani değişiklikler, sigara kullanımı gibi nedenlerdir. NST aslında fetal tehlike varlığından çok yokluğunu tespit etmeye yarayan bir tekniktir.
+**Önemli Bilgiler**
 
-**Fetal yaş ve NST**  
-32-34 haftalar arası NST’nin güvenilirliği kanıtlanmış olmasına rağmen 32. hafta öncesi güvenilirlik şüphelidir. 28-32. haftalar arasında test nonreaktif çıkar ise diğer bazı yöntemler ile bebeğin yeniden değerlendirilmesi önerilir.
+NST, bebeğin o anki sağlık durumu hakkında değerli ipuçları verir. Eğer test "reaktif" ise ve altta yatan kronik bir risk yoksa, genellikle haftalık kontrollerle devam edilir. Ancak kalp atışlarında belirgin düşüşler (deselerasyonlar) veya variabilite kaybı saptanırsa, hekiminiz ek testler (biyofizik profil, doppler ultrason vb.) isteyebilir veya doğum kararını değerlendirebilir.
 
- ![nstht6](../../images/uploads/2014/03/nstht6.jpg)
+---
 
-Normal bir NST görünümü: Üstteki çizgiler kalp atımlarını alttaki çizgiler uterus kontraksiyonlarını göstermektedir. Kalp atımlarındaki sivrilikler atım hızındaki artışlardır.
+> **Yasal Uyarı:** Bu sayfadaki bilgiler genel bilgilendirme amaçlıdır ve tıbbi tavsiye yerine geçmez. NST sonuçları, sadece sizi takip eden uzman hekim tarafından klinik tabloyla birlikte değerlendirilmelidir.

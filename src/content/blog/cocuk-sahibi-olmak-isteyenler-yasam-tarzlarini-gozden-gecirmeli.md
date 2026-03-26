@@ -11,23 +11,23 @@ originalUrl: >-
 readingTime: 3
 ---
 
-1 yıldan uzun süreli korunmasız ilişkiye rağmen istenildiği halde çocuk sahibi olamamak şeklinde tanımlanan kısırlık (infertilite), ırk ve coğrafi konumdan bağımsız olarak tüm dünyada üreme çağındaki çiftlerin yaklaşık %10-15’ini etkileyen bir sorundur.
+1 yıldan uzun süreli korunmasız ilişkiye rağmen istenildiği halde çocuk sahibi olamamak şeklinde tanımlanan kısırlık (infertilite), tüm dünyada üreme çağındaki çiftlerin yaklaşık %10-15’ini etkileyen bir durumdur.
 
-Bu problemi yaşayan çiftlerin büyük kısmı ailelerini tamamlamak amacıyla eninde sonunda ART adı verilen yardımcı üreme tekniklerine başvurmak zorunda kalmaktadırlar. Bunlar arasında en sık başvurulan yöntem ise tüp bebektir. İlk uygulandığı dönemden bu yana tüp bebek giderek artan bir başarı göstermiştir. Zaman içerisinde hem başarı oranlarının artması hem de maliyetinin ucuzlaması nedeni ile tüm dünyada yaygın şekilde kullanılan bir tedavi şeklini almıştır.
+Bu problemi yaşayan çiftlerin büyük kısmı ailelerini tamamlamak amacıyla yardımcı üreme tekniklerine (ART) başvurabilmektedirler. Bunlar arasında yaygın olarak başvurulan yöntem tüp bebektir. Gelişen teknolojiyle birlikte tüp bebek uygulamalarında başarı oranları belirgin şekilde artmış ve yöntem tüm dünyada yaygın şekilde kullanılan bir tıbbi seçenek halini almıştır.
 
-Ülkemiz Tüp bebek tedavilerinde hem maliyet hem de başarı oranları açısından dünyanın en iyileri arasındadır. Örneğin Kanada’da tüp bebek maliyetleri ilaçlar hariç 7.000-9.000 dolar iken ülkemizde iyi merkezlerde maliyet Kanada’nın neredeyse üçte biridir.
+Ülkemiz tüp bebek tedavilerinde hem maliyet hem de başarı oranları açısından dünya standartlarını yakından takip etmekte ve pek çok ülke için referans noktası konumundadır. Örneğin Kanada’da tüp bebek maliyetleri ülkemize kıyasla oldukça yüksektir.
 
-Tüp bebek ve aşılama gibi tedavilerin hem maliyetinin azalması hem de hastaya zararı olmayan, büyük riskler yüklemeyen güvenli tedaviler olmaları nedeni ile tüm dünyada doktorlar kolaylıkla bu tedavileri önermektedirler. Oysa belirli bir problemi olmayan çiftlerde bazı basit önlemler ve yaşam tarzı değişiklikleri ile çocuk sahibi olma şansı arttırılabilir.
+Tüp bebek ve aşılama gibi tedavilerin erişilebilirliğinin artması ve güvenli yöntemler olmaları nedeni ile tüm dünyada tıp dünyası bu tedavileri etkin şekilde kullanmaktadır. Oysa belirli bir problemi olmayan çiftlerde bazı basit önlemler ve yaşam tarzı değişiklikleri ile üreme şansı desteklenebilir.
 
-Dünyanın üreme tıbbi ile ilgili en büyük iki derneğinden biri olan American Society for Reproductive Medicine yeni yayınladığı raporunda infertilite nedeni ile başvuran çiftlere danışmanlık verilirken bazı yaşam tarzı özelliklerinin daha fazla üzerinde durulmasını önermekte.
+Dünyanın üreme tıbbı ile ilgili saygın kuruluşlarından biri olan American Society for Reproductive Medicine (ASRM), yeni yayınladığı raporunda yaşam tarzı özelliklerinin önemini vurgulamaktadır.
 
 Bu raporda yer alan önerileri şu şekilde özetleyebiliriz:
 
-1) Kısırılıkta yaş çok büyük öneme sahiptir. Kadınlar açısından 35 yaşından sonra gebe kalma şansı anlamlı olarak azalmaktadır. Erkek partnerin yaşı da kadın kadar olmasa da önemlidir ancak erkeklerde azalma 50 yaş ve üzerinde anlam kazanmaya başlar
+1) Kısırlıkta yaş çok büyük öneme sahiptir. Kadınlar açısından 35 yaşından sonra gebe kalma şansı anlamlı olarak azalmaktadır. Erkek partnerin yaşı da kadın kadar olmasa da önemlidir ancak erkeklerde azalma 50 yaş ve üzerinde anlam kazanmaya başlar.
 
 2) Gebe kalma şansının yüksek olduğu dönem yani fertil pencere (fertile window) yumurtlamanın gerçekleşmesi ile sonlanan 6 günlük dönemdir. Gebe kalma şansının en yüksek olduğu dönem ise yumurtlama anından 3 gün önce başlayan ve yumurtlama (ovülasyon) ile sonlanan dönemdir.
 
-3) Başarıyı yani gebelik şansını en yüksek seviyede tutmak için fertil pencere döneminde 1-2 günde bir cinsel ilişki önerilir. Eğer bu ilişki sıklığı strese neden oluyor ise daha seyrek ilişki kabul edilebilir.
+3) Başarıyı yani gebelik şansını yüksek seviyede tutmak için fertil pencere döneminde 1-2 günde bir cinsel ilişki önerilir. Eğer bu ilişki sıklığı strese neden oluyor ise daha seyrek ilişki kabul edilebilir.
 
 4) Yumurtlamanın saptanmasında serviks yani rahim ağzından salgılanan sümüğümsü akıntının takip edilmesi, piyasada bu amaçla satılan ürünler (ovülasyon kitleri) kadar etkilidir.
 

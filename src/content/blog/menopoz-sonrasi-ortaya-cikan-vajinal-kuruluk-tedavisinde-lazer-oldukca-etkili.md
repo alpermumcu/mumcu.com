@@ -1,43 +1,44 @@
 ---
-title: Menopoz sonrası ortaya çıkan Vajinal kuruluk tedavisinde lazer oldukça etkili
+title: Menopoz Sonrası Vajinal Kuruluk Tedavisinde Lazer Uygulamaları
 pubDate: '2018-04-08T00:50:13'
 heroImage: '../../images/blog/lazer-tedavisi.png'
 slug: menopoz-sonrasi-ortaya-cikan-vajinal-kuruluk-tedavisinde-lazer-oldukca-etkili
 category:
   - Estetik Jinekoloji
-tags: []
+tags: ["menopoz", "vajinal kuruluk", "lazer tedavisi", "jinekolojik estetik"]
 status: publish
 originalUrl: >-
   https://www.mumcu.com/menopoz-sonrasi-ortaya-cikan-vajinal-kuruluk-tedavisinde-lazer-oldukca-etkili/
 readingTime: 2
 ---
 
-Menopoz ile birlikte azalan östrojen düzeyleri nedeniyle genital sistemde görülen dokulardaki küçülme ve kuruluk menopoz sonrası kadınların önemli bir sağlık sorunudur.
+Menopoz ile birlikte azalan östrojen düzeyleri nedeniyle genital sistemde görülen dokulardaki küçülme ve kuruluk, menopoz sonrası kadınların yaşam kalitesini etkileyen önemli bir durumdur.
 
-Vulvovajinal atrofi (VVA) adı verilen bu durum hem yaşam kalitesi hem de cinsel fonksiyonlar üzerinde olumsuz etkiye sahiptir.
+**Vulvovajinal Atrofi (VVA)** adı verilen bu durum, hem günlük konfor hem de cinsel fonksiyonlar üzerinde belirgin etkilere sahiptir.
 
-Menopoz sonrası azalan östrojen düzeyleri kadın genital sisteminde hem yapısal değişikliklere neden olur hem de bu bölgede olan salgılarda azalma ile sonuçlanır.
+Menopoz sonrası östrojen seviyesinin düşmesi, genital bölgedeki kan akışını azaltarak doku elastikiyetinin düşmesine, vajina duvarının incelmesine ve doğal kayganlığın azalmasına neden olur. Bu durum ayrıca vajinal mikroorganizma dengesini (flora) bozarak enfeksiyonlara yatkın bir ortam oluşturabilir. VVA belirtileri arasında; kuruluk, hassasiyet, kaşınma ve idrar yaparken yanma hissi sayılabilir.
 
-Damarlarlanmanın azalması ve bunun sonucunda bölgeye olan kan akımının düşmesi sonucunda kayganlık azalır, doku elastikiyeti düşer, vajinayı döşeyen zar tabakası incelir ve doku kırılganlığını artar. Vajinayı döşeyen zar tabakasındaki incelmenin sonucunda glikojen üretimi azalır ve buna bağlı olarak vajen içersindeki mikroorganizma dengesi ve asidite bozularak enfeksiyonlara yatkın bir ortam oluşur.
+**Tedavi Seçenekleri ve Bilimsel Çalışmalar**
 
-Vulvovajinal atrofinin (VVA) belirtileri arasında cinsel ilişki sırasında ağrı, vajinada kuruluk, hassasiyet, kaşınma ve idrar yaparken yanma sayılabilir.
+VVA yönetiminde geleneksel olarak bölgesel hormon uygulamaları tercih edilmektedir. Ancak son yıllarda yapılan çalışmalar, vajinal lazer uygulamalarının da bu semptomların giderilmesinde etkin bir alternatif sunduğunu göstermektedir.
 
-VVA tedavisinde altın standart bölgesel hormon uygulamasıdır. Ancak son dönemlerde yapılan çalışmalar vajinal lazer tedavisinin bu durumun giderilmesinde oldukça etkili olduğunu ortaya koymuştur.
+*Menopause* dergisinin 2018 yılı sayısında yayınlanan (Vera L. Cruz ve ark.) bir araştırmada, VVA bulguları olan kadınlar üç gruba ayrılmıştır:
+1. Sadece lazer tedavisi alanlar.
+2. Sadece lokal östrojen tedavisi alanlar.
+3. Lazer ve lokal östrojen tedavisini birlikte alanlar.
 
-Vera L Cruz ve arkadaşlarının yaptığı ve menepoz dergisinin 2018 yılındaki son sayısında yayınlanan bir araştırmada menopozda olan ve VVA bulgularından yakınan kadınlar rastgele olarak üç ayrı gruba ayrılmışlar.
+**Araştırma Sonuçları:**
 
-Bu gruplardan birine sadece lazer tedavisi, diğerine sadece lokal östrojen tedavisi, ve son gruba da hem lazer hem östrojen tedavisi uygulanmış. Hastaların şikayetleri tedavi sonrası 8. ve 20. haftalarda vaginal health index, visual analog scale for VVA symptoms, Female sexual function Index ve Maturation value of Meisels kriterleriyle değerlendirilmiş.
+- Tüm gruplarda 8. ve 20. haftalarda vajinal sağlık indekslerinde iyileşme kaydedilmiştir.
+- **Belirgin ve kalıcı iyileşme**, lazer ve östrojen tedavisinin birlikte uygulandığı grupta saptanmış; bu etkinin 20. haftadan sonra da sürdüğü gözlenmiştir.
+- Lazer uygulaması içeren gruplarda; cinsel ilişki sırasındaki konfor artışı ve kuruluk şikayetlerinde anlamlı düzeyde düzelme bildirilmiştir.
 
-Vaginal health index skorlarının hem 8. hem 20. haftalarda her üç grupta da istatistiksel olarak anlamlı ölçüde iyileştiği görülmüş.
+Sonuç olarak, menopoz sonrası görülen vajinal kuruluk ve ilgili şikayetlerde, hekim kontrolünde uygulanan lazer tedavisi tek başına ya da destekleyici tedavilerle birlikte olumlu sonuçlar veren bir tıbbi yöntemdir.
 
-En iyi ve kalıcı iyileşme hem lazer hem de östrojen verilen grupta saptanmış ve bu iyileşme 20. haftanın sonunda hala artarak devam etmekteymiş.
+**Kaynak:**
 
-Sadece lazer ve lazer artı östrojen alan grupta cinsel ilişki sırasında ağrı, yanma ve kuruluk yakınmalarında anlamlı düzelme görülürken sadece östrojen alan grupta tek iyileşme kurulukta olmuş.
+*Vera L. Cruz, MD; Marcelo L. Steiner, MD, PhD; et al. Menopause. 2018;25(1):21-28.*
 
-Lazer artı östrojen alan grupta kadın seksüel fonksiyon indeksi skorlarında anlamlı bir artış saptamakla birlikte ağrı, cinsel istek ve vajinal kayganlık skorlarında da olumlu bir iyileşme gözlenmiş.
+---
 
-Sonuç olarak yazarlar menopoz sonrası görülen vajinal kuruluk ve ağrı şikayetlerinde tek başına ya da östrojen ile birlikte lazer uygulamasının son derece etkili ve yüz güldürücü bir tedavi yöntemi olduğunu bildiriyorlar.
-
-Kaynak
-
-*   Vera L. Cruz, MD; Marcelo L. Steiner, MD, PhD; Luciano M. Pompei, MD, PhD; Rodolfo Strufaldi, MD, PhD; Fernando L. Afonso Fonseca, PhD; Lucila H. Simardi Santiago, MD, PhD; Tali Wajsfeld, MD; Cesar E. Fernandes, MD, PhD. Menopause. 2018;25(1):21-28.
+> **Yasal Uyarı:** Bu içerik yalnızca bilgilendirme amaçlıdır. Herhangi bir tıbbi şikayetinizde mutlaka uzman bir hekime başvurunuz. Tedavi yöntemleri kişiye özel olarak planlanmalıdır.

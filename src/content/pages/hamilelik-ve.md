@@ -1,5 +1,5 @@
 ---
-title: Hamilelik ve &#8230;.
+title: Hamilelik ve ...
 pubDate: '2014-03-15T20:36:45'
 slug: hamilelik-ve
 parent: 0
@@ -7,7 +7,7 @@ menuOrder: 0
 ---
 
 Hamilelik kadının gündelik yaşantısından soyutlandığı bir dönem değildir ve aslında böyle bir soyutlanmaya gerek de yoktur. Bebekler zaten anne karnında pek çok dış etkene karşı korumalı bir şekilde büyürler.  
-Ancak bu özel dönem süresince kadın ister istemez neredeyse yaşantısındaki bütün rutin olayların bebeğini olumsuz etkileyip etkilemeyeceğini bilmek ister. Bu bölümde işte bu endişeleri gidermek amacını taşımaktadır.
+Ancak bu özel dönem süresince kadın ister istemez neredeyse yaşantısındaki bütün rutin olayların bebeğini olumsuz etkileyip etkilemeyeceğini bilmek ister. Bu bölüm işte bu endişeleri gidermek amacını taşımaktadır.
 
 > [Hamilelik ve korona virüs (COVID-19)](/hamilelik-ve-korona-virus-covid-19/)
 > 
@@ -17,7 +17,7 @@ Ancak bu özel dönem süresince kadın ister istemez neredeyse yaşantısındak
 > 
 > [Hamilelikte ve bebe aspirini ve progesteron](?p=280)
 > 
-> [Hamilelikte yapılabilecek en iyi 5 egzersiz](/blog/hamilelikte-yapilabilecek-en-iyi-5-egzersiz/)
+> [Hamilelikte yapılabilecek önerilen 5 egzersiz](/blog/hamilelikte-yapilabilecek-en-iyi-5-egzersiz/)
 > 
 > [Gebelikte yapılan egzersiz anne hem de bebek için yararlı](/blog/gebelikte-yapilan-egzersiz-anne-hem-de-bebek-icin-yararli/)
 > 

@@ -1,10 +1,10 @@
 ---
-title: Kanada vatandaşları için üniversite eğitimi çok daha ucuz
+title: Kanada Vatandaşları İçin Üniversite Eğitimi Avantajları
 pubDate: '2018-04-18T13:00:56'
 slug: kanada-vatandaslari-icin-universite-egitimi-cok-daha-ucuz
 category:
-  - Jinekoloji & Kadın Sağlığı
-tags: []
+  - Bilgilendirme
+tags: ["Kanada", "eğitim", "üniversite ücretleri", "Kanada vatandaşlığı"]
 status: publish
 originalUrl: >-
   https://www.mumcu.com/kanada-vatandaslari-icin-universite-egitimi-cok-daha-ucuz/
@@ -13,49 +13,29 @@ readingTime: 2
 
 ![](../../images/uploads/2018/04/okul.jpg)
 
- Pek çok ailenin çocuğu ile ilgili sağlığından sonra gelen en büyük düşünce ve endişesi ileride seçeceği meslek ve bu meslek için alacağı eğitim konusudur.
+Pek çok ailenin çocukları ile ilgili gelecek planlamasında eğitim konusu merkezi bir yer tutmaktadır. Özellikle yükseköğretim aşamasında sunulan imkanlar ve maliyetler, ailelerin karar verme süreçlerini doğrudan etkilemektedir.
 
-Ülkemizde aileler ilk ve orta öğretim için ekonomik şartlarını zorlayarak çocuklarını özel okullara göndermeyi tercih etmektedir. Öte yandan son dönemlerde açılan ve eğitim kalitesi açısından devlet üniversiteleri ile yarışan hatta onları geçen özel üniversitelerin ücretleri göze alındığında çocuk sahibi ailelerin üzerindeki en büyük maddi yük eğitim alanında olmaktadır.
+Kanada, eğitim kalitesi ve sunduğu sosyal imkanlar ile uluslararası alanda dikkat çeken ülkelerin başında gelmektedir. Kanada’da devlet okulları nitelikli eğitim düzeyine sahiptir ve üniversite eğitimi, ülkeyi bir cazibe merkezi haline getiren önemli faktörlerden biridir.
 
-Kanada’da özel okullar olmakla birlikte devlet okulları ücretsiz ve son derece iyi eğitim düzeyine sahiptir.
+Küresel üniversite sıralamalarında üst sıralarda yer alan Kanada üniversiteleri, kendi vatandaşları ve daimi ikamet sahipleri (permanent residents) için farklı ücret politikaları uygulamaktadır. Kanada vatandaşı olmak, üniversite eğitiminde önemli bir ekonomik avantaj sağlamaktadır.
 
-Üniversite konusu ise Kanada’yı diğer ülkelere karşı cazibe merkezi haline getiren çok önemli bir faktördür.
+Bu durumu, Kanada İstatistik Kurumu (Statistics Canada) ve üniversitelerin resmi verilerinden alınan örnekler ile incelemek daha somut bir tablo ortaya koyacaktır.
 
-Dünyanın en iyileri sıralamalarında kendilerine her zaman yer bulan Kanada üniversiteleri kendi vatandaşları için farklı ücret politikaları uygulamaktadır. Kanada vatandaşı olmak üniversite eğitiminde büyük ekonomik avantaj sağlamaktadır.
+**Örnek Yıllık Eğitim Ücretleri (Veriler Bilgilendirme Amaçlıdır):**
 
-Bu durumu Kanada Devletinin resmi kurumu olan Statistics Canada ve üniversitelerin kendi web sitelerinden alınan somut örnekler ile açıklamak daha uygun olabilir.
+**McGill Üniversitesi Tıp Fakültesi**
+- Uluslararası Öğrenciler: ~CAD$ 41,464
+- Kanada Vatandaşları: ~CAD$ 17,755
+- Quebec Sakinleri: ~CAD$ 7,230
 
-Kanada’daki bazı üniversite ve fakültelerin yıllık eğitim ücretleri şu şekildedir.
+**University of Toronto Mühendislik Fakültesi**
+- Uluslararası Öğrenciler: ~CAD$ 50,780
+- Kanada Vatandaşları: ~CAD$ 13,500
 
-**McGill Üniversitesi Tıp Fakültesi 1. yıl**
+**University of Toronto Bilgisayar Bilimleri**
+- Uluslararası Öğrenciler: ~CAD$ 45,690
+- Kanada Vatandaşları: ~CAD$ 6,590
 
-*   Uluslararası öğrenciler   CAD$ 41,464.11
-*   Kanada vatandaşları  CAD$ 17,755.30
-*   Quebec residents CAD$ 7,230.52
+Resmi rakamlardan da anlaşılabileceği üzere, Kanada vatandaşlığı veya belirli eyaletlerde ikamet etmek, yükseköğretim maliyetlerini ciddi oranda düşürmektedir. 
 
-**McGill Üniversitesi Mühendislik Fakültesi**
-
-*   Uluslararası öğrenciler   CAD$ 39,625.24
-*   Kanada vatandaşları  CAD$ 9,632.84
-*   Quebec residents CAD$ 6,621.04
-
-**University of Toronto Tip fakültesi**
-
-*   Uluslararası öğrenciler  CAD$ 72,840
-*   Kanada vatandaşları CAD$ 23,280
-
-**University of Toronto Mühendislik fakültesi**
-
-*   Uluslararası öğrenciler  CAD$ 50,780
-*   Kanada vatandaşları CAD$ 13,500
-
-**University of Toronto Computer science veya management**
-
-*   Uluslararası öğrenciler 1. yıl   CAD$ 45,690
-*   Kanada vatandaşları 1. yıl CAD$ 6,590
-
-Sayılardan açıkça görülebileceği gibi Kanada vatandaşı olmak üniversite eğitiminde büyük avantaj sağlamaktadır.
-
-Quebec vatandaşı olmak ise ilave avantaj sağlayabilir
-
-Kanada’da üniversite eğitimi ücretleri ile ilgili resmi bilgiye [https://www.statcan.gc.ca/daily-quotidien/170906/dq170906b-eng.htm](https://www.statcan.gc.ca/daily-quotidien/170906/dq170906b-eng.htm) adresinden ulaşılabilir.
+Kanada’daki üniversite eğitim ücretleri ile ilgili en güncel ve resmi bilgilere [Statistics Canada](https://www.statcan.gc.ca/daily-quotidien/170906/dq170906b-eng.htm) adresinden ulaşılabilir.

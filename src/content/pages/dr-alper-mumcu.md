@@ -30,7 +30,7 @@ Halen İstanbul Amerikan Hastanesi’nde ve Nişantaşı’nda özel muayeneha
 
 Alper Mumcu’nun yurtiçi ve yurtdışı dergilerde yayınlanmış bilimsel makaleleri ve ulusal/uluslararası kongrelerde tebliğ edilmiş bildirileri bulunmaktadır.
 
-1 Haziran 1998 tarihinden beri Kadın Sağlığı ve Gebelik konularında ilk ve en geniş içerikli Türkçe içerikli web sitesini hazırlamakta ve yayınlamaktadır. Konu ile ilgili pekçok sektör dergisinde ve yazılı basında yazıları yayınlanmaktadır.
+1 Haziran 1998 tarihinden beri Kadın Sağlığı ve Gebelik konularında kapsamlı ve bilimsel temelli Türkçe içerikli web sitesini hazırlamakta ve yayınlamaktadır. Konu ile ilgili pekçok sektör dergisinde ve yazılı basında yazıları yayınlanmaktadır.
 
 1993 yılından beri Diş Hekimi İpek Mumcu ile evlidir. Alp ve Arda adında ikiz erkek çocuk babasıdır.
 
@@ -107,7 +107,7 @@ DENEYİM
 **Lotus Nişantaşı**  
 Halaskargazi Cd. No:38-66  
 Kat: 5 Daire: 93  
-34371 Şişli/İstanbulve
+34371 Şişli/İstanbul
 
 Amerikan Hastanesi Üreme Sağlığı Ünitesi Kadın Hastalıkları ve Doğum Dept. & Tüp bebek ünitesi
 
@@ -238,10 +238,10 @@ BİLİMSEL ÇALIŞMALAR
 İletişim bilgileri
 
 Adres (Muayenehane):  
-Abdi İpekçi Caddesi No:61 Kat 5, Reassurans Han 2, 34267 Nişantaşı/İstanbul
+Lotus Nişantaşı, Halaskargazi Cd. No:38-66 Kat: 5 Daire: 93, 34371 Şişli/İstanbul
 
 Telefon:  
-+90 212 219 1202
++90 533 324 68 98
 
 E-Posta:  
 [randevu@mumcu.com](mailto:randevu@mumcu.com)

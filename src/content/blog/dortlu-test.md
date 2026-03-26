@@ -10,17 +10,17 @@ originalUrl: 'https://www.mumcu.com/dortlu-test/'
 readingTime: 5
 ---
 
-En sık rastlanılan doğumsal anomalilerden birisi olan Down sendromunun anne karnında gebeliğpin erken dönemlerinde ve yüksek başarıyla tanınması doğum ile ilgilenen hekimlerin ortak düşlerinden birisidir.
+En sık rastlanılan doğumsal anomalilerden birisi olan Down sendromunun anne karnında gebeliğin erken dönemlerinde etkin bir doğrulukla tanınması doğum ile ilgilenen hekimlerin ortak hedeflerinden birisidir.
 
 Anne karnındaki bir bebekte Down Sendromu tanısını koymanın tek kesin yolu içinde bulunduğu sıvıdan örnek alınması yani amniyosentez yapılması ve bu örnekteki hücrelerin genetik incelemesi yapılarak bebekte bu bozukluğun olup olmadığını göstermektir. Ancak amniyosentez her gebe kadına yapılabileek rutin bir inceleme değildir ve bunuı gereği de yoktur.
 
-Araştırmacıların amacı Down Sendromu açısından yüksek risk altındaki olan ve amniyosentez yapılmasının yararlı olacağı kadınları en erken zamanda ve yüksek güvenilirlikle belirleyecek tarama testleri geliştirmektir.
+Araştırmacıların amacı Down Sendromu açısından yüksek risk altındaki olan ve amniyosentez yapılmasının yararlı olacağı kadınları en erken zamanda güvenilir şekilde belirleyecek tarama testleri geliştirmektir.
 
 Bu amaçla geliştirilen ilk test üçlü testtir ve günümüzde tüm dünyada yaygın şekilde uygulanmaktadır. Ülkemizde de ideal bir gebelik takibinde hamileliğin 16-20 haftaları arasında her kadına uygulanmaktadır.
 
-Nispeten daha yeni olan ve giderek popülarite kazanan bir başka tarama testi de ikili test ve fetal ense kalınlığı ölçümüdür. Bu test hem 11-14 haftalar arasında yapıldığından erken dönemde uygulanabilmekte hem de üçlü teste göre daha yüksek başarı oranlarına sahiptir. İkili test günümüzde ülkemizde de pekçok büyük hastane ve merkezde de uygulanmaktadır.
+Nispeten daha yeni olan ve giderek popülarite kazanan bir başka tarama testi de ikili test ve fetal ense kalınlığı ölçümüdür. Bu test hem 11-14 haftalar arasında yapıldığından erken dönemde uygulanabilmekte hem de üçlü teste göre farklı hassasiyet oranlarına sahiptir. İkili test günümüzde ülkemizde de pekçok büyük hastane ve merkezde de uygulanmaktadır.
 
-Elde edilen bu sonuçlar araştırmacıları yine de tatmin etmemektedir ve daha yüksek başarı oranlarına sahip testlerin geliştirilmesi için çalışmalar devam etmektedir.
+Elde edilen bu sonuçlar araştırmacıları yine de tatmin etmemektedir ve daha hassas sonuçlara sahip testlerin geliştirilmesi için çalışmalar devam etmektedir.
 
 Bu konudaki en son yenilik çok kısa bir süre önce ileri sürülen dörtlü testtir.
 
@@ -72,6 +72,6 @@ Bunlardan ilki anne yaşı ve ultrason bulgusu ne olursa olsun amniyosentez yapm
 İkinci seçenek ise detaylı ultrason incelemesi yaparak testin pozitif çıkmasına yol açan durum ile ilgili olabilecek ultrason bulgularını aramak ve bu bulguların ışığında amniyosenteze karar vermektir. Bu yönteme ancak riskin sınırda olduğu ya da anne adayının amniyosenteze sıcak bakmadığı durumlarda başvurulmalıdır.
 
 **Dörtlü testin güvenilirliği ne kadardır?**  
-Dörtlü testin güvenilirliğinin üçlü teste göre daha yüksek olduğu ileri sürülmektedir. Mart 2003’de The Lancet dergisinde yayınlanan bu konu ile ilgili en geniş çalışmada 50 bine yakın kadında dörtlü test uygulanmış ve %81 oranında başarılı olduğu ileri sürülmüştür. Yirmiüçbin kadın üzerinde yapılan bir başka çalışmada ise %85’lik başarı bildirilmiştir.
+Dörtlü testin güvenilirliğinin üçlü teste göre daha yüksek olduğu ifade edilmektedir. Mart 2003’de The Lancet dergisinde yayınlanan bu konu ile ilgili kapsamlı bir çalışmada 50 bine yakın kadında dörtlü test uygulanmış ve %81 oranında doğru sonuç verdiği bildirilmiştir. Yirmiüçbin kadın üzerinde yapılan bir başka çalışmada ise %85’lik hassasiyet bildirilmiştir.
 
 Dörtlü test çok yeni bir test olduğundan yaygın şekilde kullanıma girmesi ve güvenilirliğinin daha gerçekçi hesaplanması için daha fazla çalışmaya gerek vardır.

@@ -6,6 +6,7 @@ import WhatsApp from '../components/WhatsApp.astro';
 import ScrollToTop from '../components/ScrollToTop.astro';
 import MobileActions from '../components/MobileActions.astro';
 import ReadingProgress from '../components/ReadingProgress.astro';
+import CookieBanner from '../components/CookieBanner.astro';
 
 interface Props {
   title: string;
@@ -32,7 +33,7 @@ const { title, description = "Dr. Alper Mumcu'nun 25 yılı aşkın tecrübesiyl
   <body>
     <TopBar />
     <Navigation />
-    <main class="page-content">
+    <main class="page-content" data-pagefind-body>
       <slot />
     </main>
     <Footer />
@@ -40,6 +41,7 @@ const { title, description = "Dr. Alper Mumcu'nun 25 yılı aşkın tecrübesiyl
     <ScrollToTop />
     <MobileActions />
     <ReadingProgress />
+    <CookieBanner />
   </body>
 </html>
 

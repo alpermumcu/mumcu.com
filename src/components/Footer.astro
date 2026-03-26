@@ -23,8 +23,8 @@ const today = new Date();
 				</div>
 				<h3 class="contact-heading">İletişim Bilgileri</h3>
 				<p class="address">Lotus Nişantaşı, Halaskargazi Cd. No:38-66<br/>Kat: 5 Daire: 93, 34371 Şişli/İstanbul</p>
-				<p class="phone"><strong>Tel:</strong> <a href="tel:02122191202">+90 (212) 219 12 02</a></p>
-				<p class="phone"><strong>Gsm:</strong> <a href="tel:+905532777722">+90 (553) 277 77 22</a></p>
+				<p class="phone"><strong>Tel:</strong> <a href="tel:05333246898">+90 533 324 68 98</a></p>
+				<p class="phone"><strong>Gsm:</strong> <a href="tel:05333246898">+90 533 324 68 98</a></p>
 				<p class="email"><strong>E-posta:</strong> <a href="mailto:randevu@mumcu.com">randevu@mumcu.com</a></p>
 			</div>
 			
@@ -42,14 +42,18 @@ const today = new Date();
 				<div class="footer-links">
 					<a href="/dr-alper-mumcu">Dr. Alper Mumcu</a>
 					<a href="/online-randevu">Online Randevu</a>
-					<a href="/kvkk">KVKK Onam Formu</a>
+					<a href="/kvkk">KVKK & Gizlilik</a>
+					<a href="/cerez-politikasi">Çerez Politikası</a>
 					<a href="/blog">Sağlık Kütüphanesi</a>
 				</div>
 			</div>
 		</div>
 		
 		<div class="footer-bottom">
-			<p>&copy; {today.getFullYear()} Dr. Alper Mumcu. Tüm hakları saklıdır. <br/><small>Bu sitedeki bilgiler tıbbi danışmanlık yerine geçmez.</small></p>
+			<div class="footer-legal">
+				<p><strong>Yasal Uyarı:</strong> Bu sitede yer alan içerikler yalnızca bilgilendirme amaçlıdır. Sitedeki bilgiler, hekimin tıbbi muayenesi ve teşhisi yerine geçmez. Tanı ve tedavi için mutlaka doktorunuza başvurunuz. Sitedeki bilgiler doğrultusunda kendi kendinize tedavi uygulamayınız.</p>
+			</div>
+			<p class="copyright">&copy; {today.getFullYear()} Dr. Alper Mumcu. Tüm hakları saklıdır.</p>
 		</div>
 	</div>
 </footer>
@@ -153,11 +157,23 @@ const today = new Date();
 		border-top: 1px solid var(--glass-border);
 		padding-top: 3rem;
 		text-align: center;
-		font-size: 0.9rem;
 	}
-	small {
-		opacity: 0.6;
-		display: block;
-		margin-top: 0.5rem;
+	.footer-legal {
+		max-width: 800px;
+		margin: 0 auto 2rem;
+		padding: 1.5rem;
+		background: hsl(var(--secondary) / 0.3);
+		border-radius: 12px;
+		border: 1px solid var(--glass-border);
+	}
+	.footer-legal p {
+		font-size: 0.85rem;
+		line-height: 1.6;
+		margin-bottom: 0;
+		color: hsl(var(--text-muted));
+	}
+	.copyright {
+		font-size: 0.9rem;
+		opacity: 0.8;
 	}
 </style>

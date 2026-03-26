@@ -6,9 +6,7 @@ parent: 0
 menuOrder: 0
 ---
 
-Bu bölümde hamilelik sırasında zaman zaman
-
-kadınların akıllarına takılan ve doktorlarına yönelttikleri soruları ve cevaplarını bulabilirsiniz.
+Bu bölümde hamilelik sırasında zaman zaman kadınların akıllarına takılan ve uzmanlara yönelttikleri soruların tıbbi ve genel bilgilendirme amaçlı cevaplarını bulabilirsiniz.
 
 > [Hamileyken emzirmeye devam edebilir miyim?](/blog/hamileyken-emzirmeye-devam-edebilir-miyim/)
 > 
@@ -18,13 +16,13 @@ kadınların akıllarına takılan ve doktorlarına yönelttikleri soruları ve 
 > 
 > [Hamilelik ve evcil hayvanlar](/blog/hamilelik-ve-evcil-hayvanlar/)
 > 
-> [Hamilelikte kedi beslemek güvenli midir ?](/hamilelikte-merak-edilenler/?p=799)
+> [Hamilelikte kedi beslemek güvenli midir?](/hamilelikte-merak-edilenler/?p=799)
 > 
 > [Hamilelikte sinek ilaçları güvenli midir?](/blog/hamilelikte-sinek-ilaclari-guvenli-midir/)
 > 
-> [Alışveriş merkezlerinin girişindeki güvenlik kontrolleri zararlı mıdır?](/hamilelikte-merak-edilenler/?p=803)
+> [Alışveriş merkezlerindeki güvenlik kontrolleri ve gebelik](/hamilelikte-merak-edilenler/?p=803)
 > 
-> [Hamileyken temizlikte çamaşır suyu kullanabilir miyim?](/blog/hamileyken-temizlikte-camasir-suyu-kullanabilir-miyim/)
+> [Hamileyken temizlikte çamaşır suyu kullanımı](/blog/hamileyken-temizlikte-camasir-suyu-kullanabilir-miyim/)
 > 
 > [Hamilelikte mikrodalga fırın kullanımı güvenli midir?](/blog/hamilelikte-mikrodalga-firin-kullanimi-guvenli-midir/)
 > 
@@ -36,7 +34,7 @@ kadınların akıllarına takılan ve doktorlarına yönelttikleri soruları ve 
 > 
 > [Hamilelik ve karın çatlakları](/blog/hamilelik-ve-karin-catlaklari/)
 > 
-> [Hamilelikte saç boyatmak güvenli midir ?](/hamilelikte-merak-edilenler/?p=813)
+> [Hamilelikte saç boyatmak güvenli midir?](/hamilelikte-merak-edilenler/?p=813)
 > 
 > [Hamilelikte solaryum ya da güneşlenmek zararlı mıdır?](/blog/hamilelikte-solaryum-ya-da-guneslenmek-zararli-midir/)
 > 
@@ -52,11 +50,11 @@ kadınların akıllarına takılan ve doktorlarına yönelttikleri soruları ve 
 > 
 > [Yaz ayları ve hamilelik](/blog/yaz-aylari-ve-hamilelik/)
 > 
-> [Hamilelikte yapılabilecek en iyi 5 egzersiz](/blog/hamilelikte-yapilabilecek-en-iyi-5-egzersiz/)
+> [Hamilelikte yapılabilecek önerilen 5 egzersiz](/blog/hamilelikte-yapilabilecek-en-iyi-5-egzersiz/)
 > 
 > [Hamilelik ve Yüzme](/hamilelikte-merak-edilenler/?p=825)
 > 
-> [Hamilelik ve tüplü dalış (scuba diving)](/hamilelikte-merak-edilenler/?p=2588)
+> [Hamilelik ve tüplü dalış (scuba diving)](/hamilelikte-merak-edilenler/?p=2588)
 > 
 > [Gebelikte koşu bandı kullanılabilir mi?](/blog/gebelikte-kosu-bandi-kullanilabilir-mi/)
 > 
@@ -76,4 +74,8 @@ kadınların akıllarına takılan ve doktorlarına yönelttikleri soruları ve 
 > 
 > [Hamilelikte prozac güvenli midir?](/blog/hamilelikte-prozac-guvenli-midir/)
 > 
-> [Gebelikte göze Laser operasyonu yapılablir mi?](/blog/gebelikte-goze-laser-operasyonu-yapilablir-mi/)
+> [Gebelikte göze Laser operasyonu yapılabilir mi?](/blog/gebelikte-goze-laser-operasyonu-yapilablir-mi/)
+
+---
+
+> **Yasal Uyarı:** Bu sayfada yer alan bilgiler yalnızca genel bilgilendirmeyi amaçlamaktadır. Her gebelik süreci kişiye özeldir ve tıbbi konularda en doğru kararın uzman hekim görüşüyle verilmesi önemlidir.

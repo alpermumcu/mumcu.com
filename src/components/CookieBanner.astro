@@ -1,0 +1,82 @@
+---
+---
+
+<div id="cookie-banner" class="cookie-banner hidden">
+	<div class="container cookie-content">
+		<div class="cookie-text">
+			<p>Sitemizde size daha iyi hizmet sunabilmek için çerezler (cookies) kullanıyoruz. Detaylı bilgi için <a href="/cerez-politikasi">Çerez Politikamızı</a> inceleyebilirsiniz.</p>
+		</div>
+		<div class="cookie-actions">
+			<button id="accept-cookies" class="btn btn-sm btn-primary">Anladım</button>
+		</div>
+	</div>
+</div>
+
+<script is:inline>
+	document.addEventListener('DOMContentLoaded', () => {
+		const banner = document.getElementById('cookie-banner');
+		const acceptBtn = document.getElementById('accept-cookies');
+		
+		if (!localStorage.getItem('cookies-accepted')) {
+			banner.classList.remove('hidden');
+		}
+
+		acceptBtn.addEventListener('click', () => {
+			localStorage.setItem('cookies-accepted', 'true');
+			banner.classList.add('hidden');
+		});
+	});
+</script>
+
+<style>
+	.cookie-banner {
+		position: fixed;
+		bottom: 2rem;
+		left: 2rem;
+		right: 2rem;
+		background: rgba(255, 255, 255, 0.95);
+		backdrop-filter: blur(12px);
+		border: 1px solid var(--glass-border);
+		border-radius: 20px;
+		padding: 1.25rem 2rem;
+		z-index: 9999;
+		box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.2);
+		animation: slideUp 0.5s ease-out;
+	}
+	.hidden {
+		display: none;
+	}
+	.cookie-content {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		gap: 2rem;
+	}
+	.cookie-text p {
+		margin: 0;
+		font-size: 0.95rem;
+		color: hsl(var(--text-main));
+		line-height: 1.5;
+	}
+	.cookie-text a {
+		color: hsl(var(--accent));
+		font-weight: 700;
+		text-decoration: underline;
+	}
+	.btn-sm {
+		padding: 0.6rem 1.5rem;
+		font-size: 0.85rem;
+		border-radius: 10px;
+		cursor: pointer;
+	}
+
+	@keyframes slideUp {
+		from { transform: translateY(100%); opacity: 0; }
+		to { transform: translateY(0); opacity: 1; }
+	}
+
+	@media (max-width: 768px) {
+		.cookie-content { flex-direction: column; text-align: center; gap: 1rem; }
+		.cookie-banner { bottom: 1rem; left: 1rem; right: 1rem; padding: 1.5rem; }
+	}
+</style>

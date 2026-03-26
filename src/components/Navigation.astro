@@ -1,6 +1,7 @@
 ---
 import { navigation } from '../data/navigation';
 import logo from '../images/uploads/2020/08/logo.png';
+import Search from './Search.astro';
 
 const currentPath = Astro.url.pathname;
 ---
@@ -29,6 +30,9 @@ const currentPath = Astro.url.pathname;
 				</li>
 			))}
 		</ul>
+		<div class="nav-extra">
+			<Search />
+		</div>
 	</div>
 </nav>
 
@@ -49,6 +53,13 @@ const currentPath = Astro.url.pathname;
 		justify-content: space-between;
 		align-items: center;
 		height: 4.5rem;
+		gap: 1.5rem;
+	}
+	.nav-extra {
+		display: flex;
+		align-items: center;
+		padding-left: 1.5rem;
+		border-left: 1px solid var(--glass-border);
 	}
 	.logo {
 		display: flex;

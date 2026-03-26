@@ -1,20 +1,22 @@
 ---
-title: Hırsızlara prim vermeyin
+title: Bilimsel Emek ve Telif Hakları
 pubDate: '2014-03-15T02:37:42'
 slug: hirsizlara-prim-vermeyin
 parent: 0
 menuOrder: 0
 ---
 
-İntihal bilimsel yayınlarda çalıntı apartma, başkasının emeğini izinsiz olarak kullanmak yoluyla yapılan **hırsızlık** anlamına gelmektedir Açıldığı günden beri konusundaki lider sitelerden birisi olan mumcu.com kadın sağlığı ve gebelik sitesinin ve yine kendi konusunda önemli bir açığı kapatan ve bu konudaki düzeyli bazı sitelerin içeriği, **bazı sorumsuz site yöneticileri tarafından çalınmaktadır.**.
+**İntihal**, bilimsel yayınlarda ve dijital içeriklerde başkasının emeğini izinsiz olarak kullanmak, kaynak göstermeden kendine mal etmek anlamına gelen bir hak ihlalidir. Açıldığı günden beri kadın sağlığı ve gebelik konusunda kapsamlı içeriğiyle bilinen mumcu.com ve benzeri nitelikli sitelerin içerikleri, ne yazık ki zaman zaman izinsiz şekilde kopyalanmaktadır.
 
-Aralarında doktorların da bulunduğu bu kişiler mumcu.com sitesinin ve yine kadın sağlığı ve gebelik konularında kullanıcılar tarafından en iyi içerik ödülü almış bir başka sitenin içeriğini bire bir kelimesine bile dokunmadan çalmakta ve yazarların kendi görüşlerini belirttikleri yazıları dahi kendi görüşüymüş gibi sitelerinin ana sayfasından utanmaksızın yayınlamaktadır. Üstelik konusunda en geniş içerikli site şeklinde lanse ettiği sitelerinde yine utanmadan telif haklarından söz etmektedir.
+Bazı platformlar, mumcu.com sitesinin ve kullanıcı takdirini kazanarak ödül almış diğer yetkin sitelerin içeriklerini, kelimesine dokunmadan kopyalayıp kendi görüşleriymiş gibi yayınlamaktadır. Bu tür platformlar, "kapsamlı içerik" iddiasıyla ortaya çıkarken başka yazarların emeği üzerinden haksız kazanç sağlama amacı gütmektedirler.
 
-İntihal yani **bilimsel hırsızlığın** amacı fazla emek harcamadan, kolay kazanç ve çıkar sağlamaktır ve hırsızlıktan hiçbir farkı yoktur ve gelişmiş ülkelerin pek çoğunda “adi” hırsızlıktan bile daha ağır bir suç olarak kabul edilir.
+İntihal yani **bilimsel hırsızlığın** amacı, emek harcamadan haksız bir avantaj elde etmektir. Gelişmiş hukuk sistemlerinde fikir ve sanat eserlerine yönelik bu saldırılar, mülkiyet haklarının ihlali olarak değerlendirilmekte ve ciddi yaptırımlara tabi tutulmaktadır.
 
-Bilimsel içeriğine güvendiğiniz bu sitelerin yazarları bu bilgi kaynaklarını oluşturmak için çok büyük bir maddi ve manevi külfetin altına girmektedirler. Her bir yazı uzun araştırma ve değerlendirmelerin sonucu olarak ortaya çıkmaktadır. Ülkemizde ne yazık ki pekçok konuda olduğu gibi fikir ve sanat eserlerinin korunması konusunda da açıklar vardır ve yasalar yetersiz kalmaktadır. Kullanıcılardan ricamız bu tür “hırsızlıklara” prim vermemeniz ve bilimsel hırsızlık yani intihal yaptığını fark ettiğiniz siteleri protesto etmenizdir. Bilgi çalanların sağlığınızı da çalmasına izin vermeyin.
+Bilimsel içeriğine güvendiğiniz platformların yazarları, bu bilgi kaynaklarını oluşturmak için ciddi bir mesai ve araştırma süreci yönetmektedirler. Her bir yazı, güncel tıbbi literatürün taranması ve klinik deneyimlerin süzgecinden geçmesiyle ortaya çıkmaktadır.
 
-Dr. Alper Mumcu  
+Kullanıcılarımızdan ricamız, bu tür etik dışı uygulamalara prim vermemeleri ve bilimsel emeğe saygı duymayan platformları desteklememeleridir. Doğru bilgiye, emeğin ve sahibinin hakkının korunduğu platformlardan ulaşmak, toplum sağlığı ve bilgi kalitesi açısından kritik önem taşımaktadır.
+
+**Dr. Alper Mumcu**  
 Kadın Hastalıkları ve Doğum Uzmanı
 
-\[CP\_CALCULATED\_FIELDS id=”4″\]
+[CP_CALCULATED_FIELDS id="4"]

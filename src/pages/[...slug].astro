@@ -34,6 +34,14 @@ const { Content } = await page.render();
 			<div class="prose">
 				<Content />
 			</div>
+
+      <div class="medical-disclaimer-box glass">
+        <div class="disclaimer-header">
+          <span class="disclaimer-icon">⚠️</span>
+          <strong>Önemli Bilgilendirme</strong>
+        </div>
+        <p>Sitemizde yer alan tüm içerikler genel bilgilendirme amaçlıdır. Bu içerik, bir doktorun profesyonel tıbbi tavsiyesi, tanısı veya tedavisinin yerini alamaz. Sağlığınızla ilgili her türlü tıbbi sorunuz için lütfen mutlaka doktorunuza danışınız.</p>
+      </div>
 		</article>
     <Sidebar />
 	</div>
@@ -103,4 +111,31 @@ const { Content } = await page.render();
 			font-size: 2.25rem;
 		}
 	}
+
+  /* Disclaimer Styling */
+  .medical-disclaimer-box {
+    margin-top: 5rem;
+    padding: 2.5rem;
+    border-radius: 20px;
+    background: linear-gradient(135deg, hsl(var(--accent) / 0.03), hsl(var(--accent) / 0.01));
+    border-left: 5px solid hsl(var(--accent));
+    text-align: left;
+  }
+  .disclaimer-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    color: hsl(var(--text-main));
+  }
+  .disclaimer-icon {
+    font-size: 1.25rem;
+  }
+  .medical-disclaimer-box p {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: hsl(var(--text-muted));
+  }
 </style>

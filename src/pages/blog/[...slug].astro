@@ -62,6 +62,14 @@ const isPregnancyWeek = post.data.category?.includes('Hafta Hafta Gebelik');
         <div class="prose">
           <Content />
         </div>
+
+        <div class="medical-disclaimer-box glass">
+          <div class="disclaimer-header">
+            <span class="disclaimer-icon">⚠️</span>
+            <strong>Önemli Bilgilendirme</strong>
+          </div>
+          <p>Bu makale içerisinde yer alan bilgiler genel bilgilendirme amaçlıdır ve bilimsel araştırmalara dayalı veriler sunmaktadır. Bu içerik, bir doktorun profesyonel tıbbi tavsiyesi, tanısı veya tedavisinin yerini alamaz. Sağlığınızla ilgili her türlü tıbbi sorunuz için mutlaka doktorunuza danışınız.</p>
+        </div>
       </article>
 
       <Sidebar />
@@ -155,6 +163,32 @@ const isPregnancyWeek = post.data.category?.includes('Hafta Hafta Gebelik');
       flex-wrap: wrap;
       gap: 0.75rem;
     }
+  }
+
+  /* Disclaimer Styling */
+  .medical-disclaimer-box {
+    margin-top: 5rem;
+    padding: 2.5rem;
+    border-radius: 20px;
+    background: linear-gradient(135deg, hsl(var(--accent) / 0.03), hsl(var(--accent) / 0.01));
+    border-left: 5px solid hsl(var(--accent));
+  }
+  .disclaimer-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    color: hsl(var(--text-main));
+  }
+  .disclaimer-icon {
+    font-size: 1.25rem;
+  }
+  .medical-disclaimer-box p {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: hsl(var(--text-muted));
   }
 </style>
 </style>

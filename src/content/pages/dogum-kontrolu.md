@@ -6,7 +6,7 @@ parent: 0
 menuOrder: 0
 ---
 
-En iyi ya da en uygun doğum kontrol yöntemi nedir sorusu cevabı kolay olmayan bir sorudur. Çünkü her yöntem her kişiye uygun olmayabilir. Doğum kontrol yöntemi seçiminde kişinin yaşı, doğum yapıp yapmadığı, adet düzeni, alışkanlıkları, cinsel yaşantısı gibi pekçok faktör rol oynar. Bu nedenle ” sizce en uygun doğum kontrol yöntemi nedir? ” sorusu yanlış bir sorudur. Doğru soru “**benim için en uygun doğum kontrol yöntemi nedir?** ” olmalıdır. Bu soruya en doğru ve gerçekçi cevabı ise ancak partneriniz, doktorunuz ve siz bir araya gelerek bulabilirsiniz.
+Kişiye en uygun ya da en uygun doğum kontrol yöntemi nedir sorusu cevabı kolay olmayan bir sorudur. Çünkü her yöntem her kişiye uygun olmayabilir. Doğum kontrol yöntemi seçiminde kişinin yaşı, doğum yapıp yapmadığı, adet düzeni, alışkanlıkları, cinsel yaşantısı gibi pekçok faktör rol oynar. Bu nedenle ” sizce en uygun doğum kontrol yöntemi nedir? ” sorusu yanlış bir sorudur. Doğru soru “**benim için en uygun doğum kontrol yöntemi nedir?** ” olmalıdır. Bu soruya en doğru ve gerçekçi cevabı ise ancak partneriniz, doktorunuz ve siz bir araya gelerek bulabilirsiniz.
 
 > [Genel bilgiler](/blog/dogum-hakkinda-genel-bilgiler/)
 

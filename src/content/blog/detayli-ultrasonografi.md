@@ -1,20 +1,20 @@
 ---
-title: Detaylı Ultrasonografi
-pubDate: '2014-03-18T01:17:14'
+title: Detaylı ultrasonografi
+pubDate: '2014-03-23T11:43:08'
 slug: detayli-ultrasonografi
 category:
-  - Estetik Jinekoloji
+  - Hamilelik ve Ultrason
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/detayli-ultrasonografi/'
 readingTime: 4
 ---
 
-İdeal bir gebelik takibinin en önemli aşamalarından birisi de gelişmekte olan bebeğin tüm organ ve oluşumlarının detaylı bir şekilde incelendiği ayrıntılı fetal incelemedir. Bu inceleme halk arasında zaman zaman yanlış şekilde renkli ultrason olarak adlandırılmakla birlikte hekimler arasında da ikinci düzey ultrasonografi, ikinci trimester ultrasonografi taraması, ayrıntılı fetal inceleme, fetal anatomik inceleme gibi değişik isimler ile anılmaktadır. Bu yazıda ise kolaylık olması açısından kısaca detaylı ultrasonografi olarak anılacaktır.
+Gebelik takibinin önemli aşamalarından birisi de gelişmekte olan bebeğin organ ve oluşumlarının detaylı bir şekilde incelendiği ayrıntılı fetal incelemedir. Bu inceleme halk arasında zaman zaman yanlış şekilde renkli ultrason olarak adlandırılmakla birlikte hekimler arasında da ikinci düzey ultrasonografi, ikinci trimester ultrasonografi taraması, ayrıntılı fetal inceleme, fetal anatomik inceleme gibi değişik isimler ile anılmaktadır. Bu yazıda ise kolaylık olması açısından kısaca detaylı ultrasonografi olarak anılacaktır.
 
-Detaylı ultrasonografi bebeğin organ gelişiminin tamamlandığı, ve ultrason görüntülerinin nispeten daha kolay elde edilebildiği bir dönem olan 18-24. haftalar arasında yapılır. Bu dönemde yapılmasının bir başka nedeni de olası bir anomali saptanması durumunde gebeliğin sonlandırılması açısından çok geç kalınmış olmamasıdır. Eğer rutin incelemelerde kullanılan ultrason cihazının çözünürlüğü ve görüntü kalitesi yeterli ise faklı bir cihaz kullanılması gerekmez. Sadece ultrason incelemesi sırasında tüm organ ve oluşumlar daha dikkatli bir şekilde gözden geçirilir. Detaylı ultrasonografinin bu konuda özel ihtisas yapmış kişiler tarafından yapılması idealdir. Bu sayede bebek ikinci bir göz tarafından tarafsız olarak incelenebilecek ve olası bir anomaliyi gözden kaçırma riski en aza indirilecektir.
+Detaylı ultrasonografi bebeğin organ gelişiminin tamamlandığı ve ultrason görüntülerinin nispeten daha kolay elde edilebildiği bir dönem olan 18-24. haftalar arasında yapılır. Bu dönemde yapılmasının bir başka nedeni de olası bir anomali saptanması durumunda gebeliğin yönetimi açısından çok geç kalınmış olmamasıdır. Eğer rutin incelemelerde kullanılan ultrason cihazının çözünürlüğü ve görüntü kalitesi yeterli ise farklı bir cihaz kullanılması gerekmez. Sadece ultrason incelemesi sırasında tüm organ ve oluşumlar daha dikkatli bir şekilde gözden geçirilir. Detaylı ultrasonografinin bu konuda özel eğitim almış kişiler tarafından yapılması etkin sonuçlar verir. Bu sayede bebek ikinci bir göz tarafından tarafsız olarak incelenebilecek ve olası bir anomaliyi gözden kaçırma riski en aza indirilecektir.
 
-Detaylı ultrasonografinin amacı bebekte görülebilecek doğumsal kusurların tespit edilmesi ve bazı genetik hastalıklarda ortaya çıkabilecek olan anomalilerin saptanarak gerekirse ileri inceleme yapılmasıdır. Ancak teknolojideki tüm bu gelişmelere karşın en iyi cihazlar ve en tecrübeli uzmanlarn varlığında bile doğumsal kusurların ancak %70-80’i fark edilebilir.
+Detaylı ultrasonografinin amacı bebekte görülebilecek doğumsal kusurların tespit edilmesi ve bazı genetik hastalıklarda ortaya çıkabilecek olan anomalilerin saptanarak gerekirse ileri inceleme yapılmasıdır. Ancak teknolojideki tüm bu gelişmelere karşın modern cihazlar ve deneyimli uzmanların varlığında bile doğumsal kusurların ancak %70-80'i fark edilebilir.
 
 **Detaylı ultrasonografi nasıl yapılır ?**  
 Detaylı ultrasonografi normal gebelik ultrasonografisinden (obstetrik ultrasonografi) farklı değildir. Aynı cihazlar ve sırtüstü yatar pozisyonda karından bakılarak yapılır. İşlem yaklaşık 15-20 dakika kadar sürer. Bebeğin genel değerlendirilmesi ve rutin ölçümlerin ardından sırasıyla kafa, boyun, göğüs kafesi, kalp, karın, genital bölge ve kol ve bacaklar ve omurga detaylı olarak incelenir.
@@ -25,117 +25,40 @@ Detaylı ultrasonografi normal gebelik ultrasonografisinden (obstetrik ultrasono
 
 Kafanın şekli, yapısı, çapı ve çevresi ölçülür.
 
-2) Beyin
+2) Beyin ve beyincik yapısı
 
-Kafa içi oluşumlar olan serebral ventiküller, koroid pleksus (choroid pleksus), orta beyin, arka çukurluk (posterior fossa), yan ventirküller incelenir ve bunların ölçümleri yapılır. Bebeğin beyinciği (cerebellum) beynin arka kısmında bir gözlük şeklinde görülür. Bu yapının uzunluğu genelde gebelik haftasının verir. Ventriküllerde genişleme ya da koroid pleksuslarda kist saptanması önemli olabilir.
+Beyin içindeki yapılar ve su dolu kesecikler incelenir. Hidrosefali gibi durumlar araştırılır.
 
-3) Yüz
+3) Yüz ve dudaklar
 
-Bebeğin genel profili, burun kemiği, göz küreleri ve bunların arasındaki mesafeler incelenir. Bebeğin gözündeki lens ultrasonografide izlenir. Bu lensin opak olmaması doğumsal bir katarakt olmadığını gösterir.
+Dudak yarığı (tavşan dudak) gibi anomaliler araştırılır. Gözlerin yerleşimi ve mesafesi kontrol edilir.
 
-4) Boyun
+4) Omurga
 
-Boyunda herhangi bir kist ya da kitle olup olmadığı incelenir. Ense kalınlığı bu dönemde de genital hastalıklar açısından ipucu verebilir.
+Boyundan kuyruk sokumuna kadar tüm omurlar incelenir. Açıklık (spina bifida) olup olmadığına bakılır.
 
-5) Omurga
+5) Göğüs kafesi ve akciğerler
 
-Tüm omurga yukarıdan aşağı ve enine kesitlerde incelenerek bir açıklık olup olmadığı araştırılır. Tüm omurga enseden kuyruk sokumuna kadar incelenir.
+Akciğerlerin yapısı ve varsa kistik oluşumlar kontrol edilir.
 
 6) Kalp
 
-Kalbin genel yapısı incelenir, atım hızı ve ritminde bir anormallik olup olmadığına bakılır. Karıncık ve kulakçıklar (ventrikül ve atriumlar) incelenir, içlerinde kitle ya da anormal bir görünüm olup olmadığı araştırılır. Karıncıklar ya da kulakçıklar arasında delik olup olmadığına bakılır. Kalpten çıkan ana atardamar olan aort ile kirli kanı akciğerlere taşıyan ana damarların yapısı incelenir
+Kalbin dört odacığı, damar çıkışları ve ritmi incelenir. Büyük kap anomalileri taranır.
 
-7) Göğüs
+7) Karın organları
 
-Göğüs kafesinin yapısı ve şekli incelenir, akciğerler ve diyaframın normal görünüp görünmediği kontrol edilir.
+Mide, karaciğer, bağırsaklar ve böbrekler gözden geçirilir. Karın duvarı bütünlüğü kontrol edilir.
 
-8) Karın
+8) Üst ve alt ekstremiteler
 
-Mide, karaciğer, böbrekler, mesane, karın duvarı, göbek kordonunun bebeğe girdiği bölge ve damarların bebeğe girdikten sonraki seyri incelenir ve karın çevresi ölçülür. Ayrıca barsakların ultrasondaki görüntüsü de genetik hastalıklar açısından fikir verebilir.
+Kol ve bacak kemiklerinin uzunluğu, eller ve ayakların yapısı incelenir. Parmak sayımları yapılmaya çalışılır.
 
-9) Kollar ve bacaklar
+9) Plasenta (bebeğin eşi) ve kordon
 
-Kol ve bacaklardaki tüm kemikler ölçülür. Bunlar kolda omuz ile dirsek arasındaki humerus, dirsek ile el bileği arasındaki radius ve ulna kemikleri ile kalça ve diz arasındaki femur ile diz ve ayak bileği arasındaki tibia ve fibula kemikleridir. El ve ayakların yapısı incelenerek sayı ve şekil bozukluğu olup olmadığı araştırılır. Örneğin elde küçük parmağın ortasındaki kemiğin bulunmaması Down sendromu lehine yorumlanır.
+Plasentanın yerleşimi, yapısı ve kordondaki damar sayısı kontrol edilir.
 
-**Detaylı sonografinin güvenilirliği nasıldır?  
-**Detaylı ultrasonografide temel olarak pekçok major anomali saptanabilir ancak tüm anomalilerin %100 kesinlikle saptanması mümkün değildir. Bebeğin gelişiminin ultrason ile değerlendirilmesi bazı faktörlere bağlıdır. Bunlar arasında en önemlileri annenin vücut ağırlığı ve yağ miktarı ile bebeğin rahim içindeki duruş şeklidir. Ayrıca amniyon sıvısının miktarı da ultrason incelemesinin kalitesini etkiler. Bazı durumlarda bebeğin duruşu belirli bölgelerin incelenmesine olanak tanımayabilir. Bu durum hamilelerin yaklaşık %10-15’inde ortaya çıkmaktadır.
+10) Amniyon sıvısı
 
-Genel olarak anomalilerin yarısından fazlası ultrasonografi ile tespit edilebilmektedir. Buna göre detaylı ultrasonografi bulgularının normal olması bebeğin kesinlikle sağlıklı olduğunu garanti etmez. Aşağıdaki tabloda bazı sık görülen anomaliler ve bunların ultrason ile saptanma oranları verilmiştir. _(İngiliz Royal College of Obstetricians and Gynecologists 2000 kılavuzundan alınmıştır)_
+Bebeğin çevresindeki sıvının miktarı değerlendirilir.
 
-**Problem**
-
-**Ultrason bulgusu**
-
-**Saptanma olasılığı**
-
-Spina bifida
-
-Omurgada açıklık
-
-%90
-
-Anencephaly
-
-Bebeğin kafatasının olmaması
-
-%99
-
-Hydrocephalus
-
-Kafa içinde fazla su bulunması\*
-
-%60
-
-Büyük doğumsal kalp anomalileri
-
-%25
-
-Diyafram hernisi
-
-Diyafram kasında açıklık olması
-
-%60
-
-Exomphalos/gastroschisis
-
-Karın ön duvarında açıklık
-
-%90
-
-Büyük böbrek sorunları
-
-%85
-
-Büyük kol-bacak sorunları
-
-Kemiklerin eksik olması ya da kısalık
-
-%90
-
-Cerebral palsy
-
-Spastisite
-
-Saptanamaz
-
-Otizm
-
-Saptanamaz
-
-Zeka geriliği
-
-Saptanamaz
-
-Sağırlık-körlük
-
-Saptanamaz
-
-Down sendromu
-
-Kalp, ekstremite ya da barsak anomalileri
-
-Yaklaşık %40
-
-_  
-\* Pekçok durumda gebeliğin son dönemlerinde hatta doğumdan sonra ortaya çıkar  
-__a_
+Detaylı ultrasonografi, gebeliğin gidişatı hakkında önemli bilgiler veren ancak her şeyi %100 garanti etmeyen bir incelemedir. Elde edilen veriler, ailenin ve hekimin gebelik sürecini daha bilinçli yönetmesini sağlar.
