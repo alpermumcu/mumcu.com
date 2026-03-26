@@ -18,7 +18,14 @@ Dr. Alper Mumcu
 
 ---
 
-**KVKK Onayı:**
-[ ] Paylaşmış olduğum verilerin, 6698 sayılı [KVKK Aydınlatma Metni](/kvkk) çerçevesinde işlenebilmesini onaylıyorum.
+<div class="kvkk-notice">
+  <label class="kvkk-checkbox-container">
+    <input type="checkbox" id="kvkk-consent" required />
+    <span class="checkmark"></span>
+    <span class="kvkk-text">
+      Paylaşmış olduğum verilerin, 6698 sayılı <a href="/kvkk" target="_blank">KVKK Aydınlatma Metni</a> çerçevesinde işlenebilmesini onaylıyorum.
+    </span>
+  </label>
+</div>
 
 Δdocument.getElementById( "ak\_js\_6" ).setAttribute( "value", ( new Date() ).getTime() );
