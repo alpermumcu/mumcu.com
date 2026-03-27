@@ -41,9 +41,8 @@ const formattedDate = new Date(pubDate).toLocaleDateString('tr-TR', {
       <main class="main-content">
         <Breadcrumbs 
           parts={[
-            { label: 'Makale Arşivi', href: '/blog/' },
-            { label: 'Hafta Hafta Gebelik', href: '/category/hafta-hafta-gebelik/' },
-            { label: title }
+            { label: 'Hafta Hafta Gebelik', href: '/hafta-hafta-gebelik/' },
+            { label: frontmatter.title }
           ]} 
         />
         
@@ -72,7 +71,8 @@ const formattedDate = new Date(pubDate).toLocaleDateString('tr-TR', {
         <div class="quick-nav sticky">
           <h3 class="font-outfit">Haftalık Takvim</h3>
           <div class="week-picker">
-            <a href="/category/hafta-hafta-gebelik/" class="all-weeks">Tüm Haftalar &rarr;</a>
+            <a href="/hafta-hafta-gebelik/" class="all-weeks">Tüm Haftalar &rarr;</a>
+
           </div>
           <Sidebar />
         </div>

@@ -15,7 +15,8 @@ export const navigation = [
 		label: 'Hasta Bilgilendirme',
 		href: '/hasta-bilgilendirme/',
 		children: [
-			{ label: 'Hafta Hafta Gebelik', href: '/category/hafta-hafta-gebelik/' },
+			{ label: 'Hafta Hafta Gebelik', href: '/hafta-hafta-gebelik/' },
+
 			{ label: 'Online Randevu', href: '/online-randevu/' },
 		],
 	},

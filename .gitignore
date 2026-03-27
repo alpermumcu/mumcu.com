@@ -23,3 +23,8 @@ blob-report/
 # OS metadata
 .DS_Store
 Thumbs.db
+
+# Backups and Large Files
+*.wpress
+site_backup.*
+

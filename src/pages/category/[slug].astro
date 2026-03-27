@@ -7,9 +7,12 @@ import { categories } from '../../data/categories';
 import { getHeroImage } from '../../data/category-defaults';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('blog');
+  const blogPosts = await getCollection('blog');
+  const pregnancyPosts = await getCollection('hafta-hafta-gebelik');
+  const allPosts = [...blogPosts, ...pregnancyPosts];
+
   return categories.map((category) => {
-    const filteredPosts = posts.filter((post) => 
+    const filteredPosts = allPosts.filter((post) => 
       post.data.category?.includes(category.name)
     ).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
     
@@ -19,6 +22,7 @@ export async function getStaticPaths() {
     };
   });
 }
+
 
 const { category, posts } = Astro.props;
 ---
@@ -54,7 +58,8 @@ const { category, posts } = Astro.props;
                 <span>⏱️ {post.data.readingTime} dk</span>
               </div>
               <h3>{post.data.title}</h3>
-              <a href={`/blog/${post.slug}/`} class="btn-text">Okumaya Devam Et →</a>
+              <a href={`/${post.collection}/${post.slug}/`} class="btn-text">Okumaya Devam Et →</a>
+
             </div>
           </article>
         ))}

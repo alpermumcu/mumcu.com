@@ -27,7 +27,24 @@ const pages = defineCollection({
 	}),
 });
 
+const haftaHaftaGebelik = defineCollection({
+	schema: z.object({
+		title: z.string(),
+		description: z.string().optional(),
+		pubDate: z.coerce.date(),
+		updatedDate: z.coerce.date().optional(),
+		heroImage: z.string().optional(),
+		category: z.array(z.string()).optional(),
+		tags: z.array(z.string()).optional(),
+		author: z.string().optional(),
+		status: z.string().optional(),
+		originalUrl: z.string().optional(),
+	}),
+});
+
 export const collections = {
 	'blog': blog,
 	'pages': pages,
+	'hafta-hafta-gebelik': haftaHaftaGebelik,
 };
+
