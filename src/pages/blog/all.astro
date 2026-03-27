@@ -27,7 +27,7 @@ const posts = (await getCollection('blog')).sort(
 			{posts.map((post) => (
 				<a href={`/blog/${post.slug}/`} class="post-item glass">
 					<div class="item-thumb">
-						<img src={getHeroImage(post.slug, (post.data.category || [])[0], post.data.heroImage)} alt="" loading="lazy" />
+						<img src={getHeroImage(post.slug, (post.data.category || [])[0], post.data.heroImage)} alt={post.data.title} loading="lazy" />
 					</div>
 					<div class="item-meta">
 						<span class="cat">{post.data.category?.[0]}</span>
