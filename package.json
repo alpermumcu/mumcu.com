@@ -5,7 +5,11 @@
     "scripts": {
         "dev": "astro dev",
         "start": "astro dev",
+<<<<<<< HEAD
         "build": "astro build && pagefind --site dist",
+=======
+        "build": "astro build",
+>>>>>>> be0843fc97bbbc760754f4f33e85c63c069802ff
         "preview": "astro preview",
         "astro": "astro"
     },
