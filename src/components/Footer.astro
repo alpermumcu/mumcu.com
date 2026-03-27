@@ -1,0 +1,178 @@
+---
+import logo from '../images/uploads/2020/08/footer-logo.png';
+const today = new Date();
+---
+
+<footer class="footer">
+	<div class="footer-container">
+		<div class="footer-grid">
+			<div class="footer-section">
+				<div class="footer-logo">
+					<img src={logo.src} alt="Alper Mumcu Footer Logo" height="50" />
+				</div>
+				<div class="social-media">
+					<a href="https://www.instagram.com/dralpermumcu/" target="_blank" aria-label="Instagram">
+						<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-instagram"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
+					</a>
+					<a href="https://www.facebook.com/dralpermumcu" target="_blank" aria-label="Facebook">
+						<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-facebook"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
+					</a>
+					<a href="https://www.youtube.com/c/AlperMumcu" target="_blank" aria-label="YouTube">
+						<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-youtube"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2A29 29 0 0 0 23 11.75a29 29 0 0 0-.46-5.33z"></path><polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"></polygon></svg>
+					</a>
+				</div>
+				<h3 class="contact-heading">İletişim Bilgileri</h3>
+				<p class="address">Lotus Nişantaşı, Halaskargazi Cd. No:38-66<br/>Kat: 5 Daire: 93, 34371 Şişli/İstanbul<br/><strong>Bina bünyesinde otopark mevcuttur.</strong></p>
+				<p class="phone"><strong>Telefon:</strong> <a href="tel:05333246898">+90 533 324 68 98</a></p>
+				<p class="email"><strong>E-posta:</strong> <a href="mailto:randevu@mumcu.com">randevu@mumcu.com</a></p>
+			</div>
+			
+			<div class="footer-section">
+				<h3>Çalışma Saatleri</h3>
+				<ul class="hours">
+					<li><span>Pazartesi – Cuma:</span> <span>10:00 – 18:30</span></li>
+					<li><span>Cumartesi:</span> <span>10:00 – 14:00</span></li>
+					<li><span>Pazar / Resmi Tatiller:</span> <span>Kapalı</span></li>
+				</ul>
+			</div>
+			
+			<div class="footer-section">
+				<h3>Hızlı Bağlantılar</h3>
+				<div class="footer-links">
+					<a href="/dr-alper-mumcu">Dr. Alper Mumcu</a>
+					<a href="/online-randevu">Online Randevu</a>
+					<a href="/kvkk">KVKK & Gizlilik</a>
+					<a href="/cerez-politikasi">Çerez Politikası</a>
+					<a href="/blog">Makale Arşivi</a>
+				</div>
+			</div>
+		</div>
+		
+		<div class="footer-bottom">
+			<div class="footer-legal">
+				<p><strong>Yasal Uyarı:</strong> Bu sitede yer alan içerikler yalnızca bilgilendirme amaçlıdır. Sitedeki bilgiler, hekimin tıbbi muayenesi ve teşhisi yerine geçmez. Tanı ve tedavi için mutlaka doktorunuza başvurunuz. Sitedeki bilgiler doğrultusunda kendi kendinize tedavi uygulamayınız.</p>
+			</div>
+			<p class="copyright">&copy; {today.getFullYear()} Dr. Alper Mumcu. Tüm hakları saklıdır.</p>
+		</div>
+	</div>
+</footer>
+
+<style>
+	.footer {
+		background: white;
+		border-top: 1px solid var(--glass-border);
+		padding: 6rem 1rem 3rem;
+		margin-top: auto;
+		color: hsl(var(--text-muted));
+	}
+	.footer-container {
+		max-width: 1200px;
+		margin: 0 auto;
+	}
+	.footer-grid {
+		display: grid;
+		grid-template-columns: 1.5fr 1fr 1fr 1fr;
+		gap: 4rem;
+		margin-bottom: 4rem;
+	}
+	.social-media {
+		display: flex;
+		gap: 1rem;
+		margin-bottom: 2rem;
+	}
+	.social-media a {
+		color: hsl(var(--text-muted));
+		transition: color 0.3s ease;
+	}
+	.social-media a:hover {
+		color: hsl(var(--accent));
+	}
+	.contact-heading {
+		margin-top: 0;
+	}
+
+	h3 {
+		color: hsl(var(--text-main));
+		font-size: 1.25rem;
+		margin-bottom: 2rem;
+		font-weight: 800;
+		font-family: 'Outfit', sans-serif;
+	}
+	.footer-logo {
+		margin-bottom: 2rem;
+	}
+	.footer-logo img {
+		height: 50px;
+		width: auto;
+		opacity: 0.9;
+	}
+	p {
+		margin-bottom: 0.75rem;
+		font-size: 1rem;
+		line-height: 1.7;
+	}
+	.address {
+		margin-bottom: 1.5rem;
+	}
+	.phone, .email {
+		margin-bottom: 0.5rem;
+	}
+	.phone a, .email a {
+		color: hsl(var(--text-main));
+		text-decoration: none;
+		transition: color 0.2s;
+	}
+	.phone a:hover, .email a:hover {
+		color: hsl(var(--accent));
+	}
+	.hours {
+		list-style: none;
+		padding: 0;
+	}
+	.hours li {
+		display: flex;
+		justify-content: space-between;
+		margin-bottom: 0.75rem;
+		font-size: 0.95rem;
+		border-bottom: 1px dashed var(--glass-border);
+		padding-bottom: 0.75rem;
+	}
+	.footer-links {
+		display: flex;
+		flex-direction: column;
+		gap: 1rem;
+	}
+	.footer-links a {
+		color: hsl(var(--text-muted));
+		text-decoration: none;
+		transition: all 0.2s;
+		font-weight: 500;
+	}
+	.footer-links a:hover {
+		color: hsl(var(--accent));
+		padding-left: 5px;
+	}
+	.footer-bottom {
+		border-top: 1px solid var(--glass-border);
+		padding-top: 3rem;
+		text-align: center;
+	}
+	.footer-legal {
+		max-width: 800px;
+		margin: 0 auto 2rem;
+		padding: 1.5rem;
+		background: hsl(var(--secondary) / 0.3);
+		border-radius: 12px;
+		border: 1px solid var(--glass-border);
+	}
+	.footer-legal p {
+		font-size: 0.85rem;
+		line-height: 1.6;
+		margin-bottom: 0;
+		color: hsl(var(--text-muted));
+	}
+	.copyright {
+		font-size: 0.9rem;
+		opacity: 0.8;
+	}
+</style>

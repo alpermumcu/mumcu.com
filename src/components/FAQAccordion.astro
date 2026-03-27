@@ -1,0 +1,123 @@
+---
+interface Props {
+  items: {
+    question: string;
+    answer: string;
+  }[];
+}
+
+const { items } = Astro.props;
+---
+
+<div class="faq-accordion-container">
+  {items.map((item, index) => (
+    <details class="faq-item glass" open={index === 0}>
+      <summary class="faq-question font-outfit">
+        <span class="question-text">{item.question || "Merak Edilen Konu"}</span>
+        <span class="icon">
+          <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" class="chevron">
+            <polyline points="6 9 12 15 18 9"></polyline>
+          </svg>
+        </span>
+      </summary>
+      <div class="faq-answer">
+        <p>{item.answer}</p>
+      </div>
+    </details>
+  ))}
+</div>
+
+<style>
+  .faq-accordion-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-width: 900px;
+    margin: 2rem auto;
+  }
+
+  .faq-item {
+    border-radius: 20px;
+    border: 1px solid hsl(var(--accent) / 0.1);
+    overflow: hidden;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    background: hsl(var(--accent-light) / 0.3);
+  }
+
+  .faq-item[open] {
+    background: white;
+    border-color: hsl(var(--accent) / 0.2);
+    box-shadow: var(--shadow-xl);
+    transform: translateY(-2px);
+  }
+
+  .faq-question {
+    padding: 1.5rem 2rem;
+    list-style: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 700;
+    font-size: 1.15rem;
+    color: hsl(var(--primary));
+    user-select: none;
+  }
+
+  /* Remove default arrow in Chrome/Safari */
+  .faq-question::-webkit-details-marker {
+    display: none;
+  }
+
+  .question-text {
+    flex: 1;
+    padding-right: 1rem;
+  }
+
+  .icon {
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: hsl(var(--accent) / 0.05);
+    border-radius: 50%;
+    transition: all 0.3s ease;
+  }
+
+  .faq-item[open] .icon {
+    background: hsl(var(--accent));
+    color: white;
+    transform: rotate(180deg);
+  }
+
+  .faq-answer {
+    padding: 0 2rem 2rem;
+    font-size: 1.05rem;
+    line-height: 1.6;
+    color: hsl(var(--text-muted));
+    animation: slideDown 0.4s ease-out;
+  }
+
+  .faq-answer p {
+    margin: 0;
+  }
+
+  @keyframes slideDown {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  /* Hover Effects */
+  .faq-item:not([open]):hover {
+    background: hsl(var(--accent-light) / 0.5);
+    border-color: hsl(var(--accent) / 0.3);
+    transform: translateX(4px);
+  }
+</style>

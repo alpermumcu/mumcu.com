@@ -1,0 +1,183 @@
+---
+import TopBar from '../components/TopBar.astro';
+import Navigation from '../components/Navigation.astro';
+import Footer from '../components/Footer.astro';
+import WhatsApp from '../components/WhatsApp.astro';
+import ScrollToTop from '../components/ScrollToTop.astro';
+import MobileActions from '../components/MobileActions.astro';
+import ReadingProgress from '../components/ReadingProgress.astro';
+import CookieBanner from '../components/CookieBanner.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "Dr. Alper Mumcu'nun 25 yılı aşkın tecrübesiyle hazırlanan, güncel ve bilimsel kadın sağlığı, hamilelik ve tüp bebek bilgilendirme platformu." } = Astro.props;
+---
+
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content={description} />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  </head>
+  <body>
+    <TopBar />
+    <Navigation />
+    <main class="page-content" data-pagefind-body>
+      <slot />
+    </main>
+    <Footer />
+    <WhatsApp />
+    <ScrollToTop />
+    <MobileActions />
+    <ReadingProgress />
+    <CookieBanner />
+  </body>
+</html>
+
+<style is:global>
+  :root {
+    --primary: 181 61% 15%;
+    --secondary: 142 14% 92%; /* Muted Green Tint */
+    --accent: 190 64% 34%; /* Deep Teal for CTA */
+    --accent-light: 190 64% 94%;
+    --accent-gradient: linear-gradient(
+      135deg,
+      hsl(var(--accent)),
+      hsl(190 74% 28%)
+    );
+    --bg-main: 60 11% 97%;
+    --bg-card: 0 0% 100%;
+    --text-main: 188 44% 9%;
+    --text-muted: 220 9% 46%;
+    --glass: rgba(255, 255, 255, 0.9);
+    --glass-border: rgba(15, 61, 62, 0.1);
+    --shadow-sm: 0 4px 6px -1px rgb(0 0 0 / 0.05);
+    --shadow-md: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+    --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.08);
+    --whatsapp: 142 63% 32%; /* Darker green for ethical feel */
+    --link: 191 67% 25%;
+    --link-visited: 191 50% 20%;
+    --border: 188 15% 91%;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg-main: 188 44% 5%;
+      --bg-card: 188 44% 8%;
+      --text-main: 60 11% 95%;
+      --text-muted: 188 20% 70%;
+      --glass: rgba(11, 31, 34, 0.9);
+      --glass-border: rgba(255, 255, 255, 0.1);
+      --border: 188 30% 15%;
+      --link: 190 70% 60%;
+      --link-visited: 190 50% 45%;
+    }
+  }
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+    background: hsl(var(--bg-main));
+    color: hsl(var(--text-main));
+    scroll-behavior: smooth;
+  }
+  body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    position: relative;
+  }
+
+  body::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('/images/dna-pattern.svg');
+    background-repeat: repeat;
+    background-size: 300px;
+    opacity: 0.02;
+    animation: scroll-bg 60s linear infinite;
+    z-index: -1;
+  }
+
+  @keyframes scroll-bg {
+    from {
+      background-position-y: 0;
+    }
+    to {
+      background-position-y: -600px;
+    }
+  }
+
+  a {
+    color: hsl(var(--link));
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    text-decoration-thickness: 1px;
+    transition: all 0.2s;
+  }
+  a:visited {
+    color: hsl(260 30% 40%); /* Subtle purple-ish for visited */
+    text-underline-offset: 6px;
+    text-decoration-style: dashed;
+  }
+  a:hover {
+    color: hsl(var(--accent));
+    text-decoration-thickness: 2px;
+    text-decoration-style: solid;
+  }
+  :focus-visible {
+    outline: 3px solid hsl(var(--accent));
+    outline-offset: 3px;
+    border-radius: 4px;
+  }
+  h1, h2, h3, h4, .font-outfit {
+    font-family: 'Outfit', sans-serif;
+  }
+  .page-content {
+    flex: 1;
+  }
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+  }
+  .glass {
+    background: var(--glass);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--glass-border);
+  }
+  .text-gradient {
+    background: var(--accent-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  section {
+    padding: 5rem 0;
+  }
+  @media (max-width: 768px) {
+    section {
+      padding: 3rem 0;
+    }
+  }
+</style>

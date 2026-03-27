@@ -1,0 +1,419 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+
+const title = "İletişim";
+const description = "Dr. Alper Mumcu Muayenehanesi iletişim bilgileri, adres ve yol tarifi.";
+
+const clinicInfo = {
+  name: "MUAYENEHANE",
+  address: "Lotus Nişantaşı, Halaskargazi Cd. No:38-66, Kat: 5 Daire: 93, 34371 Şişli/İstanbul",
+  phone: "+90 (533) 324 68 98",
+  whatsapp: "905333246898",
+  parking: "Bina bünyesinde otopark mevcuttur.",
+  mapUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.5724213180424!2d28.985151876404783!3d41.051545016738586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab70c8164e327%3A0x5fb8d2c8ff74e8ca!2sDr.%20Alper%20Mumcu!5e0!3m2!1str!2str!4v1743003393963!5m2!1str!2str",
+  directionsUrl: "https://www.google.com/maps/dir//Dr.+Alper+Mumcu,+Lotus+Ni%C5%9Fanta%C5%9F%C4%B1,+Halaskargazi+Cd.+No:38-66,+Kat:+5+Daire:+93,+34371+%C5%9Ei%C5%9Fli%2F%C4%B0stanbul/"
+};
+
+const workingHours = [
+  { days: "Pazartesi – Cuma", hours: "10:00 – 18:30" },
+  { days: "Cumartesi", hours: "10:00 – 14:00" }
+];
+---
+
+<Layout title={title} description={description}>
+  <div class="contact-page container">
+    <Breadcrumbs parts={[{ label: 'İletişim' }]} />
+    
+    <header class="page-header">
+      <h1 class="font-outfit">İletişim & Randevu</h1>
+      <p>Sorularınız ve randevu talepleriniz için bize ulaşabilirsiniz.</p>
+    </header>
+
+    <div class="contact-grid">
+      <div class="info-column">
+        <!-- Muayenehane Card -->
+        <div class="contact-card primary">
+          <div class="card-header">
+            <i class="fa-solid fa-house-medical icon"></i>
+            <h2>{clinicInfo.name}</h2>
+          </div>
+          <div class="card-body">
+            <p class="address">
+              <i class="fa-solid fa-location-dot"></i>
+              {clinicInfo.address}
+            </p>
+            <p class="parking">
+              <i class="fa-solid fa-car"></i>
+              {clinicInfo.parking}
+            </p>
+            <div class="phone-group">
+              <a href={`tel:${clinicInfo.phone.replace(/\s/g, '')}`} class="phone-link">
+                <i class="fa-solid fa-phone"></i> {clinicInfo.phone}
+              </a>
+            </div>
+            <a href={`https://wa.me/${clinicInfo.whatsapp}`} class="whatsapp-btn" target="_blank">
+              <i class="fa-brands fa-whatsapp"></i> WhatsApp ile Ulaşın
+            </a>
+          </div>
+        </div>
+
+
+        <!-- Working Hours Card -->
+        <div class="contact-card hours">
+          <div class="card-header">
+            <i class="fa-solid fa-clock icon"></i>
+            <h2>Çalışma Saatleri</h2>
+          </div>
+          <div class="card-body">
+            {workingHours.map(item => (
+              <div class="hour-row">
+                <span class="days">{item.days}</span>
+                <span class="time">{item.hours}</span>
+              </div>
+            ))}
+            <p class="note">Diğer saatlerdeki randevu talepleriniz için iletişim formu ile istek gönderebilirsiniz.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="map-column">
+        <div class="map-container">
+          <iframe 
+            src={clinicInfo.mapUrl} 
+            width="100%" 
+            height="100%" 
+            style="border:0;" 
+            allowfullscreen="" 
+            loading="lazy" 
+            referrerpolicy="no-referrer-when-downgrade"
+          ></iframe>
+          <div class="map-overlay">
+            <a href={clinicInfo.directionsUrl} class="directions-btn" target="_blank">
+              <i class="fa-solid fa-diamond-turn-right"></i> Yol Tarifi Al
+            </a>
+          </div>
+        </div>
+        
+        <div class="kvkk-notice">
+          <label class="kvkk-checkbox-container">
+            <input type="checkbox" id="kvkk-consent" required />
+            <span class="checkmark"></span>
+            <span class="kvkk-text">
+              Paylaşmış olduğum verilerin, 6698 sayılı <a href="/kvkk" target="_blank">KVKK Aydınlatma Metni</a> çerçevesinde işlenebilmesini onaylıyorum.
+            </span>
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  .contact-page {
+    padding-top: 8rem;
+    padding-bottom: 4rem;
+  }
+
+  .page-header {
+    text-align: center;
+    margin-bottom: 4rem;
+  }
+
+  .page-header h1 {
+    font-size: 3.5rem;
+    color: hsl(var(--text-main));
+    margin-bottom: 1rem;
+    font-weight: 800;
+  }
+
+  .page-header p {
+    font-size: 1.25rem;
+    color: hsl(var(--text-muted));
+  }
+
+  .contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    align-items: start;
+  }
+
+  .info-column {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .contact-card {
+    background: white;
+    padding: 2.5rem;
+    border-radius: 32px;
+    border: 1px solid var(--glass-border);
+    box-shadow: var(--shadow-sm);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .contact-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-md);
+  }
+
+  .contact-card.primary {
+    border-left: 6px solid hsl(var(--accent));
+  }
+
+  .card-header {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .card-header h2 {
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: hsl(var(--text-main));
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .card-header .icon {
+    font-size: 2rem;
+    color: hsl(var(--accent));
+  }
+
+  .card-body p {
+    margin: 0 0 1.5rem;
+    line-height: 1.6;
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+  }
+
+  .card-body i {
+    color: hsl(var(--accent));
+    margin-top: 0.25rem;
+    width: 20px;
+    text-align: center;
+  }
+
+  .phone-group {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .phone-link {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: hsl(var(--text-main));
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    transition: color 0.2s;
+  }
+
+  .phone-link:hover {
+    color: hsl(var(--accent));
+  }
+
+  .whatsapp-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    background: #25D366;
+    color: white;
+    padding: 1.1rem 2.2rem;
+    border-radius: 99px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.1rem;
+    box-shadow: 0 4px 15px rgba(37, 211, 102, 0.2), 0 8px 25px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+
+  .whatsapp-btn:hover {
+    background: #22c35e;
+    transform: scale(1.03) translateY(-2px);
+    box-shadow: 0 6px 20px rgba(37, 211, 102, 0.3), 0 12px 35px rgba(0, 0, 0, 0.15);
+  }
+
+  .hour-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.75rem 0;
+    border-bottom: 1px dotted var(--glass-border);
+  }
+
+  .hour-row:last-of-type {
+    border-bottom: none;
+  }
+
+  .days {
+    font-weight: 600;
+  }
+
+  .time {
+    color: hsl(var(--accent));
+    font-weight: 700;
+  }
+
+  .note {
+    font-size: 0.9rem;
+    color: hsl(var(--text-muted));
+    margin-top: 1.5rem !important;
+  }
+
+  /* Map column */
+  .map-column {
+    position: sticky;
+    top: 8rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .map-container {
+    height: 500px;
+    border-radius: 32px;
+    overflow: hidden;
+    position: relative;
+    border: 1px solid var(--glass-border);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .map-overlay {
+    position: absolute;
+    bottom: 2rem;
+    left: 2rem;
+    right: 2rem;
+  }
+
+  .directions-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    background: white;
+    color: hsl(var(--text-main));
+    padding: 1.25rem 2rem;
+    border-radius: 99px;
+    text-decoration: none;
+    font-weight: 700;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    transition: transform 0.2s, background 0.2s;
+  }
+
+  .directions-btn:hover {
+    background: hsl(var(--accent));
+    color: white;
+    transform: scale(1.02);
+  }
+
+  .kvkk-notice {
+    font-size: 0.9rem;
+    color: hsl(var(--text-muted));
+    padding: 1.5rem;
+    background: hsl(var(--accent) / 0.05);
+    border-radius: 20px;
+    line-height: 1.5;
+    border: 1px solid hsl(var(--accent) / 0.1);
+  }
+
+  .kvkk-checkbox-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+  }
+
+  .kvkk-checkbox-container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+  }
+
+  .checkmark {
+    min-width: 22px;
+    height: 22px;
+    background-color: white;
+    border: 2px solid hsl(var(--accent) / 0.3);
+    border-radius: 6px;
+    position: relative;
+    transition: all 0.2s ease;
+    margin-top: 2px;
+  }
+
+  .kvkk-checkbox-container:hover input ~ .checkmark {
+    border-color: hsl(var(--accent));
+    background-color: hsl(var(--accent) / 0.05);
+  }
+
+  .kvkk-checkbox-container input:checked ~ .checkmark {
+    background-color: hsl(var(--accent));
+    border-color: hsl(var(--accent));
+  }
+
+  .checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+  }
+
+  .kvkk-checkbox-container input:checked ~ .checkmark:after {
+    display: block;
+  }
+
+  .kvkk-checkbox-container .checkmark:after {
+    left: 7px;
+    top: 3px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+  }
+
+  .kvkk-text {
+    font-size: 0.95rem;
+  }
+
+  .kvkk-text a {
+    color: hsl(var(--accent));
+    font-weight: 600;
+    text-decoration: underline;
+  }
+
+  @media (max-width: 1024px) {
+    .contact-grid {
+      grid-template-columns: 1fr;
+    }
+    .map-column {
+      position: static;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .contact-page {
+      padding-top: 6rem;
+    }
+    .page-header h1 {
+      font-size: 2.5rem;
+    }
+    .contact-card {
+      padding: 1.5rem;
+    }
+    .map-container {
+      height: 400px;
+    }
+  }
+</style>

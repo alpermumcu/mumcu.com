@@ -1,0 +1,58 @@
+/* Accordion container için overflow kontrolü */
+.accordion-container {
+  overflow: visible !important;
+}
+
+/* Accordion item'lar için */
+.accordion-item {
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+.accordion-question {
+  padding: 15px;
+  background: #f1f1f1;
+  cursor: pointer;
+}
+
+.accordion-answer {
+  padding: 15px;
+  display: none; /* JavaScript ile açılıp kapanıyor olabilir */
+}
+
+.accordion-answer.active {
+  display: block;
+}
+
+/* FAQ item'lar için */
+.faq-item {
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+.faq-item summary {
+  padding: 15px;
+  background: #f1f1f1;
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.faq-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.faq-item .toggle-icon {
+  font-size: 1.2em;
+}
+
+.faq-answer {
+  padding: 15px;
+  display: none;
+}
+
+.faq-item[open] .faq-answer {
+  display: block;
+}

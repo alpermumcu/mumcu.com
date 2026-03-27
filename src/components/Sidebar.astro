@@ -1,0 +1,92 @@
+---
+import { getCollection } from 'astro:content';
+import { categories } from '../data/categories';
+
+const recentPosts = (await getCollection('blog'))
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+	.slice(0, 5);
+
+const currentPath = Astro.url.pathname;
+---
+
+<aside class="sidebar">
+	<section class="widget">
+		<h3>En Güncel Yazılar</h3>
+		<ul>
+			{recentPosts.map((post) => (
+				<li>
+					<a href={`/blog/${post.slug}/`} class={currentPath === `/blog/${post.slug}/` ? 'active' : ''}>
+						{post.data.title}
+					</a>
+				</li>
+			))}
+		</ul>
+	</section>
+
+	<section class="widget">
+		<h3>Kategoriler</h3>
+		<ul>
+			{categories.map((cat) => (
+				<li>
+					<a href={`/category/${cat.slug}/`} class={currentPath.includes(`/category/${cat.slug}`) ? 'active' : ''}>
+						{cat.name}
+					</a>
+				</li>
+			))}
+		</ul>
+	</section>
+</aside>
+
+<style>
+	.sidebar {
+		display: flex;
+		flex-direction: column;
+		gap: 2rem;
+	}
+	.widget {
+		background: white;
+		border: 1px solid var(--glass-border);
+		border-radius: 20px;
+		padding: 2rem;
+		box-shadow: var(--shadow-sm);
+	}
+	h3 {
+		color: hsl(var(--text-main));
+		font-size: 1.15rem;
+		margin-bottom: 1.5rem;
+		font-weight: 800;
+		font-family: 'Outfit', sans-serif;
+		position: relative;
+		padding-bottom: 1rem;
+		border-bottom: 2px solid hsl(var(--accent) / 0.1);
+	}
+	h3::after {
+		content: '';
+		position: absolute;
+		bottom: -2px;
+		left: 0;
+		width: 40px;
+		height: 2px;
+		background: var(--accent-gradient);
+	}
+	ul {
+		list-style: none;
+		padding: 0;
+		display: flex;
+		flex-direction: column;
+		gap: 0.85rem;
+	}
+	li a {
+		color: hsl(var(--text-muted));
+		text-decoration: none;
+		font-size: 0.95rem;
+		transition: all 0.2s;
+		line-height: 1.5;
+		display: block;
+		font-weight: 500;
+	}
+	li a:hover, li a.active {
+		color: hsl(var(--accent));
+		transform: translateX(5px);
+	}
+</style>

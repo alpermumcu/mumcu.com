@@ -1,0 +1,7 @@
+# WordPress Legacy Redirects
+# WordPress standard date-based URLs to Astro slugs
+/:year/:month/:day/:slug  /:slug  301
+
+# Handle common WP category paths if needed (Astro uses /category/[slug])
+/topics/*  /category/:splat  301
+/tag/*     /blog  301

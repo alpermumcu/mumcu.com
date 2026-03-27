@@ -1,0 +1,75 @@
+<button id="scroll-to-top" class="scroll-btn" aria-label="Başa Dön">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="18 15 12 9 6 15"></polyline>
+  </svg>
+</button>
+
+<style>
+  .scroll-btn {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    color: hsl(var(--accent));
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    border: 1px solid var(--glass-border);
+    z-index: 1000;
+    cursor: pointer;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(20px);
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+
+  .scroll-btn.show {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+
+  .scroll-btn svg {
+    width: 24px;
+    height: 24px;
+  }
+
+  .scroll-btn:hover {
+    background-color: hsl(var(--accent));
+    color: white;
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px hsl(var(--accent) / 0.3);
+  }
+
+  @media (max-width: 768px) {
+    .scroll-btn {
+      bottom: 1.5rem;
+      right: 1.5rem;
+      width: 45px;
+      height: 45px;
+    }
+  }
+</style>
+
+<script>
+  const scrollBtn = document.getElementById('scroll-to-top');
+
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 300) {
+      scrollBtn?.classList.add('show');
+    } else {
+      scrollBtn?.classList.remove('show');
+    }
+  });
+
+  scrollBtn?.addEventListener('click', () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  });
+</script>

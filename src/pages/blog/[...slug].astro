@@ -1,0 +1,183 @@
+---
+import { type CollectionEntry, getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Sidebar from '../../components/Sidebar.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import ReadingProgress from '../../components/ReadingProgress.astro';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('blog');
+	return posts.map((post) => ({
+		params: { slug: post.slug },
+		props: post,
+	}));
+}
+type Props = CollectionEntry<'blog'>;
+
+const post = Astro.props;
+const { Content } = await post.render();
+---
+
+<Layout title={post.data.title} description={post.data.description}>
+  <ReadingProgress />
+  <div class="content-wrapper container">
+    <article class="post-content">
+      <Breadcrumbs 
+        parts={[
+          { label: 'Makale Arşivi', href: '/blog/' },
+          { 
+            label: post.data.category?.[0] || 'Genel', 
+            href: post.data.category?.[0] ? `/category/${post.data.category[0].toLowerCase().replace(/ & /g, '-').replace(/ /g, '-').normalize('NFD').replace(/[\u0300-\u036f]/g, "")}/` : '#' 
+          },
+          { label: post.data.title }
+        ]} 
+      />
+      <header>
+        <div class="metadata">
+          <time datetime={post.data.pubDate.toISOString()}>
+            {post.data.pubDate.toLocaleDateString('tr-TR', {
+              year: 'numeric',
+              month: 'long',
+              day: 'numeric',
+            })}
+          </time>
+          <span class="separator">•</span>
+          <span class="reading-time">⏱️ {post.data.readingTime} dk okuma</span>
+          {post.data.category && (
+            <span class="category-tag">{post.data.category[0]}</span>
+          )}
+        </div>
+        <h1 class="font-outfit">{post.data.title}</h1>
+      </header>
+      
+      <div class="prose">
+        <Content />
+      </div>
+
+      <div class="medical-disclaimer-box glass">
+        <div class="disclaimer-header">
+          <span class="disclaimer-icon">⚠️</span>
+          <strong>Önemli Bilgilendirme</strong>
+        </div>
+        <p>Bu makale içerisinde yer alan bilgiler genel bilgilendirme amaçlıdır ve bilimsel araştırmalara dayalı veriler sunmaktadır. Bu içerik, bir doktorun profesyonel tıbbi tavsiyesi, tanısı veya tedavisinin yerini alamaz. Sağlığınızla ilgili her türlü tıbbi sorunuz için mutlaka doktorunuza danışınız.</p>
+      </div>
+    </article>
+
+    <Sidebar />
+  </div>
+</Layout>
+
+<style>
+  .content-wrapper {
+    margin: 8rem auto 4rem;
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    gap: 4rem;
+  }
+  .post-content {
+    background: white;
+    border: 1px solid var(--glass-border);
+    border-radius: 32px;
+    padding: 4rem;
+    box-shadow: var(--shadow-sm);
+  }
+  header {
+    margin-bottom: 3.5rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid var(--glass-border);
+  }
+  .metadata {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: hsl(var(--text-muted));
+    font-size: 0.95rem;
+    font-weight: 600;
+  }
+  .category-tag {
+    background: hsl(var(--accent) / 0.1);
+    color: hsl(var(--accent));
+    padding: 0.4rem 1rem;
+    border-radius: 99px;
+    font-weight: 700;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  h1 {
+    font-size: 3.5rem;
+    color: hsl(var(--text-main));
+    line-height: 1.1;
+    margin: 0;
+    font-weight: 800;
+  }
+  .prose {
+    color: hsl(var(--text-main));
+    line-height: 1.8;
+    font-size: 1.15rem;
+  }
+  .prose :global(p) {
+    margin-bottom: 2rem;
+  }
+  .prose :global(h2) {
+    color: hsl(var(--text-main));
+    font-size: 2.25rem;
+    margin: 4rem 0 1.5rem;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 800;
+  }
+  .prose :global(img) {
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+    margin: 3rem 0;
+    box-shadow: var(--shadow-md);
+  }
+
+  @media (max-width: 1024px) {
+    .content-wrapper {
+      grid-template-columns: 1fr;
+      margin-top: 6rem;
+    }
+  }
+  @media (max-width: 768px) {
+    .post-content {
+      padding: 2rem;
+      border-radius: 24px;
+    }
+    h1 {
+      font-size: 2.25rem;
+    }
+    .metadata {
+      flex-wrap: wrap;
+      gap: 0.75rem;
+    }
+  }
+
+  /* Disclaimer Styling */
+  .medical-disclaimer-box {
+    margin-top: 5rem;
+    padding: 2.5rem;
+    border-radius: 20px;
+    background: linear-gradient(135deg, hsl(var(--accent) / 0.03), hsl(var(--accent) / 0.01));
+    border-left: 5px solid hsl(var(--accent));
+  }
+  .disclaimer-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    color: hsl(var(--text-main));
+  }
+  .disclaimer-icon {
+    font-size: 1.25rem;
+  }
+  .medical-disclaimer-box p {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: hsl(var(--text-muted));
+  }
+</style>

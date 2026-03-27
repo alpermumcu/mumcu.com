@@ -1,0 +1,764 @@
+---
+import Layout from '../layouts/Layout.astro';
+import AcademicBadges from '../components/AcademicBadges.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import Sidebar from '../components/Sidebar.astro';
+import doctorPhoto from '../images/uploads/2020/08/alper-mumcu-photo.jpg';
+
+const title = "Dr. Alper Mumcu | Kadın Hastalıkları ve Doğum Uzmanı";
+const description = "Dr. Alper Mumcu'nun özgeçmişi, bilimsel yayınları, akademik çalışmaları ve iletişim bilgileri.";
+
+const publications = [
+  {
+    authors: "Urman B, Balaban B, Alatas C, Aksoy S, Mumcu A, Isiklar A",
+    title: "Zona-intact versus zona-free blastocyst transfer: a prospective, randomized study.",
+    journal: "Fertil Steril",
+    year: "2002",
+    volume: "78(2):392-6",
+    doi: "10.1016/s0015-0282(02)03238-7"
+  },
+  {
+    authors: "Balaban B, Urman B, Alatas C, Mercan R, Mumcu A, Isiklar A",
+    title: "A comparison of four different techniques of assisted hatching.",
+    journal: "Hum Reprod",
+    year: "2002",
+    volume: "17(5):1239-43",
+    doi: "10.1093/humrep/17.5.1239"
+  },
+  {
+    authors: "Urman B, Alatas C, Aksoy S, Mercan R, Nuhoglu A, Mumcu A, Isiklar A, Balaban B",
+    title: "Transfer at the blastocyst stage of embryos derived from testicular round spermatid injection.",
+    journal: "Hum Reprod",
+    year: "2002",
+    volume: "17(3):741-3",
+    doi: "10.1093/humrep/17.3.741"
+  },
+  {
+    authors: "Balaban B, Urman B, Isiklar A, Alatas C, Aksoy S, Mercan R, Mumcu A, Nuhoglu A",
+    title: "The effect of pronuclear morphology on embryo quality parameters and blastocyst transfer outcome.",
+    journal: "Hum Reprod",
+    year: "2001",
+    volume: "16(11):2357-61",
+    doi: null
+  },
+  {
+    authors: "Acar B, Uslu T, Topuz A, Osma E, Ercal T, Posaci C, Erata Y, Mumcu A",
+    title: "Relation between bone mineral content and clinical, hormonal and biochemical parameters in postmenopausal women.",
+    journal: "Arch Gynecol Obstet",
+    year: "1998",
+    volume: "261(3):121-8",
+    doi: null
+  },
+  {
+    authors: "Ercal T, Cinar O, Mumcu A, Lacin S, Ozer E",
+    title: "Ovarian pregnancy; relationship to an intrauterine device.",
+    journal: "Aust N Z J Obstet Gynaecol",
+    year: "1997",
+    volume: "37(3):362-4",
+    doi: null
+  },
+  {
+    authors: "Ercal T, Lacin S, Altunyurt S, Saygili U, Cinar O, Mumcu A",
+    title: "Umbilical coiling index: is it a marker for the foetus at risk?",
+    journal: "Br J Clin Pract",
+    year: "1996",
+    volume: "50(5):254-6",
+    doi: null
+  },
+];
+
+const memberships = [
+  "The European Society of Human Reproduction and Embryology (ESHRE)",
+  "American Society for Reproductive Medicine (ASRM)",
+  "Turkish Society of Reproductive Medicine (TSRM)",
+  "Türk Jinekoloji Derneği (TJOD)",
+  "Jinekolojik Endoskopi Derneği",
+  "İstanbul Tabip Odası",
+];
+---
+
+<Layout title={title} description={description}>
+  <div class="page-wrapper">
+    <!-- Hero Banner -->
+    <div class="profile-hero">
+      <div class="hero-bg-orb hero-bg-orb--1" aria-hidden="true"></div>
+      <div class="hero-bg-orb hero-bg-orb--2" aria-hidden="true"></div>
+      <div class="container">
+        <Breadcrumbs parts={[{ label: "Dr. Alper Mumcu" }]} />
+        <div class="profile-hero-inner">
+          <div class="profile-photo-wrap">
+            <div class="photo-ring" aria-hidden="true"></div>
+            <img src={doctorPhoto.src} alt="Dr. Alper Mumcu" class="profile-photo" />
+          </div>
+          <div class="profile-hero-text">
+            <h1 class="font-outfit">Dr. Alper Mumcu</h1>
+            <div class="profile-hero-meta">
+              <span class="meta-item"><strong>Tıp Fakültesi:</strong> Hacettepe Üniversitesi (1992)</span>
+              <span class="meta-item"><strong>Uzmanlık:</strong> Dokuz Eylül Üniversitesi (1997)</span>
+            </div>
+            <div class="profile-hero-memberships">
+              <span class="m-badge">ESHRE Üyesi</span>
+              <span class="m-badge">İTO Üyesi</span>
+              <span class="m-badge">TJOD Üyesi</span>
+            </div>
+            
+            <div class="profile-hero-academic">
+              <AcademicBadges />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="container content-grid">
+      <main class="main-col">
+
+        <!-- Biography -->
+        <section class="content-card" id="bio">
+          <div class="card-header">
+            <div class="card-icon">👨‍⚕️</div>
+            <h2>Biyografi</h2>
+          </div>
+          <div class="bio-text">
+            <p>20 Ekim 1969 tarihinde Ankara'da doğdu. 1975–1986 yılları arasında ilk ve orta öğrenimini T.E.D. Ankara Koleji'nde tamamladıktan sonra, 1986 yılında girdiği <strong>Hacettepe Üniversitesi Tıp Fakültesi</strong> İngilizce bölümünden 1992 yılında mezun oldu.</p>
+            <p>1992–1997 yılları arasında Tıpta Uzmanlık Sınavındaki ilk tercihi olan İzmir, <strong>Dokuz Eylül Üniversitesi Tıp Fakültesi</strong>'nde Kadın Hastalıkları ve Doğum ihtisası yaptı.</p>
+            <p>Temmuz 2000–Ekim 2010 tarihleri arasında <strong>Amerikan Hastanesi Üreme Sağlığı Ünitesi</strong>'nde Kadın Hastalıkları ve Doğum uzmanı olarak görev yaptıktan sonra Kanada'ya gitti. Burada 3 yıl süre ile özel bir tüp bebek merkezinin kuruluşunda görev aldı.</p>
+            <p>Takip eden dönemde <strong>McGill Üniversitesi Tıp Fakültesi Araştırma Enstitüsü</strong>'nde yumurtalık kanserlerinin erken teşhisine yönelik bir araştırma projesinde yer aldı. Nisan 2015'te Türkiye'ye geri döndü.</p>
+            <p>Halen <strong>Lotus Nişantaşı</strong>'ndaki özel muayenehanesinde hasta kabul etmektedir.</p>
+          </div>
+        </section>
+
+        <!-- Education -->
+        <section class="content-card" id="egitim">
+          <div class="card-header">
+            <div class="card-icon">🎓</div>
+            <h2>Eğitim</h2>
+          </div>
+          <div class="timeline">
+            <div class="timeline-item">
+              <div class="tl-year">1986–1992</div>
+              <div class="tl-content">
+                <strong>Hacettepe Üniversitesi Tıp Fakültesi</strong>
+                <span>İngilizce Tıp Fakültesi — Tıp Doktoru (MD)</span>
+              </div>
+            </div>
+            <div class="timeline-item">
+              <div class="tl-year">1992–1997</div>
+              <div class="tl-content">
+                <strong>Dokuz Eylül Üniversitesi Tıp Fakültesi</strong>
+                <span>Kadın Hastalıkları ve Doğum Uzmanlık Eğitimi</span>
+              </div>
+            </div>
+            <div class="timeline-item">
+              <div class="tl-year">1975–1986</div>
+              <div class="tl-content">
+                <strong>T.E.D. Ankara Koleji</strong>
+                <span>İlk ve Orta Öğretim</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Experience -->
+        <section class="content-card" id="deneyim">
+          <div class="card-header">
+            <div class="card-icon">🏥</div>
+            <h2>Çalışma Geçmişi</h2>
+          </div>
+          <div class="timeline">
+            <div class="timeline-item">
+              <div class="tl-year">2015 –</div>
+              <div class="tl-content">
+                <strong>Lotus Nişantaşı — Özel Muayenehane</strong>
+                <span>Kadın Hastalıkları ve Doğum Uzmanı · İstanbul</span>
+              </div>
+            </div>
+            <div class="timeline-item">
+              <div class="tl-year">2013–2015</div>
+              <div class="tl-content">
+                <strong>Clinique Gynesys</strong>
+                <span>Jinekoloji Uzmanı · Montreal, Kanada</span>
+              </div>
+            </div>
+            <div class="timeline-item">
+              <div class="tl-year">2013</div>
+              <div class="tl-content">
+                <strong>McGill University Health Centre — Research Institute</strong>
+                <span>Araştırmacı (DOVE Projesi) · Montreal, Kanada</span>
+              </div>
+            </div>
+            <div class="timeline-item">
+              <div class="tl-year">2010–2013</div>
+              <div class="tl-content">
+                <strong>Montreal Reproductive Centre</strong>
+                <span>Kadın Hastalıkları & Tüp Bebek Uzmanı · Montreal, Kanada</span>
+              </div>
+            </div>
+            <div class="timeline-item">
+              <div class="tl-year">2000–2010</div>
+              <div class="tl-content">
+                <strong>Amerikan Hastanesi — Üreme Sağlığı Ünitesi</strong>
+                <span>Kadın Hastalıkları ve Doğum Uzmanı · İstanbul</span>
+              </div>
+            </div>
+            <div class="timeline-item">
+              <div class="tl-year">1998–1999</div>
+              <div class="tl-content">
+                <strong>GATA Haydarpaşa Eğitim Hastanesi</strong>
+                <span>Askerlik Görevi · İstanbul</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Publications -->
+        <section class="content-card" id="yayinlar">
+          <div class="card-header">
+            <div class="card-icon">📄</div>
+            <h2>Bilimsel Yayınlar</h2>
+          </div>
+          <div class="publications-list">
+            {publications.map((pub, i) => (
+              <div class="pub-item">
+                <div class="pub-number">{i + 1}</div>
+                <div class="pub-content">
+                  <p class="pub-title">{pub.title}</p>
+                  <p class="pub-authors">{pub.authors}</p>
+                  <div class="pub-meta">
+                    <span class="pub-journal">{pub.journal}</span>
+                    <span class="pub-year">{pub.year}</span>
+                    <span class="pub-volume">{pub.volume}</span>
+                    {pub.doi && (
+                      <a
+                        href={`https://doi.org/${pub.doi}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="pub-doi"
+                      >
+                        DOI ↗
+                      </a>
+                    )}
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        <!-- Memberships -->
+        <section class="content-card" id="dernekler">
+          <div class="card-header">
+            <div class="card-icon">🤝</div>
+            <h2>Üye Olduğu Dernekler</h2>
+          </div>
+          <ul class="membership-list">
+            {memberships.map(m => (
+              <li class="membership-item">
+                <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                  <circle cx="8" cy="8" r="7" stroke="hsl(var(--accent))" stroke-width="1.5"/>
+                  <path d="M5 8l2 2 4-4" stroke="hsl(var(--accent))" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+                {m}
+              </li>
+            ))}
+          </ul>
+        </section>
+
+        <!-- Contact -->
+        <section class="content-card contact-card" id="iletisim">
+          <div class="card-header">
+            <div class="card-icon">📍</div>
+            <h2>İletişim</h2>
+          </div>
+          <div class="contact-grid">
+            <div class="contact-item">
+              <span class="contact-label">Adres</span>
+              <span>Halaskargazi Cd. No:38-66, Kat:5 D:93<br/>Lotus Nişantaşı, 34371 Şişli/İstanbul</span>
+            </div>
+            <div class="contact-item">
+              <span class="contact-label">Telefon</span>
+              <a href="tel:+905333246898">+90 533 324 68 98</a>
+            </div>
+            <div class="contact-item">
+              <span class="contact-label">E-Posta</span>
+              <a href="mailto:randevu@mumcu.com">randevu@mumcu.com</a>
+            </div>
+            <div class="contact-item">
+              <span class="contact-label">Çalışma Saatleri</span>
+              <span>Pzt–Cum: 10:00–18:30<br/>Cumartesi: 10:00–14:00</span>
+            </div>
+          </div>
+          <a href="/online-randevu" class="btn-randevu">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+            Online Randevu Talebi
+          </a>
+        </section>
+
+        <!-- Medical Disclaimer -->
+        <div class="medical-disclaimer-box glass">
+          <div class="disclaimer-header">
+            <span class="disclaimer-icon">⚠️</span>
+            <strong>Önemli Bilgilendirme</strong>
+          </div>
+          <p>Bu sayfada yer alan özgeçmiş ve tıbbi ilgi alanları bilgileri, hastaların hekim seçimi konusunda objektif olarak bilgilendirilmesi amacıyla hazırlanmıştır. Sitemizdeki hiçbir içerik reklam veya promosyon amacı taşımamakta olup, profesyonel tıbbi danışmanlık yerine geçmez.</p>
+        </div>
+
+      </main>
+      <Sidebar />
+    </div>
+  </div>
+</Layout>
+
+<style>
+  /* ===== Page Wrapper ===== */
+  .page-wrapper {
+    background: hsl(var(--bg-main));
+  }
+
+  /* ===== Profile Hero ===== */
+  .profile-hero {
+    position: relative;
+    overflow: hidden;
+    padding: 8rem 0 4rem;
+    background:
+      radial-gradient(ellipse 70% 60% at 10% 30%, hsl(330 80% 60% / 0.07), transparent),
+      radial-gradient(ellipse 50% 50% at 85% 70%, hsl(210 80% 60% / 0.07), transparent),
+      hsl(var(--bg-main));
+    border-bottom: 1px solid var(--glass-border);
+  }
+
+  .hero-bg-orb {
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(90px);
+    pointer-events: none;
+    z-index: 0;
+    animation: orbDrift 20s ease-in-out infinite alternate;
+  }
+  .hero-bg-orb--1 {
+    width: 500px; height: 500px;
+    top: -100px; right: -100px;
+    background: radial-gradient(circle, hsl(330 80% 70% / 0.15), transparent 70%);
+  }
+  .hero-bg-orb--2 {
+    width: 350px; height: 350px;
+    bottom: -80px; left: 5%;
+    background: radial-gradient(circle, hsl(210 80% 70% / 0.10), transparent 70%);
+    animation-delay: -10s;
+    animation-duration: 25s;
+  }
+  @keyframes orbDrift {
+    from { transform: translate(0, 0) scale(1); }
+    to   { transform: translate(30px, -20px) scale(1.06); }
+  }
+
+  .profile-hero .container { position: relative; z-index: 2; }
+
+  .profile-hero-inner {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    margin-top: 2rem;
+  }
+
+  /* Photo */
+  .profile-photo-wrap {
+    position: relative;
+    flex-shrink: 0;
+  }
+  .photo-ring {
+    position: absolute;
+    inset: -8px;
+    border-radius: 50%;
+    background: var(--accent-gradient);
+    opacity: 0.25;
+    animation: ringPulse 4s ease-in-out infinite;
+  }
+  @keyframes ringPulse {
+    0%, 100% { opacity: 0.25; transform: scale(1); }
+    50% { opacity: 0.4; transform: scale(1.03); }
+  }
+  .profile-photo {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: top;
+    border: 4px solid white;
+    box-shadow: 0 20px 40px -10px hsl(var(--accent) / 0.25);
+    position: relative;
+    z-index: 1;
+    display: block;
+  }
+
+  /* Hero Text */
+  .profile-hero-text {
+    flex: 1;
+  }
+  .profile-hero-text h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    color: hsl(var(--text-main));
+    margin: 0 0 0.25rem;
+    line-height: 1.1;
+  }
+  /* Hero Text Details */
+  .profile-hero-meta {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    color: hsl(var(--text-muted));
+    font-size: 0.95rem;
+  }
+  .meta-item strong {
+    color: hsl(var(--text-main));
+    font-weight: 700;
+  }
+
+  .profile-hero-memberships {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 1.5rem;
+  }
+  .m-badge {
+    font-size: 0.72rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: hsl(var(--accent));
+    padding: 0.4rem 0.75rem;
+    background: hsl(var(--accent) / 0.05);
+    border: 1px solid hsl(var(--accent) / 0.15);
+    border-radius: 99px;
+  }
+
+  .profile-hero-academic {
+    margin-top: 2rem;
+  }
+
+  /* ===== Content Grid ===== */
+  .content-grid {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 3rem;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+    align-items: start;
+  }
+  .main-col {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  /* ===== Content Cards ===== */
+  .content-card {
+    background: hsl(var(--bg-card));
+    border: 1px solid var(--glass-border);
+    border-radius: 28px;
+    padding: 2.5rem;
+    box-shadow: 0 4px 16px rgb(0 0 0 / 0.04);
+    transition: box-shadow 0.3s ease;
+  }
+  .content-card:hover {
+    box-shadow: 0 8px 32px rgb(0 0 0 / 0.07);
+  }
+
+  .card-header {
+    display: flex;
+    align-items: center;
+    gap: 0.875rem;
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--glass-border);
+  }
+  .card-icon {
+    font-size: 1.5rem;
+    width: 48px;
+    height: 48px;
+    background: hsl(var(--accent) / 0.08);
+    border-radius: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .card-header h2 {
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: hsl(var(--text-main));
+    font-family: 'Outfit', sans-serif;
+    margin: 0;
+  }
+
+  /* ===== Bio ===== */
+  .bio-text p {
+    color: hsl(var(--text-muted));
+    line-height: 1.8;
+    font-size: 1.05rem;
+    margin-bottom: 1.25rem;
+  }
+  .bio-text p:last-child { margin-bottom: 0; }
+  .bio-text strong { color: hsl(var(--text-main)); font-weight: 700; }
+
+  /* ===== Timeline ===== */
+  .timeline {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+  .timeline-item {
+    display: grid;
+    grid-template-columns: 110px 1fr;
+    gap: 1.5rem;
+    padding: 1.25rem 0;
+    border-bottom: 1px solid var(--glass-border);
+    position: relative;
+  }
+  .timeline-item::before {
+    content: '';
+    position: absolute;
+    left: 110px;
+    top: 0;
+    bottom: 0;
+    transform: translateX(-50%) translateX(0.75rem);
+    width: 2px;
+    background: linear-gradient(to bottom, hsl(var(--accent) / 0.3), transparent);
+    z-index: 0;
+  }
+  .timeline-item:last-child { border-bottom: none; }
+  .tl-year {
+    font-size: 0.78rem;
+    font-weight: 800;
+    color: hsl(var(--accent));
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding-top: 0.15rem;
+    line-height: 1.4;
+  }
+  .tl-content {
+    position: relative;
+    z-index: 1;
+  }
+  .tl-content::before {
+    content: '';
+    position: absolute;
+    left: -1.25rem;
+    top: 0.45rem;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: hsl(var(--accent));
+    box-shadow: 0 0 8px hsl(var(--accent) / 0.5);
+  }
+  .tl-content strong {
+    display: block;
+    font-size: 1rem;
+    font-weight: 700;
+    color: hsl(var(--text-main));
+    margin-bottom: 0.2rem;
+  }
+  .tl-content span {
+    font-size: 0.9rem;
+    color: hsl(var(--text-muted));
+  }
+
+  /* ===== Publications ===== */
+  .publications-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+  .pub-item {
+    display: grid;
+    grid-template-columns: 36px 1fr;
+    gap: 1rem;
+    padding: 1.25rem;
+    background: hsl(var(--bg-main));
+    border-radius: 16px;
+    border: 1px solid var(--glass-border);
+    transition: all 0.25s ease;
+  }
+  .pub-item:hover {
+    border-color: hsl(var(--accent) / 0.35);
+    box-shadow: 0 4px 16px hsl(var(--accent) / 0.08);
+    transform: translateX(3px);
+  }
+  .pub-number {
+    width: 36px;
+    height: 36px;
+    background: var(--accent-gradient);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.8rem;
+    font-weight: 800;
+    color: white;
+    flex-shrink: 0;
+  }
+  .pub-title {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: hsl(var(--text-main));
+    line-height: 1.4;
+    margin-bottom: 0.35rem;
+  }
+  .pub-authors {
+    font-size: 0.82rem;
+    color: hsl(var(--text-muted));
+    margin-bottom: 0.5rem;
+    line-height: 1.5;
+  }
+  .pub-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    align-items: center;
+  }
+  .pub-journal {
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: hsl(var(--accent));
+    font-style: italic;
+  }
+  .pub-year, .pub-volume {
+    font-size: 0.78rem;
+    color: hsl(var(--text-muted));
+  }
+  .pub-doi {
+    font-size: 0.72rem;
+    font-weight: 700;
+    color: white;
+    background: hsl(var(--accent));
+    padding: 0.2rem 0.5rem;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: opacity 0.2s;
+  }
+  .pub-doi:hover { opacity: 0.85; text-decoration: none; }
+  .pub-doi:visited { color: white; }
+
+  /* ===== Memberships ===== */
+  .membership-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  .membership-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-size: 0.95rem;
+    color: hsl(var(--text-muted));
+    padding: 0.75rem 1rem;
+    background: hsl(var(--bg-main));
+    border-radius: 12px;
+    border: 1px solid var(--glass-border);
+    transition: all 0.2s ease;
+  }
+  .membership-item:hover {
+    border-color: hsl(var(--accent) / 0.3);
+    color: hsl(var(--text-main));
+    transform: translateX(3px);
+  }
+  .membership-item svg { flex-shrink: 0; }
+
+  /* ===== Contact Card ===== */
+  .contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  .contact-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+  .contact-label {
+    font-size: 0.72rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: hsl(var(--text-muted));
+  }
+  .contact-item span:not(.contact-label),
+  .contact-item a {
+    font-size: 0.95rem;
+    color: hsl(var(--text-main));
+    line-height: 1.5;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  .contact-item a:hover { color: hsl(var(--accent)); }
+  .contact-item a:visited { color: hsl(var(--text-main)); }
+
+  .btn-randevu {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.625rem;
+    padding: 1rem 2rem;
+    background: var(--accent-gradient);
+    color: white;
+    border-radius: 14px;
+    font-weight: 700;
+    font-size: 1rem;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 16px hsl(var(--accent) / 0.35);
+  }
+  .btn-randevu:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px hsl(var(--accent) / 0.45);
+    text-decoration: none;
+    color: white;
+  }
+  .btn-randevu:visited { color: white; }
+
+  /* ===== Responsive ===== */
+  @media (max-width: 1024px) {
+    .content-grid { grid-template-columns: 1fr; }
+    .profile-hero-inner { flex-direction: column; text-align: center; align-items: center; }
+    .profile-stats { justify-content: center; }
+    .card-header { flex-direction: row; }
+  }
+  @media (max-width: 768px) {
+    .profile-hero { padding: 6rem 0 3rem; }
+    .profile-hero-text h1 { font-size: 2.25rem; }
+    .contact-grid { grid-template-columns: 1fr; }
+    .content-card { padding: 1.75rem; }
+    .timeline-item { grid-template-columns: 80px 1fr; gap: 1rem; }
+  }
+
+  /* Disclaimer Styling */
+  .medical-disclaimer-box {
+    margin-top: 3rem;
+    padding: 2.5rem;
+    border-radius: 24px;
+    background: linear-gradient(135deg, hsl(var(--accent) / 0.03), hsl(var(--accent) / 0.01));
+    border-left: 5px solid hsl(var(--accent));
+  }
+  .disclaimer-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    color: hsl(var(--text-main));
+  }
+  .disclaimer-icon {
+    font-size: 1.25rem;
+  }
+  .medical-disclaimer-box p {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: hsl(var(--text-muted));
+  }
+</style>

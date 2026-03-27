@@ -1,0 +1,258 @@
+---
+import Layout from './Layout.astro';
+import Sidebar from '../components/Sidebar.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import FAQAccordion from '../components/FAQAccordion.astro';
+
+interface Props {
+  frontmatter: {
+    title: string;
+    description?: string;
+    pubDate: string;
+    heroImage?: string;
+    week?: number;
+    category?: string[];
+  };
+}
+
+const { frontmatter } = Astro.props;
+const { title, pubDate, heroImage, week } = frontmatter;
+
+const formattedDate = new Date(pubDate).toLocaleDateString('tr-TR', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+---
+
+<Layout title={`${title} | Dr. Alper Mumcu`}>
+  <div class="pregnancy-post-layout">
+    <div class="hero-section" style={`background-image: linear-gradient(rgba(15, 61, 62, 0.4), rgba(15, 61, 62, 0.7)), url(${heroImage || '/images/default-hero.jpg'})`}>
+      <div class="container hero-content">
+        <div class="header-meta">
+          <span class="category-tag">Gebelik Haftası</span>
+          <span class="pub-date">{formattedDate}</span>
+        </div>
+        <h1 class="font-outfit text-white">{title}</h1>
+      </div>
+    </div>
+
+    <div class="content-wrapper container">
+      <main class="main-content">
+        <Breadcrumbs 
+          parts={[
+            { label: 'Hafta Hafta Gebelik', href: '/hafta-hafta-gebelik/' },
+            { label: frontmatter.title }
+          ]} 
+        />
+        
+        <div class="prose-enhanced">
+          <slot />
+        </div>
+
+        <div class="post-footer">
+          <div class="author-box glass">
+            <div class="author-img">
+              <img src="/images/dr-alper-mumcu.jpg" alt="Dr. Alper Mumcu" />
+            </div>
+            <div class="author-info">
+              <h4>Dr. Alper Mumcu</h4>
+              <p>Kadın Hastalıkları ve Doğum Uzmanı</p>
+              <div class="author-badges">
+                <span class="badge">25+ Yıl Tecrübe</span>
+                <span class="badge">Tıbbi İnceleme Yapıldı</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+      
+      <aside class="sidebar-area">
+        <div class="quick-nav sticky">
+          <h3 class="font-outfit">Haftalık Takvim</h3>
+          <div class="week-picker">
+            <a href="/hafta-hafta-gebelik/" class="all-weeks">Tüm Haftalar &rarr;</a>
+
+          </div>
+          <Sidebar />
+        </div>
+      </aside>
+    </div>
+  </div>
+</Layout>
+
+<style is:global>
+  .pregnancy-post-layout {
+    --primary: 181 61% 15%;
+    --accent: 190 64% 34%;
+  }
+
+  .hero-section {
+    height: 60vh;
+    min-height: 400px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-top: -80px; /* Offset navigation height if necessary */
+  }
+
+  .hero-content {
+    color: white;
+    z-index: 2;
+  }
+
+  .header-meta {
+    display: flex;
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+    align-items: center;
+  }
+
+  .category-tag {
+    background: hsl(var(--accent));
+    padding: 0.5rem 1.25rem;
+    border-radius: 50px;
+    font-size: 0.85rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+
+  .pub-date {
+    font-weight: 600;
+    opacity: 0.9;
+  }
+
+  .hero-section h1 {
+    font-size: clamp(2.5rem, 5vw, 4.5rem);
+    line-height: 1.1;
+    font-weight: 800;
+    max-width: 900px;
+  }
+
+  .content-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 340px;
+    gap: 5rem;
+    margin-top: -80px; /* Overlap with hero */
+    position: relative;
+    z-index: 3;
+    padding-bottom: 6rem;
+  }
+
+  .main-content {
+    background: white;
+    border-radius: 32px;
+    padding: 4rem;
+    box-shadow: var(--shadow-xl);
+    border: 1px solid var(--glass-border);
+  }
+
+  .prose-enhanced {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: hsl(var(--text-main));
+    margin-top: 3rem;
+  }
+
+  .prose-enhanced h2 {
+    font-size: 2.5rem;
+    margin: 4rem 0 2rem;
+    color: hsl(var(--primary));
+    font-weight: 800;
+    font-family: 'Outfit', sans-serif;
+  }
+
+  .prose-enhanced h3 {
+    font-size: 1.75rem;
+    margin: 3rem 0 1.5rem;
+    color: hsl(var(--accent));
+    font-weight: 700;
+    font-family: 'Outfit', sans-serif;
+  }
+
+  .prose-enhanced p { margin-bottom: 2rem; }
+
+  .post-footer {
+    margin-top: 5rem;
+    padding-top: 4rem;
+    border-top: 1px solid var(--glass-border);
+  }
+
+  .author-box {
+    display: flex;
+    gap: 2rem;
+    padding: 2.5rem;
+    border-radius: 24px;
+    background: hsl(var(--bg-main) / 0.5);
+    align-items: center;
+  }
+
+  .author-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 3px solid white;
+    box-shadow: var(--shadow-md);
+  }
+
+  .author-img img { width: 100%; height: 100%; object-fit: cover; }
+
+  .author-info h4 {
+    font-size: 1.5rem;
+    margin-bottom: 0.25rem;
+    font-family: 'Outfit', sans-serif;
+  }
+
+  .author-info p {
+    color: hsl(var(--text-muted));
+    font-weight: 600;
+    margin-bottom: 1rem;
+  }
+
+  .author-badges { display: flex; gap: 1rem; }
+
+  .badge {
+    background: white;
+    color: hsl(var(--accent));
+    padding: 0.4rem 0.8rem;
+    border-radius: 8px;
+    font-size: 0.75rem;
+    font-weight: 800;
+    border: 1px solid var(--glass-border);
+  }
+
+  .sidebar-area { margin-top: 100px; }
+
+  .sticky { position: sticky; top: 100px; }
+
+  .week-picker {
+    margin: 2rem 0;
+    background: white;
+    padding: 1.5rem;
+    border-radius: 20px;
+    border: 1px solid var(--glass-border);
+  }
+
+  .all-weeks {
+    display: block;
+    color: hsl(var(--accent));
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 0.95rem;
+    transition: all 0.3s ease;
+  }
+
+  .all-weeks:hover { transform: translateX(5px); }
+
+  @media (max-width: 1024px) {
+    .content-wrapper { grid-template-columns: 1fr; gap: 3rem; margin-top: -40px; }
+    .main-content { padding: 2.5rem; }
+    .hero-section { height: 50vh; }
+    .sidebar-area { margin-top: 0; }
+  }
+</style>

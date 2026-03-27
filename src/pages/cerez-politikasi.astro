@@ -1,0 +1,103 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Çerez Politikası | Dr. Alper Mumcu">
+	<main class="legal-page">
+		<header class="legal-header">
+			<div class="container">
+				<h1>Çerez Politikası</h1>
+				<p>Size daha iyi bir deneyim sunmak için çerezlerden yararlanıyoruz.</p>
+			</div>
+		</header>
+
+		<section class="legal-content">
+			<div class="container container--narrow">
+				<div class="glass legal-card">
+					<h2>1. Çerez (Cookie) Nedir?</h2>
+					<p>Çerezler, ziyaret ettiğiniz internet siteleri tarafından tarayıcınız aracılığıyla cihazınıza veya ağ sunucusuna depolanan küçük metin dosyalarıdır. Sitemizi bir sonraki ziyaretinizde sizi tanımamızı ve deneyiminizi iyileştirmemizi sağlarlar.</p>
+
+					<h2>2. Hangi Çerezleri Kullanıyoruz?</h2>
+					<p>Sitemizde temel olarak şu çerez türleri kullanılmaktadır:</p>
+					<ul>
+						<li><strong>Zorunlu Çerezler:</strong> Web sitemizin düzgün çalışması için gereklidir (örneğin oturum yönetimi, güvenlik).</li>
+						<li><strong>Performans ve Analitik Çerezler:</strong> Sitemizin nasıl kullanıldığını anlamamıza ve performansını artırmamıza yardımcı olan Google Analytics gibi araçlar (isimsiz/anonim veri toplarlar).</li>
+						<li><strong>İşlevsel Çerezler:</strong> Dil tercihlerinizi veya kişisel ayarlarınızı hatırlamamızı sağlayan çerezler.</li>
+					</ul>
+
+					<h2>3. Çerezleri Nasıl Kontrol Edebilirsiniz?</h2>
+					<p>Tarayıcınızın ayarlarını değiştirerek çerez kullanımını kısıtlayabilir veya tamamen engelleyebilirsiniz. Ancak çerezlerin engellenmesi durumunda sitemizin bazı özellikleri (randevu formu vb.) beklendiği gibi çalışmayabilir. Popüler tarayıcılarda çerezleri yönetmek için şu linklerden faydalanabilirsiniz:</p>
+					<ul>
+						<li><a href="https://support.google.com/chrome/answer/95647" target="_blank">Google Chrome</a></li>
+						<li><a href="https://support.apple.com/tr-tr/guide/safari/sfri11471/mac" target="_blank">Safari</a></li>
+						<li><a href="https://support.mozilla.org/tr/kb/cerezleri-silme-web-sitelerinin-bilgilerini-kaldirma" target="_blank">Mozilla Firefox</a></li>
+					</ul>
+
+					<h2>4. İletişim</h2>
+					<p>Çerez kullanımımızla ilgili sorularınız için <strong>randevu@mumcu.com</strong> üzerinden bize ulaşabilirsiniz.</p>
+				</div>
+			</div>
+		</section>
+	</main>
+</Layout>
+
+<style>
+	.legal-page {
+		padding-top: 8rem;
+		min-height: 100vh;
+		background: hsl(var(--bg-main));
+	}
+	.legal-header {
+		text-align: center;
+		margin-bottom: 4rem;
+	}
+	.legal-header h1 {
+		font-size: 3rem;
+		color: hsl(var(--text-main));
+		margin-bottom: 1rem;
+		font-weight: 800;
+	}
+	.legal-header p {
+		font-size: 1.25rem;
+		color: hsl(var(--text-muted));
+	}
+	.legal-content {
+		padding-bottom: 6rem;
+	}
+	.legal-card {
+		padding: 4rem;
+		border-radius: 32px;
+	}
+	.legal-card h2 {
+		font-size: 1.5rem;
+		color: hsl(var(--text-main));
+		margin: 2.5rem 0 1rem;
+		font-weight: 700;
+	}
+	.legal-card p, .legal-card li {
+		font-size: 1.1rem;
+		line-height: 1.8;
+		color: hsl(var(--text-muted));
+		margin-bottom: 1rem;
+	}
+	.legal-card ul {
+		padding-left: 1.5rem;
+		margin-bottom: 2rem;
+	}
+	.legal-card a {
+		color: hsl(var(--accent));
+		text-decoration: none;
+		font-weight: 700;
+	}
+	.legal-card a:hover {
+		text-decoration: underline;
+	}
+	.container--narrow {
+		max-width: 900px;
+	}
+
+	@media (max-width: 768px) {
+		.legal-card { padding: 2rem; }
+		.legal-header h1 { font-size: 2.25rem; }
+	}
+</style>

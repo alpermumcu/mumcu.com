@@ -1,0 +1,227 @@
+---
+---
+<div class="search-container">
+  <button id="search-trigger" class="search-btn" aria-label="Site İçi Arama">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="11" cy="11" r="8"></circle>
+      <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+    </svg>
+  </button>
+
+  <div id="search-modal" class="search-modal">
+    <div class="search-modal-backdrop" id="modal-backdrop"></div>
+    <div class="search-modal-content glass">
+      <div class="search-header">
+        <h3>Site İçi Arama</h3>
+        <button id="close-search" class="close-btn">&times;</button>
+      </div>
+      <div id="search-ui"></div>
+      <div class="search-tip">
+        <p>Hastalıklar, tedaviler veya blog yazıları arasında arama yapın.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style is:global>
+  /* Base Style for Pagefind UI within our modal */
+  :root {
+    --pagefind-ui-primary: hsl(var(--accent));
+    --pagefind-ui-text: hsl(var(--text-main));
+    --pagefind-ui-background: transparent;
+    --pagefind-ui-border: var(--glass-border);
+    --pagefind-ui-tag: hsl(var(--accent) / 0.1);
+  }
+
+  #search-ui .pagefind-ui__search-input {
+    background: hsl(var(--bg-main) / 0.5);
+    border: 1px solid var(--glass-border);
+    border-radius: 12px;
+    padding: 1rem 1.25rem;
+    font-size: 1.1rem;
+    font-family: 'Inter', sans-serif;
+  }
+
+  #search-ui .pagefind-ui__result {
+    border-bottom: 1px solid var(--glass-border);
+    padding: 1.5rem 0;
+  }
+
+  #search-ui .pagefind-ui__result-title {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 1.25rem;
+  }
+</style>
+
+<style>
+  .search-container {
+    display: flex;
+    align-items: center;
+  }
+  .search-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: hsl(var(--text-muted));
+    padding: 0.5rem;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+  }
+  .search-btn:hover {
+    color: hsl(var(--accent));
+    background: hsl(var(--accent) / 0.05);
+  }
+
+  .search-modal {
+    position: fixed;
+    inset: 0;
+    z-index: 2000;
+    display: none;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 10vh;
+  }
+  .search-modal.active {
+    display: flex;
+  }
+
+  .search-modal-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(4px);
+  }
+
+  .search-modal-content {
+    position: relative;
+    width: 90%;
+    max-width: 700px;
+    max-height: 80vh;
+    border-radius: 24px;
+    padding: 2.5rem;
+    overflow-y: auto;
+    box-shadow: 0 30px 60px -12px rgba(0,0,0,0.25);
+    animation: slideIn 0.3s ease-out;
+  }
+
+  @keyframes slideIn {
+    from { transform: translateY(-20px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+  }
+
+  .search-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+  }
+  .search-header h3 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: hsl(var(--text-main));
+  }
+  .close-btn {
+    background: none;
+    border: none;
+    font-size: 2rem;
+    cursor: pointer;
+    color: hsl(var(--text-muted));
+    line-height: 1;
+  }
+  .close-btn:hover {
+    color: hsl(var(--text-main));
+  }
+
+  .search-tip {
+    margin-top: 2rem;
+    font-size: 0.85rem;
+    color: hsl(var(--text-muted));
+    text-align: center;
+  }
+
+  @media (max-width: 768px) {
+    .search-modal-content {
+      padding: 1.5rem;
+      width: 95%;
+    }
+  }
+</style>
+
+<script>
+  let pagefindUI;
+
+  const initPagefind = async () => {
+    if (pagefindUI) return;
+    
+    try {
+      // @ts-ignore
+      const { PagefindUI } = await import(new URL('/pagefind/pagefind-ui.js', window.location.origin).href);
+      pagefindUI = new PagefindUI({
+        element: "#search-ui",
+        showSubResults: true,
+        translations: {
+          placeholder: "Aramak istediğiniz konuyu yazın...",
+          clear_search: "Temizle",
+          load_more: "Daha fazla sonuç yükle",
+          search_label: "Sitede ara",
+          filters_label: "Filtreler",
+          zero_results: "[SEARCH_TERM] için sonuç bulunamadı.",
+          many_results: "[SEARCH_TERM] için [COUNT] sonuç bulundu.",
+          one_result: "[SEARCH_TERM] için [COUNT] sonuç bulundu.",
+          alt_search: "[SEARCH_TERM] için sonuç bulunamadı. Şuna bakabilirsiniz: [DIFFERENT_TERM]",
+          search_suggestion: "[SEARCH_TERM] için sonuç bulunamadı. Şunu mu demek istediniz?",
+          searching: "Aranıyor..."
+        }
+      });
+    } catch (e) {
+      console.warn("Pagefind index not found. Run a build to enable search.");
+      const uiElem = document.getElementById("search-ui");
+      if (uiElem) uiElem.innerHTML = "<p style='text-align:center; padding: 2rem; color: #666;'>Arama motoru build aşamasında aktifleşecektir.</p>";
+    }
+  };
+
+  const setupModal = () => {
+    const trigger = document.getElementById('search-trigger');
+    const modal = document.getElementById('search-modal');
+    const closeBtn = document.getElementById('close-search');
+    const backdrop = document.getElementById('modal-backdrop');
+
+    const openSearch = () => {
+      modal?.classList.add('active');
+      document.body.style.overflow = 'hidden';
+      initPagefind();
+      // Focus the input after a short delay to allow Pagefind to load
+      setTimeout(() => {
+        const input = document.querySelector('.pagefind-ui__search-input') as HTMLInputElement;
+        if (input) input.focus();
+      }, 300);
+    };
+
+    const closeSearch = () => {
+      modal?.classList.remove('active');
+      document.body.style.overflow = '';
+    };
+
+    trigger?.addEventListener('click', openSearch);
+    closeBtn?.addEventListener('click', closeSearch);
+    backdrop?.addEventListener('click', closeSearch);
+
+    // Keyboard shortcuts
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'k' && (e.metaKey || e.ctrlKey)) {
+        e.preventDefault();
+        openSearch();
+      }
+      if (e.key === 'Escape' && modal?.classList.contains('active')) {
+        closeSearch();
+      }
+    });
+  };
+
+  // Run on first load and after swaps
+  setupModal();
+  document.addEventListener('astro:after-swap', setupModal);
+</script>

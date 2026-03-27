@@ -1,0 +1,203 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import CategoryCard from '../../components/CategoryCard.astro';
+import { getCollection } from 'astro:content';
+import { categories } from '../../data/categories';
+
+// Category Images
+import imgGebelik from '../../images/categories/gebelik.png';
+import imgJinekoloji from '../../images/categories/jinekoloji.png';
+import imgTupBebek from '../../images/categories/tup-bebek.png';
+import imgCerrahi from '../../images/categories/cerrahi.png';
+import imgEstetik from '../../images/categories/estetik.png';
+import imgHaftaHafta from '../../images/categories/hafta-hafta.png';
+
+const allPosts = await getCollection('blog');
+const posts = allPosts.sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+).slice(0, 6);
+
+// Function to count posts per category
+const getCount = (name: string) => allPosts.filter(p => p.data.category?.includes(name)).length;
+
+const categoryImages: Record<string, any> = {
+  "Gebelik & Doğum": imgGebelik,
+  "Jinekoloji & Kadın Sağlığı": imgJinekoloji,
+  "Tüp Bebek & İnfertilite": imgTupBebek,
+  "Cerrahi İşlemler": imgCerrahi,
+  "Estetik Jinekoloji": imgEstetik,
+  "Hafta Hafta Gebelik": imgHaftaHafta
+};
+
+const categoryDescriptions: Record<string, string> = {
+  "Gebelik & Doğum": "Hafta hafta gelişim, doğum hazırlığı ve anne sağlığı.",
+  "Jinekoloji & Kadın Sağlığı": "Rutin kontroller, jinekolojik sorunlar ve çözümler.",
+  "Tüp Bebek & İnfertilite": "İnfertilite nedenleri ve modern tedavi yöntemleri.",
+  "Cerrahi İşlemler": "Kapalı ameliyatlar ve cerrahi uzmanlık alanları.",
+  "Estetik Jinekoloji": "Genital estetik ve lazer uygulamaları hakkında bilgiler.",
+  "Hafta Hafta Gebelik": "Bebeğinizin ve vücudunuzun gelişimini 40 hafta boyunca takip edin."
+};
+---
+
+<Layout title="Makale Arşivi | Dr. Alper Mumcu">
+	<main class="container">
+		<header class="library-header">
+			<h1 class="text-gradient font-outfit">Makale Arşivi</h1>
+			<p class="description">Uzman Dr. Alper Mumcu tarafından hazırlanan 600'e yakın bilimsel makale ve rehber.</p>
+		</header>
+
+		<section class="categories-section">
+			<h2 class="font-outfit">Kategorilere Göre Keşfedin</h2>
+			<div class="category-grid">
+				{categories.map(cat => (
+					<CategoryCard 
+						href={`/category/${cat.slug}/`}
+						title={cat.name}
+						description={categoryDescriptions[cat.name]}
+						image={categoryImages[cat.name]?.src}
+						count={getCount(cat.name)}
+					/>
+				))}
+			</div>
+		</section>
+
+		<section class="latest-posts">
+			<div class="section-header">
+				<h2 class="font-outfit">En Son Eklenenler</h2>
+				<a href="/blog/all/" class="view-all">Tüm Liste →</a>
+			</div>
+			<div class="posts-grid">
+				{posts.map((post) => (
+					<article class="post-card glass">
+						<div class="post-meta">
+							<span class="cat">{post.data.category?.[0]}</span>
+							<span class="date">{post.data.pubDate.toLocaleDateString('tr-TR', { day: 'numeric', month: 'long' })}</span>
+						</div>
+						<h3>{post.data.title}</h3>
+						<div class="post-footer">
+							<span class="reading-time">⏱️ {post.data.readingTime} dk</span>
+							<a href={`/blog/${post.slug}/`} class="read-more">Devamını Oku</a>
+						</div>
+					</article>
+				))}
+			</div>
+		</section>
+	</main>
+</Layout>
+
+<style>
+	main {
+		padding: 8rem 1rem 4rem;
+	}
+	.library-header {
+		text-align: center;
+		margin-bottom: 6rem;
+		max-width: 800px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	h1 {
+		font-size: 4rem;
+		font-weight: 800;
+		margin-bottom: 0.5em;
+	}
+	.description {
+		font-size: 1.35rem;
+		color: hsl(var(--text-muted));
+		line-height: 1.6;
+	}
+
+	.categories-section {
+		margin-bottom: 8rem;
+	}
+	.categories-section h2 {
+		font-size: 2rem;
+		margin-bottom: 3rem;
+		text-align: center;
+		color: hsl(var(--text-main));
+	}
+	.category-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+		gap: 2rem;
+	}
+
+	.section-header {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin-bottom: 3rem;
+	}
+	.section-header h2 {
+		font-size: 2rem;
+		color: hsl(var(--text-main));
+	}
+	.view-all {
+		color: hsl(var(--accent));
+		text-decoration: none;
+		font-weight: 700;
+	}
+
+	.posts-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+		gap: 2.5rem;
+	}
+	.post-card {
+		padding: 2.5rem;
+		border-radius: 28px;
+		display: flex;
+		flex-direction: column;
+		height: 100%;
+		transition: all 0.3s ease;
+	}
+	.post-card:hover {
+		transform: translateY(-5px);
+		border-color: hsl(var(--accent) / 0.3);
+	}
+	.post-meta {
+		display: flex;
+		justify-content: space-between;
+		margin-bottom: 1.5rem;
+		font-size: 0.85rem;
+		font-weight: 700;
+	}
+	.post-meta .cat {
+		color: hsl(var(--accent));
+		text-transform: uppercase;
+	}
+	.post-meta .date {
+		color: hsl(var(--text-muted));
+	}
+	.post-card h3 {
+		font-size: 1.4rem;
+		line-height: 1.4;
+		margin-bottom: 2rem;
+		color: hsl(var(--text-main));
+		font-family: 'Outfit', sans-serif;
+		flex-grow: 1;
+	}
+	.post-footer {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding-top: 1.5rem;
+		border-top: 1px solid var(--glass-border);
+	}
+	.reading-time {
+		font-size: 0.85rem;
+		color: hsl(var(--text-muted));
+		font-weight: 600;
+	}
+	.read-more {
+		color: hsl(var(--accent));
+		text-decoration: none;
+		font-weight: 800;
+		font-size: 0.95rem;
+	}
+
+	@media (max-width: 768px) {
+		h1 { font-size: 2.75rem; }
+		.category-grid { grid-template-columns: 1fr; }
+	}
+</style>

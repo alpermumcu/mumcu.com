@@ -1,0 +1,117 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+
+const pregnancyPosts = (await getCollection('hafta-hafta-gebelik'))
+  .sort((a, b) => {
+    const weekA = parseInt(a.slug.split('-')[0]) || 0;
+    const weekB = parseInt(b.slug.split('-')[0]) || 0;
+    return weekA - weekB;
+  });
+---
+
+<Layout title="Hafta Hafta Gebelik | Dr. Alper Mumcu">
+  <div class="content-wrapper container">
+    <main class="category-main">
+      <Breadcrumbs 
+        parts={[
+          { label: 'Hafta Hafta Gebelik' }
+        ]} 
+      />
+      
+      <header class="category-header">
+        <h1 class="font-outfit">Hafta Hafta Gebelik Rehberi</h1>
+        <p>Hamileliğinizin her aşamasını uzman gözüyle takip edin. Bebeğinizin gelişimi ve vücudunuzdaki değişimler hakkında detaylı rehber.</p>
+      </header>
+
+      <div class="weeks-grid">
+        {pregnancyPosts.map((post) => (
+          <a href={`/hafta-hafta-gebelik/${post.slug}/`} class="week-card glass">
+            <div class="week-number">
+              {post.slug.split('-')[0]}
+            </div>
+            <div class="week-content">
+              <h3>{post.data.title.split('-')[0].trim()}</h3>
+              <p>{post.data.description?.slice(0, 80)}...</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    </main>
+  </div>
+</Layout>
+
+<style>
+  .content-wrapper {
+    margin: 8rem auto 4rem;
+  }
+  .category-header {
+    margin: 2.5rem 0 4rem;
+    max-width: 800px;
+  }
+  h1 {
+    font-size: 3.5rem;
+    color: hsl(var(--text-main));
+    font-weight: 800;
+    margin-bottom: 1rem;
+    line-height: 1.1;
+  }
+  .category-header p {
+    font-size: 1.2rem;
+    color: hsl(var(--text-muted));
+    line-height: 1.6;
+  }
+  .weeks-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+  }
+  .week-card {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 1.5rem;
+    border-radius: 24px;
+    text-decoration: none;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 1px solid var(--glass-border);
+  }
+  .week-card:hover {
+    transform: translateY(-5px);
+    border-color: hsl(var(--accent) / 0.4);
+    background: white;
+    box-shadow: var(--shadow-xl);
+  }
+  .week-number {
+    width: 60px;
+    height: 60px;
+    background: var(--accent-gradient);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    font-weight: 800;
+    border-radius: 16px;
+    flex-shrink: 0;
+    box-shadow: var(--shadow-md);
+  }
+  .week-content h3 {
+    font-size: 1.1rem;
+    color: hsl(var(--text-main));
+    margin-bottom: 0.25rem;
+    font-weight: 700;
+  }
+  .week-content p {
+    font-size: 0.85rem;
+    color: hsl(var(--text-muted));
+    margin: 0;
+    line-height: 1.4;
+  }
+
+  @media (max-width: 768px) {
+    h1 { font-size: 2.5rem; }
+    .weeks-grid { grid-template-columns: 1fr; }
+  }
+</style>

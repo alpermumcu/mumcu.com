@@ -1,0 +1,70 @@
+---
+interface Props {
+  parts: { label: string; href?: string }[];
+}
+
+const { parts } = Astro.props;
+---
+
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <ol>
+    <li>
+      <a href="/">Ana Sayfa</a>
+    </li>
+    {parts.map((part, index) => (
+      <li>
+        <span class="separator">/</span>
+        {part.href ? (
+          <a href={part.href}>{part.label}</a>
+        ) : (
+          <span class="current" aria-current="page">{part.label}</span>
+        )}
+      </li>
+    ))}
+  </ol>
+</nav>
+
+<style>
+  .breadcrumbs {
+    margin-bottom: 2rem;
+  }
+
+  ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+
+  li {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: hsl(var(--text-muted));
+  }
+
+  a {
+    color: hsl(var(--text-muted));
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  a:hover {
+    color: hsl(var(--accent));
+  }
+
+  .separator {
+    color: hsl(var(--text-muted) / 0.5);
+    font-weight: 400;
+  }
+
+  .current {
+    color: hsl(var(--text-main));
+    font-weight: 700;
+  }
+</style>
