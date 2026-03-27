@@ -9,17 +9,17 @@ const posts = (await getCollection('blog')).sort(
 );
 ---
 
-<Layout title="Tüm Makaleler | Bilgi Kütüphanesi">
+<Layout title="Tüm Makaleler | Makale Arşivi">
 	<main class="container">
 		<Breadcrumbs 
 			parts={[
-				{ label: 'Bilgi Kütüphanesi', href: '/blog/' },
+				{ label: 'Makale Arşivi', href: '/blog/' },
 				{ label: 'Tüm Makaleler' }
 			]} 
 		/>
 		
 		<header class="all-header">
-			<h1 class="font-outfit">Tüm Bilgi Kütüphanesi</h1>
+			<h1 class="font-outfit">Tüm Makale Arşivi</h1>
 			<p>{posts.length} Uzman Makalesi</p>
 		</header>
 

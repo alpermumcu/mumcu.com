@@ -20,6 +20,6 @@ export const navigation = [
 		],
 	},
 	{ label: 'Dr. Alper Mumcu', href: '/dr-alper-mumcu/' },
-	{ label: 'Bilgi Kütüphanesi', href: '/blog/' },
+	{ label: 'Makale Arşivi', href: '/blog/' },
 	{ label: 'İletişim', href: '/iletisim/' },
 ];

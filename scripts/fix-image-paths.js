@@ -6,7 +6,7 @@ const CONTENT_DIR = path.join(process.cwd(), 'src', 'content');
 const PUBLIC_DIR = path.join(process.cwd(), 'public');
 
 async function fixImagePaths() {
-    const files = await glob(`${CONTENT_DIR}/**/*.md`);
+    const files = await glob(CONTENT_DIR.replace(/\\/g, '/') + '/**/*.{md,mdx}');
     console.log(`Found ${files.length} markdown files to process.`);
 
     let fixedCount = 0;

@@ -33,7 +33,7 @@ const isPregnancyWeek = post.data.category?.includes('Hafta Hafta Gebelik');
       <article class="post-content">
         <Breadcrumbs 
           parts={[
-            { label: 'Bilgi Kütüphanesi', href: '/blog/' },
+            { label: 'Makale Arşivi', href: '/blog/' },
             { 
               label: post.data.category?.[0] || 'Genel', 
               href: post.data.category?.[0] ? `/category/${post.data.category[0].toLowerCase().replace(/ & /g, '-').replace(/ /g, '-').normalize('NFD').replace(/[\u0300-\u036f]/g, "")}/` : '#' 
