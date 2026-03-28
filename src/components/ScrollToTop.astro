@@ -57,14 +57,24 @@
 
 <script>
   const scrollBtn = document.getElementById('scroll-to-top');
+  let ticking = false;
 
-  window.addEventListener('scroll', () => {
-    if (window.scrollY > 300) {
+  const updateScrollBtn = () => {
+    const scrollPosition = window.scrollY;
+    if (scrollPosition > 300) {
       scrollBtn?.classList.add('show');
     } else {
       scrollBtn?.classList.remove('show');
     }
-  });
+    ticking = false;
+  };
+
+  window.addEventListener('scroll', () => {
+    if (!ticking) {
+      window.requestAnimationFrame(updateScrollBtn);
+      ticking = true;
+    }
+  }, { passive: true });
 
   scrollBtn?.addEventListener('click', () => {
     window.scrollTo({
