@@ -7,6 +7,7 @@ import { getCollection } from 'astro:content';
 import doctorPhoto from '../assets/images/uploads/2020/08/alper-mumcu-photo.jpg';
 import doctorClinicPhoto from '../assets/images/hero/dr-alper-clinical-hero.png';
 import { getHeroImage } from '../data/category-defaults';
+import Schema from '../components/Schema.astro';
 import PregnancyCalculator from '../components/PregnancyCalculator.astro';
 
 // Category Images
@@ -43,9 +44,83 @@ const faqItems = [
 		answer: "Ameliyat ve doğumlarımızı hastanın tercihi ve tıbbi gerekliliklere göre Amerikan hastanesi, Acıbadem Fulya hastanesi ve Nişantaşı Hastanesi gibi tam teşekküllü merkezlerde gerçekleştirmekteyiz." 
 	}
 ];
+
+const physicianSchema = {
+  "@context": "https://schema.org",
+  "@type": "Physician",
+  "@id": "https://www.mumcu.com/#physician",
+  "name": "Dr. Alper Mumcu",
+  "image": "https://www.mumcu.com/images/dr-alper-mumcu.jpg",
+  "telephone": "+90 533 324 68 98",
+  "url": "https://www.mumcu.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Halaskargazi Cd. No:38-66 Kat: 5 Daire: 93, Lotus Nişantaşı",
+    "addressLocality": "Şişli",
+    "addressRegion": "İstanbul",
+    "postalCode": "34371",
+    "addressCountry": "TR"
+  },
+  "medicalSpecialty": ["ObstetricsAndGynecology", "Infertility"],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "opens": "10:00",
+      "closes": "18:30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "10:00",
+      "closes": "14:00"
+    }
+  ]
+};
+
+const businessSchema = {
+  "@context": "https://schema.org",
+  "@type": "MedicalBusiness",
+  "@id": "https://www.mumcu.com/#business",
+  "name": "Dr. Alper Mumcu Kliniği",
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "Dr. Alper Mumcu",
+    "url": "https://www.mumcu.com"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Halaskargazi Cd. No:38-66 Kat: 5 Daire: 93, Lotus Nişantaşı",
+    "addressLocality": "Şişli",
+    "addressRegion": "İstanbul",
+    "postalCode": "34371",
+    "addressCountry": "TR"
+  },
+  "telephone": "+90 533 324 68 98",
+  "priceRange": "$$",
+  "image": "https://www.mumcu.com/images/dr-alper-mumcu.jpg"
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqItems.map(item => ({
+    "@type": "Question",
+    "name": item.question,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": item.answer
+    }
+  }))
+};
 ---
 
 <Layout title="Dr. Alper Mumcu | Kadın Hastalıkları ve Doğum Uzmanı">
+	<Fragment slot="head">
+		<Schema item={physicianSchema} />
+		<Schema item={businessSchema} />
+		<Schema item={faqSchema} />
+	</Fragment>
 	<main>
 		<!-- Hero Section -->
 		<section class="hero">

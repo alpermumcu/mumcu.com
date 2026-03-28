@@ -41,10 +41,44 @@ const jsonLd = {
   "dateModified": new Date().toISOString(),
   "image": new URL(ogImagePath, Astro.url).toString()
 };
+
+// MedicalProcedure Schema for specific topics
+let procedureSchema = null;
+const isIVF = post.data.category?.includes('Tüp Bebek & İnfertilite') || post.data.title.toLowerCase().includes('tüp bebek');
+const isLaser = post.data.title.toLowerCase().includes('lazer');
+
+if (isIVF) {
+  procedureSchema = {
+    "@context": "https://schema.org",
+    "@type": "MedicalProcedure",
+    "name": "Tüp Bebek (IVF)",
+    "description": post.data.description || post.data.title,
+    "procedureType": "SurgicalProcedure",
+    "relevantSpecialty": {
+      "@type": "MedicalSpecialty",
+      "name": "ObstetricsAndGynecology"
+    }
+  };
+} else if (isLaser) {
+  procedureSchema = {
+    "@context": "https://schema.org",
+    "@type": "MedicalProcedure",
+    "name": "Vajinal Lazer Tedavisi",
+    "description": post.data.description || post.data.title,
+    "procedureType": "MedicalProcedure",
+    "relevantSpecialty": {
+      "@type": "MedicalSpecialty",
+      "name": "ObstetricsAndGynecology"
+    }
+  };
+}
+
+import Schema from '../../components/Schema.astro';
 ---
 
 <Layout title={post.data.title} description={post.data.description} image={ogImagePath}>
   <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
+  {procedureSchema && <Schema item={procedureSchema} slot="head" />}
   <ReadingProgress />
   <div class="content-wrapper container">
     <article class="post-content">
