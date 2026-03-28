@@ -5,3 +5,6 @@
 # Handle common WP category paths if needed (Astro uses /category/[slug])
 /topics/*  /category/:splat  301
 /tag/*     /blog  301
+
+# Moved Articles
+/hafta-hafta-gebelik/dogum-sonrasi-riskler-6-haftada-bitmiyor/  /blog/dogum-sonrasi-riskler-6-haftada-bitmiyor/  301
