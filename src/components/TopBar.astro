@@ -1,16 +1,17 @@
 ---
+import { Icon } from 'astro-icon/components';
 ---
 
 <div class="top-bar">
 	<div class="top-bar-container">
 		<div class="contact-info">
-			<a href="tel:05333246898"><span>📞</span> +90 533 324 68 98</a>
-			<a href="mailto:randevu@mumcu.com"><span>✉️</span> randevu@mumcu.com</a>
+			<a href="tel:05333246898"><Icon name="mdi:phone" class="icon-inline" /> +90 533 324 68 98</a>
+			<a href="mailto:randevu@mumcu.com"><Icon name="mdi:email" class="icon-inline" /> randevu@mumcu.com</a>
 		</div>
 		<div class="social-icons">
-			<a href="https://www.facebook.com/pg/mumcucom/about/" target="_blank" rel="noopener" aria-label="Facebook"><i class="fa-brands fa-facebook"></i></a>
-			<a href="https://www.instagram.com/dr.alpermumcu/?hl=tr" target="_blank" rel="noopener" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
-			<a href="https://tr.linkedin.com/in/alpermumcu" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+			<a href="https://www.facebook.com/pg/mumcucom/about/" target="_blank" rel="noopener" aria-label="Facebook"><Icon name="fa6-brands:facebook" /></a>
+			<a href="https://www.instagram.com/dr.alpermumcu/?hl=tr" target="_blank" rel="noopener" aria-label="Instagram"><Icon name="fa6-brands:instagram" /></a>
+			<a href="https://tr.linkedin.com/in/alpermumcu" target="_blank" rel="noopener" aria-label="LinkedIn"><Icon name="fa6-brands:linkedin" /></a>
 			<a href="/online-randevu" class="btn-randevu">Online Randevu</a>
 		</div>
 	</div>
@@ -44,6 +45,11 @@
 		gap: 0.5rem;
 		transition: color 0.2s;
 	}
+	.icon-inline {
+		width: 1.1rem;
+		height: 1.1rem;
+		color: hsl(var(--accent));
+	}
 	.contact-info a:hover {
 		color: hsl(var(--accent));
 	}
@@ -55,10 +61,13 @@
 	.social-icons a {
 		text-decoration: none;
 		transition: all 0.3s ease;
-		font-size: 1.25rem;
 		display: flex;
 		align-items: center;
 		opacity: 0.85;
+	}
+	.social-icons [data-icon] {
+		width: 1.25rem;
+		height: 1.25rem;
 	}
 	.social-icons a:hover {
 		opacity: 1;

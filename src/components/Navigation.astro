@@ -3,6 +3,7 @@ import { Image } from 'astro:assets';
 import { navigation } from '../data/navigation';
 import logo from '../assets/images/uploads/2020/08/logo.png';
 import Search from './Search.astro';
+import { Icon } from 'astro-icon/components';
 
 const currentPath = Astro.url.pathname;
 ---
@@ -17,7 +18,7 @@ const currentPath = Astro.url.pathname;
 				<li class={item.children ? 'has-dropdown' : ''}>
 					<a href={item.href} class={currentPath === item.href ? 'active' : ''}>
 						{item.label}
-						{item.children && <span class="arrow">▾</span>}
+						{item.children && <Icon name="fa6-solid:chevron-down" class="arrow" />}
 					</a>
 					{item.children && (
 						<ul class="dropdown">

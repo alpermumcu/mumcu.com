@@ -23,7 +23,7 @@
   </div>
 </div>
 
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+
 
 <style is:global>
   /* Base Style for Pagefind UI within our modal */
@@ -157,6 +157,14 @@
   let pagefindUI: any;
 
   const initPagefind = () => {
+    // Load CSS dynamically if not already present
+    if (!document.querySelector('link[href="/pagefind/pagefind-ui.css"]')) {
+      const link = document.createElement('link');
+      link.rel = 'stylesheet';
+      link.href = '/pagefind/pagefind-ui.css';
+      document.head.appendChild(link);
+    }
+
     // If Pagefind is already loaded globally, initialize
     if ((window as any).PagefindUI && !pagefindUI) {
       try {

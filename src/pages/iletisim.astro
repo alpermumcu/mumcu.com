@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { Icon } from 'astro-icon/components';
 
 const title = "İletişim";
 const description = "Dr. Alper Mumcu Muayenehanesi iletişim bilgileri, adres ve yol tarifi.";
@@ -35,25 +36,25 @@ const workingHours = [
         <!-- Muayenehane Card -->
         <div class="contact-card primary">
           <div class="card-header">
-            <i class="fa-solid fa-house-medical icon"></i>
+            <Icon name="fa6-solid:house-medical" class="icon" />
             <h2>{clinicInfo.name}</h2>
           </div>
           <div class="card-body">
             <p class="address">
-              <i class="fa-solid fa-location-dot"></i>
+              <Icon name="fa6-solid:location-dot" />
               {clinicInfo.address}
             </p>
             <p class="parking">
-              <i class="fa-solid fa-car"></i>
+              <Icon name="fa6-solid:car" />
               {clinicInfo.parking}
             </p>
             <div class="phone-group">
               <a href={`tel:${clinicInfo.phone.replace(/\s/g, '')}`} class="phone-link">
-                <i class="fa-solid fa-phone"></i> {clinicInfo.phone}
+                <Icon name="fa6-solid:phone" /> {clinicInfo.phone}
               </a>
             </div>
             <a href={`https://wa.me/${clinicInfo.whatsapp}`} class="whatsapp-btn" target="_blank">
-              <i class="fa-brands fa-whatsapp"></i> WhatsApp ile Ulaşın
+              <Icon name="fa6-brands:whatsapp" /> WhatsApp ile Ulaşın
             </a>
           </div>
         </div>
@@ -62,7 +63,7 @@ const workingHours = [
         <!-- Working Hours Card -->
         <div class="contact-card hours">
           <div class="card-header">
-            <i class="fa-solid fa-clock icon"></i>
+            <Icon name="fa6-solid:clock" class="icon" />
             <h2>Çalışma Saatleri</h2>
           </div>
           <div class="card-body">
@@ -90,7 +91,7 @@ const workingHours = [
           ></iframe>
           <div class="map-overlay">
             <a href={clinicInfo.directionsUrl} class="directions-btn" target="_blank">
-              <i class="fa-solid fa-diamond-turn-right"></i> Yol Tarifi Al
+              <Icon name="fa6-solid:diamond-turn-right" /> Yol Tarifi Al
             </a>
           </div>
         </div>
@@ -179,8 +180,9 @@ const workingHours = [
     letter-spacing: 0.05em;
   }
 
-  .card-header .icon {
-    font-size: 2rem;
+  .card-header [data-icon] {
+    width: 2rem;
+    height: 2rem;
     color: hsl(var(--accent));
   }
 
@@ -192,11 +194,12 @@ const workingHours = [
     align-items: flex-start;
   }
 
-  .card-body i {
+  .card-body [data-icon], .phone-link [data-icon], .directions-btn [data-icon] {
     color: hsl(var(--accent));
     margin-top: 0.25rem;
     width: 20px;
-    text-align: center;
+    height: 20px;
+    flex-shrink: 0;
   }
 
   .phone-group {
@@ -235,6 +238,12 @@ const workingHours = [
     font-size: 1.1rem;
     box-shadow: 0 4px 15px rgba(37, 211, 102, 0.2), 0 8px 25px rgba(0, 0, 0, 0.1);
     transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+
+  .whatsapp-btn [data-icon] {
+    width: 1.5rem;
+    height: 1.5rem;
+    color: white;
   }
 
   .whatsapp-btn:hover {
