@@ -23,6 +23,8 @@
   </div>
 </div>
 
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+
 <style is:global>
   /* Base Style for Pagefind UI within our modal */
   :root {
@@ -51,6 +53,7 @@
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
     font-size: 1.25rem;
+    color: hsl(var(--primary));
   }
 </style>
 
@@ -151,35 +154,51 @@
 </style>
 
 <script>
-  let pagefindUI;
+  let pagefindUI: any;
 
-  const initPagefind = async () => {
-    if (pagefindUI) return;
-    
-    try {
-      // @ts-ignore
-      const { PagefindUI } = await import(new URL('/pagefind/pagefind-ui.js', window.location.origin).href);
-      pagefindUI = new PagefindUI({
-        element: "#search-ui",
-        showSubResults: true,
-        translations: {
-          placeholder: "Aramak istediğiniz konuyu yazın...",
-          clear_search: "Temizle",
-          load_more: "Daha fazla sonuç yükle",
-          search_label: "Sitede ara",
-          filters_label: "Filtreler",
-          zero_results: "[SEARCH_TERM] için sonuç bulunamadı.",
-          many_results: "[SEARCH_TERM] için [COUNT] sonuç bulundu.",
-          one_result: "[SEARCH_TERM] için [COUNT] sonuç bulundu.",
-          alt_search: "[SEARCH_TERM] için sonuç bulunamadı. Şuna bakabilirsiniz: [DIFFERENT_TERM]",
-          search_suggestion: "[SEARCH_TERM] için sonuç bulunamadı. Şunu mu demek istediniz?",
-          searching: "Aranıyor..."
-        }
-      });
-    } catch (e) {
-      console.warn("Pagefind index not found. Run a build to enable search.");
-      const uiElem = document.getElementById("search-ui");
-      if (uiElem) uiElem.innerHTML = "<p style='text-align:center; padding: 2rem; color: #666;'>Arama motoru build aşamasında aktifleşecektir.</p>";
+  const initPagefind = () => {
+    // If Pagefind is already loaded globally, initialize
+    if ((window as any).PagefindUI && !pagefindUI) {
+      try {
+        pagefindUI = new (window as any).PagefindUI({
+          element: "#search-ui",
+          showSubResults: true,
+          translations: {
+            placeholder: "Aramak istediğiniz konuyu yazın...",
+            clear_search: "Temizle",
+            load_more: "Daha fazla sonuç yükle",
+            search_label: "Sitede ara",
+            filters_label: "Filtreler",
+            zero_results: "[SEARCH_TERM] için sonuç bulunamadı.",
+            many_results: "[SEARCH_TERM] için [COUNT] sonuç bulundu.",
+            one_result: "[SEARCH_TERM] için [COUNT] sonuç bulundu.",
+            alt_search: "[SEARCH_TERM] için sonuç bulunamadı. Şuna bakabilirsiniz: [DIFFERENT_TERM]",
+            search_suggestion: "[SEARCH_TERM] için sonuç bulunamadı. Şunu mu demek istediniz?",
+            searching: "Aranıyor..."
+          }
+        });
+        
+        // Focus search input
+        setTimeout(() => {
+          const input = document.querySelector('.pagefind-ui__search-input') as HTMLInputElement;
+          if (input) input.focus();
+        }, 300);
+      } catch (e) {
+        console.error("PagefindUI initialization failed", e);
+      }
+      return;
+    }
+
+    // Loadscript helper
+    if (!(window as any).PagefindUI) {
+      const script = document.createElement('script');
+      script.src = '/pagefind/pagefind-ui.js';
+      script.onload = () => initPagefind();
+      script.onerror = () => {
+        const uiElem = document.getElementById("search-ui");
+        if (uiElem) uiElem.innerHTML = "<p style='text-align:center; padding: 2rem; color: #666;'>Arama motoru aktifleşemedi. Lütfen daha sonra tekrar deneyin.</p>";
+      };
+      document.head.appendChild(script);
     }
   };
 
