@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/hamilelik-ve-kalsiyum/'
 readingTime: 5
 ---
 
-![peynir3](/images/uploads/2014/03/peynir3.jpg)
+![peynir3](../../assets/images/uploads/2014/03/peynir3.jpg)
 
 **Kalsiyum nedir?**
 

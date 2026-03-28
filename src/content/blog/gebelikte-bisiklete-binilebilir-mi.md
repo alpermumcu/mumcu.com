@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/gebelikte-bisiklete-binilebilir-mi/'
 readingTime: 2
 ---
 
-![bisiklet](/images/uploads/2014/03/bisiklet.jpg)
+![bisiklet](../../assets/images/uploads/2014/03/bisiklet.jpg)
 
 Gebelik sırasında bisiklete binilip binilemeyeceği konusunda net bir bilimsel veri yoktur dolayısı ile herhangi bir komplikasyon olmaması durumunda belirli bir süre için bisiklete binmeye devam edebilirsiniz ancak hemen hemen tüm egzersiz çeşitlerinde olduğu gibi gebelik sırasında bisiklete binme konusunda da önemli olan bunu abartmadan yapmaktır.
 

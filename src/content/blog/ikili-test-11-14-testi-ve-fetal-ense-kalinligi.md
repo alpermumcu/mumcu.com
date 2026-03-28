@@ -50,7 +50,7 @@ Düşük risk grubundaki kadınlarda yapılan çalışmalar ise çelişkili sonu
 
 Günümüzde yaygın olarak kabul edilen görüşe göre gebeliğin 11-14. haftaları arasında bebeğin baş-popo uzunluğunun ölçüldüğü kesitte ense kalınlığının 3 milimetreden fazla olması artmış fetal ense kalınlığı olarak kabul edilmektedir.
 
- ![ens_1](/images/uploads/2014/03/ens_1.jpg)
+ ![ens_1](../../assets/images/uploads/2014/03/ens_1.jpg)
 
 Transvajinal ultrasonografide  
 fetal ense kalınlığı ölçümü
@@ -108,7 +108,7 @@ görülme riski
 **PAPP-A ve SERBEST beta-hCG TESTİ**  
 PAPP-A sadece gebeliğe ait olan bir tür proteindir. HCG ise yine sadece gebelikte salgılanan bir hormonudur. Bu kimyasal maddelerin belirli gebelik haftalarında belirli düzeylerde olması gerekir. Yapılan araştırmalarda anomaliye sahip bebeklerde PAPP-A düzeyinin normalden daha az, serbest beta-hCG düzeyininin ise daha fazla olduğu görülmüştür. Gebeliğin 11-14. haftalarında alınan kan örneğinde ölçülen bu iki kimyasal maddenin düzeyleri bir bilgisayar programına girilir ve program bir risk tahmininde bulunur. Parametreler arasına fetal ense kalınlığı da eklendiğinde tahminin başarılı olma şansı çok daha yüksektir.
 
-[![ikili_sonuc3](/images/uploads/2014/03/ikili_sonuc3.jpg)](http://www.mumcu.com/images/uploads/2014/03/ikili_sonuc3.jpg)
+[![ikili_sonuc3](../../assets/images/uploads/2014/03/ikili_sonuc3.jpg)](https://www.mumcu.com/assets/images/uploads/2014/03/ikili_sonuc3.jpg)
 
 Normal bir ikili test raporu
 

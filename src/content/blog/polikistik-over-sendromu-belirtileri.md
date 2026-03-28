@@ -1,7 +1,7 @@
 ---
 title: Polikistik over sendromu belirtileri
 pubDate: '2020-10-04T11:35:07'
-heroImage: '/images/blog/pcos.png'
+heroImage: '../../assets/images/blog/pcos.png'
 slug: polikistik-over-sendromu-belirtileri
 category:
   - Tüp Bebek & İnfertilite
@@ -48,7 +48,7 @@ Tek bir hormon değerine bakılarak polikistik over tanısı konamaz. Vücutta s
 
 Polikistik over sendromunda yumurtalıkların görüntüsü çok tipiktir. ￼Ancak bu görüntü tek başına tanı koymakta yeterli değildir çünkü bazı kadınlarda görüntü böyle olmakla birlikte hiçbir klinik belirti ve bulgu saptanmadığı gibi￼ bazı kadınlarda ise tüm bulgular ve yakınmalar olmasına rağmen yumurtalıklar ultrasonda normal görünebilir.￼
 
-![Polikistik over sendromu belirtileri](/images/uploads/2020/10/polikistik.jpg)
+![Polikistik over sendromu belirtileri](../../assets/images/uploads/2020/10/polikistik.jpg)
 
 Polikistik over sendromu belirtileri
 

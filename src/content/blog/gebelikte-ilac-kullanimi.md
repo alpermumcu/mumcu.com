@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/gebelikte-ilac-kullanimi/'
 readingTime: 2
 ---
 
-![ilac](/images/uploads/2014/03/ilac.jpg)
+![ilac](../../assets/images/uploads/2014/03/ilac.jpg)
 
 Annenin aldığı bir ilacın fetusu etkilemesi için plasentadan geçmesi gerekir. Büyük moleküllü ilaçlar dışında hemen hemen her ilaç plasentadan belirli ölçüde geçer.
 

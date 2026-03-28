@@ -1,5 +1,6 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
+import { Image } from 'astro:assets';
 import Layout from '../../layouts/Layout.astro';
 import Sidebar from '../../components/Sidebar.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
@@ -46,10 +47,12 @@ const { category, posts } = Astro.props;
         {posts.map((post) => (
           <article class="post-card">
             <div class="post-image">
-              <img 
+              <Image 
                 src={getHeroImage(post.slug, (post.data.category || [])[0], post.data.heroImage)} 
                 alt={post.data.title} 
                 loading="lazy" 
+                width={400} 
+                height={225} 
               />
             </div>
             <div class="post-content">

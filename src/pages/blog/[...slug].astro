@@ -1,5 +1,6 @@
 ---
 import { type CollectionEntry, getCollection } from 'astro:content';
+import { getImage } from 'astro:assets';
 import Layout from '../../layouts/Layout.astro';
 import Sidebar from '../../components/Sidebar.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
@@ -16,9 +17,34 @@ type Props = CollectionEntry<'blog'>;
 
 const post = Astro.props;
 const { Content } = await post.render();
+
+// Resolve the hero image for SEO
+const heroImage = post.data.heroImage;
+const resolvedHero = heroImage ? await getImage({ src: heroImage, width: 1200, height: 630 }) : null;
+const ogImagePath = resolvedHero ? resolvedHero.src : '/images/dr-alper-mumcu.jpg';
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": post.data.title,
+  "description": post.data.description,
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Alper Mumcu",
+    "url": "https://www.mumcu.com/dr-alper-mumcu/"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Dr. Alper Mumcu"
+  },
+  "datePublished": post.data.pubDate.toISOString(),
+  "dateModified": new Date().toISOString(),
+  "image": new URL(ogImagePath, Astro.url).toString()
+};
 ---
 
-<Layout title={post.data.title} description={post.data.description}>
+<Layout title={post.data.title} description={post.data.description} image={ogImagePath}>
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
   <ReadingProgress />
   <div class="content-wrapper container">
     <article class="post-content">

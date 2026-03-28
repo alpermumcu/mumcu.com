@@ -1,6 +1,6 @@
 ---
 title: Yüksek doz folik asit gebelik zehirlenmesini önlemiyor
-heroImage: '/images/blog/folik-asit-gebelik-zehirlenmesi.jpg'
+heroImage: '../../assets/images/blog/folik-asit-gebelik-zehirlenmesi.jpg'
 pubDate: '2018-10-03T01:38:22'
 slug: yuksek-doz-folik-asit-gebelik-zehirlenmesini-onlemiyor
 category:

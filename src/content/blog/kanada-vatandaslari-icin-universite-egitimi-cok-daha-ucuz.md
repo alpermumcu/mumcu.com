@@ -11,7 +11,7 @@ originalUrl: >-
 readingTime: 2
 ---
 
-![](/images/uploads/2018/04/okul.jpg)
+![](../../assets/images/uploads/2018/04/okul.jpg)
 
 Pek çok ailenin çocukları ile ilgili gelecek planlamasında eğitim konusu merkezi bir yer tutmaktadır. Özellikle yükseköğretim aşamasında sunulan imkanlar ve maliyetler, ailelerin karar verme süreçlerini doğrudan etkilemektedir.
 

@@ -11,7 +11,7 @@ originalUrl: >-
 readingTime: 5
 ---
 
-![](/images/uploads/2019/01/foodandfertility.jpg)
+![](../../assets/images/uploads/2019/01/foodandfertility.jpg)
 
 Artık bir bebek sahibi olmak istediğine karar veren ve bu nedenle kontrol için doktora giden çiftlerin her şeyin yolunda olduğunu öğrendikten sonra genelde ilk sordukları soru hamile kalmayı kolaylaştırmak ve sağlıklı bir şekilde hazırlanmak için neler yiyip içmeleri gereklidir.
 

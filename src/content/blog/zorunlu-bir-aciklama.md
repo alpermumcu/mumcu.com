@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/zorunlu-bir-aciklama/'
 readingTime: 2
 ---
 
-![dogumda5](/images/uploads/2014/03/dogumda5.jpg)
+![dogumda5](../../assets/images/uploads/2014/03/dogumda5.jpg)
 
 Son 20 yıl içerisinde hem ülkemizde hem de dünyada sezaryen oranlarında bir artış söz konusudur.Bu artışın altında yatan tek sebep kamuoyunda suçlandığı gibi doktorların kolaya kaçma isteği değildir. Tıp ve cerrahi alanındaki gelişmeler, anne karnında tanı ve ultrasonografideki ilerlemeler, anne olma yaşının geçmişe göre ilerilere kayması, çoğul gebelik sayılarındaki artış, infertilite tedavilerindeki artış, kişilerin etraflarından duydukları olumlu ya da olumsuz öyküler, medikolegal sorunlar gibi pekçok faktör bu artışı sağlamıştır. Ancak ne yazık ki her alanda olduğu gibi ülkemizde bu konuda da işin kontrolü kaçmış ve sezaryen oranları neredeyse %80’lere ulaşmıştır.
 

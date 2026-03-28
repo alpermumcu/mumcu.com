@@ -14,7 +14,7 @@ Bebeğinizin kordonunun kesilmesi ve ilk ağlaması ile birlikte tüm hamileliğ
 
 Bebek doğduktan sonra kasılmaların sıklığı ve şiddeti azalır. Birkaç kasılma ile birlikte plasenta yapıştığı yerden ayrılır. Doktorunuz bunu fark ettiğinde sizden son birkez daha ıkınmanızı isteyebilir. Bu ıkınma ile plasenta ve zarlar vücut dışına atılır. Plasentanın ayrılması genelde 5-30 dakika içinde gerçekleşir. Bu sürenin aşılması durumunda rahim ağzı kapanabilir ve plasentanın geçişine izin vermeyebilir. Böyle bir durumda doktorunuz eli ile rahim içine girerek tıpkı sezaryende olduğu gibi plasentayı eliyle kendisi ayırıp dışarıya alacaktır.
 
-![plasent](/images/uploads/2014/03/plasent.jpg)
+![plasent](../../assets/images/uploads/2014/03/plasent.jpg)
 
 Plasentanın ayrılması
 

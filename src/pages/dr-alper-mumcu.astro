@@ -1,9 +1,10 @@
 ---
+import { Image } from 'astro:assets';
 import Layout from '../layouts/Layout.astro';
 import AcademicBadges from '../components/AcademicBadges.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import Sidebar from '../components/Sidebar.astro';
-import doctorPhoto from '../images/uploads/2020/08/alper-mumcu-photo.jpg';
+import doctorPhoto from '../assets/images/uploads/2020/08/alper-mumcu-photo.jpg';
 
 const title = "Dr. Alper Mumcu | Kadın Hastalıkları ve Doğum Uzmanı";
 const description = "Dr. Alper Mumcu'nun özgeçmişi, bilimsel yayınları, akademik çalışmaları ve iletişim bilgileri.";
@@ -85,10 +86,9 @@ const memberships = [
       <div class="hero-bg-orb hero-bg-orb--2" aria-hidden="true"></div>
       <div class="container">
         <Breadcrumbs parts={[{ label: "Dr. Alper Mumcu" }]} />
-        <div class="profile-hero-inner">
           <div class="profile-photo-wrap">
             <div class="photo-ring" aria-hidden="true"></div>
-            <img src={doctorPhoto.src} alt="Dr. Alper Mumcu" class="profile-photo" />
+            <Image src={doctorPhoto} alt="Dr. Alper Mumcu" class="profile-photo" width={180} height={180} />
           </div>
           <div class="profile-hero-text">
             <h1 class="font-outfit">Dr. Alper Mumcu</h1>

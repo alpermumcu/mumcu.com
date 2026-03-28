@@ -18,7 +18,7 @@ Sushi bazıları için son derece lezzetli ve aranılan bir yiyecek maddesi iken
 
 Hamilelikte sushinin güvenli olup olmadığı, bebek ve anne adayına zarar verip vermeyeceği konusunda yeterli veri ne yazik ki yoktur.
 
-![sushi_geb](/images/uploads/2014/03/sushi_geb.jpg)Çiğ balık ve deniz ürünleri parazitler açısından potansiyel risk oluşturur. Eğer bu parazitler vücudunuzda yerleşir ve gelişirlerse sizin yediğiniz besinlerin önemli bir kısmını kendilerine alırlar. Sonuçta hem sizde bir beslenme bozukluğu ortaya çıkar hem de bebeğiniz gelişmi için gerekli olan enerji, protein ve diğer besin maddelerinden yeteri kadar yararlanamaz.
+![sushi_geb](../../assets/images/uploads/2014/03/sushi_geb.jpg)Çiğ balık ve deniz ürünleri parazitler açısından potansiyel risk oluşturur. Eğer bu parazitler vücudunuzda yerleşir ve gelişirlerse sizin yediğiniz besinlerin önemli bir kısmını kendilerine alırlar. Sonuçta hem sizde bir beslenme bozukluğu ortaya çıkar hem de bebeğiniz gelişmi için gerekli olan enerji, protein ve diğer besin maddelerinden yeteri kadar yararlanamaz.
 
 Besin maddelerini dondurmak ya da pişirmek bu parazitleri yok eder. Bu nedenle bazı Japon restoranlarında sushi yapımında kullanılan çiğ deniz ürünleri önce dondurulup daha sonra çözülerek hazırlanmaktadır.
 

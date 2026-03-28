@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/endometriozis-tedavisinde-yeni-bir-ilac/'
 readingTime: 2
 ---
 
-![](/images/uploads/2018/07/kasend.jpg)
+![](../../assets/images/uploads/2018/07/kasend.jpg)
 
 Oyuncu ve yazar Lena Dunham geçtiğimiz aylarda endometriozis hastası olduğunu ve bundan dolayı çok ağrı duyduğunu ve gündelik yaşantısı ile meslek yaşantısının bu durumdan olumsuz etkilendiğini açıkladığında medyanın gözü yine kadınları etkileyen bu sinsi hastalığa yöneldi.
 

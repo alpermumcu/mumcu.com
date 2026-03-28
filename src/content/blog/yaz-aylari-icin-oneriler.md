@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/yaz-aylari-icin-oneriler/'
 readingTime: 6
 ---
 
-![yazoneri](/images/uploads/2014/03/yazoneri.jpg)
+![yazoneri](../../assets/images/uploads/2014/03/yazoneri.jpg)
 
 Yaz ayları tüm dünyada insanların çok büyük bir kısmı için tatil anlamına gelir. Tatil deyince de ilk akla gelen seyahat, güneş ve denizdir. Öte yandan yaz ayları yeni bir hayatın ilk adımı olan evlilik törenlerinin de en sık yaşandığı yıl dönemleridir.
 

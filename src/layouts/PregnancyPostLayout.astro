@@ -1,15 +1,18 @@
 ---
+import { Image, getImage } from 'astro:assets';
 import Layout from './Layout.astro';
 import Sidebar from '../components/Sidebar.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import FAQAccordion from '../components/FAQAccordion.astro';
+import defaultHero from '../assets/images/default-hero.jpg';
+import doctorPhoto from '../assets/images/uploads/2020/08/alper-mumcu-photo.jpg';
 
 interface Props {
   frontmatter: {
     title: string;
     description?: string;
     pubDate: string;
-    heroImage?: string;
+    heroImage?: any;
     week?: number;
     category?: string[];
   };
@@ -23,11 +26,47 @@ const formattedDate = new Date(pubDate).toLocaleDateString('tr-TR', {
   month: 'long',
   day: 'numeric',
 });
+
+// Resolve the hero image for SEO
+const resolvedHero = heroImage ? await getImage({ src: heroImage, width: 1200, height: 630 }) : null;
+const ogImagePath = resolvedHero ? resolvedHero.src : '/images/dr-alper-mumcu.jpg';
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": title,
+  "description": frontmatter.description,
+  "author": {
+    "@type": "Person",
+    "name": "Dr. Alper Mumcu",
+    "url": "https://www.mumcu.com/dr-alper-mumcu/"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Dr. Alper Mumcu"
+  },
+  "datePublished": pubDate,
+  "dateModified": new Date().toISOString(),
+  "image": new URL(ogImagePath, Astro.url).toString()
+};
 ---
 
-<Layout title={`${title} | Dr. Alper Mumcu`}>
+<Layout title={`${title} | Dr. Alper Mumcu`} description={frontmatter.description} image={ogImagePath}>
+  <script type="application/ld+json" slot="head" is:inline set:html={JSON.stringify(jsonLd)} />
   <div class="pregnancy-post-layout">
-    <div class="hero-section" style={`background-image: linear-gradient(rgba(15, 61, 62, 0.4), rgba(15, 61, 62, 0.7)), url(${heroImage || '/images/default-hero.jpg'})`}>
+    <div class="hero-section">
+      <div class="hero-image-container">
+        <Image 
+          src={heroImage || defaultHero} 
+          alt={title} 
+          class="hero-img-bg" 
+          loading="eager" 
+          fetchpriority="high"
+          width={1920}
+          height={600}
+        />
+        <div class="hero-overlay"></div>
+      </div>
       <div class="container hero-content">
         <div class="header-meta">
           <span class="category-tag">Gebelik Haftası</span>
@@ -53,7 +92,7 @@ const formattedDate = new Date(pubDate).toLocaleDateString('tr-TR', {
         <div class="post-footer">
           <div class="author-box glass">
             <div class="author-img">
-              <img src="/images/dr-alper-mumcu.jpg" alt="Dr. Alper Mumcu" />
+              <Image src={doctorPhoto} alt="Dr. Alper Mumcu" width={100} height={100} />
             </div>
             <div class="author-info">
               <h4>Dr. Alper Mumcu</h4>
@@ -90,13 +129,31 @@ const formattedDate = new Date(pubDate).toLocaleDateString('tr-TR', {
   .hero-section {
     height: 60vh;
     min-height: 400px;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
     display: flex;
     align-items: center;
     position: relative;
     margin-top: -80px; /* Offset navigation height if necessary */
+    overflow: hidden;
+  }
+
+  .hero-image-container {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+  }
+
+  .hero-img-bg {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(rgba(15, 61, 62, 0.4), rgba(15, 61, 62, 0.7));
+    z-index: 2;
   }
 
   .hero-content {

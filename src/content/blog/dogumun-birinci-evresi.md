@@ -39,7 +39,7 @@ Bununla birlikte birinci evre bir saatten daha kısa ya da 24 saatten daha uzun 
 *   bebek ile annenin çatısı arasındaki oranlar
 *   Bebeğin ve önde gelen kısmın duruşu
 
-![birevgraf](/images/uploads/2014/03/birevgraf.gif)
+![birevgraf](../../assets/images/uploads/2014/03/birevgraf.gif)
 
 **Doğumun birinci evresinde sizi neler bekliyor  
 **Doğum eyleminin başladığına yapılan muayene ve monitör incelemesi ile karar verilir. Monitörde düzenli rahim kasılmalarının izlenmesi siz herhangi bir ağrı hissetmeseniz bile eylemin başladığı şeklinde yorumlanır. Muayenede ise rahim ağzında açıklık ve incelme olması tanıyı destekler. Bazı durumlarda hiçbir belirti olmasa bile rutin muayenede rahim ağzında 1-2 santimetre açıklık saptanabilir.

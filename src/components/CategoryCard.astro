@@ -1,10 +1,12 @@
 ---
+import { Image } from 'astro:assets';
+
 interface Props {
 	title: string;
 	description: string;
 	href: string;
 	icon?: string;
-	image?: string;
+	image?: any; // Accepting ImageMetadata
 	count?: number;
 }
 
@@ -14,7 +16,7 @@ const { title, description, href, icon, image, count } = Astro.props;
 <a href={href} class="category-card">
 	<div class="icon-wrapper">
 		{image ? (
-			<img src={image} alt={title} class="category-img" />
+			<Image src={image} alt={title} class="category-img" width={140} height={140} />
 		) : (
 			<span class="icon">{icon}</span>
 		)}

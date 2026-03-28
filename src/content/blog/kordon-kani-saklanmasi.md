@@ -24,7 +24,7 @@ Bu üç hücre grubunun hepsi de kemik iliğinde bulunan ve kök hücre adı ver
 
 Çocukluk çağı lösemileri (kan kanseri) ile bazı kan ve bağışıklık sistemi hastalıklarının varlığında kemik iliği görevini sağlıklı olarak yerine getiremez. Öte yandan bu hastalıkların tedavisinde başvurulan kemopterapi ya da radyoterapi gibi uygulamalar kemik iliğindeki kök hücrelere zarar verir. Hastalığın ve tedavinin türüne göre bazı hastalarda kemik iliği nakli kaçınılmaz olur. Bu durumda hastanın kemik iliği ile uyumlu olan sağlıklı bir vericiden alınan sağlıklı kemik iliği ve kök hücreleri hasta kişiye verilerek sağlıklı kan hücrelerinin yeniden üretimesi amaçlanır. Böyle bir durumda hastanın kendi akrabaları hatta kardeşleri arasında dahi uygun bir verici bulma olasılığı %25’ler civarındadır.
 
-![dsc00627](/images/uploads/2014/03/dsc00627.gif)
+![dsc00627](../../assets/images/uploads/2014/03/dsc00627.gif)
 
 1980’li yılların başlarında bilimadamlarının yenidoğan bebeklerin kordon kanında da kemik iliğindekine benzer kök hücrelerin bulunduğunu fark etmeleri ile birlikte kordon kanından elde edilen bu hücrelerin belirli hastalıkların tedavisinde kullanılabileceği fikri ortaya çıktı. Elde edilen kordon kanının belirli koşullar altında toplanıp dondurularak saklanabileceği ve daha sonra gerek duyulduğunda çözülerek kullanılabileceğini fark eden Dr. David Harris 1992 yılında oğlunun kordon kanınını kendi laboratuvarında dondurarak sakladı. Daha sonra bu uygulamayı halka açması ile 1994 yılında Dünyadaki ilk kordon kanı bankası Amerika Birleşik Devletlerinde kurulmuş oldu. Takip eden yıllar içinde dünya üzerinde pekçok kordon kanı bankası kuruldu ve binlerce bebeğin kanı bu bankalarda koruma altına alındı.
 

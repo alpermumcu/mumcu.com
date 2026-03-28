@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/gebelik-kesesi-olcumu-normal-degerleri/'
 readingTime: 1
 ---
 
-![gs17](/images/uploads/2014/03/gs17.jpg)
+![gs17](../../assets/images/uploads/2014/03/gs17.jpg)
 
 **Hafta**
 

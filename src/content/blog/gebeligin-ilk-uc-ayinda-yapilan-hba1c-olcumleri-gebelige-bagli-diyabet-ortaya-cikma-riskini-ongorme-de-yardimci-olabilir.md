@@ -12,7 +12,7 @@ status: publish
 originalUrl: >-
   https://www.mumcu.com/gebeligin-ilk-uc-ayinda-yapilan-hba1c-olcumleri-gebelige-bagli-diyabet-ortaya-cikma-riskini-ongorme-de-yardimci-olabilir/
 readingTime: 1
-heroImage: /images/blog/trimester-1-hero.png
+heroImage: ../../assets/images/blog/trimester-1-hero.png
 ---
 
 Yeni yapılan bir çalışmanın sonuçları gebeliğin ilk üç ayında kanda yapılan basit bir testin gebeliğin ilerleyen dönemlerinde diyabet ortaya çıkma riski hakkında fikir verebileceğini düşündürüyor.

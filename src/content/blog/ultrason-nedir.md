@@ -42,7 +42,7 @@ Elde edilen görüntünün kalitesi probun frekansına ve kalitesine bağlı old
 
 CPU’dan çıkan ve monitörde yansıtılan görüntü disket ya da CD gibi depolama aygıtlarında saklanabilir, bağlı olan bir video ile kasede kaydedilebilir ya da termal bir yazıcı ile kağıda aktarılabilir.
 
-![uucihaz](/images/uploads/2014/03/uucihaz.jpg)
+![uucihaz](../../assets/images/uploads/2014/03/uucihaz.jpg)
 
 Özetleyecek olursak ultrason cihazı aslinda bir bilgisayar ve probdan gelen veriyi işleyen bir yazılım programıdır, dolayısı ile bilgisayar teknolojilerinde yaşanan gelişmeler direkt olarak ultrason cihazlarına da yansımaktadır. 2010 yılında kullandığımız  3 boyutlu ultason cihazları büyük ve hacimli iken 2014 yılında Montreal\`de kullandığımız hem vajinal ham de abdominal probu 3 boyutlu olan cihazlar fotograftan da gorulebilecegi gibi neredeyse bir laptop bilgisayar boyutundadır ve bu cihazlar ile hem 3 boyutlu görüntü alınabilmekte hem de doppler incelemeleri yapılabilmektedir. Üstelik bu cihazlar dizüstü bilgıyasayar gibi tasarlandığından prizden çıkartılıp istenilen yere rahatça götürülüp kullanılabilmektedir. Hastanın gelemediği durumlarda cihaz kolaylıkla hasta yanına götürülüp inceleme yapılabilir. Örneğin gerek duyulmasi halinde kesin yatak istirahati verilen bir gebenin evinde bile ultrason yapılabilir.
 

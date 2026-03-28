@@ -19,7 +19,7 @@ Rusya’da 1707-1782 yılları arasında yaşamış olan Fyodor Vassilyev isimli
 **En erken doğan ikizler**  
 Dünyada bugüne kadar kaydedilmiş, yaşayan en erken doğan ikizler 27 Mart 1999 tarihinde doğan Jimmy ve Missy Fisher’dir. İkizler dünyaya beklenenden 117 gün önce, 23 haftalıkken merhaba demişlerdi.
 
-**![ikiz](/images/uploads/2014/03/ikiz.jpg)İki ikiz arasındaki en uzun süre**  
+**![ikiz](../../assets/images/uploads/2014/03/ikiz.jpg)İki ikiz arasındaki en uzun süre**  
 Paggy Lynn, ikizlerinden ilkini 11 Kasım 1995 yılında doğurdu. İkizlerin diğer teki olan Eric ise tam 84 gün sonra 2 Çubat 1996’da doğdu.
 
 **İlk Tüp İkizler**  

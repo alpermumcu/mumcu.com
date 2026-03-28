@@ -28,7 +28,17 @@ const { Content } = await page.render();
         ]} 
       />
       
-			{page.data.heroImage && <img width={1020} height={510} src={page.data.heroImage} alt={page.data.title} class="hero-img" />}
+			{page.data.heroImage && (
+				<Image 
+					width={1020} 
+					height={510} 
+					src={page.data.heroImage} 
+					alt={page.data.title} 
+					class="hero-img" 
+					loading="eager" 
+					fetchpriority="high" 
+				/>
+			)}
 			<h1 class="title font-outfit">{page.data.title}</h1>
 			
 			<div class="prose">

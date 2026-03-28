@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/hpv-asisi-45-yasina-kadar-yapilabilir/'
 readingTime: 2
 ---
 
-![](/images/uploads/2018/10/rsz_gardasil9.jpg)  
+![](../../assets/images/uploads/2018/10/rsz_gardasil9.jpg)  
 Amerikan Gıda ve İlaç dairesi (FDA)  5 Ekim 2018 tarihinde yaptığı bir açıklama ile insanlarda papillomavirus (HPV) için kullanılan dokuzlu aşının 27 ila 45 yaş arasındaki kadın ve erkeklerde kullanımına onay verdi.
 
 Gardasil 9 adı verilen aşı insanlarda rahim ağzı kanseri ve diğer bazı kanserlere neden olabilen virüslere karşı geliştirilmiş bir aşı.

@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/hamilelikte-kedi-beslemek-guvenli-midir/'
 readingTime: 2
 ---
 
-![](/images/uploads/2014/03/gizmo.jpg)
+![](../../assets/images/uploads/2014/03/gizmo.jpg)
 
 Evcil kedi insanın en eski dostlarından birisidir. Antik Mısır’dan beri kedilerin insanlarla içiçe yaşadığı bilinmektedir. Apartman yaşamı evcil hayvan beslemek isteyenler için de kedileri en cazip hayvanlardan birisi haline getirmiştir. Bugün ülkemizde de pekçok evde kedi beslenmektedir. Yine ülkemizde belki de önemli sorunlardan birisi de sokak hayvanları ve kedilerdir.
 

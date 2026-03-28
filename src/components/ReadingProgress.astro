@@ -27,6 +27,7 @@
 <script>
   const progressBar = document.getElementById('progress-bar');
   const container = document.getElementById('reading-progress');
+  let ticking = false;
 
   const updateProgress = () => {
     const totalHeight = document.documentElement.scrollHeight - window.innerHeight;
@@ -36,9 +37,17 @@
     if (progressBar) {
       progressBar.style.width = `${progress}%`;
     }
+    ticking = false;
   };
 
-  // Only show progress on blog post pages or when page is long
-  window.addEventListener('scroll', updateProgress);
+  const onScroll = () => {
+    if (!ticking) {
+      window.requestAnimationFrame(updateProgress);
+      ticking = true;
+    }
+  };
+
+  // Only show progress on certain pages or when page is long
+  window.addEventListener('scroll', onScroll, { passive: true });
   updateProgress();
 </script>

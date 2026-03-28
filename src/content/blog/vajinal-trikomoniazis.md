@@ -16,7 +16,7 @@ Tirkomoniazis dolayısı ile paraziter bir enfeksiyon olarak nitelendirilir. Bu 
 
 Trikomonas cinsel ilişki ile bulaşabilen hastalıklar grubuna girmektedir. Herhangi bir yakınması olmayan asemptomatik hastalarda %5-15 oranında vajinada T.vajinalis bulunur. Enfekte hastaların %37’sinde trikomonas ile birlikte gonore’de bulunur. Hasta kadınların ise yaklaşık yarısının eşinde hastalık etkeni izole edilebilir. Kadınların %25’i hayatlarının herhangi bir döneminde bu enfeksiyona yakalanırlar.
 
-![Trichomonas](/images/uploads/2014/03/Trichomonas.jpg)
+![Trichomonas](../../assets/images/uploads/2014/03/Trichomonas.jpg)
 
 Trikomonas vajinalis
 
@@ -27,14 +27,14 @@ T.vajinalis enfeksiyonu çoğu kez anaerob adı verilen ve oksijensiz ortamda ü
 **Belirtiler**  
 Trikomonas enfeksiyonu %80 oranda belirti vermez.Belirti varlığında hemen hemen bütün vajinal enfeksiyonlarda olduğu gibi en sık görülen bulgu akıntıdır. Tipik akıntı sarı-yeşil renkli, köpüklü bir tiptedir.Ancak hastaların bir kısmında akıntı farklı şekillerde olabilir.%10 vakada ise bu akıntıya kötü bir koku eşlik eder. Nadiren kaşıntı ve idrar yaparken yanma olabilir. Vulvada şişlik ve kızarıklık olabilir. Muayenede ise rahim ağzında çilek görünümü olarak adlandırılan küçük kanama odaklarının olması trikomonas için tanısal değer taşır. Cinsel ilişki sonrasında vajinal kanama görülebilir. Bazı durumlarda ise enfeksiyon aktif halde değildir. Kişi sadece taşıyıcıdır.
 
-![trikomonas](/images/uploads/2014/03/trikomonas.jpg)
+![trikomonas](../../assets/images/uploads/2014/03/trikomonas.jpg)
 
 Trikomonas enfeksiyonunda görülen vajinal akıntı
 
 **Tanı**  
 Trikomonas teşhisi, jinekolojik muayene ve alınan akıntı örneğinin direk mikroskop altında incelenmesi ile konur. Mikroskop altında hareketli trikomonasların görülmesi tanı için gereklidir. Ayrıca bazen başka bir nedenle alınan servikal smearda da da trikomonaslar saptanabilir.
 
-![trikomonas3](/images/uploads/2014/03/trikomonas3.jpg)
+![trikomonas3](../../assets/images/uploads/2014/03/trikomonas3.jpg)
 
 Trikomonas enfeksiyonunda  
 servikste çilek görüntüsü

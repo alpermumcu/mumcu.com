@@ -12,7 +12,7 @@ readingTime: 7
 
 Öncelikle bilmeyenler için belirteyim ben de bir ikiz babasıyım ve fotoğrafta oğullarım Alp ve Arda doğduktan birkaç saat sonra görülüyor.
 
-![ucuzbebe](/images/uploads/2014/03/ucuzbebe.jpg)
+![ucuzbebe](../../assets/images/uploads/2014/03/ucuzbebe.jpg)
 
 Çoğul gebelikler karşısında duyulan korku ve hayranlık belki de insanlık tarihi kadar eskidir. Her dönemde, çoğul gebeliklerdeki bebek sayısı arttıkça duyulan ilginin dereceside artmaktadır. Özellikle son zamanlarda kısırlık tedavilerinin gelişmesi ve bu tedavilerde kullanılan ilaçların etkisi ile ikiz ve daha fazla sayıda bebek taşıyan gebeliklerin görülme sıklığında belirgin bir artış vardır. Bu artış çoğul gebeliklere olan merakı arttırmakla birlikte eskiden nadir görülen bir olay artık sıradanlaşmaya başlamıştır. Medyatik kişilerin yardımcı üreme teknikleri sayesinde çoğul gebelikler yaşamaları ve bu bebekleri dünyaya getirmeleri ise ülkemizde bu gebelik şeklini daha iyi anlatma gereksinimini doğurmuştur.
 
@@ -25,7 +25,7 @@ Monozigot ikizler ise döllenmiş yumurtanın ikiye ayrılması ile oluşurlar.
 *   8\. gün olan bölünmeler iki bebek, tek bir amniyon ve tek bir plasenta meydana getirirler (monoamniyotik monokoriyonik).
 *   Bu dönemden sonra olan bölünmelerin sonucu ise yapışık ikizler gelişir (Siyam ikizleri).
 
-![ikiz_diyagram](/images/uploads/2014/03/ikiz_diyagram.gif)
+![ikiz_diyagram](../../assets/images/uploads/2014/03/ikiz_diyagram.gif)
 
 Yardımcı üreme tekniklerinde ise döllenen birden fazal sayıda yumurta hücresi rahim içine bırakıldığından bu bebekler çift yumurta ikizidirler. İkizlerin 1/3’ü monozitotik, 2/3’ü dizigotik yani çift yumurta ikizleridir. Bazı çoğul gebelikelerde ise bebeklerden bazıları monozigotik bazıları ise dizigotiktir. Örneğin beşiz bir gebelikte bebeklerden ikisi gerçek ikiz yani monozigotik, diğer üçü ise polizigotik olarak bulunmuştur. Yani burada 4 yumurta hücresi 4 sperm tarafından döllenmiş ve dördüz bir gebelik oluşmuştur. Daha sonra ise bu gebeliklerden bir tanesi bölünmüş ve sonuçta 5 bebek dünyaya gelmiştir. İkizlerin tek yumurta yada çift yumurta olduklarını ayırt etmek için bazı prensipler vardır.
 

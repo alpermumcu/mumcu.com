@@ -5,12 +5,12 @@ import { getCollection } from 'astro:content';
 import { categories } from '../../data/categories';
 
 // Category Images
-import imgGebelik from '../../images/categories/gebelik.png';
-import imgJinekoloji from '../../images/categories/jinekoloji.png';
-import imgTupBebek from '../../images/categories/tup-bebek.png';
-import imgCerrahi from '../../images/categories/cerrahi.png';
-import imgEstetik from '../../images/categories/estetik.png';
-import imgHaftaHafta from '../../images/categories/hafta-hafta.png';
+import imgGebelik from '../../assets/images/categories/gebelik.png';
+import imgJinekoloji from '../../assets/images/categories/jinekoloji.png';
+import imgTupBebek from '../../assets/images/categories/tup-bebek.png';
+import imgCerrahi from '../../assets/images/categories/cerrahi.png';
+import imgEstetik from '../../assets/images/categories/estetik.png';
+import imgHaftaHafta from '../../assets/images/categories/hafta-hafta.png';
 
 const allPosts = await getCollection('blog');
 const posts = allPosts.sort(
@@ -54,7 +54,7 @@ const categoryDescriptions: Record<string, string> = {
 						href={`/category/${cat.slug}/`}
 						title={cat.name}
 						description={categoryDescriptions[cat.name]}
-						image={categoryImages[cat.name]?.src}
+						image={categoryImages[cat.name]}
 						count={getCount(cat.name)}
 					/>
 				))}

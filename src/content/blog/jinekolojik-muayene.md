@@ -82,7 +82,7 @@ Anamnez aşaması sona erdikten sonra doktorunuz siz ve yakınmalarınız hakkı
 
 **Muayene**
 
-![jinmasa](/images/uploads/2014/03/jinmasa.jpg)
+![jinmasa](../../assets/images/uploads/2014/03/jinmasa.jpg)
 
 **Jinekolojik muayenede kullandığımız masa**
 

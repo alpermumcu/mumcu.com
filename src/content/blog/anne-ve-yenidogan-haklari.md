@@ -21,13 +21,13 @@ Bu belge Perinatoloji Derneği’nin de üyesi olduğu Dünya Perinatal Tıp Bir
 Perinatoloji Derneği, imzalamış olduğu bu bildirgedeki maddelere, yayınlanmış oldukları şekilde  
 katılmakta ve desteklemektedir.
 
-**![peri1](/images/uploads/2014/03/peri1.gif)  
+**![peri1](../../assets/images/uploads/2014/03/peri1.gif)  
 DÜNYA PERİNATAL TIP BİRLİĞİ**
 
-![peri2](/images/uploads/2014/03/peri2.gif)  
+![peri2](../../assets/images/uploads/2014/03/peri2.gif)  
 **AVRUPA PERİNATAL TIP BİRLİĞİ**
 
-![peri3](/images/uploads/2014/03/peri3.gif)  
+![peri3](../../assets/images/uploads/2014/03/peri3.gif)  
 **PERİNATOLOJİ DERNEĞİ**
 
 **BİLDİRGENİN TARİHÇESİ**

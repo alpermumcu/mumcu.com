@@ -8,10 +8,10 @@ tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/fetal-karin-cevresi-olcumunun-normal-degerleri/'
 readingTime: 1
-heroImage: /images/uploads/2014/03/usron.jpg
+heroImage: ../../assets/images/uploads/2014/03/usron.jpg
 ---
 
-![ac16](/images/uploads/2014/03/ac16.jpg)
+![ac16](../../assets/images/uploads/2014/03/ac16.jpg)
 
 **Hafta**
 

@@ -1,6 +1,7 @@
 ---
+import { Image } from 'astro:assets';
 import { navigation } from '../data/navigation';
-import logo from '../images/uploads/2020/08/logo.png';
+import logo from '../assets/images/uploads/2020/08/logo.png';
 import Search from './Search.astro';
 
 const currentPath = Astro.url.pathname;
@@ -9,7 +10,7 @@ const currentPath = Astro.url.pathname;
 <nav class="navigation">
 	<div class="nav-container">
 		<a href="/" class="logo">
-			<img src={logo.src} alt="Alper Mumcu Logo" height="40" />
+			<Image src={logo} alt="Alper Mumcu Logo" height={40} width={180} />
 		</a>
 		<ul class="nav-links">
 			{navigation.map((item) => (

@@ -1,5 +1,6 @@
 ---
-import logo from '../images/uploads/2020/08/footer-logo.png';
+import { Image } from 'astro:assets';
+import logo from '../assets/images/uploads/2020/08/footer-logo.png';
 const today = new Date();
 ---
 
@@ -8,7 +9,7 @@ const today = new Date();
 		<div class="footer-grid">
 			<div class="footer-section">
 				<div class="footer-logo">
-					<img src={logo.src} alt="Alper Mumcu Footer Logo" height="50" />
+					<Image src={logo} alt="Alper Mumcu Footer Logo" height={50} width={220} />
 				</div>
 				<div class="social-media">
 					<a href="https://www.instagram.com/dralpermumcu/" target="_blank" aria-label="Instagram">

@@ -1,39 +1,53 @@
-export const categoryDefaults: Record<string, string[]> = {
+import gebelik1 from '../assets/images/stock/gebelik-1.png';
+import gebelik2 from '../assets/images/stock/gebelik-2.png';
+import tupBebek1 from '../assets/images/stock/tup-bebek-1.png';
+import tupBebek2 from '../assets/images/stock/tup-bebek-2.png';
+import jinekoloji1 from '../assets/images/stock/jinekoloji-1.png';
+import jinekoloji2 from '../assets/images/stock/jinekoloji-2.png';
+import cerrahi1 from '../assets/images/stock/cerrahi-1.png';
+import cerrahi2 from '../assets/images/stock/cerrahi-2.png';
+import estetik1 from '../assets/images/stock/estetik-1.png';
+import estetik2 from '../assets/images/stock/estetik-2.png';
+import genel1 from '../assets/images/stock/genel-1.png';
+import genel2 from '../assets/images/stock/genel-2.png';
+import genel3 from '../assets/images/stock/genel-3.png';
+
+export const categoryDefaults: Record<string, any[]> = {
   'Gebelik & Doğum': [
-    '/images/stock/gebelik-1.png',
-    '/images/stock/gebelik-2.png'
+    gebelik1,
+    gebelik2
   ],
   'Tüp Bebek & İnfertilite': [
-    '/images/stock/tup-bebek-1.png',
-    '/images/stock/tup-bebek-2.png'
+    tupBebek1,
+    tupBebek2
   ],
   'Jinekoloji & Kadın Sağlığı': [
-    '/images/stock/jinekoloji-1.png',
-    '/images/stock/jinekoloji-2.png'
+    jinekoloji1,
+    jinekoloji2
   ],
   'Cerrahi İşlemler': [
-    '/images/stock/cerrahi-1.png',
-    '/images/stock/cerrahi-2.png'
+    cerrahi1,
+    cerrahi2
   ],
   'Estetik Jinekoloji': [
-    '/images/stock/estetik-1.png',
-    '/images/stock/estetik-2.png'
+    estetik1,
+    estetik2
   ],
   'Hafta Hafta Gebelik': [
-    '/images/stock/gebelik-1.png',
-    '/images/stock/gebelik-2.png'
+    gebelik1,
+    gebelik2
   ],
   'Default': [
-    '/images/stock/genel-1.png',
-    '/images/stock/genel-2.png',
-    '/images/stock/genel-3.png'
+    genel1,
+    genel2,
+    genel3
   ]
 };
 
 /**
  * Deterministically pick an image from a pool based on a string (slug).
  */
-export function getHeroImage(slug: string, categoryName?: string, explicitImage?: string) {
+export function getHeroImage(slug: string, categoryName?: string, explicitImage?: any) {
   if (explicitImage) return explicitImage;
   
   const pool = categoryDefaults[categoryName || 'Default'] || categoryDefaults['Default'];

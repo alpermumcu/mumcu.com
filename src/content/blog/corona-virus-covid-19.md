@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/corona-virus-covid-19/'
 readingTime: 2
 ---
 
-![](/images/uploads/2020/09/rsz_ofis.jpg)2019 yılının sonlarında başlayan ve tüm dünyayı etkisi altına alan korona virüs salgını hepimizin hayatını pek çok yönden olumsuz etkiledi.
+![](../../assets/images/uploads/2020/09/rsz_ofis.jpg)2019 yılının sonlarında başlayan ve tüm dünyayı etkisi altına alan korona virüs salgını hepimizin hayatını pek çok yönden olumsuz etkiledi.
 
 Salgın nedeni ile daha önce hiç aklımıza bile gelmeyecek yeni uygulamalar hayatımızın en azından (ve umud ederim ki) şimdilik vazgeçilmez rutini haline geldi.
 

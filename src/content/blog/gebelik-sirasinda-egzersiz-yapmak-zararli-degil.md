@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/gebelik-sirasinda-egzersiz-yapmak-zararli-de
 readingTime: 5
 ---
 
-![](/images/uploads/2017/03/gym.jpg)
+![](../../assets/images/uploads/2017/03/gym.jpg)
 
 Hamile olduğunu çevresine açıklayan bir kadın bir anda kendisini öneri bombardımanı altında bulur. Anneler babalar aile büyükleri arkadaşlar hatta tanımadık insanlar bile pek çok öneri ile zaten hamileliği ve bebeği hakkında endişeler taşıyan kadında daha büyük stres yaratır.
 

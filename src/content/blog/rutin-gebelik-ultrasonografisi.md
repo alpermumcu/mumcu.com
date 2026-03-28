@@ -14,7 +14,7 @@ Gebeliğin ilk trimesterında yani ilk 13 haftasında vajinal yoldan yapılan ul
 
 Hamilelik takipleri boyunca doktorunuz sizden 32. haftaya kadar her 4 haftada bir, bu haftadan sonra ise daha sık aralıklarla gelmenizi isteyecektir. Bu ziyaretlerinizde hem doktorunuzla akılınıza takılan soru ya da konuları tartışacaksınız, hem bebeğin ve sizin durumunuzu değerlendiren bazı tetkikler yapılacak hem de bebeğinizin gelişimi ultrason ile incelenecektir.
 
-İkinci trimesterdan sonra yapılan rutin ultrason incelemeleri her hangi bir gereklilik ortaya çıkmadığı hallerde karından yani abdominal yoldan yapılır. Karından yapılan jinekolojik ultrason incelemelerinin aksine ![usron](/images/uploads/2014/03/usron.jpg)hamilelik takiplerinde idrar kesenizin dolu olması gerekmez. Doktorunuzun gerekli görmesi durumunda 23. hafta civarında rahim ağzı uzunluğunu değerlendirmek için abdominal ultrasonografinin yanısıra vajinal inceleme de yapılabilir.
+İkinci trimesterdan sonra yapılan rutin ultrason incelemeleri her hangi bir gereklilik ortaya çıkmadığı hallerde karından yani abdominal yoldan yapılır. Karından yapılan jinekolojik ultrason incelemelerinin aksine ![usron](../../assets/images/uploads/2014/03/usron.jpg)hamilelik takiplerinde idrar kesenizin dolu olması gerekmez. Doktorunuzun gerekli görmesi durumunda 23. hafta civarında rahim ağzı uzunluğunu değerlendirmek için abdominal ultrasonografinin yanısıra vajinal inceleme de yapılabilir.
 
 Gebeliğin başından sonuna kadar herhangi bir döneminde, kanama olsa dahi vajinal ultrasonografi yapılmasında hiçbir sakınca yoktur.
 

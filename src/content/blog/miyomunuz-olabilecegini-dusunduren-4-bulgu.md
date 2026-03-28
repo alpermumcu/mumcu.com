@@ -23,7 +23,7 @@ Kabaca kadınların yaklaşık yarısı sıklıkla 30-50 yaşlar arasında myom 
 
 Rahiminizde myom olabileceğini düşündüren belirtiler şunlardır:
 
-![](/images/uploads/2017/06/IMG_6623.jpg)
+![](../../assets/images/uploads/2017/06/IMG_6623.jpg)
 
 **1) Adetlerde değişim: Kanama miktarınızda ve süresinde belirgin bir artış varsa**  
 Miyomların neden olduğu en belirgin bulgu adet kanamalarının gıderek uzaması ve miktar olarak artmasıdır. Kanama zaman zaman o kadar fazla olabilir ki, sosyal yaşantınız bundan etkilenebilir.

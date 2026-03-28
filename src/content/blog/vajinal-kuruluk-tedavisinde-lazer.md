@@ -1,7 +1,7 @@
 ---
 title: Vajinal kuruluk tedavisinde lazer
 pubDate: '2020-10-18T21:40:48'
-heroImage: '/images/blog/lazer-tedavisi.png'
+heroImage: '../../assets/images/blog/lazer-tedavisi.png'
 slug: vajinal-kuruluk-tedavisinde-lazer
 category:
   - Cerrahi İşlemler
@@ -47,7 +47,7 @@ Tedavi son derece hızlı ve yaklaşık 10-15 dakika süren bir girişimdir. Ane
 
 Özel silindir şeklinde spekulum vajina içerisine yerleştirilir ve bunun içerisinden yerleştirilen lazer 360 derecelik bir alana uygulama yapar.￼￼
 
-**![Vajinal kuruluk tedavisinde lazer ](/images/uploads/2020/10/meno.jpg)**
+**![Vajinal kuruluk tedavisinde lazer ](../../assets/images/uploads/2020/10/meno.jpg)**
 
 *   Ofis şartlarında yapılır hastaneye gitmeyi gerektirmez
 *   Lokal ya da genel anestezi gerektirmez

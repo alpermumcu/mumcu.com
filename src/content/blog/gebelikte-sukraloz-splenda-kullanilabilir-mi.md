@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/gebelikte-sukraloz-splenda-kullanilabilir-mi
 readingTime: 2
 ---
 
-![splenda](/images/uploads/2014/03/splenda.jpg)
+![splenda](../../assets/images/uploads/2014/03/splenda.jpg)
 
 Son zamanlarda şekerden üretilen ve kalori içermeyen bir tatlandırıcı olan sukraloz (sucralose) kullanımı tüm dünyada giderek artmaktadır. Piyasada splenda ticari adı ile satılan bu ürün hamur işlerinde, alkol içermeyen içeceklerde, sakızlarda, kahve çay gibi sıcak içeceklerde, meyve suyu ve şuruplarda sıkça kullanılmaktadır.
 

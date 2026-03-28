@@ -12,7 +12,7 @@ readingTime: 3
 
 Hamilelik günlük yaşantınızda pek çok değişiklik yapmanızı gerektirir. Bu değişikliklerden en belirgin ve en önemli olanı beslenme alışkanlıklarınızdaki değişikliklerdir. Hamilelik öncesi sağlıklı bir beslenme alışkanlığınız olsa dahi yediklerinize biraz daha dikkat etmeniz gerekebilir. Bu yazıda hamilelikte beslenmeye ilişkin minik ipuçları bulabilirsiniz. Yazıyı okumadan önce sağlıklı besleme piramidini incelemenizi öneririm.
 
-![piramit](/images/uploads/2014/03/piramit.gif)
+![piramit](../../assets/images/uploads/2014/03/piramit.gif)
 
 *   Beslenme piramidini inceleyin. En altta bulunan besinlerden önerilen miktarda tüketmeye dikkat edin. Bu bölümdeki besinlerden fazla miktarda tüketmeniz bebeğinizden çok sizin kilo almanıza neden olacaktır. Bu nedenle önerilen miktarda karbonhidrat aldıktan sonra meyve ve sebzeleri ekleyin. Aldığınız yağ miktarının az olmasına dikkat edin.
 *   Çeşitlilik son derece önemlidir. Bu hem yemekleri monoton biçimde algılamanızı engeller hem de yeterli miktarda vitamin ve besin ögeleri almanıza destek olur. Önerilen gruplarda hergün farklı şeyler tüketmeye gayret gösterin

@@ -28,16 +28,16 @@ Kondomun her iki ucunda yarı sert ve kolay büklebilen bir halka bulunur. Kapal
 **Nasıl kullanılır?**  
 Kadın prezervatifinin yerleştirilmesi diyafram yerleştirilmesine benzer. Kapalı uçtaki halka orta, işaret ve baş parmaklar ile bükülerek vajina içerisine sokulur ve daha sonra işaret parmağı ile sonuna kadar itilir. Bu sırada kondomun kendi etrafında bükülmediğinden emin olmak gerekir. Kondomun dışta kalan kısmı ilişki sırasında genital bölgelerin temas etmesini engellediğinden genital siğilere karşı erkek prezervatifinden daha fazla koruyuculuk sağlar.
 
-![reality1](/images/uploads/2014/03/reality1.gif)  
+![reality1](../../assets/images/uploads/2014/03/reality1.gif)  
 1
 
-![reality2](/images/uploads/2014/03/reality2.gif)  
+![reality2](../../assets/images/uploads/2014/03/reality2.gif)  
 2
 
-![reality3](/images/uploads/2014/03/reality3.gif)  
+![reality3](../../assets/images/uploads/2014/03/reality3.gif)  
 3
 
-![reality4](/images/uploads/2014/03/reality4.gif)  
+![reality4](../../assets/images/uploads/2014/03/reality4.gif)  
 4
 
 İlişki sonrasında kondom dikatli bir şekilde çıkartılmalı ve atılmalıdır. Aynı kondom birden fazla sefer kullanılmamalıdır. Eğer ilişki sırasında dışarıda kalan uç vajina içine kaçarsa ilişkiye hemen son verilmeli, kondom vajinadan çıkartılmalı ve yeni bir kondom taktıktan sonra ilişkiye devam edilmelidir.

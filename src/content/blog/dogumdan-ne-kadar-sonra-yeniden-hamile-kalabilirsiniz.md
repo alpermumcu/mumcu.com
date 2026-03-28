@@ -1,6 +1,6 @@
 ---
 title: Doğumdan ne kadar sonra yeniden hamile kalabilirsiniz?
-heroImage: '/images/stock/genel-2.png'
+heroImage: '../../assets/images/stock/genel-2.png'
 pubDate: '2018-12-20T00:47:08'
 slug: dogumdan-ne-kadar-sonra-yeniden-hamile-kalabilirsiniz
 category:

@@ -14,7 +14,7 @@ Bize basit gibi görünen ve hergün birkaç kere tekrarladığımız vücut ola
 
 Böbreklerden süzülen idrarın dışarı atılıncaya kadar biriktirildiği organ olan mesane ve idrarı mesaneden dış dünyaya taşıyan ürethra, pelvis boşluğu içinde bulunur. İdrar yapmada görev alan bu organlar pelvis boşluğunu alttan destekleyen kas grupları tarafından yerinde tutulur. Bu kas tabakalarındaki gevşeme ve zayıflıklar idrar tutmada güçlüğüne yol açabilirler. Gevşeme ve zayıflıkların en önemli nedeni yapılmış olan normal doğumlardır. Sonuçta pelvik kaslardaki gevşemeler sonucu mesane sarkması (sistosel), rektum sarkması (rektosel) ve idrar tutamama (üriner inkontinans) görülebilir. İlerlemiş bir sistosel vakasında ameliyat dışında yapacak pek birşey yoktur. Oysa sistosel çok fazla değilse, kasları güçlendirmeye yönelik yapılacak birkaç küçük egzersiz ile şikayetler giderilebilir. İdrar sarkması olmasa bile gebelik esnasında pelvik kasları güçlendirmek ileride idrar problemi yaşanma olasılığını azaltabilir.
 
-![pelvic](/images/uploads/2014/03/pelvic.gif)
+![pelvic](../../assets/images/uploads/2014/03/pelvic.gif)
 
 **Kegel egzersizleri ile çalıştırılan pelvik kaslar**
 

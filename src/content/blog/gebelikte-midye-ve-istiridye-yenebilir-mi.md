@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/gebelikte-midye-ve-istiridye-yenebilir-mi/'
 readingTime: 1
 ---
 
-![midye2](/images/uploads/2014/03/midye2.jpg)
+![midye2](../../assets/images/uploads/2014/03/midye2.jpg)
 
 Midye ve özellikle istiridye ölümle sonuçlanabilecek ciddi besin zehirlenmelerine neden olabilen bakterilere ev sahipliği yapan deniz ürünleridir. Pekçok virus, bakteri ve toksinleri barındırabilirler. Uygun şartlarda saklanmadıklarında bu zararlı mikrop ve toksinler çok hızlı bir şekilde üreyebilirler ve şiddetli besin zehirlenmesine neden olabilirler. Hatta istiridye ve midye hepatit virüsü de taşıyabilmektedir. Hamile olmak bu hastalıklara yakalanma riskinizi arttırmaz ancak zehirlenme ortaya çıktığında kullanılması gereken bazı ileçlar gebelikte sakıncalı olabilir.
 

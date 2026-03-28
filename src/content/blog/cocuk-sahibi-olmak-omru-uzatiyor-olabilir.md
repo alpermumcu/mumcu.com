@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/cocuk-sahibi-olmak-omru-uzatiyor-olabilir/'
 readingTime: 2
 ---
 
-![](/images/uploads/2017/04/family.jpg)
+![](../../assets/images/uploads/2017/04/family.jpg)
 
 Uykusuz uzun geceler ve anne baba olmanın getirdiği stres uzun bir yaşamın sırrı gibi görünmüyor olabilir, ancak yayınlanan yeni bir çalışmanın sonuçlarına göre çocuk sahibi olmak anne babaların yaşam süresine fazladan birkaç yıl ekliyor olabilir.
 

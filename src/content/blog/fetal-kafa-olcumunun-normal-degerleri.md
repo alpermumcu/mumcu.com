@@ -8,10 +8,10 @@ tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/fetal-kafa-olcumunun-normal-degerleri/'
 readingTime: 1
-heroImage: /images/uploads/2014/03/usg_rendop.jpg
+heroImage: ../../assets/images/uploads/2014/03/usg_rendop.jpg
 ---
 
-![bpd16](/images/uploads/2014/03/bpd16.jpg)
+![bpd16](../../assets/images/uploads/2014/03/bpd16.jpg)
 
 **Hafta**
 

@@ -16,7 +16,7 @@ readingTime: 5
 
 Candida Albikansın vajinada zaten normalde bulunan bir organizma mı olduğu yoksa belirti vermeyen kadınlarda saptandığında mutlaka tedavi edilmesi gereken bir patojen mi olduğu günümüzde dahi açıklığa kavuşturulamamış bir sorudur. Erkek semeninde üretilemediği için cinsel yolla bulaşan bir hastalık olarak kabul edilemez.Ancak yapılan araştırmalarda eşlerin benzer tipte mantar hücresi taşıdıkları saptandığı için pekçok hekim tedavide eş tedavisi de uygulamayı uygun görmektedir.
 
-![calbicans](/images/uploads/2014/03/calbicans.jpg)
+![calbicans](../../assets/images/uploads/2014/03/calbicans.jpg)
 
 Vajinal mantar enfeksiyonuna neden olan candida albikans hifleri
 

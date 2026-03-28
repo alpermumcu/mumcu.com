@@ -1,24 +1,25 @@
 ---
+import { Image } from 'astro:assets';
 import Layout from '../layouts/Layout.astro';
 import CategoryCard from '../components/CategoryCard.astro';
 import FAQAccordion from '../components/FAQAccordion.astro';
 import { getCollection } from 'astro:content';
-import doctorPhoto from '../images/uploads/2020/08/alper-mumcu-photo.jpg';
-import doctorClinicPhoto from '../images/hero/dr-alper-clinical-hero.png';
+import doctorPhoto from '../assets/images/uploads/2020/08/alper-mumcu-photo.jpg';
+import doctorClinicPhoto from '../assets/images/hero/dr-alper-clinical-hero.png';
 import { getHeroImage } from '../data/category-defaults';
 import PregnancyCalculator from '../components/PregnancyCalculator.astro';
 
 // Category Images
-import imgGebelik from '../images/categories/gebelik.png';
-import imgJinekoloji from '../images/categories/jinekoloji.png';
-import imgTupBebek from '../images/categories/tup-bebek.png';
-import imgCerrahi from '../images/categories/cerrahi.png';
-import imgEstetik from '../images/categories/estetik.png';
+import imgGebelik from '../assets/images/categories/gebelik.png';
+import imgJinekoloji from '../assets/images/categories/jinekoloji.png';
+import imgTupBebek from '../assets/images/categories/tup-bebek.png';
+import imgCerrahi from '../assets/images/categories/cerrahi.png';
+import imgEstetik from '../assets/images/categories/estetik.png';
 
 // Clinic Gallery
-import clinicEntrance from '../images/clinic/lotus-entrance.jpg';
-import clinicCorridor from '../images/clinic/lotus-corridor.jpg';
-import clinicConsultation from '../images/clinic/lotus-consultation.jpg';
+import clinicEntrance from '../assets/images/clinic/lotus-entrance.jpg';
+import clinicCorridor from '../assets/images/clinic/lotus-corridor.jpg';
+import clinicConsultation from '../assets/images/clinic/lotus-consultation.jpg';
 
 const posts = (await getCollection('blog'))
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
@@ -69,7 +70,15 @@ const faqItems = [
 				<div class="hero-visual">
 					<div class="image-stack">
 						<div class="main-image-frame">
-							<img src={doctorClinicPhoto.src} alt="Dr. Alper Mumcu Klinik Ortamında" class="hero-img-main" />
+							<Image 
+								src={doctorClinicPhoto} 
+								alt="Dr. Alper Mumcu Klinik Ortamında" 
+								class="hero-img-main" 
+								loading="eager" 
+								fetchpriority="high"
+								width={500}
+								height={625}
+							/>
 							<div class="image-overlay-gradient"></div>
 						</div>
 						
@@ -114,35 +123,35 @@ const faqItems = [
 						href="/category/gebelik-dogum/" 
 						title="Gebelik & Doğum" 
 						description="Hafta hafta gebelik takibi ve modern doğum yöntemleri."
-						image={imgGebelik.src}
+						image={imgGebelik}
 						count={303}
 					/>
 					<CategoryCard 
 						href="/category/jinekoloji/" 
 						title="Jinekoloji" 
 						description="Rutin kontroller, HPV takibi ve kadın sağlığı çözümleri."
-						image={imgJinekoloji.src}
+						image={imgJinekoloji}
 						count={235}
 					/>
 					<CategoryCard 
 						href="/category/tup-bebek-infertilite/" 
 						title="Tüp Bebek & İnfertilite" 
 						description="Üreme sağlığı ve modern tüp bebek teknolojileri."
-						image={imgTupBebek.src}
+						image={imgTupBebek}
 						count={51}
 					/>
 					<CategoryCard 
 						href="/category/cerrahi-islemler/" 
 						title="Cerrahi İşlemler" 
 						description="Laparoskopik ve minimal invaziv cerrahi teknikler."
-						image={imgCerrahi.src}
+						image={imgCerrahi}
 						count={5}
 					/>
 					<CategoryCard 
 						href="/category/estetik-jinekoloji/" 
 						title="Estetik Jinekoloji" 
 						description="Lazer uygulamaları ve genital estetik çözümleri."
-						image={imgEstetik.src}
+						image={imgEstetik}
 						count={3}
 					/>
 				</div>
@@ -197,13 +206,13 @@ const faqItems = [
 					<div class="gallery-visual">
 						<div class="gallery-img-grid">
 							<div class="gallery-img-item tall">
-								<img src={clinicEntrance.src} alt="Lotus Nişantaşı - Klinik Ana Girişi" />
+								<Image src={clinicEntrance} alt="Lotus Nişantaşı - Klinik Ana Girişi" width={400} height={600} />
 							</div>
 							<div class="gallery-img-item">
-								<img src={clinicCorridor.src} alt="Modern Klinik Koridoru ve Alışveriş Alanı" />
+								<Image src={clinicCorridor} alt="Modern Klinik Koridoru ve Alışveriş Alanı" width={400} height={280} />
 							</div>
 							<div class="gallery-img-item">
-								<img src={clinicConsultation.src} alt="Dr. Alper Mumcu ile Yüz Yüze Görüşme ve Danışmanlık" />
+								<Image src={clinicConsultation} alt="Dr. Alper Mumcu ile Yüz Yüze Görüşme ve Danışmanlık" width={400} height={280} />
 							</div>
 						</div>
 					</div>
@@ -235,7 +244,7 @@ const faqItems = [
 					<div class="profile-image-container">
 						<div class="image-accent"></div>
 						<div class="profile-image">
-							<img src={doctorPhoto.src} alt="Dr. Alper Mumcu" class="doctor-img" />
+							<Image src={doctorPhoto} alt="Dr. Alper Mumcu" class="doctor-img" width={350} height={450} />
 						</div>
 					</div>
 				</div>
@@ -264,7 +273,13 @@ const faqItems = [
 					{posts.map((post) => (
 						<article class="post-card">
 							<div class="post-image">
-								<img src={getHeroImage(post.slug, (post.data.category || [])[0], post.data.heroImage)} alt={post.data.title} loading="lazy" />
+								<Image 
+									src={getHeroImage(post.slug, (post.data.category || [])[0], post.data.heroImage)} 
+									alt={post.data.title} 
+									loading="lazy" 
+									width={400} 
+									height={225} 
+								/>
 							</div>
 							<div class="post-content">
 								<div class="post-meta">

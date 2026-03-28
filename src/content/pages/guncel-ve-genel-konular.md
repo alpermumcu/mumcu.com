@@ -6,7 +6,7 @@ parent: 0
 menuOrder: 0
 ---
 
-[![bayrakkan](/images/uploads/2016/06/bayrakkan.jpg)](?p=2521)
+[![bayrakkan](../../assets/images/uploads/2016/06/bayrakkan.jpg)](?p=2521)
 
 *   [Yaz ayları için öneriler](/blog/yaz-aylari-icin-oneriler/)
 *   [Adet geciktirmek](?p=1173)

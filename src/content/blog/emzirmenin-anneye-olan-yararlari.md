@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/emzirmenin-anneye-olan-yararlari/'
 readingTime: 8
 ---
 
-![picas_emz](/images/uploads/2014/03/picas_emz.jpg)Bebek doğduğu anda en gelişmiş reflekslerinden birisi emme refleksidir. Bu refleksin amacı artık annesi ile olan organik bağını koparan yeni bireyin kendi beslenmesini sağlama gereksinimidir Tüm memeli canlılarda olduğu gibi insan yavrusu da doğar doğmaz annesinin memesini arar.
+![picas_emz](../../assets/images/uploads/2014/03/picas_emz.jpg)Bebek doğduğu anda en gelişmiş reflekslerinden birisi emme refleksidir. Bu refleksin amacı artık annesi ile olan organik bağını koparan yeni bireyin kendi beslenmesini sağlama gereksinimidir Tüm memeli canlılarda olduğu gibi insan yavrusu da doğar doğmaz annesinin memesini arar.
 
 Emzirme anne ile bebek arasındaki ilk duygusal bağın kurulmasının ve bebek için getirdiği yararların yanı sıra anne sağlığı açısından da önemli yararlar sağlar.
 

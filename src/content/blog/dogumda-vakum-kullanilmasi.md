@@ -16,13 +16,13 @@ Bu mantığın doğumda kullanılması ise 18. yüzyılın başlarına rastlar a
 
 Modern vakum çanları ise 1950’li yılların sonunda Malmström tarafından gerçekleştirilmiştir. Hala kullanılan bu vakum çanları paslanmaz çelikten imal edilmektedir. Günümüzde metal çanların yanısıra silikondan yapılmış çanlar ve tek kullanımlık plastik çanlar da mevcuttur.
 
-![kiwi](/images/uploads/2014/03/kiwi.jpg)
+![kiwi](../../assets/images/uploads/2014/03/kiwi.jpg)
 
 **Kendi doğumlarımızda kullandığımız tek kullanımlık plastik el vakum seti sistemi**
 
-[![can_1](/images/uploads/2014/03/can_1.gif)](http://www.mumcu.com/images/uploads/2014/03/can_1.gif)Vakum ekstraktör kabaca bir hortum ve ucundaki mantara benzeyen çandan oluşur. Çanın şekli ve üretildiği madde değişmekle birlikte temel mekanizma hepsinde aynıdır. Hortumun diğer ucu negatif emme basıncı yaratan bir cihaza bağlıdır. Vakum çanlarının çapı genelde 4-6 santimetre arasında değişmektedir. Bu çan bebeğin kafasına uygun şekilde yerleştirildikten sonra son bir kez yerleşimin uygun olup olmadığı kontrol edilir ve vakum yaratacak olan cihaz açılarak negatif basınç elde edilir. Gerekli basınca ulaşıldıktan sonra pelvis yapısına ve bebeğin kafasının doğum sırasında takip ettiği aksa uygun olarak dikkatli bir şekilde çekilerek bebeğin kafası doğurtulur. Bu aşamada mutlaka epizyotomi açılır.
+[![can_1](../../assets/images/uploads/2014/03/can_1.gif)](https://www.mumcu.com/assets/images/uploads/2014/03/can_1.gif)Vakum ekstraktör kabaca bir hortum ve ucundaki mantara benzeyen çandan oluşur. Çanın şekli ve üretildiği madde değişmekle birlikte temel mekanizma hepsinde aynıdır. Hortumun diğer ucu negatif emme basıncı yaratan bir cihaza bağlıdır. Vakum çanlarının çapı genelde 4-6 santimetre arasında değişmektedir. Bu çan bebeğin kafasına uygun şekilde yerleştirildikten sonra son bir kez yerleşimin uygun olup olmadığı kontrol edilir ve vakum yaratacak olan cihaz açılarak negatif basınç elde edilir. Gerekli basınca ulaşıldıktan sonra pelvis yapısına ve bebeğin kafasının doğum sırasında takip ettiği aksa uygun olarak dikkatli bir şekilde çekilerek bebeğin kafası doğurtulur. Bu aşamada mutlaka epizyotomi açılır.
 
-![vakum_1](/images/uploads/2014/03/vakum_1.gif)
+![vakum_1](../../assets/images/uploads/2014/03/vakum_1.gif)
 
 **Vakumun yerleştirilmesi**
 
@@ -39,7 +39,7 @@ Bazı durumlarda doğumun ikinci evresinin uzun sürmesi sakıncalı olabilir. B
 
 Vakumun sorunsuz bir şekilde uygulanması için bazı temel prensipler vardır. Bunlardan en önemlisi vakum gerekliliğine uygun şekilde karar verilmesi ve işlemi yapacak olan kişinin deneyimidir.
 
-![vakum_2](/images/uploads/2014/03/vakum_2.gif)
+![vakum_2](../../assets/images/uploads/2014/03/vakum_2.gif)
 
 **Bebeğin doğurtulması**
 

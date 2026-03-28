@@ -1,7 +1,7 @@
 ---
 title: Menopoz Sonrası Vajinal Kuruluk Tedavisinde Lazer Uygulamaları
 pubDate: '2018-04-08T00:50:13'
-heroImage: '../../images/blog/lazer-tedavisi.png'
+heroImage: '../../assets/images/blog/lazer-tedavisi.png'
 slug: menopoz-sonrasi-ortaya-cikan-vajinal-kuruluk-tedavisinde-lazer-oldukca-etkili
 category:
   - Estetik Jinekoloji

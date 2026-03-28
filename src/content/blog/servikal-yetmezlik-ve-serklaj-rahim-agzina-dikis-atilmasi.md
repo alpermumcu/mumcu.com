@@ -70,7 +70,7 @@ Rahim ağzına serklaj dikişi konulması genel anestezi altında yapılan bir i
 
 Serklajın bir kaç değişik türü olmakla birlikte en sık kullanılan teknik yukarıda anlatılandır ve McDonald usülü serklaj olarak adlandırılır.
 
-![serklaj1](/images/uploads/2014/03/serklaj1.gif)
+![serklaj1](../../assets/images/uploads/2014/03/serklaj1.gif)
 
 Operasyon genel anestezi altında olduğu için bir gece öncesinde akşam yemeğinde çorba, salata gibi hafif şeyler yemeniz, gece yarısı saat 12:00’den sonra ise su da dahil olmak üzere hiçbir şey yiyip içmemeniz gereklidir.
 

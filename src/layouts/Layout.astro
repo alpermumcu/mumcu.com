@@ -11,9 +11,16 @@ import CookieBanner from '../components/CookieBanner.astro';
 interface Props {
   title: string;
   description?: string;
+  image?: string;
 }
 
-const { title, description = "Dr. Alper Mumcu'nun 25 yılı aşkın tecrübesiyle hazırlanan, güncel ve bilimsel kadın sağlığı, hamilelik ve tüp bebek bilgilendirme platformu." } = Astro.props;
+const { 
+  title, 
+  description = "Dr. Alper Mumcu'nun 25 yılı aşkın tecrübesiyle hazırlanan, güncel ve bilimsel kadın sağlığı, hamilelik ve tüp bebek bilgilendirme platformu.",
+  image = "/images/dr-alper-mumcu.jpg"
+} = Astro.props;
+
+const ogImage = new URL(image, Astro.url);
 ---
 
 <!doctype html>
@@ -30,14 +37,14 @@ const { title, description = "Dr. Alper Mumcu'nun 25 yılı aşkın tecrübesiyl
     <meta property="og:url" content={Astro.url} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={new URL('/images/dr-alper-mumcu.jpg', Astro.url)} />
+    <meta property="og:image" content={ogImage} />
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content={Astro.url} />
     <meta property="twitter:title" content={title} />
     <meta property="twitter:description" content={description} />
-    <meta property="twitter:image" content={new URL('/images/dr-alper-mumcu.jpg', Astro.url)} />
+    <meta property="twitter:image" content={ogImage} />
 
     <!-- Canonical URL -->
     <link rel="canonical" href={Astro.url} />
@@ -47,6 +54,7 @@ const { title, description = "Dr. Alper Mumcu'nun 25 yılı aşkın tecrübesiyl
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <slot name="head" />
   </head>
   <body>
     <TopBar />

@@ -22,10 +22,10 @@ Bununla birlikte yapılan bir araştırmada gebeliklerinin 11-14 haftalarında o
 
 Bebeğin duruşunun uygun olmadığı zamanlarda gebeliğin sonuna kadar cinsiyet görülemeyebilir. Zaman zaman cinsiyet tayininde hatalar olabilmektedir. Kız denen bebeklerin doğduğunda aslında erkek olduğu ya da tam tersi durumlar söz konusu olabilmekte bu durum da bazı ailelerde yersiz endişeler yaratabilmektedir. Ultrason ile cinsiyet tayininin %100 olmadığı bilinmeli ve hata olabileceği her zaman hatırda tutulmalıdır.
 
-![male](/images/uploads/2014/03/male.jpg)  
+![male](../../assets/images/uploads/2014/03/male.jpg)  
 Erkek Bebek
 
-![female](/images/uploads/2014/03/female.jpg)  
+![female](../../assets/images/uploads/2014/03/female.jpg)  
 Kiz bebek
 
 KAYNAKLAR

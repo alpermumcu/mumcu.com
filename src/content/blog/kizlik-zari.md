@@ -21,7 +21,7 @@ Günümüzde kızlık zarının anatomik ya da fizyolojik değil sosyolojik bir 
 **Anatomi**  
 Kızlık zarı belirli bir yapıda değildir. Anatomik olarak vajinayı oluşturan ve mukoza adı verilen dokunun vajina girişini oluşturan doku kıvrımıdır. Yani kızlık zarı vajina içinde değil vajinanın hemen girişinde dudakların yaklaşık 1-1.5 santimetre içindedir ve küçük dudaklara bağlıdır.Dış genital oluşumlardan birisi olarak kabul edilir.Dışarıya bakan ön yüzü deriye, vajina içine bakan arka yüzü ise mukozaya benzer. Kız çocukların hemen hepsine bulunan hymen çok nadir olarak doğuştan hiç bulunmayabilir. Çocukluk çağında daha sert olan doku ergenlikle birlikte östrojen hormonunun salınmasına bağlı olarak değişime uğrar ve esneklik kazanır.
 
-![hymen_001](/images/uploads/2014/03/hymen_001.jpg)
+![hymen_001](../../assets/images/uploads/2014/03/hymen_001.jpg)
 
 Kızlık zarı vajina girişini tamamen kapatmaz, ortasında adet kanının ve vajinal salgıların dışrıya akmasını sağlayan bir delik bulunur. Bu deliğin şekli ve yapısı hymen türlerinin belirlenmesinde kullanılır. Kızlık zarının şekli, kalınlığı ve elastikiyeti kişiler arasında büyük farklılıklar gösterir.
 
@@ -32,47 +32,47 @@ Kızlık zarı vajina girişini tamamen kapatmaz, ortasında adet kanının ve v
 
 En sık görülen hymen şeklidir. Burada kızlık zarı halka şeklinde vajna girişini kaplamaktadır. Ortasında yine halka şeklinde bir delik bulunur. Karadeniz ve arkadaşları yaptıkları araştırmada kadınların %94.7’sinde kızlık zarının annüler olduğunu göstermişlerdir. Yurtdışında yapılan çalışmlarda ise annüler kızlık zarının kadınların %60-95’inde bulunduğu saptanmıştır.
 
-![annuler_hymen](/images/uploads/2014/03/annuler_hymen.jpg)
+![annuler_hymen](../../assets/images/uploads/2014/03/annuler_hymen.jpg)
 
 **Kresentrik Hymen**
 
 Yarımay şekinde olan kızlık zarıdır. Genelde klitorise yakın kısımlarda zar daha incedir yada hiç yoktur. Arka kısımda ise daha beligindir. Görülme sıklığı %3.5 ile %20 arasında değişmektedir. Bu tür zarlar genelde ilişki sırasında yırtılmaz.
 
-![luner_hymen](/images/uploads/2014/03/luner_hymen.jpg)
+![luner_hymen](../../assets/images/uploads/2014/03/luner_hymen.jpg)
 
 **Septalı Hymen**
 
 Bu hymen türünde ortadaki deliğin ortasında bir köprü gibi görünen doku parçası vardır. Kadınların %1.5-5’inde hymen bu yapıdadır.
 
-![septate_hymen](/images/uploads/2014/03/septate_hymen.jpg)
+![septate_hymen](../../assets/images/uploads/2014/03/septate_hymen.jpg)
 
 **Kribriform Hymen**
 
 Hymenin ortasında tek değil birden fazla delik vardır. Bu görüntü dantele benzer. Görülme sıklığı %1’den daha azdır.
 
-![crib_hymen](/images/uploads/2014/03/crib_hymen.jpg)
+![crib_hymen](../../assets/images/uploads/2014/03/crib_hymen.jpg)
 
 **İmperfore hymen**
 
 Bu zar türünde vajina girişi tamamen kapalıdır ve hymenin ortasında delik yoktur. Bu zar türüne sahip kızlar hiç adet kanaması görmezler. Normal şekilde gerçekleşen kanama vücut dışına atılamaz ve hymen arkasında vajina içinde birikir. Oldukça ağrılı bir durumdur ve hymenin doktor tarafından cerrahi bir işlemle açılması gerekir.
 
-![imperfore](/images/uploads/2014/03/imperfore.jpg)
+![imperfore](../../assets/images/uploads/2014/03/imperfore.jpg)
 
 **Mikroperfore hymen**
 
 Hymen ortasındaki delik çok küçüktür. Adet kanaması olur ancak oldukça ağrılıdır. Bir kısım hastada cerrahi müdahale ile açılması gerekir.
 
-![mikroperf_hymen](/images/uploads/2014/03/mikroperf_hymen.jpg)
+![mikroperf_hymen](../../assets/images/uploads/2014/03/mikroperf_hymen.jpg)
 
 **Multipar hymen**
 
 Doğum yapmış kadınlarda kızlık zarından geri kalan kısımlar karünkül olarak adlandırılır.
 
-![multipar_hymen](/images/uploads/2014/03/multipar_hymen.jpg)
+![multipar_hymen](../../assets/images/uploads/2014/03/multipar_hymen.jpg)
 
 Şekil dışında kızlık zarları deliğin ve serbest kenarın karakteri, zarın kalınlığı ve mukavemetine göre de sınıflandırlabilir.
 
-![hymen_imperf](/images/uploads/2014/03/hymen_imperf.jpg)
+![hymen_imperf](../../assets/images/uploads/2014/03/hymen_imperf.jpg)
 
 Doğuştan açıklığı olmayan imperfore bir hymen ve arkasında birikmiş olan kan
 

@@ -10,7 +10,7 @@ originalUrl: 'https://www.mumcu.com/spiralin-sasirtici-bir-yarari-olabilir/'
 readingTime: 2
 ---
 
-![](/images/uploads/2017/11/spiral.jpg)
+![](../../assets/images/uploads/2017/11/spiral.jpg)
 
 Dünyada istenmeyen gebeliklerin engellenmesi amacıyla en fazla kullanılan yöntemlerden biri olan rahim içi araç yani Türkçede kullandığımız şekliyle “spiral” doğum kontrolü dışında bir başka olumlu etkisi ile son dönemlerde gündemde.
 

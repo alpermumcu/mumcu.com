@@ -11,7 +11,7 @@ originalUrl: >-
 readingTime: 1
 ---
 
-![ucak2](/images/uploads/2014/03/ucak2.jpg)
+![ucak2](../../assets/images/uploads/2014/03/ucak2.jpg)
 
 Pek çok havayolu şirketi kabul edilebilir nedenlerle hamileliğinin son dönemlerini yaşayan kadınları taşımayı istememektedir.Bunun en önemli nedeni anne ya da bebeğe yüklenen risk değil havada gerçekleşecek bir doğumun yaratacağı güçlüklerdir. Bu konuda her havayolu şirketinin kendi kuralları vardır.
 

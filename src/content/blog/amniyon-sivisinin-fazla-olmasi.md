@@ -18,7 +18,7 @@ Hamilelerin %7’sinde amniyon sıvısının miktarında normalden sapmalar göz
 **Polihidramniyos nedir?**  
 Amniyon sıvısının normalden fazla olması hidramniyos ya da polihidramniyos olarak adlandırılır. Sıvının 2 litreden fazla olması patolojiktir. Literatürde 15 litre amniyon sıvısı bildirilen olgular vardır.
 
-![polyhidr1](/images/uploads/2014/03/polyhidr1.gif)
+![polyhidr1](../../assets/images/uploads/2014/03/polyhidr1.gif)
 
 **Polihidramniyos nedenleri nelerdir?**  
 Polihidramniyos anne ya da bebeğe bağlı nedenler ile ortaya çıkabilir. Anneden kaynaklanan en önemli neden şeker hastalığı yani diabettir. Bebekten kaynaklanan nedenler ise:
