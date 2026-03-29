@@ -37,6 +37,10 @@ export const categoryDefaults: Record<string, any[]> = {
     gebelik1,
     gebelik2
   ],
+  'Güncel Makaleler': [
+    guncel1,
+    guncel2
+  ],
   'Default': [
     genel1,
     genel2,
