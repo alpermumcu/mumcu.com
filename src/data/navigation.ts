@@ -1,7 +1,7 @@
 export const navigation = [
 	{ label: 'Anasayfa', href: '/' },
 	{
-		label: 'Hizmet Alanları',
+		label: 'Kategoriler',
 		href: '#hizmetler',
 		children: [
 			{ label: 'Gebelik & Doğum', href: '/category/gebelik-dogum/' },
