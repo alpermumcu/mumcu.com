@@ -5,6 +5,7 @@ export const categories = [
   { id: 4, name: "Cerrahi İşlemler", slug: "cerrahi-islemler" },
   { id: 5, name: "Estetik Jinekoloji", slug: "estetik-jinekoloji" },
   { id: 6, name: "Hafta Hafta Gebelik", slug: "hafta-hafta-gebelik" }
+  { id: 7, name: "Güncel Makaleler", slug: "Guncel-makaleler" }
 ];
 
 export const getCategoryByName = (name: string) => categories.find(c => c.name === name);
