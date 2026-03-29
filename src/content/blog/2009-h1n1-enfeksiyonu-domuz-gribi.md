@@ -3,7 +3,7 @@ title: 2009 H1N1 enfeksiyonu (Domuz Gribi)
 pubDate: '2026-03-18T00:13:05'
 slug: 2009-h1n1-enfeksiyonu-domuz-gribi
 category:
-  - Güncel Makaleler
+  - Gebelik & Doğum
 tags: []
 status: publish
 originalUrl: 'https://www.mumcu.com/2009-h1n1-enfeksiyonu-domuz-gribi/'
