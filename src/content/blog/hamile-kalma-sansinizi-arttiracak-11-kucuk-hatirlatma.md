@@ -1,6 +1,6 @@
 ---
 title: Hamile kalma şansınızı arttıracak 11 küçük hatırlatma
-pubDate: '2017-04-09T00:00:14'
+pubDate: '2025-04-09T00:00:14'
 slug: hamile-kalma-sansinizi-arttiracak-11-kucuk-hatirlatma
 category:
   - Gebelik & Doğum
