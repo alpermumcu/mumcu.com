@@ -1,6 +1,6 @@
 ---
 title: HAMİLELİK VE KORONA VİRÜS (COVID-19)
-pubDate: '2020-09-18T13:57:33'
+pubDate: '2026-03-18T13:57:33'
 heroImage: '../../assets/images/blog/gebelik-covid-v2.png'
 slug: hamilelik-ve-korona-virus-covid-19
 category:
