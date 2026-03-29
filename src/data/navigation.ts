@@ -17,7 +17,7 @@ export const navigation = [
 		children: [
 			{ label: 'Hafta Hafta Gebelik', href: '/hafta-hafta-gebelik/' },
 
-			{ label: 'Bilimsel Makaleler', href: '/Guncel-makaleler/' },
+			{ label: 'Bilimsel Makaleler', href: '/category/Guncel-makaleler/' },
 		],
 	},
 	{ label: 'Dr. Alper Mumcu', href: '/dr-alper-mumcu/' },
